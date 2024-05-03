@@ -1868,5 +1868,213 @@
     "input": "Thời gian và khối lượng kiến thức toàn khóa của chương trình đào tạo ngành Kỹ thuật Ô tô và Kỹ thuật Cơ điện tử thì sao?", 
     "output": "Cả hai ngành Kỹ thuật Ô tô và Kỹ thuật Cơ điện tử đều có thời gian đào tạo là 4,5 năm và khối lượng kiến thức toàn khóa là 155 tín chỉ (không kể các môn học giáo dục thể chất, giáo dục quốc phòng)."
   },
+  {
+    "input": "Trường có dạy tin học và ngoại ngữ không?",
+    "output": "Có, sinh viên học tin học văn phòng, phần mềm chuyên ngành và tiếng Anh B3/6."
+  },
+  {
+    "input": "Ngành Cơ khí có mấy chuyên ngành?",
+    "output": "Có 4 chuyên ngành: Ô tô - Máy xây dựng, Quản lý máy, Công nghệ cơ khí, Tự động hóa."
+  },
+  {
+    "input": "Chương trình ngành Ô tô như nào?",
+    "output": "Đào tạo kỹ sư ô tô chuyên môn cao, kỹ năng tốt, sẵn sàng làm việc."
+  },
+  {
+    "input": "Ra trường ngành Ô tô làm gì?",
+    "output": "Làm việc tại doanh nghiệp ô tô, hàng không, tự động hóa, y học, cơ quan nhà nước, nghiên cứu hoặc kinh doanh."
+  },
+  {
+    "input": "Ngành Ô tô có những chuyên ngành nào?",
+    "output": "Có 4 chuyên ngành: Sản xuất & lắp ráp, Công nghệ, Thiết kế, Xe chuyên dụng."
+  }, 
+  {
+    "input": "Chuẩn đầu ra của ngành Trí tuệ nhân tạo và Khoa học dữ liệu là gì?",
+    "output": "Chuẩn đầu ra bao gồm kiến thức về lý luận chính trị, pháp luật, toán học, tin học, khoa học dữ liệu và trí tuệ nhân tạo. Kỹ năng bao gồm lập trình, phân tích dữ liệu, thiết kế và triển khai hệ thống TTNT và KHDL. Ngoài ra, sinh viên cần có kỹ năng mềm, năng lực tự chủ và trách nhiệm, và phẩm chất đạo đức."
+  },
+  {
+    "input": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu học những môn gì?",
+    "output": "Chương trình đào tạo bao gồm các môn học đại cương, cơ sở khối ngành, cơ sở ngành và chuyên ngành. Một số môn học tiêu biểu bao gồm: Nhập môn lập trình, Giải tích, Đại số tuyến tính, Xác suất thống kê, Cơ sở dữ liệu, Trí tuệ nhân tạo, Học máy, Xử lý ảnh, Xử lý ngôn ngữ tự nhiên, Học sâu và ứng dụng, Nhận dạng mẫu."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành Trí tuệ nhân tạo và Khoa học dữ liệu là gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các lĩnh vực như: Phân tích và xây dựng hệ thống thông tin thông minh, phát triển phần mềm ứng dụng trí tuệ nhân tạo, phân tích và khai phá dữ liệu, nghiên cứu và giảng dạy về TTNT và KHDL."
+  },
+  {
+    "input": "Tôi có thể học tiếp lên cao học sau khi tốt nghiệp ngành Trí tuệ nhân tạo và Khoa học dữ liệu không?",
+    "output": "Có, sinh viên tốt nghiệp có thể học tiếp lên cao học các chuyên ngành thuộc lĩnh vực TTNT, KHDL, khoa học máy tính và công nghệ thông tin."
+  },
+  {
+    "input": "Chuẩn đầu ra của ngành Kỹ thuật phần mềm là gì?",
+    "output": "Chuẩn đầu ra bao gồm kiến thức về lý luận chính trị, pháp luật, toán học, tin học, và công nghệ phần mềm. Kỹ năng bao gồm lập trình, quản lý dự án phần mềm, phân tích và thiết kế hệ thống phần mềm, kiểm thử và bảo trì phần mềm. Ngoài ra, sinh viên cần có kỹ năng mềm, năng lực tự chủ và trách nhiệm, và phẩm chất đạo đức."
+  },
+  {
+    "input": "Ngành Kỹ thuật phần mềm học những môn gì?",
+    "output": "Chương trình đào tạo bao gồm các môn học đại cương, cơ sở khối ngành, cơ sở ngành và chuyên ngành. Một số môn học tiêu biểu bao gồm: Nhập môn lập trình, Giải tích, Đại số tuyến tính, Xác suất thống kê, Cơ sở dữ liệu, Trí tuệ nhân tạo, Kiến trúc máy tính, Nguyên lý lập trình hướng đối tượng, Mạng máy tính, Phân tích và thiết kế hệ thống thông tin, Công nghệ phần mềm, Lập trình Java, Công nghệ Web, Hệ quản trị cơ sở dữ liệu, Học máy, Lập trình phân tán, Kiểm thử và đảm bảo chất lượng phần mềm."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành Kỹ thuật phần mềm là gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các vị trí như: Chuyên viên phân tích nghiệp vụ phần mềm, thiết kế viên phần mềm, kỹ sư phát triển phần mềm, kiểm thử viên phần mềm, quản trị dự án phần mềm, chuyên viên tư vấn công nghệ, chuyên viên định giá phần mềm, nhân viên IT, cán bộ giảng dạy và nghiên cứu khoa học."
+  },
+  {
+    "input": "Tôi có thể học tiếp lên cao học sau khi tốt nghiệp ngành Kỹ thuật phần mềm không?",
+    "output": "Có, sinh viên tốt nghiệp có thể học tiếp lên cao học các chuyên ngành thuộc lĩnh vực kỹ thuật phần mềm, công nghệ thông tin và các ngành kỹ thuật khác."
+  },
+  {
+    "input": "Chuẩn đầu ra của ngành Hệ thống thông tin là gì?",
+    "output": "Chuẩn đầu ra bao gồm kiến thức về lý luận chính trị, pháp luật, toán học, tin học, công nghệ thông tin và hệ thống thông tin quản lý. Kỹ năng bao gồm lập trình, phân tích và xử lý dữ liệu, thiết kế hệ thống mạng, đảm bảo an toàn và bảo mật thông tin. Ngoài ra, sinh viên cần có kỹ năng mềm, năng lực tự chủ và trách nhiệm, và phẩm chất đạo đức."
+  },
+  {
+    "input": "Ngành Hệ thống thông tin học những môn gì?",
+    "output": "Chương trình đào tạo bao gồm các môn học đại cương, cơ sở khối ngành, cơ sở ngành và chuyên ngành. Một số môn học tiêu biểu bao gồm: Nhập môn lập trình, Giải tích, Đại số tuyến tính, Xác suất thống kê, Cơ sở dữ liệu, Trí tuệ nhân tạo, Kiến trúc máy tính, Nguyên lý lập trình hướng đối tượng, Mạng máy tính, Phân tích và thiết kế hệ thống thông tin, Hệ quản trị cơ sở dữ liệu, Công nghệ Web, An toàn và bảo mật thông tin, Quản lý dự án công nghệ thông tin, Học máy, Khai phá dữ liệu, Phát triển ứng dụng cho các thiết bị di động, Phân tích dữ liệu lớn, Hệ thống kinh doanh thông minh."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành Hệ thống thông tin là gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các vị trí như: Lập trình viên, chuyên viên quản trị hệ thống thông tin, chuyên viên phân tích kinh doanh, chuyên viên phân tích, thiết kế và bảo trì hệ thống thông tin, chuyên viên an ninh mạng, chuyên gia tư vấn giải pháp công nghệ thông tin, cán bộ giảng dạy và nghiên cứu khoa học."
+  },
+  {
+    "input": "Tôi có thể học tiếp lên cao học sau khi tốt nghiệp ngành Hệ thống thông tin không?",
+    "output": "Có, sinh viên tốt nghiệp có thể học tiếp lên cao học các chuyên ngành thuộc lĩnh vực hệ thống thông tin, công nghệ thông tin và các ngành kỹ thuật khác."
+  },
+  {
+    "input": "Chuẩn đầu ra của ngành Công nghệ thông tin là gì?",
+    "output": "Chuẩn đầu ra bao gồm kiến thức về lý luận chính trị, pháp luật, toán học, tin học, và công nghệ thông tin. Kỹ năng bao gồm lập trình, phân tích và mô hình hóa dữ liệu, thiết kế và quản lý dự án phần mềm, kiểm thử và bảo trì phần mềm, thiết kế và đánh giá hoạt động hệ thống mạng máy tính, bảo mật dữ liệu, kết nối vạn vật. Ngoài ra, sinh viên cần có kỹ năng mềm, năng lực tự chủ và trách nhiệm, và phẩm chất đạo đức."
+  },
+  {
+    "input": "Ngành Công nghệ thông tin học những môn gì?",
+    "output": "Chương trình đào tạo bao gồm các môn học đại cương, cơ sở khối ngành, cơ sở ngành và chuyên ngành. Một số môn học tiêu biểu bao gồm: Nhập môn lập trình, Giải tích, Đại số tuyến tính, Xác suất thống kê, Cơ sở dữ liệu, Trí tuệ nhân tạo, Kiến trúc máy tính, Nguyên lý lập trình hướng đối tượng, Mạng máy tính, Phân tích và thiết kế hệ thống thông tin, Thuật toán ứng dụng, Học máy, Lập trình Java, Đồ họa máy tính, Công nghệ Web, An toàn và bảo mật thông tin, Phát triển ứng dụng cho các thiết bị di động, Lý thuyết tính toán, Khai phá dữ liệu, Quản trị mạng."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành Công nghệ thông tin là gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các vị trí như: Lập trình viên, chuyên viên phân tích thiết kế hệ thống, chuyên viên quản trị hệ thống thông tin, chuyên viên an ninh mạng, chuyên gia tư vấn giải pháp công nghệ thông tin, cán bộ giảng dạy và nghiên cứu khoa học."
+  },
+  {
+    "input": "Tôi có thể học tiếp lên cao học sau khi tốt nghiệp ngành Công nghệ thông tin không?",
+    "output": "Có, sinh viên tốt nghiệp có thể học tiếp lên cao học các chuyên ngành thuộc lĩnh vực công nghệ thông tin và các ngành kỹ thuật khác."
+  },
+  {
+    "input": "Chuẩn đầu ra của ngành An ninh mạng là gì?",
+    "output": "Chuẩn đầu ra bao gồm kiến thức về lý luận chính trị, pháp luật, an ninh quốc phòng, công nghệ thông tin và an ninh mạng. Kỹ năng bao gồm lập trình, phân tích và giải quyết vấn đề an ninh mạng, thiết kế và triển khai giải pháp an ninh mạng, vận hành và bảo trì hệ thống an ninh mạng. Ngoài ra, sinh viên cần có kỹ năng mềm, năng lực tự chủ và trách nhiệm, và phẩm chất đạo đức."
+  },
+  {
+    "input": "Ngành An ninh mạng học những môn gì?",
+    "output": "Chương trình đào tạo bao gồm các môn học đại cương, cơ sở khối ngành, cơ sở ngành và chuyên ngành. Một số môn học tiêu biểu bao gồm: Nhập môn lập trình, Giải tích, Đại số tuyến tính, Xác suất thống kê, Cơ sở dữ liệu, Trí tuệ nhân tạo, Kiến trúc máy tính, Nguyên lý hệ điều hành, Mạng máy tính, Phân tích và thiết kế hệ thống thông tin, Nhập môn an toàn bảo mật thông tin, Cấu trúc dữ liệu và giải thuật, Lập trình mạng, Mật mã ứng dụng, Kỹ thuật truyền dữ liệu, Quản trị mạng, An ninh mạng, Thiết kế mạng, Phân tích mã độc, Quản lý an toàn thông tin, Đánh giá an ninh mạng, Lập trình an toàn, Chuỗi khối và công nghệ phân tán."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành An ninh mạng là gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các vị trí như: Chuyên viên quản trị an ninh mạng, chuyên viên phân tích, tư vấn và thiết kế hệ thống an ninh mạng, chuyên viên kiểm tra và đánh giá an ninh mạng, chuyên gia rà soát lỗ hổng bảo mật, chuyên gia lập trình an ninh mạng, giảng viên và nghiên cứu viên an ninh mạng, chuyên viên an ninh mạng tại các cơ quan và doanh nghiệp, chuyên viên điều tra tội phạm mạng."
+  },
+  {
+    "input": "Tôi có thể học tiếp lên cao học sau khi tốt nghiệp ngành An ninh mạng không?",
+    "output": "Có, sinh viên tốt nghiệp có thể học tiếp lên cao học các chuyên ngành thuộc lĩnh vực an ninh mạng và các ngành kỹ thuật khác."
+  },
+    {
+      "input": "Thời gian đào tạo của ngành Trí tuệ nhân tạo và Khoa học dữ liệu là bao lâu?",
+      "output": "Chương trình đào tạo ngành Trí tuệ nhân tạo và Khoa học dữ liệu kéo dài 4 năm, bao gồm 8 học kỳ."
+    },
+    {
+      "input": "Tôi cần đạt những tiêu chí gì để được xét tuyển vào ngành Kỹ thuật phần mềm?",
+      "output": "Ngành Kỹ thuật phần mềm xét tuyển theo các hình thức: xét tuyển thẳng (theo quy định của Bộ GD&ĐT và trường ĐH Thủy lợi), xét tuyển theo điểm học bạ THPT, và xét tuyển theo điểm thi tốt nghiệp THPT."
+    },
+    {
+      "input": "Ngành Hệ thống thông tin có những định hướng nghề nghiệp nào sau khi tốt nghiệp?",
+      "output": "Sinh viên tốt nghiệp ngành Hệ thống thông tin có thể làm việc trong các lĩnh vực như: phát triển phần mềm, quản trị hệ thống thông tin, phân tích dữ liệu, an ninh mạng, tư vấn giải pháp công nghệ thông tin, nghiên cứu và giảng dạy."
+    },
+    {
+      "input": "Ngành Công nghệ thông tin có những học phần tự chọn nào?",
+      "output": "Ngành Công nghệ thông tin có nhiều nhóm học phần tự chọn, bao gồm các môn học như: Học sâu và ứng dụng, Thống kê ứng dụng, Truy hồi thông tin và tìm kiếm web, Nhập môn điện toán đám mây, Kiểm thử và đảm bảo chất lượng phần mềm, Tối ưu hóa, Mạng không dây và di động, Phân tích dữ liệu lớn, Phương pháp số, Tin sinh, Lập trình đồ họa 3D, Thiết kế và phát triển game, Hệ thống thông tin địa lý, Thiết kế mạng, Xử lý âm thanh và tiếng nói, Xử lý ảnh, Xử lý ngôn ngữ tự nhiên, Tương tác người máy, Chuỗi khối và công nghệ sổ cái phân tán, Kết nối vạn vật và ứng dụng, Lập trình phân tán."
+    },
+    {
+      "input": "Tôi muốn tìm hiểu thêm về chương trình đào tạo ngành An ninh mạng, tôi có thể tham khảo ở đâu?",
+      "output": "Bạn có thể tham khảo chương trình đào tạo ngành An ninh mạng trên website của trường Đại học Thủy lợi hoặc liên hệ trực tiếp với khoa Công nghệ thông tin để được tư vấn chi tiết." 
+    },
+      {
+        "input": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu có những học phần tự chọn nào?",
+        "output": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu có hai nhóm học phần tự chọn. Nhóm tự chọn 1 gồm: Xử lý âm thanh và tiếng nói, Học Bayes. Nhóm tự chọn 2 gồm: Hệ hỗ trợ hướng dữ liệu, Truy hồi thông tin và tìm kiếm web."
+      },
+      {
+        "input": "Tôi muốn trở thành kỹ sư phát triển phần mềm, tôi nên chọn ngành nào?",
+        "output": "Để trở thành kỹ sư phát triển phần mềm, bạn có thể lựa chọn ngành Kỹ thuật phần mềm hoặc ngành Công nghệ thông tin. Cả hai ngành đều trang bị cho sinh viên kiến thức và kỹ năng cần thiết để phát triển phần mềm."
+      },
+      {
+        "input": "Ngành Hệ thống thông tin có yêu cầu về trình độ tiếng Anh đầu vào không?",
+        "output": "Ngành Hệ thống thông tin không yêu cầu về trình độ tiếng Anh đầu vào. Tuy nhiên, sinh viên cần đạt trình độ tiếng Anh B1 theo quy định của trường để tốt nghiệp."
+      },
+      {
+        "input": "Tôi muốn làm việc trong lĩnh vực an ninh mạng, tôi cần chuẩn bị những gì?",
+        "output": "Để làm việc trong lĩnh vực an ninh mạng, bạn cần có kiến thức và kỹ năng về công nghệ thông tin, an ninh mạng, mật mã học, mạng máy tính và hệ điều hành. Ngoài ra, bạn cần có khả năng phân tích và giải quyết vấn đề, tư duy logic và khả năng làm việc độc lập."
+      }, 
+      {
+        "input": "Tôi muốn học ngành An ninh mạng nhưng không biết có phù hợp với mình không, tôi nên làm gì?",
+        "output": "Bạn có thể tham khảo chương trình đào tạo ngành An ninh mạng, tìm hiểu về cơ hội nghề nghiệp và yêu cầu của ngành. Ngoài ra, bạn có thể tham gia các buổi tư vấn tuyển sinh hoặc trao đổi với các anh chị sinh viên đang theo học ngành này để có thêm thông tin và đánh giá mức độ phù hợp."
+      },
+  {
+    "input": "Điểm khác biệt giữa ngành Trí tuệ nhân tạo và Khoa học dữ liệu với ngành Khoa học máy tính là gì?",
+    "output": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu tập trung vào việc ứng dụng các kỹ thuật trí tuệ nhân tạo và khoa học dữ liệu để giải quyết các vấn đề thực tế, trong khi ngành Khoa học máy tính có phạm vi rộng hơn, bao gồm cả lý thuyết và ứng dụng của máy tính." 
+  },
+  {
+    "input": "Ngành Kỹ thuật phần mềm có những hoạt động ngoại khóa nào?",
+    "output": "Ngành Kỹ thuật phần mềm có nhiều hoạt động ngoại khóa như: câu lạc bộ lập trình, các cuộc thi lập trình, hội thảo chuyên ngành, tham quan doanh nghiệp..." 
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phí và chính sách học bổng của ngành Hệ thống thông tin, tôi có thể tham khảo ở đâu?",
+    "output": "Thông tin về học phí và chính sách học bổng của ngành Hệ thống thông tin được cập nhật trên website của trường Đại học Thủy lợi hoặc bạn có thể liên hệ phòng đào tạo để được giải đáp." 
+  },
+  {
+    "input": "Ngành Công nghệ thông tin có liên kết đào tạo với nước ngoài không?",
+    "output": "Có, ngành Công nghệ thông tin có liên kết đào tạo với một số trường đại học ở nước ngoài, tạo điều kiện cho sinh viên tham gia các chương trình trao đổi sinh viên hoặc học chuyển tiếp." 
+  },
+  {
+    "input": "Tôi có thể tham gia nghiên cứu khoa học khi học ngành An ninh mạng không?",
+    "output": "Có, sinh viên ngành An ninh mạng có cơ hội tham gia nghiên cứu khoa học dưới sự hướng dẫn của giảng viên, đặc biệt là trong các lĩnh vực liên quan đến an toàn thông tin và an ninh mạng." 
+  },  
+    {
+      "input": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu có tổ chức các chương trình thực tập cho sinh viên không?",
+      "output": "Có, ngành Trí tuệ nhân tạo và Khoa học dữ liệu tổ chức chương trình thực tập tốt nghiệp cho sinh viên tại các doanh nghiệp, viện nghiên cứu hoặc các trung tâm công nghệ thông tin."
+    },
+    {
+      "input": "Tôi muốn thi chứng chỉ quốc tế về công nghệ thông tin, ngành Kỹ thuật phần mềm có hỗ trợ gì không?",
+      "output": "Ngành Kỹ thuật phần mềm có các chương trình đào tạo và ôn luyện cho sinh viên thi chứng chỉ quốc tế về công nghệ thông tin như: CCNA, CCNP, MCSA, MCSE..."
+    },
+    {
+      "input": "Ngành Hệ thống thông tin có đào tạo về quản trị mạng không?",
+      "output": "Có, ngành Hệ thống thông tin có học phần Quản trị mạng, trang bị cho sinh viên kiến thức và kỹ năng về quản trị hạ tầng mạng và các dịch vụ mạng cơ bản." 
+    },
+    {
+      "input": "Tôi muốn tìm hiểu về các kỹ thuật tấn công mạng, ngành Công nghệ thông tin có học phần nào liên quan không?",
+      "output": "Ngành Công nghệ thông tin có học phần An toàn và bảo mật thông tin, giới thiệu về các hình thức tấn công mạng và cách thức phòng chống."
+    },
+    {
+      "input": "Ngành An ninh mạng có đào tạo về blockchain không?",
+      "output": "Có, ngành An ninh mạng có học phần Chuỗi khối và công nghệ phân tán, trang bị cho sinh viên kiến thức về công nghệ blockchain và ứng dụng của nó." 
+    },
 
+    {
+      "input": "Khối lượng kiến thức toàn khóa của ngành An ninh mạng là bao nhiêu tín chỉ?", 
+      "output": "Khối lượng kiến thức toàn khóa của ngành An ninh mạng là 140 tín chỉ (không bao gồm Giáo dục thể chất và Giáo dục quốc phòng)." 
+    },
+    {
+      "input": "Ngành Hệ thống thông tin được cấp bằng gì sau khi tốt nghiệp?",
+      "output": "Sinh viên tốt nghiệp ngành Hệ thống thông tin sẽ được cấp bằng Cử nhân Hệ thống thông tin."
+    },
+      {
+        "input": "Mục tiêu chung của chương trình đào tạo ngành Trí tuệ nhân tạo và Khoa học dữ liệu là gì?",
+        "output": "Mục tiêu là đào tạo cử nhân đáp ứng yêu cầu phát triển đất nước trong giai đoạn chuyển đổi số và CMCN 4.0, có phẩm chất chính trị, đạo đức, có ý thức phục vụ cộng đồng; có khả năng tự học, kỹ năng giao tiếp và làm việc theo nhóm; có trình độ ngoại ngữ tốt; có sức khỏe tốt."
+      },
+      {
+        "input": "Sinh viên ngành Kỹ thuật phần mềm cần đạt trình độ tiếng Anh như thế nào để tốt nghiệp?", 
+        "output": "Sinh viên cần đạt trình độ tiếng Anh bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam để tốt nghiệp."
+      },
+      {
+        "input": "Ngành Hệ thống thông tin có những môn học nào thuộc nhóm kiến thức cơ sở ngành?",
+        "output": "Nhóm kiến thức cơ sở ngành của Hệ thống thông tin bao gồm các môn: Hệ quản trị cơ sở dữ liệu, Công nghệ Web, An toàn và bảo mật thông tin, Quản lý dự án Công nghệ thông tin, Học máy, Khai phá dữ liệu, Phát triển ứng dụng cho các thiết bị di động, Phân tích dữ liệu lớn, Hệ thống kinh doanh thông minh." 
+      },
+      {
+        "input": "Ngành Công nghệ thông tin có bao nhiêu học phần thuộc kiến thức giáo dục đại cương?", 
+        "output": "Ngành Công nghệ thông tin có 37 học phần thuộc kiến thức giáo dục đại cương."
+      }, 
+      {
+        "input": "Học phần đồ án môn học của ngành An ninh mạng có nội dung gì?", 
+        "output": "Học phần đồ án môn học giúp sinh viên vận dụng kiến thức về Mạng truyền thông dữ liệu và An ninh mạng để đảm bảo hoạt động truyền tải của hệ thống mạng và bảo mật thông tin."
+      } 
   ]
