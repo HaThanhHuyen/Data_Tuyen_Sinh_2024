@@ -1,0 +1,383 @@
+[
+  {
+    "input": "Cho em hỏi sinh viên có thể bị kỷ luật ở những hình thức nào?",
+    "output": "Sinh viên có hành vi vi phạm có thể bị kỷ luật ở một trong các hình thức sau: Khiển trách, Cảnh cáo, Đình chỉ học tập có thời hạn, Buộc thôi học."
+  },
+  {
+    "input": "Thế nào là hình thức kỷ luật khiển trách?",
+    "output": "Khiển trách là hình thức kỷ luật áp dụng đối với sinh viên có hành vi vi phạm lần đầu nhưng ở mức độ nhẹ."
+  },
+  {
+    "input": "Trường hợp nào sinh viên sẽ bị cảnh cáo?",
+    "output": "Sinh viên đã bị khiển trách mà tái phạm hoặc vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng sẽ bị cảnh cáo."
+  },
+  {
+    "input": "Khi nào sinh viên bị đình chỉ học có thời hạn?",
+    "output": "Sinh viên đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo sẽ bị đình chỉ học tập có thời hạn."
+  },
+  {
+    "input": "Em muốn biết thời hạn đình chỉ học tập được quy định như thế nào?",
+    "output": "Tùy từng trường hợp cụ thể, Hiệu trưởng quyết định thời hạn đình chỉ học tập theo các mức: đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo thời gian sinh viên bị xử phạt tù nhưng cho hưởng án treo."
+  },
+  {
+    "input": "Trong trường hợp nào thì sinh viên bị buộc thôi học?",
+    "output": "Sinh viên đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội; vi phạm pháp luật bị xử phạt tù giam sẽ bị buộc thôi học."
+  },
+  {
+    "input": "Nếu em bị kỷ luật thì thông tin đó có được thông báo cho gia đình không?",
+    "output": "Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, nhà trường sẽ gửi thông báo cho địa phương và gia đình sinh viên biết để quản lý, giáo dục."
+  },
+  {
+    "input": "Quy trình xét kỷ luật sinh viên được thực hiện như thế nào?",
+    "output": "Quy trình xét kỷ luật sinh viên được thực hiện theo các bước sau:\\n- Sinh viên vi phạm làm bản tự kiểm điểm.\\n- Giáo viên chủ nhiệm chủ trì họp lớp để phân tích, đề nghị hình thức kỷ luật.\\n- Khoa/Trung tâm/Cơ sở 2 tiến hành họp xét và đề xuất hình thức kỷ luật sinh viên vi phạm với Hội đồng kỷ luật sinh viên của nhà trường.\\n- Hội đồng kỷ luật sinh viên của nhà trường tổ chức họp để xét kỷ luật, kiến nghị áp dụng hình thức kỷ luật, đề nghị Hiệu trưởng ra quyết định kỷ luật bằng văn bản."
+  },
+  {
+    "input": "Em muốn biết tiêu chuẩn để được khen thưởng danh hiệu sinh viên xuất sắc cuối năm học?",
+    "output": "Để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt loại Xuất sắc cả về học tập và rèn luyện trong cả 2 học kỳ của năm học đó."
+  },
+  {
+    "input": "Thế nào là sinh viên giỏi?",
+    "output": "Danh hiệu Sinh viên Giỏi được trao cho sinh viên có kết quả học tập đạt loại Giỏi trở lên và xếp loại rèn luyện từ Tốt trở lên của hai học kỳ trong năm học xét khen thưởng."
+  },
+  {
+    "input": "Ngoài thành tích học tập, em còn tham gia hoạt động đoàn hội, vậy có được xét khen thưởng không?",
+    "output": "Có bạn nhé. Trường hợp sinh viên được phân công quản lý lớp, các tổ chức Đoàn, Hội và các tổ chức khác trong nhà trường trong hai học kỳ chính của năm học xét khen thưởng, đồng thời lãnh đạo quản lý lớp, các tổ chức Đoàn, Hội và các tổ chức khác trong nhà trường tốt và có kết quả học tập đạt Trung bình khá và rèn luyện đạt loại Khá trở lên của hai học kỳ trong năm học xét khen thưởng sẽ được xét khen thưởng danh hiệu “Sinh viên có nhiều đóng góp trong hoạt động phong trào”."
+  },
+  {
+    "input": "Khen thưởng cuối khóa có những danh hiệu nào?",
+    "output": "Tương tự như khen thưởng cuối năm, khen thưởng cuối khóa cũng có 3 danh hiệu: Xuất sắc, Giỏi và Khá."
+  },
+  {
+    "input": "Em muốn biết tiêu chuẩn xét sinh viên xuất sắc toàn khóa là gì?",
+    "output": "Để được xét danh hiệu Sinh viên Xuất sắc toàn khóa, bạn cần đạt loại Xuất sắc cả về học tập và rèn luyện trong suốt khóa học, đồng thời đã được khen thưởng ít nhất 1 lần trong khóa học theo quy định tại điều 5 và không bị kỷ luật từ mức khiển trách trở lên (tính trong toàn khóa học)."
+  },
+  {
+    "input": "Hình thức khen thưởng đối với tập thể lớp xuất sắc là gì?",
+    "output": "Tập thể lớp đạt danh hiệu xuất sắc sẽ được nhận Giấy khen của Hiệu trưởng, kèm theo tiền thưởng hoặc tặng phẩm theo quy định. Riêng tập thể lớp đạt danh hiệu “Tập thể lớp Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Lớp em muốn đạt danh hiệu tiên tiến thì cần những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu lớp Tiên tiến, lớp bạn cần đạt những tiêu chuẩn sau:\\n- Có từ 25% sinh viên đạt danh hiệu “Sinh viên Khá” trở lên (trong đó có dưới 15% sinh viên bị cảnh báo học tập);\\n- Có cá nhân đạt danh hiệu “Sinh viên Giỏi”;\\n- Có sinh viên dự thi Olympic cấp trường hoặc tham gia nghiên cứu khoa học cấp khoa trở lên hoặc có thành tích đặc biệt được Nhà trường ghi nhận;\\n- Không có sinh viên xếp loại rèn luyện yếu kém."
+  },
+  {
+    "input": "Em muốn hỏi nếu sinh viên vi phạm quy định về nộp học phí thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng, tùy theo mức độ, sẽ bị xử lý từ nhắc nhở, khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Em nghe nói sinh viên hút thuốc lá sẽ bị kỷ luật, điều này có đúng không?",
+    "output": "Đúng vậy. Sinh viên hút thuốc lá trong giờ học, phòng họp, phòng thí nghiệm và nơi cấm hút thuốc theo quy định từ lần thứ 3 trở lên sẽ bị xử lý từ khiển trách đến cảnh cáo."
+  },
+  {
+    "input": "Nếu sinh viên đánh nhau thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau sẽ bị xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, có thể bị  giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Em muốn hỏi sinh viên có được phép tham gia biểu tình không?",
+    "output": "Sinh viên tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật sẽ bị xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, có thể bị giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Nhà trường có quy định về việc xử lý vi phạm an toàn giao thông không?",
+    "output": "Có bạn nhé. Sinh viên vi phạm các quy định về an toàn giao thông sẽ bị xử lý từ khiển trách đến buộc thôi học, tùy theo mức độ vi phạm."
+  },
+  {
+    "input": "Ngoài những nội dung vi phạm nêu trong quy định thì sinh viên có thể bị kỷ luật với những hành vi nào khác không?",
+    "output": "Đối với các vi phạm khác, tùy theo mức độ, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Điểm trung bình tích lũy của em đạt loại giỏi nhưng rèn luyện chỉ đạt loại khá thì có được xét khen thưởng không?",
+    "output": "Rất tiếc là không bạn nhé. Để được xét khen thưởng, bạn cần đạt đủ điều kiện về cả học tập và rèn luyện theo quy định."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên năm nhất có được xét khen thưởng cuối năm không?",
+    "output": "Có bạn nhé. Sinh viên năm nhất vẫn được xét khen thưởng cuối năm học như các sinh viên năm khác nếu đạt đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Em muốn biết quy trình xét khen thưởng cuối năm học được thực hiện như thế nào?",
+    "output": "Quy trình xét khen thưởng cuối năm học được thực hiện qua các bước sau:\\n- Sinh viên lập báo cáo thành tích cá nhân và báo cáo thành tích tập thể lớp.\\n- Các khoa, trung tâm tổ chức họp xét và đề nghị lên Hội đồng khen thưởng Trường.\\n- Hội đồng khen thưởng Trường họp xét và đề nghị Hiệu trưởng công nhận danh hiệu khen thưởng đối với cá nhân và tập thể lớp sinh viên."
+  },
+  {
+    "input": "Ngoài khen thưởng cuối năm, sinh viên có thể được khen thưởng vào những thời điểm nào khác không?",
+    "output": "Bên cạnh khen thưởng cuối năm học và cuối khóa học, sinh viên có thể được khen thưởng đột xuất vào các thời điểm khác trong năm học nếu đạt thành tích cao trong các hoạt động Olympic, nghiên cứu khoa học, văn hóa, văn nghệ, thể thao; hoặc có thành tích trong việc cứu người bị nạn, dũng cảm bắt kẻ gian, chống tiêu cực, tham nhũng;…"
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên bị kỷ luật khiển trách thì sau bao lâu sẽ hết hiệu lực?",
+    "output": "Sinh viên bị kỷ luật khiển trách, nếu sau 03 tháng kể từ ngày có quyết định kỷ luật mà không tái phạm hoặc không có những vi phạm đến mức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết định kỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ luật chấm dứt hiệu lực."
+  },
+  {
+    "input": "Trường hợp sinh viên bị đình chỉ học tập có thời hạn thì khi nào được đi học lại?",
+    "output": "Khi hết thời hạn đình chỉ, sinh viên cần xuất trình chứng nhận của địa phương nơi cư trú về việc chấp hành tốt nghĩa vụ công dân và chứng nhận của cơ quan có thẩm quyền về việc đã chấp hành xong hình phạt tù (nếu có) để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+
+  {
+    "input": "Em muốn đạt được danh hiệu sinh viên xuất sắc cuối khóa thì cần những điều kiện gì?",
+    "output": "Để đạt danh hiệu sinh viên xuất sắc cuối khóa, bạn cần đáp ứng các tiêu chuẩn sau:\\n- Kết quả học tập và rèn luyện toàn khóa đạt loại xuất sắc.\\n- Đã được khen thưởng ít nhất 1 lần trong khóa học.\\n-Không bị kỷ luật từ mức khiển trách trở lên trong suốt khóa học."
+  },
+  {
+    "input": "Nếu sinh viên có thành tích cao trong học tập và rèn luyện nhưng lại vi phạm kỷ luật thì có được xét khen thưởng không?",
+    "output": "Sinh viên vi phạm kỷ luật từ mức khiển trách trở lên sẽ không được xét khen thưởng."
+  },
+  {
+    "input": "Em muốn hỏi hình thức kỷ luật cảnh cáo sẽ hết hiệu lực sau bao lâu?",
+    "output": "Hình thức kỷ luật cảnh cáo sẽ hết hiệu lực sau 06 tháng, kể từ ngày có quyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm đến mức phải xử lý kỷ luật."
+  },
+  {
+    "input": "Lớp em có 1 bạn bị cảnh cáo, vậy lớp em có được xét khen thưởng không?",
+    "output": "Nếu lớp bạn có sinh viên bị kỷ luật từ mức khiển trách trở lên thì lớp sẽ không được xét khen thưởng tập thể."
+  },
+  {
+    "input": "Em muốn hỏi sinh viên vi phạm quy định về thi cử, kiểm tra sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên vi phạm quy định về thi cử, kiểm tra sẽ bị xử lý theo quy chế đào tạo của nhà trường, tùy theo mức độ vi phạm."
+  },
+  {
+    "input": "Em chào anh/chị, em là sinh viên năm nhất. Em muốn biết, với tư cách là sinh viên, em có thể được nhà trường khen thưởng trong những trường hợp nào?",
+    "output": "Chào em, nhà trường luôn khuyến khích và ghi nhận thành tích của sinh viên. Em có thể được khen thưởng trong các trường hợp sau:\\n-Thành tích học tập:\\n- Đạt thành tích cao trong học tập như điểm trung bình học kỳ, cả năm cao, đạt loại giỏi, xuất sắc...\\n-Thành tích rèn luyện:\\n-Có thái độ học tập nghiêm túc, chấp hành tốt nội quy, quy chế của trường, tham gia tích cực các hoạt động của lớp, của khoa và của trường...\\n-Thành tích hoạt động phong trào:** Có nhiều đóng góp trong các hoạt động Đoàn, Hội, các hoạt động xã hội, văn hóa, văn nghệ, thể thao của trường...\\n-Thành tích nghiên cứu khoa học:\\n- Tham gia nghiên cứu khoa học, đạt giải trong các cuộc thi nghiên cứu khoa học các cấp...\\n-Thành tích Olympic các môn học:** Đạt giải trong các kỳ thi Olympic các môn học các cấp…\\n-Các thành tích đặc biệt khác:**  Có thành tích trong việc cứu người bị nạn, dũng cảm bắt kẻ gian, chống tiêu cực, tham nhũng…"
+  },
+  {
+    "input": "Vậy còn những hành vi nào mà sinh viên không được làm, nếu vi phạm sẽ bị kỷ luật?",
+    "output": "Dưới đây là một số hành vi mà sinh viên không được làm. Nếu vi phạm, tùy theo mức độ, em sẽ bị xử lý kỷ luật từ khiển trách, cảnh cáo đến đình chỉ học tập hoặc buộc thôi học:\\n-Vi phạm quy chế học tập, thi cử, kiểm tra:\\n- Gian lận trong thi cử, kiểm tra; làm bài hộ, thi hộ;  đến muộn, nghỉ học không phép...\\n-Vi phạm nội quy, quy chế của nhà trường:\\n- Không tham gia đầy đủ các buổi sinh hoạt lớp; có hành vi thiếu tôn trọng thầy cô giáo, cán bộ, viên chức nhà trường...\\n-Ngoài ra còn có một số hành vi khác như hút thuốc lá ở nơi cấm, uống rượu bia say xỉn…"
+  },
+  {
+    "input": "Nếu chẳng may em vi phạm kỷ luật thì hồ sơ kỷ luật của em được quản lý như thế nào?",
+    "output": "Hình thức kỷ luật của em sẽ được ghi vào hồ sơ quản lý sinh viên. Trường hợp em bị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, nhà trường sẽ gửi thông báo cho địa phương và gia đình em biết để quản lý, giáo dục."
+  },
+  {
+    "input": "Em có nguyện vọng được xét khen thưởng sinh viên xuất sắc cuối khóa. Vậy em cần lưu ý những điều gì?",
+    "output": "Để đạt được danh hiệu sinh viên xuất sắc cuối khóa, bên cạnh việc học tập, rèn luyện thật tốt, em cần lưu ý:\\n-Tham gia đầy đủ các buổi sinh hoạt lớp do lớp, khoa tổ chức.\\n-Không vi phạm kỷ luật từ mức khiển trách trở lên.\\n-Tích cực tham gia các hoạt động, phong trào của Đoàn, Hội cũng như của nhà trường."
+  },
+  {
+    "input": "Em muốn biết, sinh viên bị đình chỉ học tập có thời hạn thì khi nào được đi học lại?",
+    "output": "Khi hết thời hạn bị đình chỉ, em cần xuất trình các giấy tờ sau để nhà trường xem xét cho đi học lại:\\n-Cứng nhận của địa phương nơi cư trú về việc chấp hành tốt nghĩa vụ công dân tại địa phương.\\n-Chứng nhận của cơ quan có thẩm quyền** về việc đã chấp hành xong hình phạt tù nhưng cho hưởng án treo (nếu có)."
+  },
+  {
+    "input": "Em muốn hỏi về quy trình xét khen thưởng danh hiệu sinh viên xuất sắc cuối năm học được thực hiện như thế nào? ",
+    "output": "Quy trình xét khen thưởng cuối năm học được thực hiện qua các bước sau:\\n-1.Sinh viên lập báo cáo thành tích cá nhân theo mẫu quy định và nộp cho giáo viên chủ nhiệm.\\n-2.Giáo viên chủ nhiệm tổng hợp báo cáo thành tích của lớp và gửi về khoa, trung tâm.\\n-3.Khoa, trung tâm tổ chức họp xét duyệt danh sách sinh viên đủ điều kiện khen thưởng và gửi danh sách đề nghị khen thưởng lên Hội đồng khen thưởng nhà trường.\\n-4.Hội đồng khen thưởng nhà trường họp xét duyệt và đề nghị Hiệu trưởng công nhận danh hiệu khen thưởng."
+  },
+  {
+    "input": "Em muốn hỏi về tiêu chí xét khen thưởng đối với các tập thể lớp tiên tiến, xuất sắc?",
+    "output": "Để được xét khen thưởng, tập thể lớp cần đáp ứng các tiêu chí chung sau:\\n-Tập thể lớp đoàn kết, gắn bó, giúp đỡ nhau cùng tiến bộ.\\n- Có phong trào tốt trong học tập, rèn luyện, văn nghệ, thể thao và tích cực tham gia các hoạt động của khoa và của trường.\\n-Có sự phối hợp hoạt động tốt giữa cán bộ lớp và ban chấp hành chi đoàn.\\n-Tổ chức họp đủ 100% các buổi sinh hoạt lớp theo kế hoạch của nhà trường.\\n-Không có sinh viên vi phạm quy định về công tác nội trú và ngoại trú.\\n-Không có sinh viên bị kỷ luật từ mức khiển trách trở lên (tính trong năm học được xét).\\n-Bên cạnh đó còn có các tiêu chí riêng cho từng danh hiệu. Em có thể tham khảo chi tiết trong Quy định về xét khen thưởng và kỷ luật sinh viên của nhà trường."
+  },
+  {
+    "input": "Nếu lớp em có 1 bạn vi phạm kỷ luật mức cảnh cáo thì lớp em có được xét khen thưởng tập thể không?",
+    "output": "Rất tiếc là không em nhé. Nếu lớp có sinh viên bị kỷ luật từ mức khiển trách trở lên thì lớp sẽ không được xét khen thưởng tập thể."
+  },
+  {
+    "input": "Em là sinh viên năm cuối, em muốn hỏi về tiêu chuẩn xét khen thưởng sinh viên giỏi toàn khóa?",
+    "output": "Để được xét khen thưởng danh hiệu sinh viên giỏi toàn khóa, em cần đáp ứng các tiêu chuẩn sau:\\n- Kết quả học tập toàn khóa đạt loại giỏi trở lên.\\n-Xếp loại rèn luyện toàn khóa từ tốt trở lên.\\n-Đã được khen thưởng ít nhất 1 lần trong khóa học.\\n-Không bị kỷ luật từ mức khiển trách trở lên trong suốt khóa học."
+  },
+  {
+    "input": "Em muốn hỏi điểm rèn luyện được đánh giá dựa trên những tiêu chí nào?",
+    "output": "Điểm rèn luyện được đánh giá dựa trên các tiêu chí sau:\\n-Ý thức học tập:\\n-Chuyên cần, nghiêm túc trong học tập, tích cực tham gia các hoạt động học thuật, có tinh thần tự học…\\n-Ý thức chấp hành nội quy, quy chế:\\n- Chấp hành tốt nội quy, quy chế của trường, của lớp, của ký túc xá…\\n-Ý thức tham gia các hoạt động:\\n- Tích cực tham gia các hoạt động, phong trào của lớp, của khoa, Đoàn, Hội và của nhà trường…\\n-Phẩm chất đạo đức, lối sống:\\n- Có lối sống lành mạnh, trung thực, giản dị, đoàn kết, giúp đỡ bạn bè… "
+  },
+  {
+    "input": "Em muốn biết sinh viên năm cuối hệ vừa làm vừa học có được xét khen thưởng toàn khóa như sinh viên hệ chính quy không?",
+    "output": "Có em nhé. Sinh viên năm cuối hệ vừa làm vừa học vẫn được xét khen thưởng toàn khóa như sinh viên hệ chính quy nếu đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Em là sinh viên năm 3, nếu em bị kỷ luật cảnh cáo thì có ảnh hưởng gì đến việc xét tốt nghiệp của em sau này không?",
+    "output": "Việc em bị kỷ luật cảnh cáo sẽ không ảnh hưởng đến việc xét tốt nghiệp của em sau này. Tuy nhiên, em sẽ không đủ điều kiện để xét khen thưởng cuối khóa."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên có hành vi gian lận trong thi cử thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên có hành vi gian lận trong thi cử sẽ bị xử lý theo quy chế đào tạo, tùy theo mức độ vi phạm. Có thể bị hủy kết quả bài thi, hủy kết quả môn học hoặc buộc thôi học."
+  },
+  {
+    "input": "Cho em hỏi những trường hợp sinh viên nào sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học nếu thuộc một trong những trường hợp sau:\\n- Đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật.\\n- Vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội.\\n-Vi phạm pháp luật bị xử phạt tù giam.\\n- Sử dụng ma túy."
+  },
+  {
+    "input": "Học phí của trường mình hiện nay là bao nhiêu một năm?",
+    "output": "Học phí sẽ khác nhau tùy theo từng ngành học và từng năm học. Để biết thông tin chi tiết, em nên tham khảo mức học phí mới nhất được công bố trên website của trường hoặc liên hệ với phòng Tài chính Kế toán để được hướng dẫn."
+  },
+  {
+    "input": "Em muốn hỏi về thủ tục để được xét miễn giảm học phí?",
+    "output": "Sinh viên có hoàn cảnh khó khăn có thể làm đơn xin miễn giảm học phí. Hồ sơ xin miễn giảm học phí gồm có:\\n- Đơn xin miễn giảm học phí.\\n- Bản sao công chứng các giấy tờ chứng minh hoàn cảnh khó khăn (thẻ hộ nghèo, giấy báo tử, giấy xác nhận thương binh, bệnh binh…).\\n- Giấy xác nhận sinh viên thuộc diện được hưởng chính sách ưu đãi (nếu có).\\n-Hồ sơ cần nộp về phòng Công tác chính trị và Quản lý sinh viên để được xem xét."
+  },
+  {
+    "input": "Em muốn tham gia hoạt động tình nguyện, vậy em phải liên hệ với ai?",
+    "output": "Em có thể liên hệ với Đoàn Thanh niên, Hội Sinh viên hoặc các câu lạc bộ tình nguyện của trường để đăng ký tham gia."
+  },
+  {
+    "input": "Em muốn hỏi về quy định của trường liên quan đến việc bảo lưu kết quả học tập?",
+    "output": "Sinh viên thuộc một trong các trường hợp sau đây được bảo lưu kết quả học tập:\\n- Tham gia học tập hoặc nghiên cứu khoa học ở nước ngoài theo đề nghị của Hiệu trưởng.\\n- Ốm đau phải điều trị dài ngày (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Sinh viên nữ có thai từ tháng thứ 6 trở lên (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Những trường hợp đặc biệt khác do Hiệu trưởng xem xét, quyết định.\\n-Thời gian bảo lưu kết quả học tập tối đa là 02 năm. Để biết thêm thông tin chi tiết về thủ tục bảo lưu kết quả học tập, em có thể tham khảo quy chế đào tạo của trường hoặc liên hệ với phòng Đào tạo để được hướng dẫn."
+  },
+  {
+    "input": "Nếu em muốn chuyển ngành học thì cần những điều kiện gì?",
+    "output": "Sinh viên được phép chuyển ngành học nếu đáp ứng các điều kiện sau:\\n- Đã hoàn thành chương trình năm thứ nhất và có kết quả học tập đạt loại khá trở lên.\\n- Phải thi hoặc xét tuyển vào ngành học mà mình muốn chuyển đến theo quy định của nhà trường.\\n-Để biết thêm thông tin chi tiết, em nên tham khảo quy chế đào tạo của trường hoặc liên hệ với phòng Đào tạo để được hướng dẫn."
+  },
+  {
+    "input": "Nhà trường có quy định về việc sinh viên được phép học vượt như thế nào?",
+    "output": "Sinh viên được học vượt học phần của các học kỳ tiếp theo trong phạm vi chương trình đào tạo của ngành học nếu đáp ứng các điều kiện sau:\\n-Đã tích lũy đủ số tín chỉ theo quy định.\\n- Có kết quả học tập các học kỳ trước đạt loại khá trở lên.\\n- Không bị kỷ luật trong học kỳ trước.\\n-Số lượng tín chỉ đăng ký học vượt tối đa không quá 10 tín chỉ so với số tín chỉ tối đa quy định cho mỗi học kỳ của ngành học. "
+  },
+  {
+    "input": "Em muốn hỏi về quy định của trường liên quan đến việc bảo lưu kết quả học tập?",
+    "output": "Sinh viên thuộc một trong các trường hợp sau đây được bảo lưu kết quả học tập:\\n-Tham gia học tập hoặc nghiên cứu khoa học ở nước ngoài theo đề nghị của Hiệu trưởng.\\n- Ốm đau phải điều trị dài ngày (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Sinh viên nữ có thai từ tháng thứ 6 trở lên (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Những trường hợp đặc biệt khác do Hiệu trưởng xem xét, quyết định.\\n-Thời gian bảo lưu kết quả học tập tối đa là 02 năm. Để biết thêm thông tin chi tiết về thủ tục bảo lưu kết quả học tập, em có thể tham khảo quy chế đào tạo của trường hoặc liên hệ với phòng Đào tạo để được hướng dẫn."
+  },
+  {
+    "input": "Nếu em muốn chuyển ngành học thì cần những điều kiện gì?",
+    "output": "Sinh viên được phép chuyển ngành học nếu đáp ứng các điều kiện sau:\\n- Đã hoàn thành chương trình năm thứ nhất và có kết quả học tập đạt loại khá trở lên.\\n-Phải thi hoặc xét tuyển vào ngành học mà mình muốn chuyển đến theo quy định của nhà trường.\\n-Để biết thêm thông tin chi tiết, em nên tham khảo quy chế đào tạo của trường hoặc liên hệ với phòng Đào tạo để được hướng dẫn."
+  },
+  {
+    "input": "Nhà trường có quy định về việc sinh viên được phép học vượt như thế nào?",
+    "output": "Sinh viên được học vượt học phần của các học kỳ tiếp theo trong phạm vi chương trình đào tạo của ngành học nếu đáp ứng các điều kiện sau:\\n-Đã tích lũy đủ số tín chỉ theo quy định.\\n- Có kết quả học tập các học kỳ trước đạt loại khá trở lên.\\n-Không bị kỷ luật trong học kỳ trước.\\n-Số lượng tín chỉ đăng ký học vượt tối đa không quá 10 tín chỉ so với số tín chỉ tối đa quy định cho mỗi học kỳ của ngành học. "
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên vi phạm an toàn giao thông thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên vi phạm an toàn giao thông sẽ bị xử lý tùy theo mức độ, từ khiển trách đến buộc thôi học. Trường hợp vi phạm nghiêm trọng, gây hậu quả lớn có thể bị truy cứu trách nhiệm hình sự."
+  },
+  {
+    "input": "Em muốn hỏi về tiêu chuẩn xét tốt nghiệp loại giỏi của trường mình là gì?",
+    "output": "Sinh viên tốt nghiệp loại giỏi cần đáp ứng các tiêu chuẩn sau:\\n- Hoàn thành toàn bộ chương trình đào tạo.\\n- Điểm trung bình chung tích lũy toàn khóa đạt từ 3.20 đến 3.59.\\n- Không có điểm học phần nào dưới trung bình.\\n- Kết quả xếp loại rèn luyện toàn khóa đạt loại tốt trở lên.\\n- Có ít nhất một bài báo cáo khoa học được đăng trên tạp chí khoa học của trường hoặc tham gia ít nhất một đề tài nghiên cứu khoa học cấp trường trở lên."
+  },
+  {
+    "input": "Em muốn đạt danh hiệu sinh viên giỏi cuối năm thì cần những điều kiện gì?",
+    "output": "Để đạt danh hiệu sinh viên giỏi cuối năm học, em cần đáp ứng các tiêu chuẩn sau:\\n- Kết quả học tập của 2 học kỳ trong năm đều đạt loại giỏi trở lên.\\n- Xếp loại rèn luyện của 2 học kỳ đều đạt loại tốt trở lên.\\n- Tham gia đầy đủ các buổi sinh hoạt lớp.\\n- Không vi phạm kỷ luật từ mức khiển trách trở lên."
+  },
+  {
+    "input": "Hình thức kỷ luật nào sẽ được xóa khỏi hồ sơ sinh viên sau khi hết hiệu lực?",
+    "output": "Hai hình thức kỷ luật khiển trách và cảnh cáo sẽ được xóa khỏi hồ sơ sinh viên sau khi hết hiệu lực. Riêng hình thức kỷ luật đình chỉ học tập và buộc thôi học sẽ được lưu trữ trong hồ sơ sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên năm nhất có được đăng ký ở ký túc xá không?",
+    "output": "Sinh viên năm nhất có hộ khẩu thường trú ngoài thành phố Hà Nội sẽ được ưu tiên đăng ký ở ký túc xá. Sinh viên có thể liên hệ với phòng Quản lý đào tạo và Công tác sinh viên để biết thêm thông tin chi tiết về thủ tục đăng ký cũng như quy định của ký túc xá."
+  },
+  {
+    "input": "Nếu em muốn tham gia câu lạc bộ tiếng Anh của trường thì phải làm thế nào?",
+    "output": "Em có thể tìm kiếm thông tin về câu lạc bộ tiếng Anh của trường trên website hoặc fanpage của trường, hoặc liên hệ với Hội sinh viên trường để được hướng dẫn đăng ký tham gia."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên trường mình có được phép kinh doanh buôn bán không?",
+    "output": "Sinh viên được phép kinh doanh buôn bán, nhưng cần tuân thủ các quy định của pháp luật cũng như quy định của nhà trường. Việc kinh doanh buôn bán không được ảnh hưởng đến việc học tập và rèn luyện, cũng như không được gây mất trật tự an ninh trong trường."
+  },
+  {
+    "input": "Trường hợp nào thì sinh viên sẽ bị cảnh cáo?",
+    "output": "Sinh viên sẽ bị cảnh cáo nếu thuộc một trong các trường hợp sau:\\n- Đã bị khiển trách mà tái phạm.\\n- Vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên.\\n- Mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định xét bảo lưu kết quả học tập của trường?",
+    "output": "Sinh viên được bảo lưu kết quả học tập nếu thuộc một trong các trường hợp sau:\\n- Tham gia học tập hoặc nghiên cứu khoa học ở nước ngoài theo đề nghị của Hiệu trưởng.\\n-Ốm đau phải điều trị dài ngày (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Sinh viên nữ có thai từ tháng thứ 6 trở lên (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên).\\n- Những trường hợp đặc biệt khác do Hiệu trưởng xem xét, quyết định.\\n-Thời gian bảo lưu kết quả học tập tối đa là 02 năm. Em có thể liên hệ với phòng Đào tạo để được hướng dẫn chi tiết về thủ tục bảo lưu kết quả học tập."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên vi phạm nội quy ký túc xá thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên vi phạm nội quy ký túc xá sẽ bị xử lý tùy theo mức độ. Có thể bị nhắc nhở, khiển trách, trừ điểm rèn luyện, yêu cầu chuyển phòng hoặc buộc thôi ở ký túc xá."
+  },
+  {
+    "input": "Ngoài các học bổng của nhà trường, em có thể tìm kiếm học bổng ở đâu?",
+    "output": "Ngoài các học bổng của nhà trường, em có thể tìm kiếm thông tin về học bổng từ các nguồn sau:\\n-Học bổng của các tổ chức, doanh nghiệp:** Nhiều tổ chức, doanh nghiệp có các chương trình học bổng dành cho sinh viên. Em có thể tìm kiếm thông tin trên website hoặc fanpage của các tổ chức, doanh nghiệp đó.\\n-Học bổng du học:** Có rất nhiều học bổng du học dành cho sinh viên Việt Nam. Em có thể tìm hiểu thông tin trên website của các trường đại học nước ngoài hoặc các trung tâm tư vấn du học."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên có được phép sử dụng xe máy điện trong khuôn viên trường không?",
+    "output": "Sinh viên được phép sử dụng xe máy điện trong khuôn viên trường. Tuy nhiên, cần chấp hành nghiêm chỉnh luật giao thông đường bộ cũng như quy định của nhà trường để đảm bảo an toàn cho bản thân và những người xung quanh."
+  },
+  {
+    "input": "Em muốn hỏi thủ tục để được cấp giấy chứng nhận sinh viên?",
+    "output": "Em có thể liên hệ với phòng Đào tạo để được hướng dẫn về thủ tục cấp giấy chứng nhận sinh viên. Thông thường, em sẽ cần cung cấp các thông tin sau:\\n Họ và tên\\n Ngày tháng năm sinh\\n Mã số sinh viên\\n Ngành học\\n Khóa học"
+  },
+  {
+    "input": "Nhà trường có chính sách hỗ trợ sinh viên thực tập như thế nào?",
+    "output": "Nhà trường sẽ hỗ trợ sinh viên trong việc tìm kiếm địa điểm thực tập phù hợp với chuyên ngành. Bên cạnh đó, nhà trường cũng tổ chức các buổi hướng dẫn, tập huấn kỹ năng cần thiết cho sinh viên trước khi đi thực tập."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên không tham gia các hoạt động, phong trào của trường, lớp thì có bị ảnh hưởng gì không?",
+    "output": "Sinh viên không tích cực tham gia các hoạt động, phong trào của trường, lớp sẽ bị trừ điểm rèn luyện, ảnh hưởng đến kết quả xếp loại rèn luyện cuối kỳ, cuối khóa. Điều này có thể ảnh hưởng đến việc xét học bổng, khen thưởng cũng như xét tốt nghiệp của sinh viên sau này."
+  },
+  {
+    "input": "Em muốn hỏi về quy định liên quan đến việc thi lại, học lại của trường mình?",
+    "output": "Quy định về thi lại, học lại được quy định cụ thể trong quy chế đào tạo của trường. Em có thể tham khảo quy chế đào tạo hoặc liên hệ với phòng Đào tạo để được giải đáp."
+  },
+  {
+    "input": "Nếu em muốn tốt nghiệp loại xuất sắc thì cần những điều kiện gì?",
+    "output": "Để xét tốt nghiệp loại xuất sắc, em cần đáp ứng các tiêu chuẩn sau:\\n Hoàn thành toàn bộ chương trình đào tạo.\\n Điểm trung bình chung tích lũy toàn khóa đạt từ 3.60 trở lên.\\n Không có điểm học phần nào dưới trung bình.\\n Kết quả xếp loại rèn luyện toàn khóa đạt loại xuất sắc.\\n Có ít nhất một bài báo cáo khoa học được công bố trên tạp chí khoa học chuyên ngành thuộc danh mục ISI, Scopus hoặc có ít nhất một sáng chế, giải pháp hữu ích được Cục Sở hữu trí tuệ cấp bằng độc quyền."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên có được phép sử dụng phòng học của trường để tổ chức các hoạt động của câu lạc bộ không?",
+    "output": "Sinh viên có thể sử dụng phòng học của trường để tổ chức các hoạt động của câu lạc bộ. Tuy nhiên, cần liên hệ với bộ phận quản lý phòng học để đăng ký sử dụng phòng và tuân thủ các quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn hỏi, trường mình có tổ chức những hoạt động hỗ trợ sinh viên khởi nghiệp không?",
+    "output": "Có em nhé. Nhà trường có Trung tâm Hỗ trợ sinh viên và Việc làm, thường xuyên tổ chức các hoạt động hỗ trợ sinh viên khởi nghiệp như các buổi hội thảo, tập huấn kỹ năng, kết nối sinh viên với các doanh nghiệp…"
+  },
+  {
+    "input": "Em muốn hỏi về quy định liên quan đến việc bảo lưu kết quả học tập đối với sinh viên nữ có thai?",
+    "output": "Sinh viên nữ có thai từ tháng thứ 6 trở lên (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên) được bảo lưu kết quả học tập. Thời gian bảo lưu tối đa là 02 năm. Em có thể liên hệ với phòng Đào tạo để được hướng dẫn chi tiết về thủ tục bảo lưu kết quả học tập."
+  },
+  {
+    "input": "Nếu em muốn tốt nghiệp loại xuất sắc thì cần những điều kiện gì?",
+    "output": "Để xét tốt nghiệp loại xuất sắc, em cần đáp ứng các tiêu chuẩn sau:\\n Hoàn thành toàn bộ chương trình đào tạo.\\n Điểm trung bình chung tích lũy toàn khóa đạt từ 3.60 trở lên.\\n Không có điểm học phần nào dưới trung bình.\\n Kết quả xếp loại rèn luyện toàn khóa đạt loại xuất sắc.\\n Có ít nhất một bài báo cáo khoa học được công bố trên tạp chí khoa học chuyên ngành thuộc danh mục ISI, Scopus hoặc có ít nhất một sáng chế, giải pháp hữu ích được Cục Sở hữu trí tuệ cấp bằng độc quyền."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên có được phép sử dụng phòng học của trường để tổ chức các hoạt động của câu lạc bộ không?",
+    "output": "Sinh viên có thể sử dụng phòng học của trường để tổ chức các hoạt động của câu lạc bộ. Tuy nhiên, cần liên hệ với bộ phận quản lý phòng học để đăng ký sử dụng phòng và tuân thủ các quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn hỏi, trường mình có tổ chức những hoạt động hỗ trợ sinh viên khởi nghiệp không?",
+    "output": "Có em nhé. Nhà trường có Trung tâm Hỗ trợ sinh viên và Việc làm, thường xuyên tổ chức các hoạt động hỗ trợ sinh viên khởi nghiệp như các buổi hội thảo, tập huấn kỹ năng, kết nối sinh viên với các doanh nghiệp…"
+  },
+  {
+    "input": "Em muốn hỏi về quy định liên quan đến việc bảo lưu kết quả học tập đối với sinh viên nữ có thai?",
+    "output": "Sinh viên nữ có thai từ tháng thứ 6 trở lên (có giấy xác nhận của cơ quan y tế từ cấp huyện trở lên) được bảo lưu kết quả học tập. Thời gian bảo lưu tối đa là 02 năm. Em có thể liên hệ với phòng Đào tạo để được hướng dẫn chi tiết về thủ tục bảo lưu kết quả học tập."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên vi phạm quy định về nộp học phí thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng sẽ bị xử lý từ nhắc nhở, khiển trách đến buộc thôi học, tùy theo mức độ vi phạm."
+  },
+  {
+    "input": "Em muốn hỏi về học bổng khuyến khích học tập của trường?",
+    "output": "Học bổng khuyến khích học tập được trao cho sinh viên có thành tích học tập xuất sắc. Tiêu chuẩn cụ thể như sau:\\n Sinh viên năm thứ 2 trở đi.\\n Kết quả học tập của học kỳ trước đạt loại giỏi trở lên.\\n Không có điểm học phần nào dưới trung bình trong học kỳ trước.\\n Xếp loại rèn luyện của học kỳ trước đạt loại tốt trở lên.\\n Không vi phạm kỷ luật trong học kỳ trước."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn hỏi về quy định học lại của trường?",
+    "output": "Sinh viên học lại học phần nếu:\\n Kết thúc học phần lần đầu, điểm tổng kết nhỏ hơn 4.0.\\n Vắng thi, kiểm tra quá 30% số buổi học quy định.\\n Bị hủy kết quả thi do vi phạm quy chế thi.\\nEm có thể tham khảo quy chế đào tạo để biết thêm thông tin chi tiết về học phần phải học lại, số lần được phép học lại cũng như cách tính điểm học phần học lại."
+  },
+  {
+    "input": "Nếu em muốn học lên cao học thì cần những điều kiện gì?",
+    "output": "Điều kiện để được xét tuyển học lên cao học là có bằng tốt nghiệp đại học. Ngoài ra, một số ngành học có thể yêu cầu thêm các điều kiện khác như trình độ ngoại ngữ, chứng chỉ tin học… Em có thể tìm hiểu thông tin tuyển sinh cao học trên website của trường hoặc liên hệ với phòng Đào tạo sau đại học để được tư vấn."
+  },
+  {
+    "input": "Em là sinh viên năm cuối. Em muốn hỏi, nếu em không may bị kỷ luật cảnh cáo thì có được xét tốt nghiệp không?",
+    "output": "Em vẫn được xét tốt nghiệp bình thường em nhé. Tuy nhiên, hình thức kỷ luật cảnh cáo sẽ được ghi vào học bạ và em sẽ không đủ điều kiện để xét khen thưởng cuối khóa."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên có quyền khiếu nại đối với quyết định kỷ luật của nhà trường không?",
+    "output": "Sinh viên có quyền khiếu nại đối với quyết định kỷ luật của nhà trường. Em có thể gửi đơn khiếu nại lên Hiệu trưởng nhà trường để được xem xét giải quyết."
+  },
+  {
+    "input": "Em muốn hỏi, trường mình có quy định về việc xét miễn học phí cho sinh viên là con thương binh, liệt sĩ như thế nào?",
+    "output": "Sinh viên là con thương binh, bệnh binh, con liệt sĩ, con của người hoạt động kháng chiến bị nhiễm chất độc hóa học, con Anh hùng lực lượng vũ trang, Anh hùng Lao động sẽ được miễn học phí. Để được miễn học phí, sinh viên cần nộp hồ sơ gồm có:\\n Đơn xin miễn học phí.\\n Bản sao công chứng giấy báo tử (đối với con liệt sĩ) hoặc giấy chứng nhận thương binh, bệnh binh, giấy xác nhận nhiễm chất độc hóa học…\\n Giấy xác nhận là con của Anh hùng lực lượng vũ trang, Anh hùng Lao động (nếu có)."
+  },
+  {
+    "input": "Em là sinh viên năm 3, em muốn hỏi điều kiện để được học liên thông lên đại học?",
+    "output": "Sinh viên tốt nghiệp cao đẳng chính quy hoặc hệ vừa làm vừa học có thể học liên thông lên đại học. Để đăng ký học liên thông, sinh viên cần tham gia kỳ thi tuyển sinh do trường tổ chức."
+  },
+  {
+    "input": "Em muốn hỏi về mức điểm rèn luyện để xét tốt nghiệp?",
+    "output": "Để được xét tốt nghiệp, điểm rèn luyện toàn khóa của em phải đạt loại trung bình trở lên. Nếu điểm rèn luyện dưới trung bình, em sẽ phải rèn luyện lại trong thời gian tối đa là 01 năm."
+  },
+  {
+    "input": "Em muốn hỏi về thủ tục để được xét tốt nghiệp loại giỏi?",
+    "output": "Em cần nộp đầy đủ hồ sơ xét tốt nghiệp theo quy định và có kết quả học tập, rèn luyện đáp ứng các tiêu chuẩn xét tốt nghiệp loại giỏi. Em có thể liên hệ với phòng Đào tạo để biết thêm thông tin chi tiết về thời gian nộp hồ sơ cũng như các giấy tờ cần thiết."
+  },
+  {
+    "input": "Em muốn hỏi về các suất học bổng du học mà trường mình cấp?",
+    "output": "Trường mình có rất nhiều chương trình hợp tác với các trường đại học ở nước ngoài và thường xuyên có các suất học bổng du học dành cho sinh viên. Em có thể theo dõi thông tin trên website của trường hoặc liên hệ với phòng Quản lý khoa học và Hợp tác quốc tế để biết thêm chi tiết."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên nghỉ học không phép quá số buổi quy định thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên nghỉ học không phép quá số buổi quy định sẽ bị hủy kết quả học phần và phải đăng ký học lại học phần đó vào các học kỳ tiếp theo."
+  },
+  {
+    "input": "Em muốn hỏi về các loại học bổng mà trường mình cấp cho sinh viên?",
+    "output": "Trường mình có rất nhiều loại học bổng dành cho sinh viên, bao gồm:\\n- Học bổng khuyến khích học tập:\\n- Dành cho sinh viên có thành tích học tập xuất sắc.\\n- Học bổng tài năng:\\n- Dành cho sinh viên đạt giải cao trong các kỳ thi học sinh giỏi quốc gia, quốc tế, Olympic các môn học…\\n-Học bổng sinh viên nghèo vượt khó:\\n- Dành cho sinh viên có hoàn cảnh khó khăn nhưng có ý chí vươn lên trong học tập.\\n-Học bổng của các tổ chức, cá nhân, doanh nghiệp:** Trường mình có liên kết với nhiều tổ chức, cá nhân, doanh nghiệp để trao học bổng cho sinh viên. \\n-Học bổng du học:** Dành cho sinh viên có thành tích học tập tốt, có mong muốn học tập và nghiên cứu ở nước ngoài.\\n-Ngoài ra còn có một số loại học bổng khác. Để biết thêm thông tin chi tiết về từng loại học bổng, tiêu chí, điều kiện xét học bổng, em có thể tham khảo trên website của trường hoặc liên hệ với phòng Công tác chính trị và Quản lý sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi về quy định xét tốt nghiệp loại khá?",
+    "output": "Sinh viên tốt nghiệp loại khá cần đáp ứng các tiêu chuẩn sau:\\n-Hoàn thành toàn bộ chương trình đào tạo.\\n- Điểm trung bình chung tích lũy toàn khóa đạt từ 2.50 đến 3.19.\\n- Không có điểm học phần nào dưới trung bình.\\n- Kết quả xếp loại rèn luyện toàn khóa đạt loại khá trở lên."
+  },
+  {
+    "input": "Nếu em muốn phúc khảo điểm thi thì phải làm như thế nào?",
+    "output": "Sau khi có kết quả thi, nếu em thấy điểm thi chưa chính xác, em có thể làm đơn phúc khảo bài thi. Đơn phúc khảo bài thi cần nộp về phòng Đào tạo trong thời gian quy định."
+  },
+  {
+    "input": "Em muốn hỏi, sinh viên có được phép ở lại ký túc xá trong dịp nghỉ hè không?",
+    "output": "Sinh viên được phép ở lại ký túc xá trong dịp nghỉ hè nhưng cần đăng ký với Ban quản lý ký túc xá và đóng các khoản phí theo quy định."
+  }
+]
