@@ -1,0 +1,1872 @@
+[
+    {
+      "input": "Em muốn hỏi về điểm chuẩn của ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00 bạn nhé!"
+    },
+    {
+      "input": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là bao nhiêu vậy?",
+      "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là 18.00. Điều này có nghĩa là bạn cần đạt ít nhất 18 điểm để đủ điều kiện trúng tuyển vào ngành này." 
+    },
+    {
+      "input": "Em muốn đăng ký xét tuyển vào ngành Công nghệ thông tin, cho em hỏi tổ hợp xét tuyển của ngành này là gì?",
+      "output": "Ngành Công nghệ thông tin xét tuyển dựa trên các tổ hợp A00, A01, D01, và D07. Bạn có thể lựa chọn tổ hợp phù hợp nhất với mình để đăng ký."
+    },
+    {
+      "input": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00. Đây là một ngành học khá hot nên điểm chuẩn cũng tương đối cao."
+    },
+    {
+      "input": "Cho em hỏi cách tính điểm xét tuyển như thế nào ạ?",
+      "output": "Điểm xét tuyển được tính bằng tổng điểm trung bình 3 môn trong tổ hợp xét tuyển của 5 học kỳ (lớp 10, 11 và học kỳ 1 lớp 12), cộng với điểm ưu tiên khu vực, đối tượng và điểm cộng xét tuyển (nếu có)."
+    },
+    {
+      "input": "Em muốn xét tuyển bằng chứng chỉ IELTS, cho em hỏi chứng chỉ IELTS 6.5 quy đổi thành bao nhiêu điểm ạ?",
+      "output": "Chứng chỉ IELTS 6.5 sẽ được quy đổi thành 9.0 điểm trong điểm xét tuyển của bạn. Chúc bạn may mắn!"
+    },
+    {
+      "input": "Em là học sinh trường chuyên, vậy em được cộng bao nhiêu điểm?",
+      "output": "Học sinh trường chuyên sẽ được cộng 1.0 điểm vào điểm xét tuyển. Nếu bạn học lớp chuyên thuộc tổ hợp xét tuyển của ngành bạn đăng ký thì sẽ được cộng thêm 1.0 điểm nữa, tức là tổng cộng 2.0 điểm."
+    },
+    {
+      "input": "Thời gian đăng ký xét tuyển theo phương thức xét tuyển kết hợp học bạ là khi nào?",
+      "output": "Thời gian đăng ký xét tuyển theo phương thức kết hợp học bạ bắt đầu từ ngày 15/04/2024 và kết thúc vào ngày 14/06/2024. Bạn nhớ đăng ký trong khoảng thời gian này nhé!"
+    },
+    {
+      "input": "Em muốn đăng ký xét tuyển vào ngành Ngôn ngữ Anh, cho em hỏi cách tính điểm xét tuyển của ngành này có gì khác so với các ngành khác không?",
+      "output": "Đối với ngành Ngôn ngữ Anh, điểm môn ngoại ngữ trong tổ hợp xét tuyển sẽ được nhân hệ số 2. Sau đó, điểm xét tuyển sẽ được quy đổi về thang điểm 30 theo công thức: Điểm xét tuyển = (Điểm Môn 1 + Điểm Môn 2 + Điểm Ngoại ngữ * 2) / 4 * 3 + Điểm ưu tiên + Điểm cộng xét tuyển"
+    },
+    {
+      "input": "Em có chứng chỉ tiếng Hàn TOPIK II cấp 4, vậy em sẽ được cộng bao nhiêu điểm?",
+      "output": "Chứng chỉ tiếng Hàn TOPIK II cấp 4 tương đương với bậc 4 trong Khung năng lực ngoại ngữ Việt Nam, do đó bạn sẽ được cộng 2.0 điểm vào điểm xét tuyển. Chúc mừng bạn!"
+    },
+    {
+      "input": "Em muốn tham gia xét tuyển thẳng vào trường, cần có những điều kiện gì?", 
+      "output": "Để xét tuyển thẳng vào trường, bạn cần đạt giải Nhất, Nhì, hoặc Ba trong kỳ thi học sinh giỏi quốc gia hoặc quốc tế do Bộ Giáo dục và Đào tạo tổ chức. Thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển và bạn đã tốt nghiệp THPT." 
+    },
+    {
+      "input": "Em muốn biết thêm thông tin về chương trình tiên tiến ngành Kỹ thuật xây dựng, em phải liên hệ đến đâu?",
+      "output": "Để biết thêm thông tin về chương trình tiên tiến ngành Kỹ thuật xây dựng, bạn có thể liên hệ trực tiếp đến Phòng Đào tạo của trường qua số điện thoại 02435631537 hoặc email tuyensinh@tlu.edu.vn. Bạn cũng có thể tìm hiểu thông tin trên website của trường tại tlu.edu.vn."
+    },
+    {
+      "input": "Trường có xét tuyển bằng kết quả kỳ thi đánh giá năng lực không?",
+      "output": "Có, trường Đại học Thủy lợi có xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực cho một số ngành thuộc khối kỹ thuật và ngành Ngôn ngữ Anh." 
+    },
+    {
+      "input": "Lệ phí đăng ký xét tuyển là bao nhiêu?",
+      "output": "Lệ phí đăng ký xét tuyển là 50.000 đồng cho một hồ sơ, không phân biệt số lượng nguyện vọng bạn đăng ký."
+    },
+    {
+      "input": "Em muốn đăng ký xét tuyển online thì phải làm như thế nào?",
+      "output": "Bạn có thể đăng ký xét tuyển online trên hệ thống của trường tại địa chỉ http://dkxtdh.tlu.edu.vn/ hoặc trên ứng dụng My TLU." 
+    },
+        {
+          "input": "Ngành Kỹ thuật môi trường có những triển vọng nghề nghiệp như thế nào?",
+          "output": "Ngành Kỹ thuật môi trường có triển vọng nghề nghiệp khá rộng mở, bạn có thể làm việc trong các lĩnh vực xử lý chất thải, quản lý tài nguyên nước, tư vấn môi trường, nghiên cứu và giảng dạy về môi trường, v.v."
+        },
+        {
+          "input": "Em muốn học ngành Kinh tế xây dựng nhưng điểm của em không đủ cao, em có thể lựa chọn ngành nào khác tương tự?",
+          "output": "Nếu bạn quan tâm đến lĩnh vực xây dựng và kinh tế, bạn có thể xem xét các ngành như Quản lý xây dựng, Kỹ thuật xây dựng công trình thủy, hoặc Kỹ thuật xây dựng công trình giao thông. Điểm chuẩn của các ngành này có thể thấp hơn so với ngành Kinh tế xây dựng."
+        },
+        {
+          "input": "Học ngành Công nghệ sinh học ra trường có dễ xin việc không?",
+          "output": "Ngành Công nghệ sinh học là một ngành học còn khá mới mẻ tại Việt Nam, tuy nhiên tiềm năng phát triển trong tương lai rất lớn. Sinh viên tốt nghiệp ngành này có thể làm việc trong các lĩnh vực nghiên cứu, sản xuất, kinh doanh trong lĩnh vực công nghệ sinh học, dược phẩm, nông nghiệp, v.v."
+        },
+        {
+          "input": "Em muốn tìm hiểu về môi trường học tập tại trường Đại học Thủy lợi, bạn có thể cho em biết thêm thông tin được không?",
+          "output": "Trường Đại học Thủy lợi có môi trường học tập năng động và hiện đại, với cơ sở vật chất khang trang, đội ngũ giảng viên giàu kinh nghiệm và nhiệt huyết. Trường cũng có nhiều hoạt động ngoại khóa và câu lạc bộ để sinh viên tham gia và phát triển bản thân."
+        },
+        {
+          "input": "Em muốn học ngành Luật kinh tế, vậy chương trình đào tạo của ngành này có gì đặc biệt?",
+          "output": "Chương trình đào tạo ngành Luật kinh tế trang bị cho sinh viên kiến thức pháp luật chuyên sâu về các lĩnh vực kinh tế, thương mại, đầu tư, tài chính, v.v. Sinh viên tốt nghiệp có thể làm việc trong các công ty, doanh nghiệp, tổ chức tài chính, hoặc hành nghề luật sư chuyên về lĩnh vực kinh tế."
+        },
+        {
+          "input": "Trường có ký túc xá cho sinh viên không?",
+          "output": "Trường Đại học Thủy lợi có ký túc xá dành cho sinh viên với đầy đủ tiện nghi và môi trường sống an toàn, văn minh."
+        }, 
+        {
+          "input": "Ngoài các phương thức xét tuyển chính quy, trường có tuyển sinh theo hình thức nào khác không?",
+          "output": "Ngoài các phương thức xét tuyển chính quy, trường Đại học Thủy lợi còn tuyển sinh theo hình thức văn bằng 2, liên thông từ Cao đẳng lên Đại học, và các chương trình đào tạo sau đại học." 
+        },
+
+  {
+    "input": "Em là học sinh vùng núi, em được hưởng những chính sách ưu tiên gì khi xét tuyển vào trường?",
+    "output": "Em sẽ được hưởng chính sách ưu tiên theo khu vực theo quy định của Bộ Giáo dục và Đào tạo. Điểm ưu tiên sẽ được cộng trực tiếp vào điểm xét tuyển của em." 
+  },
+  {
+    "input": "Em muốn tham gia chương trình trao đổi sinh viên quốc tế, trường có những chương trình nào?", 
+    "output": "Trường Đại học Thủy lợi có ký kết hợp tác với nhiều trường đại học trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên. Bạn có thể liên hệ với Phòng Quan hệ Quốc tế của trường để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Ngành Kỹ thuật điện tử - viễn thông có cơ hội việc làm như thế nào sau khi ra trường?",
+    "output": "Ngành Kỹ thuật điện tử - viễn thông có nhu cầu nhân lực cao và cơ hội việc làm rộng mở. Sinh viên tốt nghiệp có thể làm việc trong các lĩnh vực thiết kế, sản xuất, lắp đặt, vận hành, bảo trì các hệ thống điện tử và viễn thông, hoặc làm việc trong các viện nghiên cứu, trường đại học."
+  },
+  {
+    "input": "Em muốn học ngành có liên quan đến công nghệ thông tin nhưng điểm của em không đủ cao để vào ngành Công nghệ thông tin, em có thể chọn ngành nào khác?",
+    "output": "Bạn có thể lựa chọn các ngành như Hệ thống thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo và khoa học dữ liệu, hoặc An ninh mạng. Các ngành này có điểm chuẩn thấp hơn so với ngành Công nghệ thông tin nhưng vẫn thuộc lĩnh vực công nghệ thông tin và có triển vọng nghề nghiệp tốt."
+  },
+  {
+    "input": "Học phí của trường Đại học Thủy lợi như thế nào?",
+    "output": "Học phí của trường Đại học Thủy lợi được tính theo tín chỉ và mức học phí sẽ khác nhau tùy thuộc vào từng ngành học. Bạn có thể tham khảo thông tin chi tiết về học phí trên website của trường hoặc liên hệ với Phòng Tài chính Kế toán để được tư vấn cụ thể."
+  },
+  {
+    "input": "Trường có tổ chức các lớp học tiếng Anh để sinh viên nâng cao trình độ ngoại ngữ không?",
+    "output": "Có, trường Đại học Thủy lợi có tổ chức các lớp học tiếng Anh với nhiều cấp độ khác nhau để sinh viên lựa chọn, giúp sinh viên nâng cao trình độ ngoại ngữ và đáp ứng yêu cầu học tập cũng như công việc sau này."
+  },
+  {
+    "input": "Em muốn khởi nghiệp sau khi tốt nghiệp, trường có hỗ trợ gì cho sinh viên khởi nghiệp không?",
+    "output": "Trường Đại học Thủy lợi có Trung tâm Hỗ trợ sinh viên và Khởi nghiệp, nơi cung cấp các dịch vụ tư vấn, đào tạo, hỗ trợ về vốn và kết nối với các doanh nghiệp cho sinh viên có ý định khởi nghiệp."
+  },
+    {
+      "input": "Em tốt nghiệp Cao đẳng, em có thể liên thông lên Đại học Thủy lợi không?",
+      "output": "Có, trường Đại học Thủy lợi có tuyển sinh hệ liên thông từ Cao đẳng lên Đại học cho nhiều ngành đào tạo. Bạn cần đáp ứng các điều kiện về ngành học, thời gian tốt nghiệp và kết quả học tập để được xét tuyển."
+    },
+    {
+      "input": "Trường có những học bổng nào dành cho sinh viên?", 
+      "output": "Trường Đại học Thủy lợi có nhiều loại học bổng dành cho sinh viên, bao gồm học bổng khuyến khích học tập, học bổng tài năng, học bổng cho sinh viên có hoàn cảnh khó khăn, học bổng doanh nghiệp, v.v. Bạn có thể tìm hiểu thông tin chi tiết về các loại học bổng và điều kiện để được nhận học bổng trên website của trường hoặc liên hệ với Phòng Công tác Sinh viên."
+    },
+    {
+      "input": "Em muốn tham gia các hoạt động tình nguyện, trường có những câu lạc bộ hay tổ chức nào phù hợp?",
+      "output": "Trường Đại học Thủy lợi có rất nhiều câu lạc bộ và đội nhóm tình nguyện hoạt động sôi nổi trong nhiều lĩnh vực khác nhau như môi trường, giáo dục, y tế, văn hóa, v.v. Bạn có thể tham gia các câu lạc bộ này để đóng góp cho cộng đồng và phát triển kỹ năng mềm của bản thân." 
+    },
+    {
+      "input": "Em muốn học ngành Kế toán, vậy cơ hội nghề nghiệp của ngành này như thế nào?",
+      "output": "Ngành Kế toán là một ngành nghề có nhu cầu nhân lực cao và ổn định. Sinh viên tốt nghiệp có thể làm việc trong các doanh nghiệp, tổ chức tài chính, cơ quan nhà nước, hoặc hành nghề kế toán độc lập." 
+    },
+    {
+      "input": "Ngành Logistics và quản lý chuỗi cung ứng học những gì?",
+      "output": "Ngành Logistics và quản lý chuỗi cung ứng đào tạo sinh viên về quản lý dòng chảy hàng hóa, thông tin và tài chính trong chuỗi cung ứng, từ khâu sản xuất đến tay người tiêu dùng. Sinh viên tốt nghiệp có thể làm việc trong các công ty sản xuất, thương mại, dịch vụ logistics, hoặc các công ty tư vấn quản lý chuỗi cung ứng."
+    },
+
+        {
+          "input": "Em muốn tìm hiểu về ngành Kinh tế số, ngành này học những gì và cơ hội việc làm ra sao?",
+          "output": "Ngành Kinh tế số là một ngành học mới mẻ và đầy tiềm năng, tập trung vào ứng dụng công nghệ số vào các hoạt động kinh tế. Sinh viên sẽ được học về kinh tế học, thương mại điện tử, phân tích dữ liệu, marketing số, v.v. Cơ hội việc làm của ngành này rất rộng mở, bạn có thể làm việc trong các công ty công nghệ, startup, doanh nghiệp thương mại điện tử, hoặc các tổ chức tài chính."
+        },
+        {
+          "input": "Em muốn học Thạc sĩ tại trường Đại học Thủy lợi, trường có những ngành đào tạo nào?",
+          "output": "Trường Đại học Thủy lợi có đào tạo Thạc sĩ cho nhiều ngành học thuộc các lĩnh vực kỹ thuật, kinh tế, luật, ngôn ngữ, v.v. Bạn có thể tham khảo danh sách các ngành đào tạo Thạc sĩ trên website của trường hoặc liên hệ với Phòng Sau đại học để được tư vấn cụ thể."
+        },
+        {
+          "input": "Trường có hỗ trợ sinh viên tìm kiếm việc làm thêm không?",
+          "output": "Có, trường Đại học Thủy lợi có Trung tâm Hỗ trợ sinh viên và Khởi nghiệp, nơi thường xuyên cập nhật thông tin tuyển dụng việc làm thêm và hỗ trợ sinh viên tìm kiếm công việc phù hợp." 
+        },
+        {
+          "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có yêu cầu gì đặc biệt về ngoại ngữ không?",
+          "output": "Ngành Quản trị dịch vụ du lịch và lữ hành đòi hỏi sinh viên có khả năng giao tiếp tốt bằng tiếng Anh và ít nhất một ngoại ngữ khác. Trường cũng có các lớp học ngoại ngữ để sinh viên nâng cao trình độ." 
+        },
+        {
+          "input": "Em muốn tham gia nghiên cứu khoa học, trường có những chương trình nào dành cho sinh viên?",
+          "output": "Trường Đại học Thủy lợi khuyến khích sinh viên tham gia nghiên cứu khoa học thông qua các chương trình như Nghiên cứu khoa học sinh viên, Đề án khoa học công nghệ cấp trường, v.v. Sinh viên có thể tham gia vào các nhóm nghiên cứu của giảng viên hoặc tự đề xuất các đề tài nghiên cứu." 
+        },
+        {
+          "input": "Em muốn học ngành Thương mại điện tử, ngành này có gì khác so với ngành Kinh tế số?",
+          "output": "Ngành Thương mại điện tử tập trung vào các hoạt động mua bán, trao đổi hàng hóa và dịch vụ trên nền tảng internet, trong khi ngành Kinh tế số có phạm vi rộng hơn, bao gồm cả ứng dụng công nghệ số vào các lĩnh vực kinh tế khác như tài chính, logistics, marketing, v.v."
+        },
+        {
+          "input": "Em muốn tìm hiểu về chương trình đào tạo ngành An ninh mạng, ngành này có triển vọng như thế nào?",
+          "output": "Ngành An ninh mạng đào tạo sinh viên về các kiến thức và kỹ năng để bảo vệ hệ thống thông tin và dữ liệu khỏi các mối đe dọa an ninh mạng. Ngành này có triển vọng nghề nghiệp rất tốt do nhu cầu về an ninh mạng ngày càng tăng cao."
+        },
+  {
+    "input": "Em muốn học ngành hot, dễ xin việc, anh/chị tư vấn giúp em với?",
+    "output": "Hiện nay có nhiều ngành học được đánh giá là \"hot\" và dễ xin việc như Công nghệ thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo, An ninh mạng, Kinh tế số, Thương mại điện tử, Logistics và quản lý chuỗi cung ứng. Tuy nhiên, việc lựa chọn ngành học còn phụ thuộc vào sở thích, năng lực và định hướng nghề nghiệp của em."
+  },
+  {
+    "input": "Điểm của em không cao, em nên chọn ngành nào để dễ đỗ vào trường?",
+    "output": "Em có thể tham khảo các ngành có điểm chuẩn thường thấp hơn như Kỹ thuật xây dựng công trình thủy, Kỹ thuật tài nguyên nước, Kỹ thuật cấp thoát nước, Xây dựng và quản lý hạ tầng đô thị, Tài nguyên nước và môi trường, Công nghệ sinh học, Kỹ thuật hóa học, v.v."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật nhưng phân vân không biết nên chọn ngành nào, anh/chị có thể gợi ý giúp em?",
+    "output": "Trường Đại học Thủy lợi có nhiều ngành Kỹ thuật chất lượng như Kỹ thuật xây dựng, Kỹ thuật tài nguyên nước, Kỹ thuật môi trường, Kỹ thuật cơ khí, Kỹ thuật điện, Kỹ thuật điện tử - viễn thông, Kỹ thuật cơ điện tử, v.v. Em có thể tìm hiểu kỹ hơn về chương trình đào tạo và cơ hội nghề nghiệp của từng ngành để đưa ra lựa chọn phù hợp."
+  },
+  {
+    "input": "Học phí của các ngành Kinh tế có đắt không?",
+    "output": "Học phí của các ngành Kinh tế thường cao hơn so với các ngành Kỹ thuật. Em có thể tham khảo mức học phí cụ thể của từng ngành trên website của trường." 
+  },
+  {
+    "input": "Ký túc xá của trường có đủ chỗ cho tất cả sinh viên không?",
+    "output": "Ký túc xá của trường có sức chứa hạn chế, do đó không thể đáp ứng đủ chỗ cho tất cả sinh viên. Trường sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn và sinh viên ở xa." 
+  },
+  {
+    "input": "Em muốn học ngành Ngôn ngữ Anh, trình độ tiếng Anh của em chưa tốt lắm, liệu em có theo kịp chương trình học không?",
+    "output": "Chương trình đào tạo ngành Ngôn ngữ Anh được thiết kế phù hợp cho sinh viên có trình độ tiếng Anh khác nhau. Trường cũng có các lớp học tiếng Anh bổ trợ để giúp sinh viên nâng cao trình độ."
+  },
+  {
+    "input": "Ngoài giờ học trên lớp, em có thể tham gia những hoạt động gì ở trường?",
+    "output": "Trường Đại học Thủy lợi có rất nhiều câu lạc bộ, đội nhóm, và hoạt động ngoại khóa để sinh viên tham gia, ví dụ như các câu lạc bộ thể thao, nghệ thuật, tình nguyện, học thuật, v.v." 
+  },
+
+    {
+      "input": "Ngành nào hot nhất trường?",
+      "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo và An ninh mạng đang rất hot!"
+    },
+    {
+      "input": "Ngành nào dễ đậu?",
+      "output": "Em có thể xem xét các ngành Kỹ thuật xây dựng công trình thủy, Kỹ thuật tài nguyên nước hoặc Xây dựng hạ tầng đô thị."
+    },
+    {
+      "input": "Học phí ngành Kinh tế cao không?", 
+      "output": "Học phí ngành Kinh tế thường cao hơn các ngành Kỹ thuật."
+    },
+    {
+      "input": "Ký túc xá có đủ chỗ không?",
+      "output": "Ký túc xá có hạn, ưu tiên sinh viên năm nhất, khó khăn và ở xa."
+    },
+    {
+      "input": "Tiếng Anh em kém, học Ngôn ngữ Anh có ổn không?",
+      "output": "Chương trình phù hợp nhiều trình độ, có lớp bổ trợ tiếng Anh."
+    },
+      
+  {
+    "input": "Ngoài học, còn hoạt động gì vui?",
+    "output": "Có nhiều câu lạc bộ, đội nhóm và hoạt động ngoại khóa thú vị!" 
+  },
+  {
+    "input": "Cách tính điểm xét tuyển?",
+    "output": "Tổng điểm trung bình 3 môn 5 học kỳ + ưu tiên + điểm cộng (nếu có)." 
+  },
+  {
+    "input": "IELTS 6.0 được mấy điểm?",
+    "output": "IELTS 6.0 tương đương 8.0 điểm xét tuyển."
+  },
+  {
+    "input": "Xét tuyển thẳng cần gì?",
+    "output": "Giải Nhất, Nhì, Ba học sinh giỏi Quốc gia/Quốc tế."
+  },
+  {
+    "input": "Muốn học Thạc sĩ thì sao?",
+    "output": "Trường có nhiều ngành Thạc sĩ, em xem trên website hoặc hỏi Phòng Sau đại học." 
+  },
+  {
+    "input": "Trường có học bổng không?",
+    "output": "Có nhiều loại học bổng, xem thông tin trên website hoặc hỏi Phòng Công tác Sinh viên."
+  },
+    {
+      "input": "Em muốn học ngành Kỹ thuật xây dựng, ra trường làm gì ạ?",
+      "output": "Em có thể làm kỹ sư thiết kế, thi công, giám sát, quản lý dự án xây dựng, hoặc làm việc trong các viện nghiên cứu, cơ quan quản lý nhà nước về xây dựng."
+    },
+    {
+      "input": "Trường có dạy tiếng Trung không ạ?",
+      "output": "Có em nhé, trường có các lớp học tiếng Trung với nhiều trình độ khác nhau để sinh viên lựa chọn." 
+    },
+    {
+      "input": "Em muốn học ngành có liên quan đến ô tô, trường mình có ngành nào ạ?",
+      "output": "Trường có ngành Kỹ thuật Ô tô, em sẽ được học về thiết kế, chế tạo, vận hành và bảo dưỡng ô tô." 
+    },
+    {
+      "input": "Em muốn vừa học vừa làm, trường có hỗ trợ gì không ạ?",
+      "output": "Trường có Trung tâm Hỗ trợ sinh viên và Khởi nghiệp, nơi cung cấp thông tin tuyển dụng việc làm thêm và hỗ trợ sinh viên tìm kiếm công việc phù hợp."
+    },
+    {
+      "input": "Em muốn học ngành Luật, trường mình có ngành Luật nào ạ?",
+      "output": "Trường có 2 ngành Luật là Luật và Luật Kinh tế."
+    },
+    {
+      "input": "Em là học sinh giỏi cấp tỉnh, em được cộng bao nhiêu điểm ạ?",
+      "output": "Tùy theo giải thưởng mà em sẽ được cộng từ 1.0 đến 3.0 điểm vào điểm xét tuyển."
+    },
+    {
+      "input": "Em muốn tìm hiểu về chương trình tiên tiến ngành Kỹ thuật Tài nguyên nước, anh/chị tư vấn giúp em với?",
+      "output": "Đây là chương trình hợp tác với Đại học Bang Colorado - Hoa Kỳ, em sẽ được học tập trong môi trường quốc tế và có cơ hội nhận bằng của cả hai trường."
+    },
+    {
+      "input": "Điểm chuẩn các ngành Công nghệ thông tin có cao không ạ?",
+      "output": "Điểm chuẩn các ngành Công nghệ thông tin thường cao hơn so với các ngành khác, khoảng từ 21.00 trở lên."
+    },
+  {
+    "input": "Học ngành Công nghệ Sinh học ra trường lương cao không anh/chị?",
+    "output": "Ngành này còn khá mới, nhưng tiềm năng phát triển cao, lương sẽ phụ thuộc vào năng lực và vị trí công việc của em."
+  },
+  {
+    "input": "Em muốn làm trong ngành du lịch, nên học ngành gì?",
+    "output": "Em có thể học ngành Quản trị dịch vụ du lịch và lữ hành, sẽ được trang bị kiến thức và kỹ năng quản lý trong lĩnh vực du lịch."
+  },
+  {
+    "input": "Trường có câu lạc bộ bóng đá không?",
+    "output": "Có em nhé, trường có nhiều câu lạc bộ thể thao, trong đó có câu lạc bộ bóng đá."
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến robot, trường có ngành nào phù hợp không?",
+    "output": "Trường có ngành Kỹ thuật Robot và Điều khiển thông minh, rất phù hợp với em đấy."
+  },
+  {
+    "input": "Ra trường có dễ xin việc không ạ?",
+    "output": "Cơ hội việc làm phụ thuộc vào ngành học, năng lực và sự nỗ lực của em. Trường cũng có trung tâm hỗ trợ sinh viên tìm việc làm."
+  },
+  {
+    "input": "Ngành Kỹ thuật hóa học học những gì ạ?",
+    "output": "Em sẽ được học về các quá trình hóa học, thiết kế và vận hành các nhà máy hóa chất, bảo vệ môi trường trong công nghiệp hóa chất." 
+  },
+  {
+    "input": "Em muốn học ngành Tài chính Ngân hàng, điểm chuẩn có cao không ạ?",
+    "output": "Điểm chuẩn ngành Tài chính Ngân hàng thường khá cao, khoảng từ 21.00 trở lên."
+  },
+  {
+    "input": "Em học Cao đẳng Xây dựng, có thể liên thông lên Đại học Thủy lợi không ạ?",
+    "output": "Có thể em nhé, trường có tuyển sinh hệ liên thông từ Cao đẳng lên Đại học cho nhiều ngành, trong đó có các ngành Xây dựng."
+  },
+    {
+      "input": "Em muốn học ngành IT nhưng sợ khó quá, anh/chị tư vấn giúp em?",
+      "output": "Ngành IT tuy đòi hỏi sự nỗ lực và khả năng logic, nhưng rất thú vị và cơ hội việc làm rộng mở. Nếu em có đam mê và quyết tâm, em sẽ thành công."
+    },
+    {
+      "input": "Trường có gần trung tâm thành phố không?",
+      "output": "Trường nằm trên đường Tây Sơn, quận Đống Đa, khá gần trung tâm thành phố và thuận tiện đi lại."
+    },
+    {
+      "input": "Học ngành Kế toán có cần giỏi toán không ạ?",
+      "output": "Kỹ năng tính toán tốt là một lợi thế, tuy nhiên ngành Kế toán còn cần khả năng phân tích, tổng hợp và sử dụng phần mềm kế toán." 
+    },
+    {
+      "input": "Ngành Kiểm toán và Kế toán khác nhau như thế nào ạ?",
+      "output": "Kế toán ghi chép, tổng hợp số liệu tài chính, còn Kiểm toán kiểm tra, đánh giá tính chính xác và trung thực của số liệu đó."
+    },
+    {
+      "input": "Em muốn tham gia nghiên cứu khoa học, trường có hỗ trợ gì không?",
+      "output": "Trường có các chương trình nghiên cứu khoa học dành cho sinh viên, em có thể tham gia vào nhóm nghiên cứu của giảng viên hoặc tự đề xuất đề tài." 
+    },
+    {
+      "input": "Em có chứng chỉ tiếng Anh TOEFL iBT 80, được cộng bao nhiêu điểm ạ?",
+      "output": "Chúc mừng em, với TOEFL iBT 80, em được cộng 3.0 điểm vào điểm xét tuyển." 
+    }, 
+    {
+      "input": "Học ngành Luật Kinh tế ra trường lương cao không anh/chị?",
+      "output": "Lương ngành Luật Kinh tế phụ thuộc vào năng lực, kinh nghiệm và vị trí công việc của em. Tuy nhiên, đây là ngành có tiềm năng thu nhập tốt."
+    },
+    {
+      "input": "Em muốn học ngành có liên quan đến marketing, trường có ngành nào phù hợp không ạ?",
+      "output": "Em có thể học ngành Quản trị kinh doanh, trong đó có các môn học về marketing, hoặc ngành Thương mại điện tử cũng có liên quan đến marketing online." 
+    },
+        {
+          "input": "Ngành nào lương cao nhất trường?",
+          "output": "Thường thì các ngành Công nghệ thông tin, Kinh tế số, và Tài chính - Ngân hàng có tiềm năng thu nhập tốt."
+        },
+        {
+          "input": "Điểm chuẩn ngành Ngôn ngữ Anh bao nhiêu?",
+          "output": "Điểm chuẩn ngành Ngôn ngữ Anh thường khoảng 21.00 trở lên em nhé."
+        },
+        {
+          "input": "Học phí ngành Kỹ thuật môi trường cao không?",
+          "output": "Học phí ngành Kỹ thuật môi trường ở mức trung bình, không quá cao."
+        },
+        {
+          "input": "Trường có gần bến xe bus không?",
+          "output": "Có em nhé, trường nằm ngay trên đường Tây Sơn, có nhiều tuyến xe bus đi qua." 
+        },
+        {
+          "input": "Em muốn học ngành Công nghệ thông tin nhưng sợ học không nổi?",
+          "output": "Ngành Công nghệ thông tin tuy có độ khó nhất định, nhưng nếu em có đam mê và chịu khó, em sẽ học tốt thôi."
+        },
+        {
+          "input": "Trường có câu lạc bộ nhảy hiện đại không?",
+          "output": "Có em nhé, trường có câu lạc bộ nhảy hiện đại và nhiều câu lạc bộ nghệ thuật khác."
+        },
+        {
+          "input": "Em muốn làm việc ở nước ngoài, nên học ngành nào?",
+          "output": "Các ngành Công nghệ thông tin, Kỹ thuật, Kinh tế, và Ngôn ngữ Anh đều có cơ hội việc làm ở nước ngoài." 
+        },
+        {
+          "input": "Em có chứng chỉ tiếng Nhật N3, được cộng bao nhiêu điểm?",
+          "output": "Chứng chỉ tiếng Nhật N3 tương đương bậc 4, em sẽ được cộng 2.0 điểm vào điểm xét tuyển."
+        },
+        {
+          "input": "Em muốn học ngành Kiến trúc, trường có ngành này không ạ?",
+          "output": "Trường mình không có ngành Kiến trúc em nhé, em có thể tham khảo các trường khác."
+        },
+
+  {
+    "input": "Học ngành nào ra trường làm sếp?",
+    "output": "Năng lực lãnh đạo và kỹ năng quản lý mới là yếu tố quan trọng để trở thành lãnh đạo, không phụ thuộc vào ngành học em nhé."
+  },
+  {
+    "input": "Em muốn học ngành vừa học vừa chơi, ngành nào phù hợp ạ?",
+    "output": "Tất cả các ngành đều cần sự cân bằng giữa học tập và giải trí, quan trọng là em biết sắp xếp thời gian hợp lý."
+  },
+  {
+    "input": "Em học tiếng Pháp, có được cộng điểm không?",
+    "output": "Có em nhé, nếu em có chứng chỉ tiếng Pháp đạt chuẩn, em sẽ được cộng điểm vào điểm xét tuyển." 
+  },
+  {
+    "input": "Ở ký túc xá có thoải mái không ạ?", 
+    "output": "Ký túc xá của trường đầy đủ tiện nghi cơ bản, đảm bảo môi trường sống an toàn và văn minh cho sinh viên."
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến máy móc, nên học ngành nào?",
+    "output": "Em có thể tham khảo các ngành Kỹ thuật cơ khí, Kỹ thuật cơ điện tử, hoặc Kỹ thuật ô tô." 
+  },
+  {
+    "input": "Trường có tổ chức đi thực tập không?",
+    "output": "Có em nhé, trường có chương trình thực tập dành cho sinh viên, giúp em áp dụng kiến thức vào thực tế và tích lũy kinh nghiệm."
+  },
+  {
+    "input": "Em muốn thi đánh giá năng lực, trường có xét tuyển không?", 
+    "output": "Có, trường có xét tuyển một số ngành dựa vào kết quả kỳ thi đánh giá năng lực."
+  }, 
+  {
+    "input": "Học ngành Logistics ra trường làm gì?", 
+    "output": "Em có thể làm việc trong lĩnh vực vận tải, kho bãi, xuất nhập khẩu, quản lý chuỗi cung ứng, v.v." 
+  },
+  {
+    "input": "Em muốn học ngành Luật, cần thi khối nào?",
+    "output": "Ngành Luật xét tuyển khối C00 (Ngữ văn, Lịch sử, Địa lý) và D01 (Toán, Ngữ văn, Tiếng Anh) em nhé."
+  },
+    {
+      "input": "Chỉ tiêu ngành Công nghệ thông tin năm 2024 là bao nhiêu?",
+      "output": "Chỉ tiêu ngành Công nghệ thông tin năm 2024 là 120 em nhé."
+    },
+    {
+      "input": "Ngành nào có chỉ tiêu cao nhất trường?",
+      "output": "Ngành Kỹ thuật xây dựng dân dụng và công nghiệp có chỉ tiêu cao nhất, là 150."
+    },
+    {
+      "input": "Ngành Kỹ thuật điện tử - viễn thông xét tuyển khối nào?",
+      "output": "Ngành Kỹ thuật điện tử - viễn thông xét tuyển khối A00, A01, D01, và D07 em nhé."
+    },
+    {
+      "input": "Em muốn học ngành liên quan đến nước, trường có ngành nào?",
+      "output": "Trường có các ngành Kỹ thuật tài nguyên nước, Kỹ thuật cấp thoát nước, và Tài nguyên nước & Môi trường."
+    },
+    {
+      "input": "Ngành Kỹ thuật Robot và Điều khiển thông minh học những gì?",
+      "output": "Em sẽ được học về thiết kế, chế tạo, lập trình và ứng dụng robot trong các lĩnh vực công nghiệp và đời sống."
+    }, 
+    {
+      "input": "Ngành nào phù hợp với con gái?",
+      "output": "Tất cả các ngành đều phù hợp với con gái, quan trọng là sở thích và năng lực của em."
+    },
+    {
+      "input": "Ngành Quản trị kinh doanh ra trường làm gì?",
+      "output": "Em có thể làm việc trong các lĩnh vực quản lý, marketing, kinh doanh, nhân sự, v.v."
+    },
+    {
+      "input": "Ngành nào học ít môn nhất?", 
+      "output": "Số lượng môn học của các ngành tương đối giống nhau, không có ngành nào học ít môn hơn hẳn."
+    }, 
+    {
+      "input": "Chỉ tiêu ngành Luật Kinh tế là bao nhiêu?",
+      "output": "Chỉ tiêu ngành Luật Kinh tế là 90 em nhé."
+    },
+  {
+    "input": "Ngành nào ít người học nhất trường?",
+    "output": "Các chương trình tiên tiến và một số ngành kỹ thuật mới như Kỹ thuật Robot và Điều khiển thông minh có chỉ tiêu thấp hơn, nên số lượng sinh viên cũng ít hơn."
+  },
+  {
+    "input": "Em muốn học ngành về máy tính, nên chọn ngành nào?",
+    "output": "Trường có các ngành Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo & Khoa học dữ liệu, và An ninh mạng."
+  },
+  {
+    "input": "Ngành nào có nhiều con trai học nhất?",
+    "output": "Thường thì các ngành kỹ thuật như Kỹ thuật cơ khí, Kỹ thuật điện, và Kỹ thuật ô tô có tỷ lệ nam sinh cao hơn." 
+  },
+  {
+    "input": "Em muốn làm việc trong ngân hàng, nên học ngành gì?",
+    "output": "Em có thể học ngành Tài chính - Ngân hàng hoặc ngành Kế toán."
+  },
+  {
+    "input": "Học ngành Logistics có vất vả không?",
+    "output": "Ngành Logistics đòi hỏi kiến thức về quản lý, kinh tế, và kỹ năng phân tích, giải quyết vấn đề, nhưng cũng rất thú vị và có nhiều cơ hội nghề nghiệp."
+  },
+  {
+    "input": "Em muốn làm hướng dẫn viên du lịch, nên học ngành gì?",
+    "output": "Ngành Quản trị dịch vụ du lịch và lữ hành là lựa chọn phù hợp cho em." 
+  },
+  {
+    "input": "Ngành nào học nhiều môn Toán nhất?", 
+    "output": "Các ngành Kỹ thuật thường có nhiều môn Toán hơn so với các ngành Kinh tế, Luật, và Ngôn ngữ." 
+  }, 
+  {
+    "input": "Ngành nào học về môi trường?", 
+    "output": "Trường có ngành Kỹ thuật môi trường và Tài nguyên nước & Môi trường."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kỹ thuật cơ khí là bao nhiêu?",
+    "output": "Chỉ tiêu ngành Kỹ thuật cơ khí là 190 em nhé." 
+  },
+  {
+    "input": "Em muốn xét tuyển bằng học bạ, thời gian đăng ký là khi nào ạ?",
+    "output": "Thời gian đăng ký xét tuyển bằng học bạ bắt đầu từ ngày 15/04/2024 và kết thúc vào ngày 14/06/2024 em nhé."
+  }, 
+  {
+    "input": "Năm ngoái trường lấy bao nhiêu chỉ tiêu ạ?",
+    "output": "Năm ngoái tổng chỉ tiêu tuyển sinh của trường là 5500, trong đó ít nhất 50% dành cho phương thức xét tuyển học bạ và xét tuyển thẳng."
+  },
+  {
+    "input": "Em có giải Nhì học sinh giỏi cấp tỉnh môn Toán, em được cộng bao nhiêu điểm?",
+    "output": "Chúc mừng em! Với giải Nhì học sinh giỏi cấp tỉnh môn Toán, em sẽ được cộng 2.5 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật phần mềm, em cần thi khối nào ạ?",
+    "output": "Ngành Kỹ thuật phần mềm xét tuyển các khối A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em có chứng chỉ IELTS 5.5, quy đổi được mấy điểm ạ?",
+    "output": "Với chứng chỉ IELTS 5.5, em sẽ được quy đổi thành 9.0 điểm trong điểm xét tuyển." 
+  },
+  {
+    "input": "Trường có xét tuyển bằng kết quả kỳ thi đánh giá năng lực không ạ?",
+    "output": "Có em nhé, trường có xét tuyển một số ngành thuộc khối kỹ thuật và ngành Ngôn ngữ Anh dựa vào kết quả kỳ thi đánh giá năng lực."
+  },
+  {
+    "input": "Ngành Kỹ thuật hóa học năm 2024 lấy bao nhiêu chỉ tiêu ạ?",
+    "output": "Chỉ tiêu của ngành Kỹ thuật hóa học năm 2024 là 90 em." 
+  },
+  {
+    "input": "Chương trình tiên tiến ngành Kỹ thuật xây dựng có gì đặc biệt ạ?", 
+    "output": "Chương trình tiên tiến ngành Kỹ thuật xây dựng là chương trình hợp tác với Đại học Arkansas - Hoa Kỳ, sinh viên sẽ được học tập trong môi trường quốc tế và có cơ hội nhận bằng của cả hai trường."
+  },
+
+    {
+      "input": "Em muốn xét tuyển thẳng, cần nộp hồ sơ ở đâu ạ?",
+      "output": "Em cần làm theo hướng dẫn của Bộ GD&ĐT và nộp hồ sơ xét tuyển thẳng trực tiếp trên cổng thông tin tuyển sinh của Bộ."
+    },
+    {
+      "input": "Em có chứng chỉ tiếng Đức B1, được cộng điểm không ạ?",
+      "output": "Chứng chỉ tiếng Đức B1 tương đương bậc 3 trong Khung năng lực ngoại ngữ Việt Nam, em sẽ được cộng 1.0 điểm vào điểm xét tuyển." 
+    },
+    {
+      "input": "Ngành nào học về kinh doanh mà điểm chuẩn không quá cao ạ?",
+      "output": "Em có thể tham khảo các ngành Quản trị dịch vụ du lịch và lữ hành, Logistics và quản lý chuỗi cung ứng, hoặc Thương mại điện tử."
+    },
+    {
+      "input": "Trường có đào tạo ngành Ngôn ngữ Nhật không ạ?",
+      "output": "Hiện tại trường chưa đào tạo ngành Ngôn ngữ Nhật em nhé." 
+    },
+    {
+      "input": "Học phí ngành Luật là bao nhiêu một năm ạ?",
+      "output": "Học phí được tính theo tín chỉ và có thể thay đổi theo từng năm. Em có thể tham khảo mức học phí cụ thể trên website trường hoặc liên hệ Phòng Tài chính Kế toán để được tư vấn chi tiết." 
+    },
+    {
+      "input": "Em muốn học ngành liên quan đến máy tính mà điểm không quá cao, nên chọn ngành nào?",
+      "output": "Em có thể xem xét ngành Hệ thống thông tin, An ninh mạng, hoặc Kỹ thuật điện tử - viễn thông."
+    },
+    {
+      "input": "Ngành nào có nhiều bạn nữ học nhất?", 
+      "output": "Các ngành Kinh tế, Ngôn ngữ Anh, và Quản trị dịch vụ du lịch & lữ hành thường có tỷ lệ nữ sinh cao hơn."
+    },
+    {
+      "input": "Em muốn học ngành về Xây dựng, trường có những ngành nào ạ?", 
+      "output": "Trường có các ngành Kỹ thuật xây dựng công trình thủy, Kỹ thuật xây dựng dân dụng & công nghiệp, Công nghệ kỹ thuật xây dựng, Kỹ thuật xây dựng công trình giao thông, và Quản lý xây dựng." 
+    },
+    {
+      "input": "Em muốn ra trường làm công chức nhà nước, nên học ngành gì?",
+      "output": "Các ngành Luật, Luật kinh tế, Kinh tế, Kế toán, Kiểm toán, và các ngành Kỹ thuật đều có cơ hội làm việc trong các cơ quan nhà nước." 
+    },
+  {
+    "input": "Em muốn học ngành Công nghệ thông tin, nhưng sợ thất nghiệp, anh/chị cho em lời khuyên?",
+    "output": "Ngành Công nghệ thông tin hiện đang có nhu cầu nhân lực rất cao, cơ hội việc làm rộng mở. Tuy nhiên, em cần trau dồi kiến thức, kỹ năng và cập nhật xu hướng công nghệ để tăng khả năng cạnh tranh."
+  },
+  {
+    "input": "Học ngành Kế toán có áp lực không ạ?",
+    "output": "Ngành Kế toán đòi hỏi sự cẩn thận, tỉ mỉ và khả năng chịu áp lực công việc, đặc biệt vào những kỳ quyết toán." 
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến kinh doanh quốc tế, trường có ngành nào phù hợp không ạ?",
+    "output": "Em có thể học ngành Kinh tế, Quản trị kinh doanh, hoặc Thương mại điện tử, các ngành này đều có những môn học liên quan đến kinh doanh quốc tế." 
+  },
+  {
+    "input": "Ký túc xá trường có giờ giới nghiêm không ạ?",
+    "output": "Ký túc xá có quy định giờ giấc ra vào để đảm bảo an ninh và trật tự, em cần tuân thủ nội quy của ký túc xá."
+  },
+  {
+    "input": "Ngành nào học về marketing online?",
+    "output": "Ngành Thương mại điện tử và Quản trị kinh doanh có các môn học về marketing online em nhé." 
+  },
+  {
+    "input": "Em muốn học ngành vừa có kiến thức về kinh tế vừa có kiến thức về luật, nên chọn ngành nào ạ?",
+    "output": "Ngành Luật kinh tế là lựa chọn phù hợp cho em, em sẽ được trang bị kiến thức về cả hai lĩnh vực này." 
+  },
+  {
+    "input": "Ngành nào học về trí tuệ nhân tạo ạ?",
+    "output": "Trường có ngành Trí tuệ nhân tạo và Khoa học dữ liệu, đào tạo về các kỹ thuật và ứng dụng của trí tuệ nhân tạo." 
+  },
+  {
+    "input": "Em muốn ra trường làm giảng viên, nên học ngành nào?",
+    "output": "Em có thể chọn bất kỳ ngành nào mà em yêu thích và có năng lực, sau đó học lên cao học và nghiên cứu sinh để trở thành giảng viên." 
+  },
+  {
+    "input": "Điểm chuẩn ngành Tài chính - Ngân hàng năm 2024 dự kiến là bao nhiêu?",
+    "output": "Điểm chuẩn có thể thay đổi theo từng năm, nhưng thường ngành Tài chính - Ngân hàng có điểm chuẩn khá cao, khoảng từ 21.00 trở lên."
+  },
+
+    {
+      "input": "Ngành nào học về quản lý nhà nước?",
+      "output": "Trường không có ngành học cụ thể về quản lý nhà nước, nhưng em có thể tham khảo ngành Luật, Luật kinh tế, Kinh tế, hoặc Quản trị kinh doanh."
+    },
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm việc tự do, anh/chị có gợi ý gì không?",
+      "output": "Các ngành Công nghệ thông tin, Thiết kế đồ họa, Marketing, Ngôn ngữ Anh, hoặc Luật đều có nhiều cơ hội để em làm việc tự do sau khi tốt nghiệp."
+    },
+    {
+      "input": "Học ngành Kỹ thuật cơ khí có vất vả không ạ?",
+      "output": "Ngành Kỹ thuật cơ khí đòi hỏi kiến thức về Toán, Lý, và khả năng tư duy logic, không gian tốt. Tuy nhiên, nếu em có đam mê và nỗ lực, em sẽ học tốt."
+    },
+    {
+      "input": "Em muốn học ngành liên quan đến bảo vệ môi trường, trường có ngành nào ạ?", 
+      "output": "Em có thể học ngành Kỹ thuật môi trường hoặc Tài nguyên nước và Môi trường."
+    },
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm việc trong các tổ chức phi chính phủ, nên chọn ngành gì?",
+      "output": "Các ngành Ngôn ngữ Anh, Luật, Kinh tế, Kỹ thuật môi trường, và Công nghệ sinh học đều có cơ hội việc làm trong các tổ chức phi chính phủ."
+    },
+    {
+      "input": "Em muốn học ngành liên quan đến máy bay, trường có ngành nào phù hợp không ạ?", 
+      "output": "Trường Đại học Thủy lợi không đào tạo các ngành liên quan đến hàng không em nhé."
+    },
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm start-up, anh/chị có gợi ý gì không?", 
+      "output": "Các ngành Công nghệ thông tin, Kinh tế số, Thương mại điện tử, và Quản trị kinh doanh đều là những lựa chọn phù hợp để em khởi nghiệp sau này."
+    },
+    {
+      "input": "Học ngành nào ra trường làm việc ở nhà?", 
+      "output": "Nhiều ngành nghề hiện nay có thể làm việc từ xa hoặc làm freelancer, ví dụ như Công nghệ thông tin, Thiết kế đồ họa, Content Writer, Dịch thuật, v.v."
+    },
+    {
+      "input": "Trường có đào tạo ngành Báo chí không ạ?",
+      "output": "Trường Đại học Thủy lợi không đào tạo ngành Báo chí em nhé." 
+    },
+
+        {
+          "input": "Em có chứng chỉ tiếng Trung HSK 4, được quy đổi thành bao nhiêu điểm?",
+          "output": "Chứng chỉ HSK 4 tương đương bậc 4, em sẽ được quy đổi thành 9.0 điểm trong điểm xét tuyển."
+        },
+        {
+          "input": "Trường có đào tạo ngành Tâm lý học không ạ?",
+          "output": "Hiện tại trường chưa đào tạo ngành Tâm lý học em nhé."
+        },
+        {
+          "input": "Em muốn làm việc trong lĩnh vực năng lượng tái tạo, nên học ngành nào?",
+          "output": "Em có thể tham khảo ngành Kỹ thuật điện, Kỹ thuật môi trường, hoặc Kỹ thuật tài nguyên nước."
+        },
+        {
+          "input": "Trường có ký túc xá cho sinh viên cao học không ạ?",
+          "output": "Có em nhé, trường có ký túc xá dành cho cả sinh viên đại học và cao học." 
+        },
+        {
+          "input": "Học ngành Ngôn ngữ Trung Quốc có khó không ạ?",
+          "output": "Ngôn ngữ Trung Quốc có độ khó nhất định, nhưng nếu em có đam mê và chăm chỉ, em sẽ học tốt thôi."
+        }, 
+        {
+          "input": "Em muốn ra trường làm việc ở doanh nghiệp nhà nước, nên học ngành gì?",
+          "output": "Các ngành Kỹ thuật, Kinh tế, và Luật đều có cơ hội việc làm tại các doanh nghiệp nhà nước." 
+        }, 
+        {
+          "input": "Em muốn học ngành nào đó để sau này làm nghiên cứu, nên chọn ngành gì?",
+          "output": "Hầu hết các ngành đều có cơ hội nghiên cứu, em có thể chọn ngành mà em yêu thích và có năng lực, sau đó học lên cao học và nghiên cứu sinh."
+        }, 
+        {
+          "input": "Trường có chương trình du học không ạ?",
+          "output": "Trường có các chương trình trao đổi sinh viên và liên kết đào tạo với nhiều trường đại học nước ngoài, tạo điều kiện cho sinh viên có cơ hội du học."
+        },
+        {
+          "input": "Em muốn học ngành liên quan đến nông nghiệp, trường có ngành nào phù hợp không ạ?",
+          "output": "Trường có ngành Công nghệ sinh học, em sẽ được học về ứng dụng công nghệ sinh học trong nông nghiệp." 
+        },
+
+
+  {
+    "input": "Em muốn học ngành nào đó để sau này thi công chức, nên chọn ngành gì?",
+    "output": "Các ngành Luật, Luật kinh tế, Kinh tế, Kế toán, Kiểm toán và các ngành Kỹ thuật đều có thể thi công chức, tùy thuộc vào vị trí và yêu cầu cụ thể." 
+  },
+  {
+    "input": "Trường có đào tạo ngành Quản trị khách sạn không ạ?",
+    "output": "Hiện tại trường chưa đào tạo ngành Quản trị khách sạn em nhé."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực truyền thông, nên chọn ngành gì?",
+    "output": "Em có thể tham khảo ngành Ngôn ngữ Anh, Quản trị kinh doanh, hoặc Thương mại điện tử, các ngành này đều có những kiến thức và kỹ năng liên quan đến truyền thông."
+  },
+  {
+    "input": "Học ngành Kỹ thuật điện tử - viễn thông có cần giỏi Vật lý không ạ?",
+    "output": "Kiến thức Vật lý là nền tảng quan trọng cho ngành Kỹ thuật điện tử - viễn thông, em cần nắm vững kiến thức Vật lý để học tốt ngành này."
+  }, 
+  {
+    "input": "Trường có đào tạo ngành Thiết kế đồ họa không ạ?",
+    "output": "Hiện tại trường chưa đào tạo ngành Thiết kế đồ họa em nhé."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực logistics quốc tế, nên chọn ngành gì?",
+    "output": "Ngành Logistics và Quản lý chuỗi cung ứng là lựa chọn phù hợp, em sẽ được học về quản lý chuỗi cung ứng toàn cầu và logistics quốc tế."
+  },
+  {
+    "input": "Em muốn ra trường làm việc trong lĩnh vực tài chính, nên học ngành nào?",
+    "output": "Em có thể học ngành Tài chính - Ngân hàng, Kế toán, hoặc Kiểm toán."
+  },
+  {
+    "input": "Ngành nào học về quản trị nhân sự?",
+    "output": "Ngành Quản trị kinh doanh có các môn học về quản trị nhân sự em nhé."
+  },
+  {
+    "input": "Trường có đào tạo ngành Quan hệ quốc tế không ạ?", 
+    "output": "Hiện tại trường chưa đào tạo ngành Quan hệ quốc tế em nhé."
+  },
+
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm việc trong các công ty khởi nghiệp, nên chọn ngành gì?",
+      "output": "Các ngành Công nghệ thông tin, Kinh tế số, Thương mại điện tử, và Quản trị kinh doanh đều là những lựa chọn phù hợp cho em."
+    },
+    {
+      "input": "Trường có đào tạo ngành Y tá điều dưỡng không ạ?",
+      "output": "Hiện tại trường chưa đào tạo ngành Y tá điều dưỡng em nhé."
+    },
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực giáo dục, nên chọn ngành gì?",
+      "output": "Em có thể tham khảo ngành Ngôn ngữ Anh, Sư phạm (nếu có), hoặc các ngành khác mà em yêu thích và sau đó học lên cao học để trở thành giảng viên."
+    },
+    {
+      "input": "Học ngành Kỹ thuật điện có vất vả không ạ?",
+      "output": "Ngành Kỹ thuật điện yêu cầu kiến thức về Toán, Lý và khả năng tư duy logic, phân tích tốt. Tuy nhiên, nếu em có đam mê và nỗ lực, em sẽ học tốt." 
+    }, 
+    {
+      "input": "Trường có đào tạo ngành Kiến trúc sư không ạ?",
+      "output": "Hiện tại trường chưa đào tạo ngành Kiến trúc sư em nhé."
+    },
+    {
+      "input": "Em muốn học ngành nào đó để sau này làm việc trong các tổ chức quốc tế, nên chọn ngành gì?",
+      "output": "Các ngành Ngôn ngữ Anh, Luật, Quan hệ quốc tế, và Kinh tế đều có cơ hội việc làm trong các tổ chức quốc tế." 
+    },
+    {
+      "input": "Em muốn ra trường làm việc trong lĩnh vực xuất nhập khẩu, nên học ngành gì?",
+      "output": "Em có thể học ngành Kinh tế, Thương mại điện tử, hoặc Logistics và Quản lý chuỗi cung ứng."
+    },
+    {
+      "input": "Ngành nào học về đầu tư tài chính?",
+      "output": "Ngành Tài chính - Ngân hàng có các môn học về đầu tư tài chính em nhé."
+    },
+    {
+      "input": "Trường có đào tạo ngành Đông phương học không ạ?",
+      "output": "Hiện tại trường chưa đào tạo ngành Đông phương học em nhé."
+    },
+        {
+          "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực công nghệ cao, nên chọn ngành gì?",
+          "output": "Các ngành Công nghệ thông tin, Trí tuệ nhân tạo, An ninh mạng, Kỹ thuật robot và Điều khiển thông minh, và Kỹ thuật điện tử - viễn thông đều là những lựa chọn phù hợp cho em."
+        },
+        {
+          "input": "Trường có chương trình học bổng du học không ạ?",
+          "output": "Trường có hợp tác với nhiều trường đại học nước ngoài và thỉnh thoảng có các chương trình học bổng du học. Em có thể theo dõi thông tin trên website trường hoặc liên hệ Phòng Quan hệ Quốc tế để biết thêm chi tiết."
+        },
+        {
+          "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực môi trường biển, nên chọn ngành gì?",
+          "output": "Em có thể tham khảo ngành Kỹ thuật môi trường hoặc Tài nguyên nước và Môi trường, sau đó học lên cao học chuyên ngành về môi trường biển."
+        },
+        {
+          "input": "Học ngành Ngôn ngữ Trung Quốc ra trường có dễ xin việc không ạ?",
+          "output": "Cơ hội việc làm của ngành Ngôn ngữ Trung Quốc khá rộng mở, em có thể làm phiên dịch, biên dịch, giáo viên tiếng Trung, hoặc làm việc trong các công ty Trung Quốc tại Việt Nam." 
+        }, 
+        {
+          "input": "Trường có tổ chức các hoạt động ngoại khóa cho sinh viên không ạ?",
+          "output": "Có em nhé, trường có rất nhiều câu lạc bộ, đội nhóm và hoạt động ngoại khóa đa dạng để sinh viên tham gia, ví dụ như các câu lạc bộ thể thao, nghệ thuật, tình nguyện, học thuật, v.v."
+        },
+        {
+          "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực nghiên cứu và phát triển (R&D), nên chọn ngành gì?",
+          "output": "Hầu hết các ngành đều có cơ hội làm việc trong lĩnh vực R&D, em có thể chọn ngành mà em yêu thích và có năng lực, sau đó học lên cao học và nghiên cứu sinh."
+        },
+        {
+          "input": "Em muốn ra trường làm việc trong các công ty đa quốc gia, nên học ngành gì?",
+          "output": "Các ngành Công nghệ thông tin, Kỹ thuật, Kinh tế, và Ngôn ngữ Anh đều có cơ hội việc làm tại các công ty đa quốc gia."
+        },
+        {
+          "input": "Ngành nào học về quản lý dự án?",
+          "output": "Ngành Quản lý xây dựng và Quản trị kinh doanh có các môn học về quản lý dự án em nhé."
+        },
+        {
+          "input": "Trường có đào tạo ngành Quản trị văn phòng không ạ?",
+          "output": "Hiện tại trường chưa đào tạo ngành Quản trị văn phòng em nhé." 
+        },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực thương mại điện tử xuyên biên giới, nên chọn ngành gì?",
+    "output": "Ngành Thương mại điện tử là lựa chọn phù hợp cho em, em sẽ được học về các hoạt động thương mại điện tử trong môi trường quốc tế." 
+  },
+  {
+    "input": "Trường có chương trình đào tạo bằng tiếng Anh không ạ?",
+    "output": "Có em nhé, trường có các chương trình tiên tiến đào tạo bằng tiếng Anh và một số môn học chuyên ngành bằng tiếng Anh."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực bảo hiểm, nên chọn ngành gì?",
+    "output": "Em có thể tham khảo ngành Tài chính - Ngân hàng, Kế toán, hoặc Luật kinh tế."
+  },
+  {
+    "input": "Học ngành Kỹ thuật cấp thoát nước ra trường làm gì ạ?",
+    "output": "Em có thể làm kỹ sư thiết kế, thi công, vận hành và quản lý các công trình cấp thoát nước, xử lý nước thải, v.v." 
+  }, 
+  {
+    "input": "Trường có đào tạo ngành Bất động sản không ạ?",
+    "output": "Hiện tại trường chưa đào tạo ngành Bất động sản em nhé." 
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực truyền hình, nên chọn ngành gì?",
+    "output": "Em có thể tham khảo ngành Ngôn ngữ Anh, Báo chí (nếu có), hoặc các ngành khác liên quan đến truyền thông và sau đó học lên cao học chuyên ngành về truyền hình."
+  },
+  {
+    "input": "Em muốn ra trường làm việc trong lĩnh vực đầu tư, nên học ngành gì?",
+    "output": "Em có thể học ngành Tài chính - Ngân hàng, Kinh tế, hoặc Quản trị kinh doanh."
+  },
+  {
+    "input": "Ngành nào học về phân tích dữ liệu?",
+    "output": "Ngành Trí tuệ nhân tạo và Khoa học dữ liệu, cũng như ngành Công nghệ thông tin có các môn học về phân tích dữ liệu."
+  },
+  {
+    "input": "Trường có đào tạo ngành Thiết kế thời trang không ạ?",
+    "output": "Hiện tại trường chưa đào tạo ngành Thiết kế thời trang em nhé."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong các công ty kiểm toán, nên chọn ngành gì?",
+    "output": "Ngành Kiểm toán là lựa chọn phù hợp nhất cho em, ngoài ra em cũng có thể tham khảo ngành Kế toán."
+  },
+  {
+    "input": "Trường có chương trình đào tạo liên kết với nước ngoài không ạ?",
+    "output": "Có em nhé, trường có chương trình đào tạo liên kết với một số trường đại học nước ngoài, sinh viên có cơ hội nhận bằng của cả hai trường."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực quản lý tài sản, nên chọn ngành gì?", 
+    "output": "Em có thể tham khảo ngành Tài chính - Ngân hàng, Luật kinh tế, hoặc Quản trị kinh doanh." 
+  },
+  {
+    "input": "Học ngành Xây dựng và quản lý hạ tầng đô thị ra trường làm gì ạ?", 
+    "output": "Em có thể làm kỹ sư thiết kế, thi công, quản lý các công trình hạ tầng đô thị như đường xá, cầu cống, hệ thống cấp thoát nước, v.v." 
+  }, 
+  {
+    "input": "Trường có đào tạo ngành Logistics bằng tiếng Anh không ạ?", 
+    "output": "Hiện tại chương trình đào tạo ngành Logistics chủ yếu bằng tiếng Việt, tuy nhiên có một số môn học chuyên ngành bằng tiếng Anh."
+  },
+  {
+    "input": "Em muốn học ngành nào đó để sau này làm việc trong lĩnh vực công nghệ blockchain, nên chọn ngành gì?",
+    "output": "Em có thể tham khảo ngành Công nghệ thông tin, An ninh mạng, hoặc Trí tuệ nhân tạo và Khoa học dữ liệu."
+  },
+  {
+    "input": "Em muốn ra trường làm việc trong lĩnh vực nghiên cứu thị trường, nên học ngành gì?",
+    "output": "Em có thể học ngành Kinh tế, Quản trị kinh doanh, hoặc Thương mại điện tử."
+  },
+  {
+    "input": "Ngành nào học về quản trị rủi ro?",
+    "output": "Ngành Tài chính - Ngân hàng, Kiểm toán và Quản trị kinh doanh đều có các môn học về quản trị rủi ro."
+  },
+  {
+    "input": "Trường có đào tạo ngành Luật quốc tế không ạ?",
+    "output": "Hiện tại trường chưa đào tạo ngành Luật quốc tế em nhé." 
+  },
+  {
+    "input": "Chỉ tiêu ngành Luật và Luật Kinh tế có giống nhau không ạ?",
+    "output": "Đúng rồi em, cả hai ngành Luật và Luật Kinh tế đều có chỉ tiêu là 90." 
+  },
+  {
+    "input": "Ngành nào có chỉ tiêu ít nhất trường?",
+    "output": "Các chương trình tiên tiến và một số ngành kỹ thuật mới như Kỹ thuật Robot và Điều khiển thông minh có chỉ tiêu thấp hơn, khoảng 30 - 70 chỉ tiêu." 
+  },
+  {
+    "input": "Chỉ tiêu xét tuyển học bạ có bằng với chỉ tiêu xét tuyển bằng điểm thi không ạ?",
+    "output": "Chỉ tiêu cho phương thức xét tuyển học bạ và xét tuyển thẳng chiếm ít nhất 50% tổng chỉ tiêu, trong khi chỉ tiêu cho phương thức sử dụng kết quả kỳ thi đánh giá tư duy và xét tuyển bằng điểm thi tốt nghiệp THPT không vượt quá 50% tổng chỉ tiêu." 
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật nhưng chỉ tiêu thấp quá, liệu có khó đậu không ạ?",
+    "output": "Chỉ tiêu thấp đồng nghĩa với việc cạnh tranh sẽ cao hơn, tuy nhiên nếu em có học lực tốt và điểm xét tuyển cao, em vẫn có cơ hội trúng tuyển."
+  },
+  {
+    "input": "Chỉ tiêu ngành Ngôn ngữ Anh năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Ngôn ngữ Anh năm 2024 là 100 em nhé."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kế toán và Kiểm toán có giống nhau không ạ?",
+    "output": "Chỉ tiêu ngành Kế toán là 90, trong khi chỉ tiêu ngành Kiểm toán là 70 em nhé." 
+  },
+    {
+      "input": "Chỉ tiêu xét tuyển thẳng chiếm bao nhiêu phần trăm ạ?",
+      "output": "Chỉ tiêu cho phương thức xét tuyển thẳng không được quy định cụ thể về tỷ lệ phần trăm, nhưng thường chiếm một phần nhỏ trong tổng chỉ tiêu tuyển sinh."
+    },
+    {
+      "input": "Ngành nào có chỉ tiêu xét tuyển bằng điểm thi cao nhất ạ?",
+      "output": "Thông tin về chỉ tiêu cụ thể cho từng phương thức xét tuyển thường được công bố sau khi có kết quả thi tốt nghiệp THPT và kỳ thi đánh giá năng lực."
+    },
+    {
+      "input": "Chỉ tiêu các ngành Kinh tế năm 2024 có thay đổi nhiều so với năm 2023 không ạ?", 
+      "output": "Anh/chị không có thông tin chính xác về sự thay đổi chỉ tiêu so với năm 2023. Em có thể tham khảo thông báo tuyển sinh của trường để biết thêm chi tiết."
+    },
+    {
+      "input": "Chỉ tiêu ngành Công nghệ sinh học là bao nhiêu ạ?", 
+      "output": "Chỉ tiêu ngành Công nghệ sinh học là 70 em."
+    },
+    {
+      "input": "Chỉ tiêu xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực có cao không ạ?",
+      "output": "Chỉ tiêu cho phương thức xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực không vượt quá 50% tổng chỉ tiêu."
+    },
+    {
+      "input": "Em muốn học ngành có chỉ tiêu cao để dễ đậu hơn, nên chọn ngành nào?",
+      "output": "Chỉ tiêu cao không đồng nghĩa với việc dễ đậu hơn, em cần xem xét điểm chuẩn và mức độ cạnh tranh của ngành đó. Tuy nhiên, em có thể tham khảo các ngành có chỉ tiêu cao như Kỹ thuật xây dựng dân dụng & công nghiệp, Công nghệ kỹ thuật xây dựng, hoặc Quản lý xây dựng."
+    },
+    {
+      "input": "Chỉ tiêu ngành Kỹ thuật cơ điện tử là bao nhiêu ạ?", 
+      "output": "Chỉ tiêu ngành Kỹ thuật cơ điện tử là 70 em."
+    },
+    {
+      "input": "Chỉ tiêu các chương trình tiên tiến có giống nhau không ạ?",
+      "output": "Cả hai chương trình tiên tiến ngành Kỹ thuật xây dựng và Kỹ thuật tài nguyên nước đều có chỉ tiêu là 30 em."
+    },
+    {
+      "input": "Chỉ tiêu ngành Thương mại điện tử là bao nhiêu ạ?",
+      "output": "Chỉ tiêu ngành Thương mại điện tử là 100 em nhé." 
+    },
+        {
+          "input": "Khối ngành kỹ thuật của trường có những ngành nào?",
+          "output": "Trường có nhiều ngành kỹ thuật như Xây dựng, Tài nguyên nước, Môi trường, Cơ khí, Điện, Điện tử - Viễn thông, Cơ điện tử, v.v." 
+        },
+        {
+          "input": "Em thích kinh doanh, trường có những ngành nào phù hợp?",
+          "output": "Em có thể xem xét các ngành Kinh tế, Quản trị kinh doanh, Kế toán, Kinh tế xây dựng, Logistics, Du lịch, Thương mại điện tử, Tài chính - Ngân hàng, Kiểm toán, và Kinh tế số." 
+        },
+        {
+          "input": "Khối ngành công nghệ thông tin của trường gồm những ngành nào?",
+          "output": "Khối ngành này gồm Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo và khoa học dữ liệu, An ninh mạng."
+        },
+        {
+          "input": "Trường có đào tạo ngành Luật không?",
+          "output": "Có, trường có ngành Luật và Luật kinh tế."
+        },
+        {
+          "input": "Em muốn học ngoại ngữ, trường có những lựa chọn nào?",
+          "output": "Trường có ngành Ngôn ngữ Anh và Ngôn ngữ Trung Quốc." 
+        },
+        {
+          "input": "Trường có đào tạo ngành nào liên quan đến robot không?",
+          "output": "Có, trường có ngành Kỹ thuật Robot và Điều khiển thông minh." 
+        },
+  {
+    "input": "Ngành nào của khối Kinh tế có điểm chuẩn cao nhất?",
+    "output": "Thông thường, ngành Kinh tế và Quản trị kinh doanh có điểm chuẩn cao nhất khối Kinh tế."
+  },
+  {
+    "input": "Khối ngành nào có nhiều sinh viên theo học nhất?",
+    "output": "Khối ngành Kỹ thuật thường thu hút số lượng sinh viên đông nhất trường."
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến ô tô, trường có ngành nào phù hợp?", 
+    "output": "Em có thể chọn ngành Kỹ thuật Ô tô."
+  },
+  {
+    "input": "Ngành nào thuộc khối Luật?",
+    "output": "Trường có ngành Luật và Luật kinh tế thuộc khối ngành Luật." 
+  },
+  {
+    "input": "Ngoài khối Kỹ thuật, Kinh tế và Luật, trường còn đào tạo khối ngành nào khác?",
+    "output": "Trường còn đào tạo khối ngành Ngôn ngữ và khối ngành thuộc Chương trình tiên tiến."
+  },
+  {
+    "input": "Khối ngành Chương trình tiên tiến có gì đặc biệt?", 
+    "output": "Khối ngành này gồm các chương trình hợp tác với đại học nước ngoài, đào tạo bằng tiếng Anh và có cơ hội học tập, trao đổi tại nước ngoài." 
+  },
+    {
+      "input": "Khối ngành nào có nhiều cơ hội học bổng nhất?",
+      "output": "Thông thường, các ngành thuộc khối Kỹ thuật và khối Kinh tế có nhiều cơ hội học bổng hơn."
+    },
+    {
+      "input": "Em muốn học khối ngành có nhiều hoạt động ngoại khóa, nên chọn khối nào?",
+      "output": "Tất cả các khối ngành đều có nhiều câu lạc bộ và hoạt động ngoại khóa sôi nổi, em có thể lựa chọn theo sở thích của mình."
+    },
+    {
+      "input": "Khối ngành nào có nhiều sinh viên ra trường khởi nghiệp?",
+      "output": "Khối ngành Kinh tế và khối ngành Công nghệ thông tin có nhiều sinh viên lựa chọn con đường khởi nghiệp."
+    },
+    {
+      "input": "Khối ngành nào có tỷ lệ sinh viên ra trường có việc làm cao?",
+      "output": "Các khối ngành Kỹ thuật, Kinh tế và Công nghệ thông tin đều có tỷ lệ sinh viên ra trường có việc làm cao."
+    },
+    {
+      "input": "Em muốn học khối ngành có cơ hội đi du học, nên chọn khối nào?",
+      "output": "Khối ngành Chương trình tiên tiến và khối ngành Ngôn ngữ có nhiều cơ hội học tập và trao đổi sinh viên tại nước ngoài."
+    },
+    {
+      "input": "Khối ngành nào có môi trường học tập năng động nhất?",
+      "output": "Tất cả các khối ngành của trường đều có môi trường học tập năng động và hiện đại, với nhiều hoạt động học thuật và ngoại khóa."
+    },
+  {
+    "input": "Điểm xét tuyển được tính như thế nào?",
+    "output": "Điểm xét tuyển được tính bằng tổng điểm trung bình 3 môn trong tổ hợp xét tuyển của 5 học kỳ (lớp 10, 11 và học kỳ 1 lớp 12), cộng với điểm ưu tiên và điểm cộng (nếu có)."
+  },
+  {
+    "input": "Điểm cộng xét tuyển gồm những gì?",
+    "output": "Điểm cộng xét tuyển bao gồm điểm cộng cho học sinh giỏi, học sinh trường chuyên, giải thưởng khoa học kỹ thuật và chứng chỉ ngoại ngữ."
+  },
+  {
+    "input": "Em là học sinh giỏi cấp tỉnh, được cộng bao nhiêu điểm?", 
+    "output": "Tùy thuộc vào giải thưởng, em có thể được cộng từ 1.0 đến 3.0 điểm."
+  },
+  {
+    "input": "Chứng chỉ IELTS được quy đổi ra sao?",
+    "output": "Chứng chỉ IELTS từ 5.0 trở lên sẽ được quy đổi thành điểm cộng, cụ thể từ 1.0 đến 3.0 điểm tùy theo cấp độ."
+  },
+  {
+    "input": "Điểm xét tuyển ngành Ngôn ngữ Anh có gì khác biệt?", 
+    "output": "Điểm môn ngoại ngữ sẽ được nhân hệ số 2 và điểm xét tuyển được quy đổi về thang điểm 30." 
+  },
+  {
+    "input": "Điểm chuẩn các ngành lấy từ đâu?",
+    "output": "Điểm chuẩn được xác định dựa trên điểm xét tuyển của thí sinh trúng tuyển cuối cùng vào từng ngành."
+  },
+    {
+      "input": "Điểm trung bình môn học được tính như thế nào?",
+      "output": "Điểm trung bình môn học được tính bằng trung bình cộng điểm của cả năm lớp 10, 11 và học kỳ 1 lớp 12."
+    },
+    {
+      "input": "Em có chứng chỉ tiếng Nhật, có được tính điểm cộng không?",
+      "output": "Có, chứng chỉ tiếng Nhật JLPT từ N4 trở lên sẽ được quy đổi thành điểm cộng."
+    },
+    {
+      "input": "Điểm ưu tiên khu vực được cộng bao nhiêu?", 
+      "output": "Điểm ưu tiên khu vực được tính theo quy định của Bộ Giáo dục và Đào tạo, thường từ 0.75 đến 1.5 điểm."
+    },
+    {
+      "input": "Điểm cộng chứng chỉ tin học có không?",
+      "output": "Hiện tại, trường không cộng điểm cho chứng chỉ tin học." 
+    },
+    {
+      "input": "Nếu em đạt giải học sinh giỏi nhiều môn thì được cộng dồn điểm không?",
+      "output": "Em chỉ được cộng điểm cho môn học sinh giỏi thuộc tổ hợp xét tuyển của ngành đăng ký."
+    }, 
+    {
+      "input": "Em có thể tra cứu điểm chuẩn các năm trước ở đâu?", 
+      "output": "Em có thể tra cứu điểm chuẩn các năm trước trên website của trường hoặc các trang thông tin tuyển sinh uy tín."
+    },
+
+      {
+        "input": "Cách tính điểm xét tuyển thế nào?",
+        "output": "Tổng điểm trung bình 3 môn 5 học kỳ + điểm ưu tiên + điểm cộng."
+      },
+      {
+        "input": "Có xét tuyển bằng chứng chỉ IELTS không?",
+        "output": "Có, và được quy đổi thành điểm xét tuyển."
+      },
+      {
+        "input": "Học sinh trường chuyên được cộng điểm không?",
+        "output": "Được cộng 1 điểm, học lớp chuyên đúng tổ hợp cộng thêm 1 điểm."
+      }, 
+      {
+        "input": "Đăng ký xét tuyển online ở đâu?",
+        "output": "Website http://dkxtdh.tlu.edu.vn/ hoặc ứng dụng My TLU."
+      },
+      {
+        "input": "Cần điều kiện gì để xét tuyển thẳng?",
+        "output": "Giải Nhất, Nhì, Ba học sinh giỏi quốc gia, quốc tế." 
+      }, 
+      {
+        "input": "Trường có xét tuyển bằng kết quả thi đánh giá năng lực không?",
+        "output": "Có, cho một số ngành khối kỹ thuật và ngành Ngôn ngữ Anh."
+      },
+      {
+        "input": "Lệ phí đăng ký xét tuyển bao nhiêu?",
+        "output": "50.000 đồng một hồ sơ, không phân biệt số nguyện vọng."
+      },
+  {
+    "input": "Khối ngành nào có nhiều lựa chọn nhất?",
+    "output": "Khối ngành Kỹ thuật có nhiều lựa chọn ngành học nhất tại trường."
+  },
+  {
+    "input": "Em thích kinh doanh, nên chọn khối ngành nào?",
+    "output": "Khối ngành Kinh tế là lựa chọn phù hợp với em, với các ngành như Quản trị kinh doanh, Kế toán, Kinh tế xây dựng, Logistics, Du lịch, Thương mại điện tử, Tài chính - Ngân hàng."
+  },
+  {
+    "input": "Khối ngành nào có điểm chuẩn cao nhất?",
+    "output": "Khối ngành Công nghệ thông tin thường có điểm chuẩn cao nhất."
+  }, 
+  {
+    "input": "Em muốn học Luật, trường có đào tạo không?",
+    "output": "Có, trường có khối ngành Luật với hai ngành Luật và Luật Kinh tế." 
+  },
+  {
+    "input": "Em thích tiếng Anh, nên học ngành gì?",
+    "output": "Em có thể chọn ngành Ngôn ngữ Anh thuộc khối ngành Ngôn ngữ." 
+  },
+  {
+    "input": "Ngành nào xét tuyển bằng kết quả thi đánh giá tư duy?",
+    "output": "Các ngành khối kỹ thuật và ngành Ngôn ngữ Anh sẽ xét tuyển bằng kết quả kỳ thi đánh giá tư duy." 
+  },
+  {
+    "input": "Em muốn xét tuyển kết hợp học bạ, tổ hợp xét tuyển của khối ngành kinh tế là gì?",
+    "output": "Tổ hợp xét tuyển của khối ngành kinh tế là A00, A01, D01 và D07, bao gồm các môn Toán, Lý, Hóa, Văn và Tiếng Anh."
+  },
+  {
+    "input": "Em có chứng chỉ IELTS, em có thể xét tuyển theo hình thức nào?",
+    "output": "Em có thể sử dụng chứng chỉ IELTS để xét tuyển theo phương thức xét tuyển kết hợp học bạ THPT hoặc xét tuyển dựa vào kết quả thi tốt nghiệp THPT. Chứng chỉ IELTS sẽ được quy đổi thành điểm cộng hoặc điểm thi môn ngoại ngữ."
+  },
+  {
+    "input": "Trường có xét tuyển riêng cho học sinh trường chuyên không?",
+    "output": "Trường không có phương thức xét tuyển riêng cho học sinh trường chuyên, tuy nhiên học sinh trường chuyên sẽ được cộng điểm ưu tiên khi xét tuyển theo phương thức xét tuyển kết hợp học bạ THPT."
+  },
+  {
+    "input": "Em muốn xét tuyển vào chương trình tiên tiến, có những ngành nào đào tạo chương trình này?",
+    "output": "Trường có chương trình tiên tiến cho hai ngành: Kỹ thuật xây dựng và Kỹ thuật tài nguyên nước. Chương trình được giảng dạy hoàn toàn bằng tiếng Anh."
+  },
+  {
+    "input": "Xét tuyển bằng kết quả thi tốt nghiệp THPT thì tính điểm như thế nào?",
+    "output": "Điểm xét tuyển sẽ dựa vào tổng điểm 3 môn thi trong tổ hợp xét tuyển của kỳ thi tốt nghiệp THPT, cộng với điểm ưu tiên khu vực, đối tượng."
+  },
+  {
+    "input": "Em muốn xét tuyển vào ngành Ngôn ngữ Anh, em có thể sử dụng kết quả thi đánh giá năng lực không?",
+    "output": "Có, ngành Ngôn ngữ Anh có xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực."
+  },
+  {
+    "input": "Ngưỡng đảm bảo chất lượng là gì? Nó có ý nghĩa như thế nào với việc xét tuyển?",
+    "output": "Ngưỡng đảm bảo chất lượng là mức điểm tối thiểu mà thí sinh cần đạt được để đủ điều kiện nộp hồ sơ xét tuyển vào một ngành cụ thể. Nếu điểm của em dưới ngưỡng này, hồ sơ của em sẽ không được xét tuyển vào ngành đó."
+  },
+  {
+    "input": "Em muốn đăng ký xét tuyển nhiều nguyện vọng, có được không?",
+    "output": "Có, em được phép đăng ký xét tuyển nhiều nguyện vọng cho các ngành khác nhau. Tuy nhiên, em cần lưu ý về tổ hợp xét tuyển và ngưỡng đảm bảo chất lượng của từng ngành."
+  },
+  {
+    "input": "Em muốn biết chi tiết về tổ hợp xét tuyển của từng ngành, em có thể tìm thông tin ở đâu?", 
+    "output": "Em có thể tham khảo thông tin chi tiết về tổ hợp xét tuyển của từng ngành trong thông báo tuyển sinh của trường hoặc trên website của trường tại mục Tuyển sinh."
+  },
+  {
+    "input": "Em muốn tham gia xét tuyển học bạ nhưng em đã tốt nghiệp THPT năm 2023, em có thể đăng ký không?",
+    "output": "Có, em vẫn có thể đăng ký xét tuyển học bạ. Điểm xét tuyển của em sẽ được tính dựa trên kết quả học tập của 5 học kỳ (lớp 10, 11 và học kỳ 1 lớp 12) trong thời gian em học THPT."
+  },
+  {
+    "input": "Em muốn biết thêm thông tin về kỳ thi đánh giá tư duy, em có thể tìm hiểu ở đâu?",
+    "output": "Em có thể tìm hiểu thông tin về kỳ thi đánh giá tư duy trên website của Đại học Quốc gia Hà Nội hoặc website của nhóm các trường tổ chức kỳ thi." 
+  },
+{  
+  "input": "Cho em hỏi tổ hợp A00 gồm những môn nào?",
+  "output": "Tổ hợp A00 gồm 3 môn: Toán, Vật lý và Hóa học."
+},
+
+{
+  "input": "Em muốn xét tuyển khối ngành kinh tế, em có thể chọn tổ hợp nào?",
+  "output": "Em có thể chọn một trong các tổ hợp sau: A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh)." 
+},
+{
+  "input": "Tổ hợp xét tuyển của ngành Ngôn ngữ Anh là gì?", 
+  "output": "Ngành Ngôn ngữ Anh xét tuyển dựa trên tổ hợp A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh), D07 (Toán, Hóa, Anh) hoặc D08 (Toán, Sinh, Anh)." 
+},
+{
+  "input": "Em muốn học ngành Luật, em cần thi những môn nào?",
+  "output": "Em cần thi tổ hợp C00 (Văn, Sử, Địa) hoặc D01 (Toán, Văn, Anh) để xét tuyển vào ngành Luật."
+},
+{
+  "input": "Ngành Kỹ thuật xây dựng công trình giao thông xét tuyển những tổ hợp nào?",
+  "output": "Ngành Kỹ thuật xây dựng công trình giao thông xét tuyển dựa trên các tổ hợp A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh)." 
+},
+{
+  "input": "Em muốn học ngành Công nghệ thông tin, tổ hợp xét tuyển có môn Sinh không?",
+  "output": "Không, ngành Công nghệ thông tin chỉ xét tuyển các tổ hợp A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh) và D07 (Toán, Hóa, Anh)."
+},
+{
+  "input": "Em muốn học ngành Kỹ thuật cơ khí, em có thể chọn tổ hợp nào?",
+  "output": "Em có thể chọn một trong các tổ hợp sau: A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh)."
+},
+{
+  "input": "Tổ hợp xét tuyển của ngành Kỹ thuật điện tử - viễn thông là gì?",
+  "output": "Tương tự như các ngành kỹ thuật khác, ngành Kỹ thuật điện tử - viễn thông cũng xét tuyển dựa trên các tổ hợp A00, A01, D01 và D07."
+},
+{
+  "input": "Em muốn học ngành Kế toán, em có cần thi Lý không?",
+  "output": "Không nhất thiết, em có thể chọn tổ hợp D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh) để xét tuyển vào ngành Kế toán."
+},
+{
+  "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có xét tuyển tổ hợp D07 không?",
+  "output": "Có, ngành Quản trị dịch vụ du lịch và lữ hành xét tuyển tổ hợp D07 (Toán, Hóa, Anh) cùng với các tổ hợp A01, D01, D09 và D10."
+},
+{
+  "input": "Em muốn học ngành Thương mại điện tử, em có thể thi khối D không?",
+  "output": "Có, em có thể chọn tổ hợp D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh) để xét tuyển vào ngành Thương mại điện tử."
+},
+{
+  "input": "Tổ hợp xét tuyển của ngành Tài chính - Ngân hàng là gì?",
+  "output": "Ngành Tài chính - Ngân hàng xét tuyển dựa trên các tổ hợp A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh) và D07 (Toán, Hóa, Anh)." 
+},
+{
+  "input": "Em muốn học ngành Kỹ thuật hóa học, em có thể thi khối B không?", 
+  "output": "Có, em có thể chọn tổ hợp B00 (Toán, Hóa, Sinh) hoặc tổ hợp A00 (Toán, Lý, Hóa) để xét tuyển vào ngành Kỹ thuật hóa học." 
+},
+{
+  "input": "Ngành Công nghệ sinh học có xét tuyển khối D không?",
+  "output": "Có, em có thể chọn tổ hợp D08 (Toán, Sinh, Anh) để xét tuyển vào ngành Công nghệ sinh học. Ngoài ra, ngành này còn xét tuyển các tổ hợp A00, A02 và B00."
+},
+{
+  "input": "Em muốn học ngành có tổ hợp xét tuyển Toán, Văn, Anh, em có những lựa chọn nào?",
+  "output": "Em có rất nhiều lựa chọn với tổ hợp D01 (Toán, Văn, Anh). Hầu hết các ngành của trường đều xét tuyển tổ hợp này, trừ một số ngành thuộc khối kỹ thuật và ngành Ngôn ngữ Trung Quốc."
+},
+{
+  "input": "Em thích học các môn khoa học tự nhiên, em nên chọn khối ngành nào?",
+  "output": "Em có thể lựa chọn khối ngành Kỹ thuật hoặc khối ngành Công nghệ thông tin. Các ngành này có nhiều môn học liên quan đến Toán, Lý, Hóa và Sinh."
+},
+{
+  "input": "Em muốn học ngành có tổ hợp xét tuyển Toán, Lý, Anh, em có những lựa chọn nào?",
+  "output": "Với tổ hợp A01 (Toán, Lý, Anh), em có thể lựa chọn hầu hết các ngành của trường, trừ các ngành thuộc khối Luật và ngành Ngôn ngữ Trung Quốc."
+},
+{
+  "input": "Tổ hợp D07 có thể xét tuyển vào những ngành nào?", 
+  "output": "Tổ hợp D07 (Toán, Hóa, Anh) có thể xét tuyển vào hầu hết các ngành của trường, trừ các ngành thuộc khối Luật và ngành Ngôn ngữ Trung Quốc."
+},
+{
+  "input": "Em muốn học ngành Kỹ thuật môi trường, em có thể lựa chọn những tổ hợp nào?",
+  "output": "Em có thể lựa chọn một trong các tổ hợp sau: A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh), D07 (Toán, Hóa, Anh) hoặc B00 (Toán, Hóa, Sinh)." 
+},
+{
+  "input": "Ngành nào chỉ xét tuyển duy nhất một tổ hợp?", 
+  "output": "Ngành Ngôn ngữ Trung Quốc chỉ xét tuyển duy nhất tổ hợp D04 (Toán, Văn, Trung)."
+},
+{
+  "input": "Em muốn học ngành Kỹ thuật Robot và Điều khiển thông minh, em nên thi khối nào?",
+  "output": "Em có thể lựa chọn thi khối A (Toán, Lý, Hóa) hoặc khối D (Toán, Văn, Anh) với các tổ hợp A00, A01, D01 hoặc D07 để xét tuyển vào ngành Kỹ thuật Robot và Điều khiển thông minh." 
+},
+{
+  "input": "Em muốn học ngành liên quan đến xây dựng, em có những lựa chọn nào?",
+  "output": "Trường có nhiều ngành liên quan đến xây dựng như Kỹ thuật xây dựng công trình thủy, Kỹ thuật xây dựng dân dụng và công nghiệp, Công nghệ kỹ thuật xây dựng, Kỹ thuật xây dựng công trình giao thông và Quản lý xây dựng. Em có thể lựa chọn ngành phù hợp với sở thích và năng lực của mình." 
+},
+{
+  "input": "Em muốn học ngành có liên quan đến nước, trường có ngành nào phù hợp?", 
+  "output": "Trường có các ngành liên quan đến nước như Kỹ thuật tài nguyên nước, Kỹ thuật cấp thoát nước và Tài nguyên nước và môi trường. Em có thể tìm hiểu thêm về từng ngành để lựa chọn ngành phù hợp." 
+},
+{
+  "input": "Em muốn học ngành Luật kinh tế, em cần thi những môn nào?",
+  "output": "Em cần thi tổ hợp C00 (Văn, Sử, Địa) hoặc D01 (Toán, Văn, Anh) để xét tuyển vào ngành Luật kinh tế."
+},
+{
+  "input": "Em muốn học ngành Kỹ thuật điện, em có thể thi khối D không?", 
+  "output": "Có, em có thể chọn tổ hợp D01 (Toán, Văn, Anh) hoặc D07 (Toán, Hóa, Anh) để xét tuyển vào ngành Kỹ thuật điện." 
+},
+{
+  "input": "Em học khối A nhưng muốn chuyển hướng sang học kinh tế, liệu có khả thi không?",
+  "output": "Hoàn toàn khả thi em nhé! Khối ngành Kinh tế có nhiều ngành xét tuyển tổ hợp A00 và A01, phù hợp với những bạn học khối A muốn chuyển hướng. Em có thể tham khảo các ngành như Kinh tế, Quản trị kinh doanh, Kế toán, Kinh tế xây dựng, Logistics, Du lịch, Thương mại điện tử, Tài chính - Ngân hàng."
+},
+{
+  "input": "Em thích công nghệ thông tin nhưng điểm thi không cao, em có lựa chọn nào khác không?",
+  "output": "Em có thể xem xét các ngành có điểm chuẩn thấp hơn như Hệ thống thông tin, Kỹ thuật phần mềm, An ninh mạng. Đây đều là những ngành thuộc lĩnh vực công nghệ thông tin với triển vọng nghề nghiệp tốt."
+},
+{
+  "input": "Em muốn theo đuổi ngành học mới mẻ, tiềm năng phát triển cao, trường có ngành nào phù hợp?",
+  "output": "Em có thể tham khảo các ngành như Kinh tế số, Trí tuệ nhân tạo và Khoa học dữ liệu, Kỹ thuật Robot và Điều khiển thông minh. Đây là những ngành học mới, ứng dụng công nghệ cao và có tiềm năng phát triển mạnh mẽ trong tương lai."
+},
+{
+  "input": "Em muốn học ngành có cơ hội đi du học, trường có chương trình nào hỗ trợ không?", 
+  "output": "Trường có các chương trình đào tạo liên kết quốc tế và chương trình trao đổi sinh viên với nhiều trường đại học danh tiếng trên thế giới. Em có thể tìm hiểu thêm thông tin tại Phòng Quan hệ Quốc tế của trường."
+},
+{
+  "input": "Em muốn học ngành có nhiều hoạt động ngoại khóa, trường có những câu lạc bộ nào nổi bật?", 
+  "output": "Trường có rất nhiều câu lạc bộ và đội nhóm sinh viên hoạt động sôi nổi trong các lĩnh vực học thuật, thể thao, nghệ thuật, tình nguyện, v.v. Em có thể tham khảo và lựa chọn theo sở thích của mình."
+},
+{
+  "input": "Em muốn thi vào Kỹ thuật xây dựng công trình thủy thì cần tổ hợp nào?",
+  "output": "Ngành Kỹ thuật xây dựng công trình thủy xét tuyển các tổ hợp A00, A01, D01 và D07 em nhé!"
+},
+{
+  "input": "Ngành Quản lý xây dựng xét tổ hợp nào vậy ạ?",
+  "output": "Ngành Quản lý xây dựng cũng xét tuyển với các tổ hợp A00, A01, D01 và D07."
+},
+{
+  "input": "Tổ hợp xét tuyển của ngành Xây dựng hạ tầng đô thị là gì?",
+  "output": "Em có thể sử dụng tổ hợp A00, A01, D01 hoặc D07 để đăng ký xét tuyển vào ngành Xây dựng hạ tầng đô thị."
+},
+{
+  "input": "Cho em hỏi ngành Công nghệ sinh học có những tổ hợp xét tuyển nào?",
+  "output": "Ngành Công nghệ sinh học xét tuyển dựa trên 4 tổ hợp: A00, A02, B00 và D08."
+},
+{
+  "input": "Em muốn thi ngành Kỹ thuật môi trường, tổ hợp xét tuyển là gì ạ?",
+  "output": "Ngành Kỹ thuật môi trường sử dụng tổ hợp A00, A01, D01 và D07 để xét tuyển."
+},
+{
+  "input": "Ngành Kỹ thuật hóa học lấy tổ hợp nào để xét tuyển?",
+  "output": "Em có thể đăng ký xét tuyển vào ngành Kỹ thuật hóa học bằng các tổ hợp A00, B00, D07 hoặc C02." 
+},
+{
+  "input": "Cho em hỏi ngành Kỹ thuật xây dựng công trình thủy xét tuyển những tổ hợp nào?",
+  "output": "Ngành Kỹ thuật xây dựng công trình thủy xét tuyển các tổ hợp A00, A01, D01 và D07 em nhé!"
+},
+{
+  "input": "Em muốn thi ngành Kỹ thuật tài nguyên nước thì phải thi những môn nào ạ?",
+  "output": "Ngành Kỹ thuật tài nguyên nước xét tuyển các tổ hợp môn sau: A00 (Toán, Vật lý, Hóa học), A01 (Toán, Vật lý, Tiếng Anh), D01 (Toán, Ngữ văn, Tiếng Anh), và D07 (Toán, Hóa học, Tiếng Anh) em nhé."
+},
+{
+  "input": "Ngành Công nghệ sinh học lấy tổ hợp xét tuyển nào vậy ạ?",
+  "output": "Để xét tuyển vào ngành Công nghệ sinh học, em có thể lựa chọn một trong các tổ hợp sau: A00, A02, B00 hoặc D08."
+},
+{
+  "input": "Cháu muốn vào ngành Kỹ thuật môi trường thì cần thi tổ hợp môn nào?",
+  "output": "Cháu có thể lựa chọn một trong các tổ hợp sau để xét tuyển vào ngành Kỹ thuật môi trường: A00, A01, D01 hoặc D07."
+},
+{
+  "input": "Em học khối D, em có thể thi ngành Công nghệ thông tin không?",
+  "output": "Có em nhé. Ngành Công nghệ thông tin xét tuyển tổ hợp D07 (Toán, Hóa học, Tiếng Anh) nên em có thể đăng ký xét tuyển."
+},
+{
+  "input": "Ngành Kỹ thuật cơ khí xét tuyển tổ hợp nào vậy anh?",
+  "output": "Ngành Kỹ thuật cơ khí xét tuyển các tổ hợp A00, A01, D01, và D07 em nhé." 
+},
+{
+  "input": "Em học khối A01, cháu có thể thi ngành Kỹ thuật điện không?",
+  "output": "Em có thể đăng ký xét tuyển vào ngành Kỹ thuật điện bằng tổ hợp A01 (Toán, Vật lý, Tiếng Anh) mà cháu đang học."
+},
+{
+  "input": "Em muốn xét tuyển vào ngành Kinh tế thì cần thi những môn nào?",
+  "output": "Ngành Kinh tế xét tuyển các tổ hợp A00, A01, D01, và D07 em nhé."
+},
+{
+  "input": "Cho em hỏi ngành Luật lấy tổ hợp xét tuyển nào ạ?",
+  "output": "Ngành Luật xét tuyển tổ hợp C00 (Ngữ văn, Lịch sử, Địa lý) hoặc D01 (Toán, Ngữ văn, Tiếng Anh) em nhé!"
+},
+{
+  "input": "Em muốn học Ngôn ngữ Anh thì cần thi tổ hợp gì ạ?",
+  "output": "Em có thể lựa chọn một trong các tổ hợp A01, D01, D07 hoặc D08 để xét tuyển vào ngành Ngôn ngữ Anh." 
+},
+{
+  "input": "Cho em hỏi mã tuyển sinh của ngành Kỹ thuật xây dựng công trình thủy là gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng công trình thủy là TLA101 em nhé."
+},
+{
+  "input": "Ngành Kỹ thuật xây dựng có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Kỹ thuật xây dựng dân dụng và công nghiệp có mã tuyển sinh là TLA104."
+},
+{
+  "input": "Em muốn thi ngành Công nghệ kỹ thuật xây dựng thì đăng ký mã ngành nào?",
+  "output": "Mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng là TLA111 em nhé."
+},
+{
+  "input": "Mã ngành của Kỹ thuật xây dựng công trình giao thông là gì ạ?",
+  "output": "Em có thể đăng ký ngành Kỹ thuật xây dựng công trình giao thông với mã là TLA113." 
+},
+{
+  "input": "Cho em hỏi mã ngành Quản lý xây dựng là gì?",
+  "output": "Mã tuyển sinh của ngành Quản lý xây dựng là TLA114."
+},
+{
+  "input": "Ngành Kỹ thuật tài nguyên nước có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật tài nguyên nước là TLA102."
+},
+{
+  "input": "Em muốn thi vào ngành Kỹ thuật cấp thoát nước thì phải đăng ký mã ngành nào?",
+  "output": "Em đăng ký mã ngành TLA107 để xét tuyển vào ngành Kỹ thuật cấp thoát nước."
+},
+{
+  "input": "Cho em hỏi mã ngành Kỹ thuật cơ sở hạ tầng là gì ạ?",
+  "output": "Ngành Kỹ thuật cơ sở hạ tầng có tên đầy đủ là Xây dựng và quản lý hạ tầng đô thị và có mã tuyển sinh là TLA110." 
+},
+{
+  "input": "Em muốn đăng ký ngành Thủy văn học thì điền mã ngành nào?",
+  "output": "Ngành Thủy văn học thuộc nhóm ngành Tài nguyên nước và môi trường, có mã tuyển sinh là TLA103 em nhé."
+},
+{
+  "input": "Mã ngành Công nghệ sinh học là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Công nghệ sinh học là TLA119." 
+},
+{
+  "input": "Em không biết mã tuyển sinh của ngành Kỹ thuật môi trường là gì?",
+  "output": "Ngành Kỹ thuật môi trường có mã tuyển sinh là TLA109 em nhé." 
+},
+{
+  "input": "Ngành Kỹ thuật hóa học có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật hóa học là TLA118."
+},
+{
+  "input": "Cho em biết mã ngành Công nghệ thông tin là gì ạ?",
+  "output": "Ngành Công nghệ thông tin có mã tuyển sinh là TLA106." 
+},
+{
+  "input": "Em muốn đăng ký ngành Hệ thống thông tin thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Hệ thống thông tin là TLA116."
+},
+{
+  "input": "Mã ngành Kỹ thuật phần mềm là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật phần mềm là TLA117." 
+},
+{
+  "input": "Cho em hỏi mã ngành Trí tuệ nhân tạo và khoa học dữ liệu là gì?",
+  "output": "Mã tuyển sinh của ngành Trí tuệ nhân tạo và khoa học dữ liệu là TLA126." 
+},
+{
+  "input": "Ngành An ninh mạng có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành An ninh mạng là TLA127."
+},
+{
+  "input": "Kỹ thuật cơ khí có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Kỹ thuật cơ khí có mã tuyển sinh là TLA105." 
+},
+{
+  "input": "Em muốn đăng ký ngành Kỹ thuật ô tô thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật ô tô là TLA123."
+},
+{
+  "input": "Mã ngành Kỹ thuật cơ điện tử là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật cơ điện tử là TLA120." 
+},
+{
+  "input": "Cho em hỏi mã ngành Kỹ thuật điện là gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật điện là TLA112." 
+},
+{
+  "input": "Ngành Kỹ thuật điều khiển và tự động hóa có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật điều khiển và tự động hóa là TLA121."
+},
+{
+  "input": "Kỹ thuật điện tử - viễn thông có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Kỹ thuật điện tử - viễn thông có mã tuyển sinh là TLA124." 
+},
+{
+  "input": "Em muốn đăng ký ngành Kỹ thuật Robot và Điều khiển thông minh thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật Robot và Điều khiển thông minh là TLA128."
+},
+{
+  "input": "Mã ngành Kinh tế là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Kinh tế là TLA401." 
+},
+{
+  "input": "Cho em hỏi mã ngành Quản trị kinh doanh là gì?",
+  "output": "Mã tuyển sinh của ngành Quản trị kinh doanh là TLA402." 
+},
+{
+  "input": "Ngành Kế toán có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Kế toán là TLA403."
+},
+{
+  "input": "Kinh tế xây dựng có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Kinh tế xây dựng có mã tuyển sinh là TLA404." 
+},
+{
+  "input": "Em muốn đăng ký ngành Logistics và quản lý chuỗi cung ứng thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Logistics và quản lý chuỗi cung ứng là TLA407."
+},
+{
+  "input": "Mã ngành Quản trị dịch vụ du lịch và lữ hành là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Quản trị dịch vụ du lịch và lữ hành là TLA406." 
+},
+{
+  "input": "Cho em hỏi mã ngành Thương mại điện tử là gì?",
+  "output": "Mã tuyển sinh của ngành Thương mại điện tử là TLA405." 
+},
+{
+  "input": "Ngành Tài chính – Ngân hàng có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Tài chính – Ngân hàng là TLA408."
+},
+{
+  "input": "Kế toán có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Kiểm toán có mã tuyển sinh là TLA409." 
+},
+{
+  "input": "Em muốn đăng ký ngành Kinh tế số thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Kinh tế số là TLA410."
+},
+{
+  "input": "Mã ngành Luật là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Luật là TLA301." 
+},
+{
+  "input": "Cho em hỏi mã ngành Luật kinh tế là gì?",
+  "output": "Mã tuyển sinh của ngành Luật kinh tế là TLA302." 
+},
+{
+  "input": "Ngành Ngôn ngữ Anh có mã tuyển sinh là gì?",
+  "output": "Mã tuyển sinh của ngành Ngôn ngữ Anh là TLA203."
+},
+{
+  "input": "Ngôn ngữ Trung Quốc có mã tuyển sinh là gì vậy ạ?",
+  "output": "Ngành Ngôn ngữ Trung Quốc có mã tuyển sinh là TLA204." 
+},
+{
+  "input": "Em muốn đăng ký ngành Kỹ thuật xây dựng theo chương trình tiên tiến thì điền mã ngành gì?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng theo chương trình tiên tiến là TLA201."
+},
+{
+  "input": "Mã ngành Kỹ thuật tài nguyên nước theo chương trình tiên tiến là gì ạ?",
+  "output": "Mã tuyển sinh của ngành Kỹ thuật tài nguyên nước theo chương trình tiên tiến là TLA202." 
+},
+{
+  "input": "Ngành Công nghệ sinh học sử dụng tổ hợp nào để xét tuyển thẳng?",
+  "output": "Ngành Công nghệ sinh học sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Kỹ thuật môi trường là gì?",
+  "output": "Ngành Kỹ thuật môi trường sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Kỹ thuật hóa học là gì vậy ạ?",
+  "output": "Ngành Kỹ thuật hóa học sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Công nghệ thông tin là gì?",
+  "output": "Ngành Công nghệ thông tin sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Hệ thống thông tin là gì ạ?",
+  "output": "Ngành Hệ thống thông tin sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Kỹ thuật phần mềm là gì?",
+  "output": "Ngành Kỹ thuật phần mềm sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Trí tuệ nhân tạo và khoa học dữ liệu là gì vậy ạ?",
+  "output": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành An ninh mạng là gì?",
+  "output": "Ngành An ninh mạng sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Kỹ thuật cơ khí là gì?",
+  "output": "Ngành Kỹ thuật cơ khí sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Kỹ thuật ô tô là gì ạ?",
+  "output": "Ngành Kỹ thuật ô tô sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Tổ hợp xét tuyển thẳng của ngành Ngôn ngữ Anh là gì?",
+  "output": "Ngành Ngôn ngữ Anh sử dụng tổ hợp K00 để xét tuyển thẳng."
+},
+{
+  "input": "Em muốn xét tuyển vào Đại học Thủy Lợi bằng chứng chỉ IELTS, trường có xét tuyển như vậy không?",
+  "output": "Chào em, trường Đại học Thủy Lợi có xét tuyển bằng chứng chỉ IELTS em nhé."
+},
+{
+  "input": "Em có chứng chỉ TOEFL, vậy em có thể xét tuyển vào trường bằng chứng chỉ này không ạ?",
+  "output": "Chào em, trường cũng có xét tuyển bằng chứng chỉ TOEFL em nhé."
+},
+{
+  "input": "Ngoài IELTS và TOEFL thì trường mình còn xét tuyển những chứng chỉ nào khác nữa?",
+  "output": "Ngoài IELTS và TOEFL, trường còn xét tuyển các chứng chỉ tiếng Anh khác như TOEIC, chứng chỉ tiếng Trung HSK, tiếng Hàn TOPIK II, tiếng Nhật JLPT, tiếng Đức TestDaF và tiếng Pháp CTF." 
+},
+{
+  "input": "Em có chứng chỉ tiếng Nhật N3, vậy em có thể xét tuyển vào trường được không ạ?",
+  "output": "Chào em, với chứng chỉ tiếng Nhật N3 em có thể đăng ký xét tuyển vào trường theo phương thức xét tuyển kết hợp kết quả học tập THPT và các điều kiện ưu tiên hoặc xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2024."
+},
+{
+  "input": "Chứng chỉ ngoại ngữ có yêu cầu về thời hạn không ạ?",
+  "output": "Có em nhé, chứng chỉ ngoại ngữ của em phải còn thời hạn đến ngày xét tuyển thì mới hợp lệ."
+},
+{
+  "input": "Em muốn biết cụ thể hơn về cách quy đổi điểm của chứng chỉ ngoại ngữ như thế nào?",
+  "output": "Về cách quy đổi điểm của chứng chỉ ngoại ngữ, em có thể xem thông tin chi tiết trong mục 2.2 và 2.3 của file Thông báo tuyển sinh mà em đã tải lên nhé."
+}, 
+{
+"input": "Em có chứng chỉ tiếng Anh, em muốn xét tuyển vào ngành Ngôn ngữ Anh thì có được cộng điểm không ạ?",
+"output": "Chào em, có em nhé. Em sẽ được cộng điểm vào điểm xét tuyển theo quy định của trường." 
+},
+{
+"input": "Điểm cộng cho chứng chỉ ngoại ngữ được tính như thế nào ạ?",
+"output": "Điểm cộng cho chứng chỉ ngoại ngữ sẽ được tính dựa trên bậc ngoại ngữ trong Khung năng lực ngoại ngữ Việt Nam tương ứng với chứng chỉ của em." 
+},
+{
+"input": "Em có chứng chỉ tiếng Anh B1, vậy em sẽ được cộng bao nhiêu điểm ạ?",
+"output": "Chào em, chứng chỉ B1 tương đương với Bậc 3 trong Khung năng lực ngoại ngữ Việt Nam, em sẽ được cộng 1 điểm vào điểm xét tuyển." 
+},
+{
+  "input": "Em có chứng chỉ tiếng Anh B2, em sẽ được cộng bao nhiêu điểm?",
+  "output": "Chào em, chứng chỉ tiếng Anh B2 tương đương Bậc 4, em sẽ được cộng 2 điểm vào điểm xét tuyển."
+},
+{
+  "input": "Nếu em có chứng chỉ IELTS 7.0 thì sao ạ?",
+  "output": "Chào em, chứng chỉ IELTS 7.0 tương đương Bậc 5 trở lên, em sẽ được cộng 3 điểm vào điểm xét tuyển." 
+},
+{
+  "input": "Em có chứng chỉ HSK 4, em muốn đăng ký vào ngành Ngôn ngữ Trung, vậy em có được cộng điểm không?",
+  "output": "Chào em, có em nhé. Em sẽ được cộng 2 điểm vào điểm xét tuyển." 
+},
+{
+  "input": "Em thấy trong thông báo tuyển sinh có phương thức xét tuyển kết hợp chứng chỉ ngoại ngữ với điểm thi THPT, vậy điểm chứng chỉ được quy đổi như thế nào ạ?",
+  "output": "Chào em, điểm chứng chỉ ngoại ngữ sẽ được quy đổi thành điểm thi môn ngoại ngữ trong tổ hợp xét tuyển mà em đăng ký. Em có thể xem bảng quy đổi điểm chi tiết trong mục 2.3 của file Thông báo tuyển sinh nhé."
+},
+
+  {
+    "input": "Chuẩn đầu ra của ngành Kỹ thuật xây dựng công trình giao thông là gì?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật xây dựng công trình giao thông được trang bị kiến thức chuyên môn vững chắc, kỹ năng chuyên nghiệp và phẩm chất cần thiết để thành công trong lĩnh vực giao thông vận tải, bao gồm khả năng tham gia xây dựng, quản lý và vận hành các công trình giao thông."
+  },
+  {
+    "input": "Chương trình đào tạo ngành Kỹ thuật xây dựng công trình giao thông kéo dài bao lâu?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật xây dựng công trình giao thông kéo dài 4,5 năm, tương đương với 9 học kỳ."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng công trình giao thông có những hướng chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật xây dựng công trình giao thông có 2 hướng chuyên ngành chính: Kỹ thuật xây dựng công trình đường bộ và sân bay, và Kỹ thuật xây dựng công trình cầu và công trình hầm."
+  },
+  {
+    "input": "Em có thể tìm hiểu thông tin tuyển sinh của ngành ở đâu?",
+    "output": "Thông tin tuyển sinh của ngành Kỹ thuật xây dựng công trình giao thông được đăng tải trên website của trường: http://ts.tlu.edu.vn/tuyen-sinh-dai-hoc"
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng công trình thủy có những hướng chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật xây dựng công trình thủy có 4 hướng chuyên ngành chính: Kỹ thuật xây dựng công trình thủy, Thủy điện và công trình năng lượng, Quản lý xây dựng và Công trình biển và đường thủy."
+  },
+  {
+    "input": "Sau khi tốt nghiệp ngành Kỹ thuật xây dựng công trình thủy, em có thể làm việc ở những đâu?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc tại các cơ quan quản lý nhà nước, viện nghiên cứu, công ty tư vấn, thiết kế, thi công, giám sát, quản lý dự án trong lĩnh vực thủy lợi, thủy điện, cảng biển, giao thông thủy và bảo vệ bờ biển."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng có những hướng chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật xây dựng có 2 hướng chuyên ngành chính: Xây dựng dân dụng và công nghiệp, và Địa kỹ thuật và công trình ngầm."
+  },
+  {
+    "input": "Em muốn tìm hiểu về các phương thức xét tuyển của ngành Kỹ thuật xây dựng, em có thể xem ở đâu?",
+    "output": "Thông tin chi tiết về các phương thức xét tuyển của ngành Kỹ thuật xây dựng được đăng tải trên website của trường: http://www.tlu.edu.vn/tuyen-sinh-dhtl/Thông báo tuyển sinh đại học chính quy năm 2023 (TLA) (tlu.edu.vn)"
+  }, 
+  {
+    "input": "Ngành Công nghệ kỹ thuật xây dựng trang bị những kiến thức và kỹ năng gì cho sinh viên?",
+    "output": "Ngành Công nghệ kỹ thuật xây dựng trang bị cho sinh viên kiến thức chuyên sâu về công nghệ kỹ thuật xây dựng, tổ chức và quản lý dự án, luật xây dựng và hợp đồng xây dựng, cùng với kỹ năng thiết kế, tổ chức thi công và điều hành, quản lý các công trình xây dựng."
+  },
+  {
+    "input": "Cơ hội việc làm sau khi tốt nghiệp ngành Công nghệ kỹ thuật xây dựng như thế nào?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc tại các cơ quan tư vấn, thiết kế, giám sát, thi nghiệm, kiểm định chất lượng công trình, các đơn vị thi công, cơ sở sản xuất vật liệu xây dựng, cơ quan quản lý nhà nước về xây dựng, và các cơ sở đào tạo, viện nghiên cứu chuyên ngành."
+  },
+  
+    {
+      "input": "Ngành Kỹ thuật xây dựng công trình giao thông có yêu cầu về trình độ tiếng Anh đầu ra không?",
+      "output": "Có, sinh viên tốt nghiệp cần đạt trình độ tiếng Anh B1 theo Khung năng lực ngoại ngữ 6 bậc Việt Nam hoặc tương đương." 
+    },
+    {
+      "input": "Em muốn tìm hiểu về các môn học thuộc khối kiến thức cơ sở ngành của ngành Kỹ thuật xây dựng công trình giao thông, gồm những môn nào?",
+      "output": "Khối kiến thức cơ sở ngành của ngành bao gồm các môn như: Vật liệu xây dựng, Cơ học đất, Ổn định và động lực học công trình, Thủy văn công trình, Đánh giá tác động môi trường, Nền móng, và Kết cấu thép trong xây dựng."
+    },
+    {
+      "input": "Sinh viên ngành Kỹ thuật xây dựng công trình giao thông có cơ hội học tập nâng cao trình độ sau khi tốt nghiệp không?",
+      "output": "Có, sinh viên tốt nghiệp có thể du học nước ngoài, học văn bằng 2, hoặc học lên Thạc sĩ, Tiến sĩ chuyên ngành Kỹ thuật xây dựng công trình giao thông hoặc các ngành kỹ thuật khác tại các trường đại học trong và ngoài nước."
+    },
+    {
+      "input": "Khối kiến thức ngành của ngành Kỹ thuật xây dựng công trình thủy gồm những môn học nào?",
+      "output": "Khối kiến thức ngành bao gồm các môn như: Nhập môn ngành Kỹ thuật xây dựng công trình thủy, Kết cấu thép, Kết cấu bê tông cốt thép, Giới thiệu và cơ sở thiết kế công trình thủy, Cơ sở thiết kế Công trình biển và đường thủy, Đập và hồ chứa, Thủy năng và thiết bị thủy điện, Công trình đường thủy, Công trình trạm thủy điện, Thi công 1, Công trình bảo vệ bờ biển, Thiết kế cảng và công trình bến, và Thi công 2 (công trình thủy)."
+    },
+    {
+      "input": "Em muốn đăng ký học ngành Kỹ thuật xây dựng, điểm trung bình 3 năm học THPT của em cần đạt bao nhiêu?",
+      "output": "Điểm xét tuyển của ngành Kỹ thuật xây dựng phụ thuộc vào phương thức xét tuyển và điểm chuẩn hằng năm. Bạn có thể tham khảo thông tin chi tiết trên website tuyển sinh của trường hoặc liên hệ với phòng đào tạo để được tư vấn cụ thể."
+    },
+    {
+      "input": "Ngành Công nghệ kỹ thuật xây dựng có những môn học tự chọn nào?", 
+      "output": "Ngành có các môn tự chọn như: Tin học ứng dụng trong kỹ thuật công trình, Ứng dụng BIM trong xây dựng, Kết cấu bê tông ứng suất trước, Kết cấu thép, Đồ án kết cấu bê tông cốt thép, Nền móng và tầng hầm nhà nhiều tầng, Thực nghiệm kết cấu công trình, Đánh giá tác động môi trường, Thiết kế đê và công trình bảo vệ bờ sông, Công nghệ xây dựng nhà, Kỹ năng chỉ đạo dự án xây dựng, Thiết kế công trình ngầm, Đồ án nền móng, và Máy bơm và trạm bơm."
+    },
+  {
+    "input": "Em muốn hỏi về khối lượng kiến thức toàn khóa học của ngành Kỹ thuật xây dựng công trình giao thông?",
+    "output": "Khối lượng kiến thức toàn khóa học của ngành là 155 tín chỉ, không bao gồm các môn Giáo dục thể chất và Giáo dục Quốc phòng."
+  },
+  {
+    "input": "Em là sinh viên năm 3 ngành Kỹ thuật xây dựng công trình giao thông, vậy em thuộc năm đào tạo nào?",
+    "output": "Em thuộc năm đào tạo thứ ba nếu đã tích lũy được từ 60 đến dưới 90 tín chỉ."
+  },
+  {
+    "input": "Chương trình đào tạo của ngành Kỹ thuật xây dựng công trình thủy được tham khảo từ những trường nào?",
+    "output": "Chương trình được tham khảo từ các trường như Đại học Xây dựng, Đại học Bách khoa Đà Nẵng, và Đại học Bách khoa - Đại học Quốc gia TP Hồ Chí Minh." 
+  },
+  {
+    "input": "Điểm trung bình tích lũy như thế nào thì sinh viên ngành Kỹ thuật xây dựng được xếp loại học lực yếu?", 
+    "output": "Sinh viên sẽ bị xếp loại học lực yếu nếu điểm trung bình chung tích lũy dưới 2.00."
+  },
+  {
+    "input": "Em muốn biết về cấu trúc chương trình đào tạo ngành Kỹ thuật xây dựng?", 
+    "output": "Chương trình bao gồm 2 khối kiến thức chính: Khối kiến thức đại cương (43 tín chỉ) và Khối kiến thức giáo dục chuyên nghiệp (112 tín chỉ)."
+  },
+  {
+    "input": "Em muốn hỏi về điều kiện để được xét chuyển ngành?",
+    "output": "Em có thể xin chuyển ngành nếu thuộc các trường hợp: gia đình chuyển nơi cư trú, gặp hoàn cảnh khó khăn, hoặc chuyển đến trường gần nơi cư trú hơn để thuận tiện cho việc học tập. Tuy nhiên, ngành chuyển đến cần cùng ngành hoặc cùng nhóm ngành với ngành hiện tại và phải được sự đồng ý của Hiệu trưởng cả hai trường."
+  },
+  {
+    "input": "Điểm học phần được tính như thế nào?", 
+    "output": "Điểm học phần là tổng điểm của tất cả các điểm đánh giá bộ phận nhân với trọng số tương ứng, sau đó được làm tròn đến một chữ số thập phân và chuyển đổi thành điểm chữ."
+  },
+  {
+    "input": "Em muốn biết ngành Công nghệ kỹ thuật xây dựng có bao nhiêu tín chỉ tự chọn?",
+    "output": "Ngành Công nghệ kỹ thuật xây dựng có 5 tín chỉ tự chọn."
+  },
+  {
+    "input": "Sinh viên ngành Kỹ thuật xây dựng công trình thủy được cấp bằng gì sau khi tốt nghiệp?",
+    "output": "Sinh viên tốt nghiệp được cấp bằng Kỹ sư ngành Kỹ thuật xây dựng công trình thủy." 
+  },
+  {
+    "input": "Em muốn tham khảo bảng mô tả tóm tắt các môn học của ngành Kỹ thuật xây dựng, em có thể tìm ở đâu?",
+    "output": "Em có thể tham khảo bảng mô tả tóm tắt các môn học trong Phụ lục 2 của Bản mô tả chương trình đào tạo ngành Kỹ thuật xây dựng." 
+  },
+
+{
+    "input": "Em muốn hỏi về thời gian tối đa để hoàn thành chương trình đào tạo của ngành Kỹ thuật xây dựng công trình giao thông?",
+    "output": "Thời gian tối đa để hoàn thành chương trình đào tạo là 7 năm."
+  },
+  {
+    "input": "Điểm trung bình tích lũy như thế nào thì sinh viên ngành Công nghệ kỹ thuật xây dựng được xếp loại giỏi?",
+    "output": "Sinh viên sẽ được xếp loại giỏi nếu có điểm trung bình chung tích lũy từ 3,20 đến 3,59."
+  },
+  {
+    "input": "Em muốn biết ngành Kỹ thuật xây dựng công trình giao thông được xây dựng dựa trên những chương trình nào?",
+    "output": "Chương trình được xây dựng dựa trên khung chương trình quốc gia và tham khảo từ các chương trình ngành Công trình giao thông của các trường khác."
+  },
+  {
+    "input": "Mục tiêu của chương trình đào tạo ngành Kỹ thuật xây dựng là gì?", 
+    "output": "Mục tiêu của chương trình là đào tạo kỹ sư xây dựng có phẩm chất chính trị, đạo đức tốt, có sức khỏe, năng lực làm việc, đáp ứng yêu cầu xây dựng và bảo vệ Tổ quốc."
+  }, 
+  {
+    "input": "Bảng mô tả tóm tắt các môn học của ngành Công nghệ kỹ thuật xây dựng nằm ở phần nào?",
+    "output": "Bảng mô tả tóm tắt các môn học nằm ở Phần I: NỘI DUNG MÔN HỌC của Bản mô tả môn học thuộc ngành Công nghệ kỹ thuật xây dựng."
+  },
+  {
+    "input": "Em muốn hỏi về hình thức đào tạo của ngành Kỹ thuật xây dựng công trình giao thông?",
+    "output": "Ngành Kỹ thuật xây dựng công trình giao thông được đào tạo theo hình thức tập trung." 
+  },
+  {
+    "input": "Môn học nào là môn tiên quyết của môn Địa chất công trình?",
+    "output": "Môn Cơ học chất lỏng, Sức bền vật liệu, và Trắc địa là những môn tiên quyết của môn Địa chất công trình." 
+  },
+  {
+    "input": "Em muốn tìm hiểu về các môn học tự chọn của ngành Kỹ thuật xây dựng công trình thủy, gồm những môn nào?", 
+    "output": "Ngành có các môn tự chọn như: Đồ án thủy năng và thiết bị thủy điện, Các nguồn năng lượng tái tạo, Đồ án các nguồn năng lượng tái tạo, Đồ án cơ sở thiết kế công trình cảng, đường thủy, Quy hoạch cảng, Thiết kế theo độ tin cậy và rủi ro, Máy bơm và trạm bơm, Thực nghiệm kết cấu công trình, Quản lý đầu tư xây dựng, Đồ án thiết kế nhà máy thủy điện, Đồ án thiết kế tuyến năng lượng của trạm thủy điện, Vận hành trạm thủy điện, Tin học ứng dụng trong thủy điện, Đồ án thiết kế cảng và công trình bến cảng, Đồ án công trình đường thủy, Công trình bảo vệ cảng và đập phá sóng, Công trình trên hệ thống thủy lợi, Đồ án đập đất, Đồ án đập bê tông, Đồ án công trình trên hệ thống thủy lợi, Quy hoạch hệ thống thủy lợi, Đồ án thiết kế đê và công trình bảo vệ bờ sông, Đồ án thiết kế công trình bảo vệ bờ biển, Tin học ứng dụng trong kỹ thuật biển, Quản lý biển và đới bờ, và Quy hoạch và ra quyết định trong kỹ thuật biển." 
+  },
+  {
+    "input": "Sinh viên ngành Kỹ thuật xây dựng cần tích lũy bao nhiêu tín chỉ để được xét tốt nghiệp?",
+    "output": "Sinh viên cần tích lũy đủ 155 tín chỉ theo chương trình đào tạo để được xét tốt nghiệp."
+  },
+  {
+    "input": "Em có thể tìm hiểu thông tin về chuẩn đầu ra của ngành Công nghệ kỹ thuật xây dựng ở đâu?",
+    "output": "Em có thể xem thông tin chi tiết về chuẩn đầu ra trong Bản mô tả chương trình đào tạo ngành: Công nghệ kỹ thuật xây dựng."
+  },
+  {
+    "input": "Em muốn biết về khối lượng kiến thức toàn khóa học của ngành Kỹ thuật xây dựng công trình thủy?",
+    "output": "Khối lượng kiến thức toàn khóa học của ngành là 155 tín chỉ, không bao gồm các môn Giáo dục thể chất và Giáo dục Quốc phòng."
+  },
+  {
+    "input": "Em muốn tìm hiểu về các môn học thuộc khối kiến thức cơ sở ngành của ngành Kỹ thuật xây dựng, gồm những môn nào?",
+    "output": "Khối kiến thức cơ sở ngành của ngành Kỹ thuật xây dựng bao gồm các môn như: Vật liệu xây dựng, Ổn định và động lực học công trình, Phương pháp phần tử hữu hạn, Cơ học đất, Nền móng, Kinh tế xây dựng 1, Kết cấu thép trong xây dựng, và Đánh giá tác động môi trường."
+  },
+  {
+    "input": "Học phần tốt nghiệp của ngành Kỹ thuật xây dựng công trình thủy gồm những gì?", 
+    "output": "Học phần tốt nghiệp bao gồm Thực tập tốt nghiệp ngành Kỹ thuật xây dựng công trình thủy và Đồ án tốt nghiệp. Thực tập tốt nghiệp giúp sinh viên áp dụng kiến thức vào thực tế tại các công ty, công trường xây dựng. Đồ án tốt nghiệp là một dự án thiết kế hoặc nghiên cứu chuyên sâu về một chủ đề cụ thể trong ngành." 
+  },
+  {
+    "input": "Em muốn biết cách tính điểm trung bình chung học kỳ?",
+    "output": "Điểm trung bình chung học kỳ là điểm trung bình có trọng số của các học phần mà người học đăng ký học trong học kỳ đó, với trọng số là số tín chỉ tương ứng của từng học phần."
+  }, 
+  {
+    "input": "Em muốn tham khảo ma trận chuẩn đầu ra của ngành Kỹ thuật xây dựng, em có thể tìm ở đâu?",
+    "output": "Em có thể tham khảo ma trận chuẩn đầu ra trong Bản mô tả chương trình đào tạo ngành: Kỹ thuật xây dựng."
+  },
+  {
+    "input": "Em muốn hỏi về mục tiêu của chương trình đào tạo ngành Kỹ thuật xây dựng công trình giao thông?",
+    "output": "Chương trình đào tạo nhằm mục đích đào tạo kỹ sư có phẩm chất chính trị, đạo đức tốt, có sức khỏe, năng lực làm việc nhóm, đáp ứng yêu cầu xây dựng và bảo vệ Tổ quốc, đồng thời trang bị kiến thức chuyên môn, kỹ năng chuyên nghiệp và phẩm chất cần thiết để thành công trong lĩnh vực giao thông vận tải."
+  },
+  {
+    "input": "Em muốn biết về điều kiện để được công nhận tốt nghiệp ngành Kỹ thuật xây dựng công trình thủy?",
+    "output": "Để được công nhận tốt nghiệp, sinh viên cần đáp ứng các điều kiện sau: Không vi phạm pháp luật hoặc bị kỷ luật, tích lũy đủ số tín chỉ theo yêu cầu (155 tín chỉ), đạt điểm trung bình chung tích lũy từ 2.00 trở lên, hoàn thành các yêu cầu về kết quả học tập, có chứng chỉ giáo dục quốc phòng và giáo dục thể chất, và đạt chuẩn đầu ra tiếng Anh (B1 theo khung châu Âu)." 
+  },
+  {
+    "input": "Cấu trúc chương trình đào tạo của ngành Kỹ thuật xây dựng công trình thủy gồm những khối kiến thức nào?",
+    "output": "Chương trình bao gồm 2 khối kiến thức chính: Khối kiến thức đại cương (43 tín chỉ) và Khối kiến thức giáo dục chuyên nghiệp (112 tín chỉ), bao gồm kiến thức cơ sở khối ngành, kiến thức cơ sở ngành, kiến thức ngành, kiến thức tự chọn, và thực tập tốt nghiệp, đồ án tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết khi nào thì sinh viên ngành Kỹ thuật xây dựng bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học nếu thuộc một trong các trường hợp: Điểm trung bình chung học kỳ hoặc tích lũy dưới mức quy định, vượt quá thời gian tối đa được phép học, hoặc bị kỷ luật nhiều lần."
+  },
+  {
+    "input": "Em muốn hỏi về các môn học thuộc khối kiến thức đại cương của ngành Công nghệ kỹ thuật xây dựng?",
+    "output": "Khối kiến thức đại cương bao gồm các môn học về Lý luận chính trị, Kỹ năng mềm và tinh thần khởi nghiệp, Khoa học tự nhiên và Tin học, và Tiếng Anh."
+  },
+  {
+    "input": "Em muốn biết ngành Kỹ thuật xây dựng công trình giao thông có những môn học nào?",
+    "output": "Chương trình đào tạo của ngành bao gồm các môn học thuộc khối kiến thức đại cương và chuyên nghiệp. Em có thể tham khảo chi tiết danh sách các môn học và kế hoạch học tập theo từng học kỳ trong Bảng 2 của Bản mô tả chương trình đào tạo." 
+  },
+  {
+    "input": "Em muốn tìm hiểu về các môn học tự chọn của ngành Kỹ thuật xây dựng, gồm những môn nào?",
+    "output": "Ngành có các môn tự chọn như: Mố trụ cầu, Thiết kế Cầu thép, Công nghệ xây dựng nhà, An toàn xây dựng, Nền móng và tầng hầm nhà nhiều tầng, Thiết kế công trình ngầm, và Sửa chữa và gia cường kết cấu."
+  },
+  {
+    "input": "Sinh viên ngành Công nghệ kỹ thuật xây dựng cần đạt những yêu cầu gì để được xét tốt nghiệp?", 
+    "output": "Sinh viên cần đáp ứng các điều kiện sau: Không vi phạm pháp luật hoặc bị kỷ luật, tích lũy đủ số tín chỉ theo yêu cầu (155 tín chỉ), đạt điểm trung bình chung tích lũy từ 2.00 trở lên, hoàn thành các yêu cầu về kết quả học tập, có chứng chỉ giáo dục quốc phòng và giáo dục thể chất, và đạt chuẩn đầu ra tiếng Anh (A2 theo khung châu Âu)." 
+  },
+  {
+    "input": "Mục tiêu cụ thể của chương trình đào tạo ngành Kỹ thuật xây dựng công trình giao thông là gì?",
+    "output": "Chương trình đào tạo nhằm trang bị cho sinh viên kiến thức cơ sở chuyên môn vững chắc, năng lực tham gia xây dựng, quản lý và vận hành các công trình giao thông, kỹ năng chuyên nghiệp và phẩm chất cần thiết để thành công trong nghề nghiệp, kỹ năng xã hội cần thiết để làm việc hiệu quả trong môi trường hội nhập quốc tế, và có trình độ tiếng Anh đạt chuẩn."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng có bao nhiêu tín chỉ tự chọn?",
+    "output": "Ngành Kỹ thuật xây dựng có 4 tín chỉ tự chọn."
+  },
+    {
+      "input": "Em muốn biết về thời gian đào tạo của ngành Kỹ thuật xây dựng công trình thủy?",
+      "output": "Chương trình đào tạo ngành Kỹ thuật xây dựng công trình thủy kéo dài 4,5 năm, tương đương với 9 học kỳ."
+    },
+    {
+      "input": "Em muốn hỏi về các môn học thuộc khối kiến thức cơ sở ngành của ngành Công nghệ kỹ thuật xây dựng?",
+      "output": "Khối kiến thức cơ sở ngành của ngành bao gồm các môn như: Vật liệu xây dựng, Cơ học đất, Nền móng, Thủy lực công trình, Thủy văn công trình, Kỹ thuật điện, Kết cấu bê tông cốt thép trong xây dựng, và Kinh tế xây dựng 1."
+    },
+    {
+      "input": "Sau khi tốt nghiệp ngành Kỹ thuật xây dựng, em có thể học lên những ngành nào?", 
+      "output": "Sinh viên tốt nghiệp có thể học lên Thạc sĩ, Tiến sĩ chuyên ngành Kỹ thuật xây dựng hoặc các ngành kỹ thuật khác tại các trường đại học trong và ngoài nước." 
+    },
+
+  {
+    "input": "Em muốn hỏi về chuẩn đầu ra của sinh viên ngành Kỹ thuật Cơ khí sau khi tốt nghiệp?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật Cơ khí sẽ có kiến thức, kỹ năng, năng lực tự chủ và trách nhiệm, phẩm chất đạo đức tốt, sẵn sàng làm việc trong công nghiệp, thương mại, dịch vụ, có khả năng tự hoàn thiện và phát triển."
+  },
+  {
+    "input": "Vậy cụ thể hơn về kiến thức chuyên ngành thì sao?",
+    "output": "Sinh viên sẽ được trang bị kiến thức chuyên sâu trong lĩnh vực kỹ thuật cơ khí, đặc biệt là cơ sở kỹ thuật ngành rộng, chuyên ngành máy xây dựng và máy thủy lực, thiết bị thủy lợi, thủy điện, cơ giới hóa xây dựng, kỹ thuật hệ thống công nghiệp, Công nghệ Cơ khí."
+  },
+  {
+    "input": "Nghe hay đấy! Vậy còn kỹ năng thì sao?",
+    "output": "Sinh viên sẽ có kỹ năng cần thiết để giải quyết các vấn đề phức tạp trong chuyên ngành, kỹ năng chuyển tải, phổ biến kiến thức, kỹ năng trong việc thực hiện những nhiệm vụ cụ thể trong lĩnh vực cơ khí. Ngoài ra còn có kỹ năng truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc trong lĩnh vực chuyên ngành và kỹ năng đánh giá chất lượng công việc sau khi hoàn thành." 
+  },
+  {
+    "input": "Trường có đào tạo kỹ năng tin học và ngoại ngữ cho sinh viên không?",
+    "output": "Có chứ. Sinh viên sẽ được học để sử dụng thành thạo tin học văn phòng và một số phần mềm ứng dụng trong lĩnh vực kỹ thuật cơ khí. Ngoại ngữ thì sinh viên tốt nghiệp sẽ có năng lực tiếng Anh bậc 3/6 khung năng lực ngoại ngữ Việt Nam."
+  },
+  {
+    "input": "Ngành Kỹ thuật Cơ khí có bao nhiêu chuyên ngành?",
+    "output": "Ngành Kỹ thuật Cơ khí có 4 chuyên ngành: Ô tô chuyên dùng và Máy xây dựng, Quản lý máy và hệ thống kỹ thuật công nghiệp, Công nghệ cơ khí, Tự động hóa sản xuất công nghiệp."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chương trình đào tạo ngành Kỹ thuật Ô tô, trợ lý có thể cung cấp thông tin được không?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Ô tô hướng đến đào tạo kỹ sư có trình độ chuyên môn cao, kỹ năng thực hành giỏi, có phẩm chất đạo đức và đạo đức nghề nghiệp tốt, sẵn sàng làm việc trong lĩnh vực công nghiệp ô tô."
+  },
+  {
+    "input": "Vậy sinh viên tốt nghiệp ngành này có thể làm những công việc gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc tại các doanh nghiệp, nhà máy thuộc lĩnh vực ô tô hoặc các lĩnh vực có liên quan như kỹ thuật cơ khí hàng không, kỹ thuật tự động hóa, kỹ thuật y học với các vị trí: Chuyên viên kỹ thuật, thiết kế, chế tạo, vận hành ô tô, nghiên cứu và phát triển sản phẩm ô tô, tư vấn thiết kế, triển khai công nghệ, quản lý sản xuất. Ngoài ra, kỹ sư Ô tô cũng có thể làm việc tại các cơ quan quản lý nhà nước có liên quan đến lĩnh vực đào tạo của ngành; giảng dạy và nghiên cứu khoa học về lĩnh vực ô tô tại các cơ sở đào tạo và viện nghiên cứu; tự thành lập doanh nghiệp sản xuất, kinh doanh các sản phẩm ô tô, cơ khí chế tạo máy, tự động hóa."
+  }, 
+  {
+    "input": "Ngành Kỹ thuật Ô tô có những chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật Ô tô có 4 chuyên ngành: Sản xuất và lắp ráp ô tô, Công nghệ kỹ thuật ô tô, Thiết kế ô tô, Xe chuyên dùng."
+  }, 
+  {
+    "input": "Em muốn biết thêm về chương trình đào tạo ngành Kỹ thuật Cơ điện tử.",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Cơ điện tử hướng đến đào tạo kỹ sư có chuyên môn cao trong lĩnh vực Cơ điện tử và Robot. Đây là đội ngũ nhân lực có phẩm chất chính trị, đạo đức, có ý thức phục vụ cộng đồng; có khả năng tự học, kỹ năng giao tiếp và làm việc theo nhóm; có kiến thức và năng lực chuyên môn vững vàng; có trình độ ngoại ngữ tốt; có sức khỏe tốt đáp ứng yêu cầu trong lĩnh vực xây dựng, bảo vệ và phát triển đất nước trong giai đoạn hội nhập quốc tế." 
+  },
+  {
+    "input": "Vậy sinh viên tốt nghiệp ngành này sẽ có những kiến thức và kỹ năng gì?", 
+    "output": "Sinh viên tốt nghiệp có kiến thức về Toán học và khoa học tự nhiên, đáp ứng được khả năng tiếp thu các kiến thức giáo dục chuyên nghiệp và khả năng học tập ở trình độ cao hơn. Sinh viên cũng có kiến thức cơ sở ngành về Kỹ thuật cơ khí, Kỹ thuật điện - điện tử, Kỹ thuật điều khiển, Kỹ thuật máy tính; và các kiến thức chuyên sâu trong lĩnh vực Cơ điện tử và Robot. Ngoài ra, sinh viên còn có kỹ năng cá nhân, nghề nghiệp; kỹ năng giao tiếp, làm việc nhóm đủ để làm việc trong môi trường liên ngành, đa văn hóa, đa quốc gia; phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ thống Cơ điện tử và Robot."
+  },
+  {
+    "input": "Tôi muốn hỏi về chuẩn đầu ra của sinh viên ngành Kỹ thuật Cơ khí sau khi tốt nghiệp?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật Cơ khí sẽ có kiến thức, kỹ năng, năng lực tự chủ và trách nhiệm, phẩm chất đạo đức tốt, sẵn sàng làm việc trong công nghiệp, thương mại, dịch vụ, có khả năng tự hoàn thiện và phát triển."
+  },
+  {
+    "input": "Vậy cụ thể hơn về kiến thức chuyên ngành Cơ khí thì sao?",
+    "output": "Sinh viên sẽ được trang bị kiến thức chuyên sâu trong lĩnh vực kỹ thuật cơ khí, đặc biệt là cơ sở kỹ thuật ngành rộng, chuyên ngành máy xây dựng và máy thủy lực, thiết bị thủy lợi, thủy điện, cơ giới hóa xây dựng, kỹ thuật hệ thống công nghiệp, Công nghệ Cơ khí."
+  },
+  {
+    "input": "Trường có đào tạo kỹ năng tin học và ngoại ngữ cho sinh viên không?",
+    "output": "Có chứ. Sinh viên sẽ được học để sử dụng thành thạo tin học văn phòng và một số phần mềm ứng dụng trong lĩnh vực kỹ thuật cơ khí. Ngoại ngữ thì sinh viên tốt nghiệp sẽ có năng lực tiếng Anh bậc 3/6 khung năng lực ngoại ngữ Việt Nam."
+  },
+  {
+    "input": "Ngành Kỹ thuật Cơ khí có bao nhiêu chuyên ngành?",
+    "output": "Ngành Kỹ thuật Cơ khí có 4 chuyên ngành: Ô tô chuyên dùng và Máy xây dựng, Quản lý máy và hệ thống kỹ thuật công nghiệp, Công nghệ cơ khí, Tự động hóa sản xuất công nghiệp."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về chương trình đào tạo ngành Kỹ thuật Ô tô, trợ lý có thể cung cấp thông tin được không?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Ô tô hướng đến đào tạo kỹ sư có trình độ chuyên môn cao, kỹ năng thực hành giỏi, có phẩm chất đạo đức và đạo đức nghề nghiệp tốt, sẵn sàng làm việc trong lĩnh vực công nghiệp ô tô."
+  },
+  {
+    "input": "Vậy sinh viên tốt nghiệp ngành Kỹ thuật Ô tô có thể làm những công việc gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc tại các doanh nghiệp, nhà máy thuộc lĩnh vực ô tô hoặc các lĩnh vực có liên quan như kỹ thuật cơ khí hàng không, kỹ thuật tự động hóa, kỹ thuật y học với các vị trí: Chuyên viên kỹ thuật, thiết kế, chế tạo, vận hành ô tô, nghiên cứu và phát triển sản phẩm ô tô, tư vấn thiết kế, triển khai công nghệ, quản lý sản xuất. Ngoài ra, kỹ sư Ô tô cũng có thể làm việc tại các cơ quan quản lý nhà nước có liên quan đến lĩnh vực đào tạo của ngành; giảng dạy và nghiên cứu khoa học về lĩnh vực ô tô tại các cơ sở đào tạo và viện nghiên cứu; tự thành lập doanh nghiệp sản xuất, kinh doanh các sản phẩm ô tô, cơ khí chế tạo máy, tự động hóa."
+  }, 
+  {
+    "input": "Ngành Kỹ thuật Ô tô có những chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật Ô tô có 4 chuyên ngành: Sản xuất và lắp ráp ô tô, Công nghệ kỹ thuật ô tô, Thiết kế ô tô, Xe chuyên dùng."
+  }, 
+  {
+    "input": "Tôi muốn biết thêm về chương trình đào tạo ngành Kỹ thuật Cơ điện tử.",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Cơ điện tử hướng đến đào tạo kỹ sư có chuyên môn cao trong lĩnh vực Cơ điện tử và Robot. Đây là đội ngũ nhân lực có phẩm chất chính trị, đạo đức, có ý thức phục vụ cộng đồng; có khả năng tự học, kỹ năng giao tiếp và làm việc theo nhóm; có kiến thức và năng lực chuyên môn vững vàng; có trình độ ngoại ngữ tốt; có sức khỏe tốt đáp ứng yêu cầu trong lĩnh vực xây dựng, bảo vệ và phát triển đất nước trong giai đoạn hội nhập quốc tế." 
+  },
+  {
+    "input": "Vậy sinh viên tốt nghiệp ngành Kỹ thuật Cơ điện tử sẽ có những kiến thức và kỹ năng gì?", 
+    "output": "Sinh viên tốt nghiệp có kiến thức về Toán học và khoa học tự nhiên, đáp ứng được khả năng tiếp thu các kiến thức giáo dục chuyên nghiệp và khả năng học tập ở trình độ cao hơn. Sinh viên cũng có kiến thức cơ sở ngành về Kỹ thuật cơ khí, Kỹ thuật điện - điện tử, Kỹ thuật điều khiển, Kỹ thuật máy tính; và các kiến thức chuyên sâu trong lĩnh vực Cơ điện tử và Robot. Ngoài ra, sinh viên còn có kỹ năng cá nhân, nghề nghiệp; kỹ năng giao tiếp, làm việc nhóm đủ để làm việc trong môi trường liên ngành, đa văn hóa, đa quốc gia; phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ thống Cơ điện tử và Robot."
+  },
+  {
+    "input": "Vậy sinh viên tốt nghiệp ngành Kỹ thuật Cơ điện tử có thể làm những công việc gì?",
+    "output": "Người học sau khi tốt nghiệp chương trình ngành Kỹ thuật Cơ điện tử của Trường Đại học Thủy lợi có thể công tác tại các doanh nghiệp, nhà máy thuộc lĩnh vực cơ điện tử và robot hoặc các lĩnh vực có liên quan như kỹ thuật cơ khí hàng không, kỹ thuật ôtô, kỹ thuật tự động hóa, kỹ thuật y học với các vị trí: Chuyên viên kỹ thuật, thiết kế, chế tạo, vận hành robot hoặc hệ thống tự động có robot, nghiên cứu và phát triển sản phẩm cơ điện tử và robot, tư vấn thiết kế, triển khai công nghệ, quản lý sản xuất." 
+  },
+  {
+    "input": "Thời gian và khối lượng kiến thức toàn khóa của chương trình đào tạo ngành Kỹ thuật Cơ khí được không?",
+    "output": "Thời gian đào tạo là 4,5 năm với khối lượng kiến thức toàn khóa là 155 tín chỉ (không kể các môn học giáo dục thể chất, giáo dục quốc phòng)."
+  },
+  {
+    "input": "Thời gian và khối lượng kiến thức toàn khóa của chương trình đào tạo ngành Kỹ thuật Ô tô và Kỹ thuật Cơ điện tử thì sao?", 
+    "output": "Cả hai ngành Kỹ thuật Ô tô và Kỹ thuật Cơ điện tử đều có thời gian đào tạo là 4,5 năm và khối lượng kiến thức toàn khóa là 155 tín chỉ (không kể các môn học giáo dục thể chất, giáo dục quốc phòng)."
+  },
+
+  ]
