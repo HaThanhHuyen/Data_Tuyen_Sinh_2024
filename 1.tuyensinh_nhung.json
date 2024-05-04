@@ -1,0 +1,795 @@
+[
+    {
+      "input": "Thời gian học của chương trình đại học là bao lâu?",
+      "output": "Thời gian học chuẩn của chương trình đại học kỹ thuật, công nghệ và quản lý xây dựng là từ 4 đến 4,5 năm cho hình thức chính quy và 4,5 đến 5 năm cho hình thức vừa làm vừa học. Chương trình kinh tế, kinh doanh, quản lý và ngôn ngữ là 4 năm cho hình thức chính quy và 4,5 năm cho hình thức vừa làm vừa học." 
+    },
+    {
+      "input": "Trường mình áp dụng phương thức đào tạo nào?",
+      "output": "Trường áp dụng linh hoạt cả phương thức đào tạo theo tín chỉ và niên chế tùy theo từng ngành học và học phần cụ thể."
+    },
+    {
+      "input": "Hình thức đào tạo vừa làm vừa học được tổ chức như thế nào?",
+      "output": "Hoạt động giảng dạy cho hình thức vừa làm vừa học được tổ chức tại trường, các cơ sở trực thuộc hoặc cơ sở phối hợp đào tạo theo quy định liên kết. Thời gian học linh hoạt trong ngày và trong tuần."
+    },
+    {
+      "input": "Điều kiện để được học liên thông lên đại học là gì?",
+      "output": "Người đã tốt nghiệp các trình độ đào tạo của giáo dục nghề nghiệp được dự tuyển và học liên thông lên trình độ đại học theo quy định hiện hành và quy chế của trường."
+    },
+    {
+      "input": "Em muốn học thêm một văn bằng nữa thì cần những điều kiện gì?",
+      "output": "Em cần phải là sinh viên năm thứ hai trở lên, có học lực khá trở lên hoặc đạt điều kiện trúng tuyển của chương trình thứ hai và ngành đào tạo của hai chương trình phải khác nhau."
+    },
+    {
+      "input": "Điểm trung bình tích lũy như thế nào thì được xếp loại giỏi?",
+      "output": "Điểm trung bình tích lũy từ 3,20 đến 3,59 được xếp loại giỏi."
+    },
+    {
+      "input": "Mức cảnh báo kết quả học tập được quy định như thế nào?",
+      "output": "Có ba mức cảnh báo: Mức 1 dành cho sinh viên lần đầu tiên có kết quả học tập dưới mức quy định, mức 2 cho sinh viên đã bị cảnh báo mức 1 ở học kỳ trước, và mức 3 cho sinh viên đã bị cảnh báo mức 2 ở học kỳ trước."
+    },
+    {
+      "input": "Trong trường hợp nào thì sinh viên bị buộc thôi học?",
+      "output": "Sinh viên sẽ bị buộc thôi học nếu nhận cảnh báo kết quả học tập mức 3, vượt quá thời gian học tối đa, không đăng ký học tập, tự ý bỏ học, thi hộ/nhờ người thi hộ lần 2, hoặc sử dụng hồ sơ giả."
+    },
+    {
+      "input": "Em muốn chuyển sang học ngành khác thì cần những điều kiện gì?",
+      "output": "Em cần phải là sinh viên năm thứ 2 hoặc 3, đạt điều kiện trúng tuyển của ngành muốn chuyển, ngành đó phải còn chỉ tiêu và được sự đồng ý của trưởng khoa hai bên và hiệu trưởng."
+    },
+    {
+      "input": "Điểm học phần được tính như thế nào?",
+      "output": "Điểm học phần được tổng hợp từ nhiều điểm thành phần như kiểm tra, thi giữa kỳ, thi cuối kỳ, chuyên cần, bài tập... với trọng số khác nhau tùy theo từng môn học. Điểm thi cuối kỳ thường chiếm trọng số cao nhất, không dưới 50%."
+    },
+    {
+      "input": "Em muốn học cải thiện điểm thì được không?",
+      "output": "Sinh viên đã đạt điểm học phần từ B, C hoặc D trở lên có thể đăng ký học lại để cải thiện điểm. Điểm cao nhất trong các lần học sẽ được công nhận."
+    },
+    {
+      "input": "Nếu em bị ốm vào ngày thi thì phải làm sao?",
+      "output": "Em cần nộp đơn xin hoãn thi kèm giấy chứng nhận của cơ sở y tế cho Phòng Khảo thí và Đảm bảo chất lượng trong vòng một tuần kể từ ngày ốm. Nhà trường sẽ bố trí cho em thi ở đợt thi khác và được công nhận là điểm thi lần đầu." 
+    },
+    {
+      "input": "Trường hợp nào thì được bảo lưu kết quả học tập?",
+      "output": "Sinh viên được bảo lưu kết quả học tập khi tham gia nghĩa vụ quân sự, đại diện quốc gia tham dự các kỳ thi quốc tế, bị ốm nặng, tai nạn hoặc có lý do cá nhân khác nhưng đã học tối thiểu 1 học kỳ và không thuộc diện buộc thôi học hoặc kỷ luật."
+    },
+    {
+      "input": "Em muốn chuyển từ hệ chính quy sang hệ vừa làm vừa học thì có được không?",
+      "output": "Sinh viên được xem xét chuyển từ hệ chính quy sang hệ vừa làm vừa học hoặc đào tạo từ xa nếu còn đủ thời gian học tập theo quy định đối với hình thức chuyển đến."
+    },
+    {
+      "input": "Học phí của hệ vừa làm vừa học có đắt hơn hệ chính quy không?",
+      "output": "Học phí của hệ vừa làm vừa học thường cao hơn hệ chính quy do tính chất linh hoạt về thời gian và địa điểm học tập." 
+    },
+    {
+      "input": "Trường có chương trình học bổng nào dành cho sinh viên không?",
+      "output": "Trường có nhiều chương trình học bổng dành cho sinh viên dựa trên thành tích học tập, hoạt động ngoại khóa, hoàn cảnh khó khăn... Em có thể tìm hiểu thêm thông tin tại Phòng Công tác sinh viên." 
+    }, 
+    {
+      "input": "Em muốn tham gia chương trình trao đổi sinh viên thì phải làm sao?",
+      "output": "Em cần tìm hiểu thông tin về các chương trình trao đổi sinh viên mà trường đang hợp tác và đáp ứng các điều kiện của chương trình đó. Thông tin chi tiết có tại Phòng Hợp tác quốc tế." 
+    },
+    {
+      "input": "Sau khi tốt nghiệp, trường có hỗ trợ sinh viên tìm việc làm không?",
+      "output": "Trường có Trung tâm Hỗ trợ sinh viên và việc làm giúp sinh viên tiếp cận thông tin việc làm, rèn luyện kỹ năng và kết nối với các doanh nghiệp."
+    },
+    {
+        "input": "Điều kiện để được xét tốt nghiệp loại giỏi là gì?",
+        "output": "Để xét tốt nghiệp loại giỏi, em cần đạt điểm trung bình tích lũy từ 3,20 đến 3,59, khối lượng học phần phải học lại không vượt quá 5% tổng số tín chỉ và không bị kỷ luật trong thời gian học."
+      },
+      {
+        "input": "Chuẩn đầu ra ngoại ngữ của trường là gì?",
+        "output": "Chuẩn đầu ra ngoại ngữ của trường hiện tại là chứng chỉ tiếng Anh tương đương bậc 3/6 khung năng lực ngoại ngữ 6 bậc Việt Nam hoặc TOEFL ITP 450 điểm hoặc IELTS 4.5 hoặc các chứng chỉ khác tương đương." 
+      },
+      {
+        "input": "Nếu em không đạt chuẩn đầu ra ngoại ngữ thì có được tốt nghiệp không?",
+        "output": "Em sẽ không được xét tốt nghiệp nếu chưa đạt chuẩn đầu ra ngoại ngữ. Trường có tổ chức các lớp học và thi chứng chỉ ngoại ngữ để hỗ trợ sinh viên."
+      },
+      {
+        "input": "Em có thể tham gia nghiên cứu khoa học khi còn là sinh viên không?",
+        "output": "Trường khuyến khích sinh viên tham gia nghiên cứu khoa học thông qua các câu lạc bộ, nhóm nghiên cứu hoặc các đề tài nghiên cứu khoa học cấp trường, cấp bộ." 
+      },
+      {
+        "input": "Trường có ký túc xá cho sinh viên không?",
+        "output": "Trường có ký túc xá với sức chứa giới hạn, ưu tiên cho sinh viên năm thứ nhất, sinh viên có hoàn cảnh khó khăn và sinh viên đạt thành tích cao trong học tập." 
+      },
+      {
+        "input": "Em muốn tham gia hoạt động ngoại khóa thì có những câu lạc bộ nào?",
+        "output": "Trường có rất nhiều câu lạc bộ hoạt động trong các lĩnh vực văn hóa, nghệ thuật, thể thao, học thuật, tình nguyện... Em có thể tìm hiểu thêm thông tin tại Phòng Công tác sinh viên."
+      },
+      {
+        "input": "Thủ tục để xin bảo lưu kết quả học tập như thế nào?",
+        "output": "Em cần nộp đơn xin bảo lưu kết quả học tập kèm theo giấy tờ chứng minh lý do (giấy nhập ngũ, giấy chứng nhận ốm đau,...) lên Phòng Đào tạo để được xét duyệt." 
+      },
+      {
+        "input": "Quy định về việc thi lại, học lại như thế nào?",
+        "output": "Sinh viên không đạt một học phần sẽ phải đăng ký học lại hoặc học một học phần thay thế tương đương. Trường hợp không đạt môn tiên quyết thì không được đăng ký học môn học sau."
+      },
+      {
+        "input": "Em muốn đánh giá chất lượng giảng dạy của giảng viên thì làm thế nào?", 
+        "output": "Trường có tổ chức khảo sát đánh giá giảng viên định kỳ. Em có thể phản ánh ý kiến của mình qua khảo sát hoặc gửi phản hồi trực tiếp đến khoa/bộ môn hoặc Phòng Đào tạo."
+      },
+      {
+        "input": "Chương trình đào tạo của trường có gì nổi bật so với các trường khác?",
+        "output": "Chương trình đào tạo của trường chú trọng đào tạo kỹ năng thực hành, ứng dụng công nghệ hiện đại và đáp ứng nhu cầu của doanh nghiệp. Trường cũng có nhiều chương trình hợp tác quốc tế, trao đổi sinh viên và nghiên cứu khoa học." 
+      },
+      {
+        "input": "Trường có hỗ trợ sinh viên khởi nghiệp không?",
+        "output": "Trường có Trung tâm Hỗ trợ sinh viên và việc làm hỗ trợ sinh viên khởi nghiệp thông qua các chương trình đào tạo, tư vấn, kết nối với các vườn ươm, quỹ đầu tư và các doanh nghiệp." 
+      },
+      {
+        "input": "Em có thể học thêm chứng chỉ, kỹ năng gì để nâng cao cơ hội việc làm?",
+        "output": "Em nên tìm hiểu về yêu cầu của ngành nghề mà mình hướng tới và học thêm các chứng chỉ, kỹ năng liên quan như tin học văn phòng, ngoại ngữ chuyên ngành, kỹ năng mềm..." 
+      },
+      {
+        "input": "Môi trường học tập và sinh hoạt tại trường như thế nào?", 
+        "output": "Trường có môi trường học tập năng động, sáng tạo với cơ sở vật chất hiện đại và đội ngũ giảng viên giàu kinh nghiệm. Sinh viên có nhiều cơ hội tham gia các hoạt động ngoại khóa, câu lạc bộ và các chương trình giao lưu văn hóa."
+      },
+      {
+        "input": "Em có thể làm thêm khi còn là sinh viên không?",
+        "output": "Em có thể làm thêm để trang trải chi phí sinh hoạt và tích lũy kinh nghiệm. Tuy nhiên, cần cân đối thời gian học tập và sức khỏe để đảm bảo kết quả học tập." 
+      },
+      {
+        "input": "Trường có chính sách hỗ trợ sinh viên khuyết tật không?",
+        "output": "Trường có chính sách hỗ trợ sinh viên khuyết tật về học phí, điều kiện học tập, sinh hoạt và tham gia các hoạt động của trường." 
+      },
+      {
+        "input": "Làm thế nào để em có thể hòa nhập nhanh với môi trường đại học?",
+        "output": "Em nên chủ động tham gia các hoạt động của lớp, trường, câu lạc bộ, kết nối với các bạn sinh viên khác và tìm hiểu thông tin về trường, khoa và chương trình học." 
+      },
+      {
+        "input": "Ngành này có cơ hội đi du học hay làm việc ở nước ngoài không?",
+        "output": "Nhiều ngành học tại trường có cơ hội đi du học hoặc làm việc ở nước ngoài thông qua các chương trình hợp tác quốc tế, học bổng hoặc ứng tuyển trực tiếp vào các công ty, tổ chức nước ngoài."
+      },
+      {
+        "input": "Trường có hỗ trợ sinh viên học lên cao học không?",
+        "output": "Trường có các chương trình đào tạo thạc sĩ, tiến sĩ với nhiều chuyên ngành. Sinh viên tốt nghiệp có thành tích học tập tốt có thể đăng ký học tiếp lên cao học tại trường hoặc các trường đại học khác trong và ngoài nước." 
+      },
+      {
+        "input": "Em có thể thay đổi nguyện vọng đăng ký học sau khi đã đăng ký không?",
+        "output": "Em có thể thay đổi nguyện vọng đăng ký học trong thời gian quy định trước khi bắt đầu học kỳ. Tuy nhiên, cần lưu ý điều kiện tiên quyết, học phần bắt buộc và số lượng sinh viên tối đa của từng lớp học phần." 
+      },
+      {
+        "input": "Em có thể bảo lưu kết quả học tập để đi du học không?",
+        "output": "Em có thể bảo lưu kết quả học tập để đi du học theo quy định của trường. Cần nộp đơn xin bảo lưu kèm giấy tờ chứng minh việc đi du học cho Phòng Đào tạo." 
+      },
+      {
+        "input": "Trường có chương trình thực tập hưởng lương cho sinh viên không?",
+        "output": "Trường hợp tác với nhiều doanh nghiệp để tổ chức chương trình thực tập hưởng lương cho sinh viên. Em có thể tìm hiểu thông tin tại Trung tâm Hỗ trợ sinh viên và việc làm hoặc khoa/bộ môn."
+      },
+      {
+        "input": "Em có thể tham gia các cuộc thi học thuật, kỹ năng do trường tổ chức không?",
+        "output": "Trường thường xuyên tổ chức các cuộc thi học thuật, kỹ năng cho sinh viên như Olympic các môn chuyên ngành, cuộc thi sáng tạo khoa học kỹ thuật, cuộc thi hùng biện tiếng Anh..." 
+      },
+      {
+        "input": "Em muốn tìm hiểu thêm về văn hóa, lịch sử của trường thì có thể tham khảo ở đâu?",
+        "output": "Em có thể tìm hiểu thông tin về lịch sử, văn hóa của trường tại Bảo tàng Trường Đại học Thủy lợi, thư viện hoặc trang thông tin điện tử của trường." 
+      },
+      {
+        "input": "Trường có tổ chức các hoạt động tình nguyện cho sinh viên không?",
+        "output": "Trường có Đội Sinh viên tình nguyện thường xuyên tổ chức các hoạt động tình nguyện như hiến máu nhân đạo, tiếp sức mùa thi, hỗ trợ người dân vùng khó khăn..."
+      },
+      {
+        "input": "Em muốn tham gia các chương trình trao đổi văn hóa với sinh viên nước ngoài thì phải làm sao?", 
+        "output": "Trường có tổ chức các chương trình giao lưu văn hóa với sinh viên nước ngoài. Em có thể tìm hiểu thông tin tại Phòng Hợp tác quốc tế hoặc các câu lạc bộ sinh viên quốc tế."
+      },
+      {
+        "input": "Tỷ lệ sinh viên tốt nghiệp có việc làm của ngành này là bao nhiêu?",
+        "output": "Tỷ lệ sinh viên tốt nghiệp có việc làm của từng ngành học được công bố trên trang thông tin điện tử của trường hoặc em có thể liên hệ Phòng Đào tạo để được cung cấp thông tin cụ thể."
+      },
+      {
+        "input": "Mức lương khởi điểm trung bình của sinh viên tốt nghiệp ngành này là bao nhiêu?",
+        "output": "Mức lương khởi điểm trung bình của sinh viên tốt nghiệp phụ thuộc vào nhiều yếu tố như ngành học, năng lực, vị trí công việc và quy mô doanh nghiệp. Em có thể tham khảo thông tin từ các trang web tuyển dụng hoặc báo cáo khảo sát lương của các tổ chức uy tín."
+      },
+      {
+        "input": "Em muốn theo học chương trình chất lượng cao thì có gì khác biệt so với chương trình đại trà?",
+        "output": "Chương trình chất lượng cao thường có yêu cầu đầu vào cao hơn, học phí đắt hơn và chương trình đào tạo chuyên sâu hơn, chú trọng đào tạo kỹ năng nghiên cứu và ứng dụng công nghệ hiện đại." 
+      },
+      {
+        "input": "Em có thể học vượt để rút ngắn thời gian học tập không?",
+        "output": "Sinh viên có kết quả học tập tốt có thể đăng ký học vượt để rút ngắn thời gian học tập theo quy định của trường. Tuy nhiên, cần đảm bảo sức khỏe và cân đối thời gian học tập." 
+      },
+      {
+        "input": "Trường có hỗ trợ sinh viên học tiếng Anh và các kỹ năng mềm không?",
+        "output": "Trường có Trung tâm Ngoại ngữ và Kỹ năng mềm tổ chức các khóa học tiếng Anh, kỹ năng giao tiếp, làm việc nhóm, thuyết trình... để hỗ trợ sinh viên."
+      },
+      {
+        "input": "Em có thể tham gia các hoạt động nghiên cứu khoa học với giảng viên không?",
+        "output": "Sinh viên có thể tham gia các hoạt động nghiên cứu khoa học với giảng viên thông qua các đề tài nghiên cứu, nhóm nghiên cứu hoặc làm trợ lý nghiên cứu." 
+      },
+      {
+        "input": "Em muốn chuyển đổi tín chỉ từ trường khác sang thì phải làm sao?",
+        "output": "Em cần nộp đơn xin chuyển đổi tín chỉ kèm bảng điểm và mô tả học phần từ trường khác cho Phòng Đào tạo. Hội đồng chuyên môn của khoa sẽ xét duyệt dựa trên sự tương đồng về nội dung, khối lượng và chuẩn đầu ra của học phần."
+      },
+      {
+        "input": "Trường có tổ chức các chương trình tư vấn hướng nghiệp cho sinh viên không?",
+        "output": "Trung tâm Hỗ trợ sinh viên và việc làm thường xuyên tổ chức các buổi tư vấn hướng nghiệp, định hướng nghề nghiệp cho sinh viên." 
+      },
+      {
+        "input": "Em muốn tìm hiểu về các chương trình học bổng du học thì có thể tham khảo ở đâu?",
+        "output": "Em có thể tham khảo thông tin về các chương trình học bổng du học tại Phòng Hợp tác quốc tế, các tổ chức giáo dục hoặc trang web của các trường đại học nước ngoài."
+      },
+      {
+        "input": "Em cần chuẩn bị những gì trước khi nhập học?",
+        "output": "Em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của trường, tìm hiểu về chương trình học, ngành học, đăng ký chỗ ở (nếu cần) và chuẩn bị các vật dụng cá nhân cần thiết cho cuộc sống sinh viên."
+      },
+      {
+        "input": "Ký túc xá của trường có đầy đủ tiện nghi không?",
+        "output": "Ký túc xá của trường được trang bị đầy đủ tiện nghi cơ bản như giường, tủ, bàn ghế, wifi, khu vệ sinh, khu vực nấu ăn... Tùy từng khu ký túc xá mà có thể có thêm các tiện ích khác như máy giặt, điều hòa..." 
+      },
+      {
+        "input": "Em có thể đăng ký ở ghép với bạn cùng lớp không?",
+        "output": "Em có thể đăng ký ở ghép với bạn cùng lớp hoặc bạn cùng giới nếu có nhu cầu. Cần liên hệ với Ban quản lý ký túc xá để được hướng dẫn." 
+      },
+      {
+        "input": "Nếu em không ở ký túc xá thì có thể tìm nhà trọ ở đâu?",
+        "output": "Xung quanh trường có nhiều khu nhà trọ cho sinh viên. Em có thể tìm kiếm thông tin trên các trang web, nhóm Facebook hoặc nhờ sự hỗ trợ từ các anh chị khóa trên." 
+      },
+      {
+        "input": "Chi phí thuê nhà trọ trung bình là bao nhiêu?",
+        "output": "Chi phí thuê nhà trọ phụ thuộc vào vị trí, diện tích, tiện nghi và số lượng người ở ghép. Trung bình, giá thuê phòng trọ cho sinh viên dao động từ 1,5 - 3 triệu đồng/tháng."
+      },
+      {
+        "input": "Em có thể đi lại bằng phương tiện gì đến trường?",
+        "output": "Em có thể đi lại đến trường bằng xe buýt, xe máy hoặc xe đạp. Trường cũng có bãi gửi xe cho sinh viên." 
+      },
+      {
+        "input": "Em nên tham gia những hoạt động gì để làm quen với bạn bè và hòa nhập với môi trường mới?",
+        "output": "Em nên tham gia các hoạt động chào tân sinh viên, các câu lạc bộ, đội nhóm, sự kiện của trường, khoa để làm quen với bạn bè và hòa nhập với môi trường mới." 
+      },
+      {
+        "input": "Em cần chuẩn bị những kỹ năng gì để học tập hiệu quả ở đại học?", 
+        "output": "Em cần rèn luyện kỹ năng tự học, quản lý thời gian, làm việc nhóm, thuyết trình và kỹ năng sử dụng công nghệ thông tin để học tập hiệu quả ở đại học." 
+      },
+      {
+        "input": "Em có thể tìm hiểu thông tin về học bổng và hỗ trợ tài chính ở đâu?",
+        "output": "Em có thể tìm hiểu thông tin về học bổng và hỗ trợ tài chính tại Phòng Công tác sinh viên, website của trường hoặc các tổ chức, quỹ học bổng."
+      },
+      {
+        "input": "Lớp học trong trường có đông sinh viên không?",
+        "output": "Sĩ số lớp học phụ thuộc vào từng ngành và học phần. Các lớp học phần đại cương thường có sĩ số lớn hơn các lớp học phần chuyên ngành."
+      },
+      {
+        "input": "Giảng viên trong trường có dễ gần và hỗ trợ sinh viên không?",
+        "output": "Đội ngũ giảng viên của trường giàu kinh nghiệm, nhiệt tình và sẵn sàng hỗ trợ sinh viên trong học tập và nghiên cứu. Em có thể liên hệ với giảng viên qua email, giờ hành chính hoặc giờ phụ đạo."
+      },
+      {
+        "input": "Thư viện của trường có đầy đủ tài liệu học tập không?",
+        "output": "Thư viện của trường có nguồn tài liệu học tập phong phú, đa dạng với sách, báo, tạp chí, luận văn, đồ án... Em cũng có thể truy cập các nguồn tài liệu điện tử trực tuyến."
+      },
+      {
+        "input": "Trường có tổ chức các hoạt động thể thao, văn nghệ cho sinh viên không?",
+        "output": "Trường có nhiều câu lạc bộ thể thao, văn nghệ hoạt động sôi nổi. Em có thể tham gia các hoạt động như bóng đá, bóng chuyền, cầu lông, nhảy, hát, kịch..."
+      },
+      {
+        "input": "Em có thể tham gia các chương trình trao đổi sinh viên ngay từ năm nhất không?",
+        "output": "Một số chương trình trao đổi sinh viên có thể yêu cầu sinh viên phải hoàn thành một số học phần nhất định hoặc đạt trình độ học vấn nhất định. Em nên tìm hiểu kỹ điều kiện của từng chương trình."
+      },
+      {
+        "input": "Em muốn tìm hiểu về cơ hội việc làm thêm thì có thể hỏi ai?",
+        "output": "Em có thể hỏi thông tin về việc làm thêm từ anh chị khóa trên, các nhóm sinh viên trên mạng xã hội hoặc Trung tâm Hỗ trợ sinh viên và việc làm."
+      },
+      {
+        "input": "Trường có tổ chức các hoạt động định hướng, giúp sinh viên năm nhất làm quen với môi trường đại học không?",
+        "output": "Trường và các khoa thường tổ chức các hoạt động chào tân sinh viên, định hướng học tập, kỹ năng sống để giúp sinh viên năm nhất làm quen với môi trường đại học."
+      },
+      {
+        "input": "Em muốn đăng ký học bổng thì cần những điều kiện gì?",
+        "output": "Điều kiện để đăng ký học bổng tùy thuộc vào từng loại học bổng. Thông thường, sinh viên cần có thành tích học tập tốt, hoạt động ngoại khóa tích cực hoặc có hoàn cảnh khó khăn." 
+      },
+      {
+        "input": "Em có thể mang theo laptop cá nhân đến trường không?", 
+        "output": "Em được khuyến khích mang theo laptop cá nhân để phục vụ học tập và nghiên cứu. Trường cũng có phòng máy tính cho sinh viên sử dụng."
+      } ,
+      {
+        "input": "Em cần mang theo những giấy tờ gì khi nhập học?", 
+        "output": "Em cần mang theo giấy báo nhập học, giấy chứng minh nhân dân/căn cước công dân, học bạ, bằng tốt nghiệp THPT và các giấy tờ khác theo hướng dẫn của trường."
+      },
+      {
+        "input": "Em có thể thay đổi ngành học sau khi đã nhập học không?",
+        "output": "Em có thể đăng ký chuyển ngành sau khi đã nhập học nếu đáp ứng điều kiện của trường về học lực và chỉ tiêu tuyển sinh của ngành muốn chuyển."
+      },
+      {
+        "input": "Trường có chương trình hỗ trợ sinh viên làm quen với thành phố không?",
+        "output": "Trường và các khoa thường tổ chức các buổi dã ngoại, tham quan thành phố để giúp sinh viên làm quen với môi trường sống mới." 
+      },
+      {
+        "input": "Em muốn tìm hiểu về các quy định, nội quy của trường thì có thể xem ở đâu?",
+        "output": "Các quy định, nội quy của trường được đăng tải trên website của trường, bảng tin hoặc cẩm nang sinh viên." 
+      },
+      {
+        "input": "Em có thể tham gia các câu lạc bộ, đội nhóm ngay từ khi nhập học không?", 
+        "output": "Em có thể tham gia các câu lạc bộ, đội nhóm ngay từ khi nhập học. Trường thường tổ chức các hoạt động giới thiệu câu lạc bộ trong tuần lễ chào tân sinh viên." 
+      },
+      {
+        "input": "Em muốn đóng học phí thì có những hình thức nào?", 
+        "output": "Em có thể đóng học phí trực tiếp tại trường, chuyển khoản qua ngân hàng hoặc qua các ứng dụng thanh toán điện tử."
+      },
+      {
+        "input": "Em chào anh/chị, cho em hỏi thời gian học tập tối đa của hệ đại học chính quy là bao lâu ạ?",
+        "output": "Chào em, thời gian học tập tối đa của hệ đại học chính quy là từ 8 đến 9 năm đối với nhóm ngành Kỹ thuật, Công nghệ, Quản lý xây dựng và 8 năm đối với nhóm ngành Kinh tế, Kinh doanh và Quản lý, Ngôn ngữ em nhé!"
+      },
+      {
+        "input": "Em muốn học song ngành thì chương trình học sẽ như thế nào ạ?",
+        "output": "Chào em, khi em học song ngành thì chương trình đào tạo sẽ thể hiện rõ khối lượng học tập chung và riêng theo từng ngành em nhé."
+      },
+      {
+        "input": "Điểm trung bình tích lũy để xét tốt nghiệp là bao nhiêu ạ?",
+        "output": "Chào em, để xét tốt nghiệp thì điểm trung bình tích lũy của toàn khóa học phải đạt từ 2.00 trở lên em nhé." 
+      },
+      {
+        "input": "Thế nào là học phần tiên quyết ạ?",
+        "output": "Chào em, học phần tiên quyết là học phần A mà em phải học và đạt trước khi đăng ký học phần B."
+      },
+      {
+        "input": "Điểm thành phần của một học phần gồm những gì ạ?",
+        "output": "Chào em, điểm thành phần của một học phần gồm có: điểm kiểm tra, điểm chuyên cần, điểm thi giữa kỳ (nếu có), điểm tiểu luận (nếu có) và điểm thi kết thúc học phần, trong đó điểm thi kết thúc học phần là bắt buộc và có trọng số không dưới 50%."
+      },
+      {
+        "input": "Học phần nào không được tính vào điểm trung bình ạ?",
+        "output": "Chào em, điểm thi các học phần giáo dục quốc phòng, giáo dục thể chất, chuẩn đầu ra Ngoại ngữ, chuẩn đầu ra Công nghệ thông tin sẽ không được tính vào điểm trung bình học kỳ hoặc điểm trung bình chung tích lũy."
+      },
+      {
+        "input": "Em muốn bảo lưu kết quả học tập thì phải làm như thế nào ạ?",
+        "output": "Chào em, em cần viết đơn gửi Hiệu trưởng (qua Phòng Đào tạo) để xin bảo lưu kết quả học tập. Hiệu trưởng sẽ xem xét quyết định việc bảo lưu kết quả học tập đã tích lũy đối với từng trường hợp cụ thể." 
+      },
+      {
+        "input": "Điều kiện để được học cùng lúc hai chương trình là gì ạ?",
+        "output": "Chào em, để được học cùng lúc hai chương trình thì ngành đào tạo ở chương trình thứ hai phải khác ngành đào tạo ở chương trình thứ nhất và em phải đạt học lực loại khá trở lên tính theo điểm trung bình tích lũy."
+      },
+      {
+        "input": "Em bị cảnh báo học vụ mức độ 1 thì có sao không ạ?",
+        "output": "Chào em, cảnh báo học vụ mức độ 1 là mức cảnh báo dành cho sinh viên lần đầu tiên có kết quả học tập không đạt yêu cầu. Nếu trong lần xử lý học vụ ở học kỳ liền sau kết quả học tập của em đạt yêu cầu thì sẽ được xóa cảnh báo học tập."
+      }, 
+      {
+        "input": "Em muốn chuyển ngành thì cần những điều kiện gì ạ?",
+        "output": "Chào em, em có thể được xem xét chuyển sang học một chương trình, một ngành đào tạo khác khi đáp ứng đủ các điều kiện: không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học, đạt điều kiện trúng tuyển của chương trình, ngành đào tạo muốn chuyển đến trong cùng khóa tuyển sinh và được sự đồng ý của Trưởng các khoa phụ trách chương trình, ngành đào tạo, Giám đốc phân hiệu (nơi chuyển đi và chuyến đến) và của Hiệu trưởng."
+      },
+      {
+        "input": "Em muốn biết cụ thể hơn về các hình thức kỷ luật đối với sinh viên vi phạm quy chế thi ạ.",
+        "output": "Chào em, sinh viên có gian lận trong thi cử sẽ bị xử lý kỷ luật theo quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành. Cụ thể, em có thể bị hủy kết quả bài thi, bị khiển trách hoặc cảnh cáo tùy theo mức độ vi phạm."
+      },
+      {
+        "input": "Trường hợp nào sinh viên sẽ bị buộc thôi học ạ?",
+        "output": "Chào em, sinh viên sẽ bị buộc thôi học nếu vi phạm các quy định sau: nhận cảnh báo kết quả học tập mức 3,  vượt quá thời gian tối đa được phép học, không đăng ký học tập và tự ý bỏ học, bị kỷ luật lần thứ hai vì thi hộ hoặc nhờ người thi hộ, sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển hoặc tốt nghiệp."
+      },
+      {
+        "input": "Điểm trung bình học kỳ được sử dụng để làm gì ạ?",
+        "output": "Chào em, điểm trung bình học kỳ được sử dụng để xét học bổng, xét cảnh báo học tập, thôi học, xét khen thưởng và xếp loại học lực của sinh viên."
+      },
+      {
+        "input": "Em muốn biết cụ thể hơn về quy định công nhận và chuyển đổi tín chỉ ạ.",
+        "output": "Chào em, kết quả học tập của em tại một trường khác có thể được xem xét công nhận và chuyển đổi sang tín chỉ của những học phần tương ứng tại trường mình. Khối lượng tín chỉ tối đa được công nhận và chuyển đổi không vượt quá 50% khối lượng học tập tối thiểu của chương trình đào tạo. Việc công nhận và chuyển đổi tín chỉ sẽ do Hội đồng chuyên môn của khoa phụ trách học phần xem xét và quyết định." 
+      },
+      {
+        "input": "Ngoài điểm số, trường còn đánh giá sinh viên theo những tiêu chí nào khác không ạ?",
+        "output": "Chào em, bên cạnh điểm số, trường còn đánh giá sinh viên dựa trên các tiêu chí như: ý thức học tập, thái độ tham gia thảo luận, tinh thần trách nhiệm, kỹ năng làm việc nhóm và các hoạt động ngoại khóa."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định thực tập tốt nghiệp ạ.",
+        "output": "Chào em, quy định về thực tập tốt nghiệp được quy định cụ thể trong chương trình đào tạo của từng ngành. Thông thường, sinh viên sẽ thực tập tại các doanh nghiệp, cơ quan liên quan đến ngành học trong một khoảng thời gian nhất định. Sau đó, sinh viên cần hoàn thành báo cáo thực tập và bảo vệ trước hội đồng đánh giá."
+      },
+      {
+        "input": "Trường hợp nào sinh viên được hoãn thi ạ?",
+        "output": "Chào em, sinh viên được hoãn thi khi có lý do chính đáng như ốm đau, tai nạn, hoặc gặp sự cố bất khả kháng. Em cần cung cấp giấy tờ chứng minh hợp lệ cho phòng Đào tạo để được xem xét." 
+      },
+      {
+        "input": "Em muốn tham gia chương trình trao đổi sinh viên thì phải làm như thế nào ạ?",
+        "output": "Chào em, trường có tổ chức chương trình trao đổi sinh viên với một số trường đại học đối tác ở nước ngoài. Để tham gia chương trình, em cần đáp ứng các yêu cầu về học lực, ngoại ngữ và các tiêu chí khác do trường quy định. Em có thể liên hệ với phòng Quan hệ quốc tế để biết thêm chi tiết." 
+      },
+      {
+        "input": "Ngoài giờ học chính khóa, trường có tổ chức các hoạt động ngoại khóa nào không ạ?",
+        "output": "Chào em, trường có rất nhiều câu lạc bộ và đội nhóm sinh viên hoạt động sôi nổi với các lĩnh vực khác nhau như: thể thao, nghệ thuật, học thuật, tình nguyện... Em có thể tìm hiểu và tham gia các hoạt động này để phát triển kỹ năng và mở rộng mối quan hệ." 
+      },
+      {
+        "input": "Cho em hỏi nếu em vắng một buổi thi kết thúc học phần thì có được thi lại không ạ?", 
+        "output": "Chào em, trường hợp em vắng thi kết thúc học phần không có lý do chính đáng thì sẽ bị điểm 0 và không được thi lại. Nếu em có lý do chính đáng và được chấp thuận thì sẽ được bố trí thi vào đợt thi khác."
+      },
+      {
+        "input": "Điểm học phần của em được tính như thế nào ạ?",
+        "output": "Chào em, điểm học phần được tính dựa trên tổng điểm các điểm thành phần nhân với trọng số tương ứng và được làm tròn đến một chữ số thập phân."
+      },
+      {
+        "input": "Em muốn biết cụ thể hơn về cách tính điểm trung bình học kỳ ạ.",
+        "output": "Chào em, điểm trung bình học kỳ là điểm trung bình có trọng số của các học phần mà em đăng ký học trong học kỳ đó. Trọng số là số tín chỉ tương ứng của từng học phần."
+      },
+      {
+        "input": "Điểm trung bình tích lũy có ảnh hưởng như thế nào đến việc xét tốt nghiệp ạ?",
+        "output": "Chào em, điểm trung bình tích lũy là một trong những điều kiện quan trọng để xét tốt nghiệp. Em cần đạt điểm trung bình tích lũy tối thiểu là 2.00 để đủ điều kiện xét tốt nghiệp." 
+      },
+      {
+        "input": "Em muốn biết cách quy đổi điểm chữ sang thang điểm 4 ạ.",
+        "output": "Chào em, điểm chữ được quy đổi sang thang điểm 4 như sau: A là 4.0, B là 3.0, C là 2.0 và D là 1.0." 
+      },
+      {
+        "input": "Trường hợp nào em sẽ bị hạ bậc xếp loại tốt nghiệp ạ?",
+        "output": "Chào em, nếu em có điểm trung bình tích lũy loại xuất sắc hoặc giỏi nhưng khối lượng học phần phải học lại vượt quá 5% tổng số tín chỉ của chương trình hoặc đã bị kỷ luật từ mức cảnh cáo trở lên thì hạng tốt nghiệp sẽ bị giảm đi một bậc."
+      },
+      {
+        "input": "Nếu em không đủ điều kiện dự thi kết thúc học phần thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Chào em, nếu em không đủ điều kiện dự thi kết thúc học phần thì sẽ bị điểm 0 cho học phần đó."
+      },
+      {
+        "input": "Em muốn biết điểm chuẩn đầu ra ngoại ngữ của trường là gì ạ?",
+        "output": "Chào em, điểm chuẩn đầu ra ngoại ngữ của trường là TOEIC 450 hoặc tương đương. Em có thể tham khảo thêm thông tin chi tiết tại phòng Đào tạo hoặc trên website của trường."
+      },
+      {
+        "input": "Em muốn học lại một học phần để cải thiện điểm thì phải làm như thế nào ạ?",
+        "output": "Chào em, em có thể đăng ký học lại một học phần để cải thiện điểm nếu đã có điểm học phần đạt mức B, C hoặc D. Điểm cao nhất trong các lần học sẽ được tính là điểm công nhận cuối cùng của học phần đó." 
+      },
+      {
+        "input": "Cho em hỏi một học kỳ có bao nhiêu tuần học ạ?",
+        "output": "Chào em, một học kỳ có tối thiểu 15 tuần học, một năm học có 2 học kỳ chính với tổng số tối thiểu 30 tuần lên lớp. Ngoài ra trường có thể tổ chức thêm học kỳ phụ hoặc học kỳ hè." 
+      },
+      {
+        "input": "Thời gian học của một tiết là bao lâu ạ?", 
+        "output": "Chào em, thời lượng của một tiết học là 50 phút."
+      },
+      {
+        "input": "Lịch học của hệ vừa làm vừa học có gì khác so với hệ chính quy không ạ?",
+        "output": "Chào em, thời gian học của hệ vừa làm vừa học linh hoạt hơn so với hệ chính quy, được bố trí vào các buổi tối hoặc cuối tuần để phù hợp với người đi làm."
+      }, 
+      {
+        "input": "Em muốn biết số tiết học tối đa trong một tuần là bao nhiêu ạ?",
+        "output": "Chào em, số tiết học tối đa trong một tuần là 15 tiết và không quá 4 tiết một ngày."
+      },
+      {
+        "input": "Trường hợp nào thời khóa biểu có thể thay đổi ạ?",
+        "output": "Chào em, thời khóa biểu có thể thay đổi trong một số trường hợp đặc biệt như: giảng viên ốm đau, có quyết định điều động công tác, đi học... Phòng Đào tạo sẽ xem xét và điều chỉnh thời khóa biểu cho phù hợp." 
+      },
+      {
+        "input": "Em muốn biết thời gian biểu cụ thể của lớp em thì xem ở đâu ạ?",
+        "output": "Chào em, em có thể xem thời khóa biểu của lớp mình trên website của trường hoặc tại bảng thông báo của khoa." 
+      },
+      {
+        "input": "Giờ học chính thức của trường là từ mấy giờ đến mấy giờ ạ?", 
+        "output": "Chào em, giờ học chính thức của trường là từ 7h00 đến 21h30 các ngày trong tuần từ thứ 2 đến thứ 7."
+      },
+      {
+        "input": "Nếu em nghỉ học quá số buổi quy định thì sẽ bị sao ạ?",
+        "output": "Chào em, nếu em nghỉ học quá 20% số tiết của một học phần thì sẽ không đủ điều kiện dự thi kết thúc học phần và bị điểm 0." 
+      },
+      {
+        "input": "Trường có tổ chức học bù cho sinh viên nghỉ học do ốm đau không ạ?",
+        "output": "Chào em, trường hợp em nghỉ học do ốm đau có giấy tờ chứng minh hợp lệ thì giảng viên có thể bố trí học bù cho em."
+      },
+      {
+        "input": "Em muốn biết quy định về việc giảng viên đổi giờ học ạ.",
+        "output": "Chào em, việc đổi giờ học cần được Trưởng bộ môn phê duyệt và phải thông báo kịp thời cho sinh viên biết để đảm bảo quyền lợi học tập."
+      },
+      {
+        "input": "Nếu giảng viên đến lớp muộn thì sao ạ?",
+        "output": "Chào em, nếu giảng viên đến lớp muộn quá 15 phút mà không báo trước thì được ghi nhận là bỏ buổi dạy và phải dạy bù cho sinh viên."
+      },
+      {
+        "input": "Em muốn xin nghỉ học vài buổi thì phải làm thế nào ạ?",
+        "output": "Chào em, em cần viết đơn xin nghỉ học gửi lên khoa chủ quản và giáo viên giảng dạy các học phần liên quan để được xem xét." 
+      },
+      {
+        "input": "Trường hợp nào sinh viên được phép nghỉ học dài hạn ạ?",
+        "output": "Chào em, sinh viên được phép nghỉ học dài hạn trong các trường hợp: ốm đau dài ngày,  sinh con, tham gia nghĩa vụ quân sự hoặc các hoạt động do nhà trường điều động." 
+      }, 
+      {
+        "input": "Sau khi nghỉ học dài hạn, em muốn quay lại học thì phải làm thế nào ạ?",
+        "output": "Chào em, em cần viết đơn gửi lên Hiệu trưởng (qua Phòng Đào tạo) chậm nhất 2 tuần trước khi bắt đầu học kỳ mới để được xem xét cho phép quay lại học tập."
+      },
+      {
+        "input": "Thời gian nghỉ học dài hạn có được tính vào thời gian học chính thức không ạ?", 
+        "output": "Chào em, thời gian nghỉ học dài hạn do nhu cầu cá nhân sẽ được tính vào thời gian học chính thức."
+      },
+      {
+        "input": "Cho em hỏi nếu em muốn học vượt thì phải làm thế nào ạ?",
+        "output": "Chào em, em có thể đăng ký học vượt các học phần của khóa trên nếu đã tích lũy đủ số tín chỉ theo quy định và đáp ứng điều kiện tiên quyết của học phần (nếu có)."
+      },
+      {
+        "input": "Lịch thi kết thúc học phần được sắp xếp như thế nào ạ?", 
+        "output": "Chào em, lịch thi kết thúc học phần do Phòng Đào tạo sắp xếp trên nguyên tắc không trùng lịch thi, không trùng phòng thi và các môn thi được giãn cách phù hợp." 
+      },
+      {
+        "input": "Em muốn biết thời gian thi kết thúc học phần là bao lâu ạ?", 
+        "output": "Chào em, thời gian thi kết thúc học phần thường là 60 phút hoặc 90 phút tùy theo từng môn học. Thông tin chi tiết về thời gian thi sẽ được thông báo trong lịch thi."
+      },
+      {
+        "input": "Cho em hỏi trường có quy định gì về việc học trực tuyến không ạ?",
+        "output": "Chào em, việc tổ chức dạy và học trực tuyến được thực hiện theo quy định riêng của trường, em có thể tham khảo thêm thông tin chi tiết tại phòng Đào tạo hoặc trên website của trường."
+      },
+      {
+        "input": "Nếu em vắng học phần thực hành thì có được thực hành bù không ạ?",
+        "output": "Chào em, nếu em vắng học phần thực hành có lý do chính đáng thì có thể được bố trí thực hành bù theo lịch của cán bộ hướng dẫn." 
+      },
+      {
+        "input": "Em muốn biết thêm về quy định tham gia các đợt thực tập, tham quan bên ngoài trường ạ.",
+        "output": "Chào em, các đoàn đi thực tập, tham quan bên ngoài trường cần có đầy đủ giấy tờ theo quy định như: quyết định, giấy đi đường, giấy giới thiệu... và phải tuân thủ nội quy, quy chế của cơ sở thực tập."
+      },
+      {
+        "input": "Cho em hỏi quy trình đăng ký học diễn ra như thế nào ạ?", 
+        "output": "Chào em, quy trình đăng ký học gồm các bước: đăng ký nguyện vọng, đăng ký chính khóa, xét nguyện vọng, đăng ký khác khóa và cuối cùng là rà soát dữ liệu đăng ký."
+      },
+      {
+        "input": "Em muốn biết thời gian đăng ký học mỗi học kỳ là khi nào ạ?",
+        "output": "Chào em, thời gian đăng ký học được thông báo cụ thể trước mỗi học kỳ, thường diễn ra vào khoảng 2-3 tuần trước khi bắt đầu học kỳ mới." 
+      },
+      {
+        "input": "Em có thể đăng ký bao nhiêu tín chỉ trong một học kỳ ạ?",
+        "output": "Chào em, số tín chỉ tối thiểu em có thể đăng ký trong một học kỳ là 11 tín chỉ và tối đa là 26 tín chỉ." 
+      },
+      {
+        "input": "Trường hợp nào em được điều chỉnh số tín chỉ đăng ký ạ?",
+        "output": "Chào em, trong một số trường hợp đặc biệt như: sức khỏe yếu, học 2 văn bằng... em có thể được xem xét điều chỉnh số tín chỉ đăng ký cho phù hợp."
+      },
+      {
+        "input": "Em muốn đăng ký học phần của khóa khác thì phải làm như thế nào ạ?",
+        "output": "Chào em, em có thể đăng ký học phần của khóa khác trong giai đoạn đăng ký khác khóa. Em cần chú ý đến điều kiện tiên quyết và số chỗ còn trống của học phần đó."
+      },
+      {
+        "input": "Nếu em đăng ký học phần nhưng sau đó muốn hủy thì phải làm thế nào ạ?",
+        "output": "Chào em, em có thể hủy đăng ký học phần trong thời gian quy định trước khi học kỳ bắt đầu. Em cần thực hiện thao tác hủy đăng ký trên hệ thống đăng ký học của trường."
+      },
+      {
+        "input": "Trường hợp nào lớp học phần sẽ bị hủy ạ?",
+        "output": "Chào em, lớp học phần có thể bị hủy nếu số lượng sinh viên đăng ký dưới 20 sinh viên hoặc do những lý do bất khả kháng khác."
+      },
+      {
+        "input": "Em muốn biết học phần nào là học phần bắt buộc, học phần nào là tự chọn ạ?",
+        "output": "Chào em, em có thể xem danh sách học phần bắt buộc và tự chọn trong chương trình đào tạo của ngành mình. Thông tin này cũng được công bố trên website của trường." 
+      },
+      {
+        "input": "Em muốn biết thêm về quy định đăng ký học phần thay thế tương đương ạ.",
+        "output": "Chào em, học phần thay thế tương đương là học phần được sử dụng để thay thế một học phần khác trước đây có trong chương trình nhưng nay không còn tổ chức đào tạo nữa. Em có thể liên hệ với phòng Đào tạo để được hướng dẫn cụ thể."
+      },
+      {
+        "input": "Em muốn đăng ký học cải thiện điểm thì có điều kiện gì không ạ?", 
+        "output": "Chào em, em có thể đăng ký học cải thiện điểm nếu đã có điểm học phần đạt mức B, C hoặc D. Em chỉ được đăng ký học cải thiện điểm tối đa 2 lần cho một học phần."
+      },
+      {
+        "input": "Em muốn biết cách đăng ký học phần Giáo dục quốc phòng và Giáo dục thể chất ạ.",
+        "output": "Chào em, việc đăng ký học phần Giáo dục quốc phòng và Giáo dục thể chất được thực hiện theo hướng dẫn riêng của bộ môn và phòng Đào tạo. Em có thể theo dõi thông báo trên website hoặc bảng tin của khoa."
+      },
+      {
+        "input": "Em muốn đăng ký học cùng lúc hai chương trình thì phải làm thế nào ạ?",
+        "output": "Chào em, em cần viết đơn gửi lên phòng Đào tạo và đáp ứng các điều kiện về học lực để được xét duyệt học hai chương trình." 
+      },
+      {
+      "input": "Cảnh báo học tập có mấy mức độ ạ?",
+      "output": "Chào em, cảnh báo học tập có 3 mức độ: mức 1, mức 2 và mức 3. Mức độ cảnh báo tăng dần theo số lần sinh viên bị cảnh báo học tập." 
+    },
+    {
+      "input": "Em bị cảnh báo học tập mức 2 thì có bị sao không ạ?", 
+      "output": "Chào em, nếu em bị cảnh báo học tập mức 2 thì cần cố gắng cải thiện kết quả học tập trong học kỳ tiếp theo. Nếu tiếp tục không đạt yêu cầu, em có thể bị cảnh báo mức 3 và bị buộc thôi học." 
+    },
+    {
+      "input": "Làm thế nào để xóa cảnh báo học tập ạ?",
+      "output": "Chào em, nếu em đã bị cảnh báo học tập ở mức 1 hoặc 2 mà trong lần xử lý học tập ở học kỳ liền sau kết quả học tập đạt yêu cầu thì sẽ được xóa cảnh báo học tập." 
+    },
+    {
+        "input": "Em muốn biết trường hợp nào sinh viên được bảo lưu kết quả học tập ạ?", 
+        "output": "Chào em, sinh viên được bảo lưu kết quả học tập trong các trường hợp: ốm đau, thai sản, tai nạn, tham gia nghĩa vụ quân sự hoặc các hoạt động do nhà trường điều động." 
+      },
+      {
+        "input": "Em muốn biết thêm về quy định xét tốt nghiệp ạ.",
+        "output": "Chào em, để được xét tốt nghiệp, sinh viên cần đáp ứng các điều kiện: hoàn thành chương trình đào tạo, đạt điểm trung bình tích lũy tối thiểu, có chứng chỉ Giáo dục quốc phòng - an ninh, đạt chuẩn đầu ra ngoại ngữ và tin học." 
+      },
+      {
+        "input": "Hạng tốt nghiệp được xác định như thế nào ạ?",
+        "output": "Chào em, hạng tốt nghiệp được xác định dựa trên điểm trung bình tích lũy của toàn khóa học theo các mức: xuất sắc, giỏi, khá, trung bình khá và trung bình." 
+      },
+      {
+        "input": "Điểm trung bình chung tích lũy được sử dụng để làm gì ạ?",
+        "output": "Chào em, điểm trung bình chung tích lũy được sử dụng để xét cảnh báo học tập, thôi học, xếp hạng học lực sinh viên và xếp hạng tốt nghiệp."
+      },
+      {
+        "input": "Điểm trung bình học kỳ và điểm trung bình chung tích lũy được tính như thế nào ạ?",
+        "output": "Chào em, điểm trung bình học kỳ và điểm trung bình chung tích lũy được tính bằng tổng điểm các học phần nhân với số tín chỉ tương ứng, chia cho tổng số tín chỉ của tất cả các học phần và được làm tròn đến 2 chữ số thập phân."
+      },
+      {
+        "input": "Sinh viên được xếp loại học lực theo những tiêu chí nào ạ?",
+        "output": "Chào em, sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm trung bình năm học hoặc điểm trung bình tích lũy."
+      },
+      {
+        "input": "Trường hợp nào kết quả học tập trong học kỳ phụ và học kỳ hè được tính vào điểm trung bình ạ?",
+        "output": "Chào em, kết quả học tập trong học kỳ phụ được gộp vào kết quả học tập trong học kỳ chính tổ chức đồng thời, kết quả học tập kỳ hè được gộp vào học kỳ 2 của năm học để xếp hạng sinh viên về học lực."
+      },
+      {
+        "input": "Trường xếp hạng sinh viên theo năm học dựa vào những tiêu chí nào ạ?",
+        "output": "Chào em, trường xếp hạng sinh viên theo năm học dựa vào số tín chỉ tích lũy được từ đầu khóa học và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn."
+      },
+      {
+        "input": "Điểm học phần của em được đánh giá dựa trên những yếu tố nào?",
+        "output": "Chào em, điểm học phần được đánh giá dựa trên tối thiểu hai điểm thành phần, có thể bao gồm: điểm kiểm tra thường xuyên, điểm thảo luận, điểm thực hành, điểm chuyên cần, điểm thi giữa kỳ, điểm tiểu luận và điểm thi kết thúc học phần." 
+      },
+      {
+        "input": "Điểm thi kết thúc học phần có trọng số là bao nhiêu ạ?",
+        "output": "Chào em, điểm thi kết thúc học phần có trọng số không dưới 50%."
+      },
+      {
+        "input": "Em muốn biết cách tính điểm học phần thực hành, thí nghiệm.",
+        "output": "Chào em, điểm học phần thực hành, thí nghiệm là điểm trung bình cộng của điểm các bài thực hành trong học kỳ, được làm tròn đến một chữ số thập phân."
+      },
+      {
+        "input": "Mỗi học kỳ có bao nhiêu kỳ thi ạ?",
+        "output": "Chào em, mỗi học kỳ chỉ có một kỳ thi duy nhất để thi kết thúc học phần."
+      },
+      {
+        "input": "Điều kiện để được dự thi kết thúc học phần là gì ạ?",
+        "output": "Chào em, điều kiện để được dự thi kết thúc học phần là: đạt tỷ lệ chuyên cần tối thiểu và đạt điểm trung bình các bài kiểm tra từ 4.0 trở lên." 
+      },
+      {
+        "input": "Em muốn chuyển sang học ngành khác thì cần những điều kiện gì ạ?",
+        "output": "Chào em, để chuyển sang học ngành khác, em cần đáp ứng các điều kiện: không đang là sinh viên năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học, đạt điều kiện trúng tuyển của ngành muốn chuyển đến trong cùng khóa tuyển sinh và được sự đồng ý của các bên liên quan."
+      },
+      {
+        "input": "Em muốn chuyển từ phân hiệu về trụ sở chính thì phải làm như thế nào ạ?", 
+        "output": "Chào em, quy trình chuyển từ phân hiệu về trụ sở chính tương tự như quy trình chuyển ngành. Em cần đáp ứng các điều kiện về thời gian học, học lực và được sự đồng ý của các bên liên quan."
+      },
+      {
+        "input": "Em có thể chuyển sang học tại một trường đại học khác được không ạ?",
+        "output": "Chào em, em có thể chuyển sang học tại một trường đại học khác nếu đáp ứng các điều kiện về thời gian học, học lực, đạt điều kiện trúng tuyển của trường muốn chuyển đến và được sự đồng ý của cả hai trường." 
+      },
+      {
+        "input": "Em muốn chuyển từ hệ chính quy sang hệ vừa làm vừa học thì phải làm thế nào ạ?",
+        "output": "Chào em, em có thể chuyển từ hệ chính quy sang hệ vừa làm vừa học nếu còn đủ thời gian học tập theo quy định của hệ vừa làm vừa học." 
+      },
+      {
+        "input": "Sau khi chuyển trường, kết quả học tập của em có được công nhận không ạ?", 
+        "output": "Chào em, sau khi chuyển trường, kết quả học tập của em sẽ được xem xét công nhận và chuyển đổi tín chỉ dựa trên sự tương đồng giữa chương trình đào tạo của hai trường."
+      },
+      {
+        "input": "Em muốn biết thêm về chương trình trao đổi sinh viên ạ.",
+        "output": "Chào em, trường có chương trình trao đổi sinh viên với một số trường đại học đối tác ở nước ngoài. Em có thể tham khảo thông tin chi tiết tại phòng Quan hệ quốc tế."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định học cùng lúc hai chương trình ạ.", 
+        "output": "Chào em, để học cùng lúc hai chương trình, em cần đáp ứng các điều kiện về ngành học, học lực và thời gian học. Em có thể tham khảo chi tiết trong quy chế đào tạo của trường."
+      },
+      {
+        "input": "Em muốn học liên thông từ cao đẳng lên đại học thì phải làm như thế nào ạ?",
+        "output": "Chào em, em cần tham gia kỳ thi tuyển sinh liên thông từ cao đẳng lên đại học do trường tổ chức. Em có thể theo dõi thông tin tuyển sinh trên website của trường." 
+      },
+      {
+        "input": "Em muốn biết thêm về quy định xử lý vi phạm đối với sinh viên ạ.",
+        "output": "Chào em, sinh viên vi phạm quy chế đào tạo sẽ bị xử lý kỷ luật tùy theo mức độ vi phạm. Các hình thức kỷ luật có thể là: khiển trách, cảnh cáo, đình chỉ học tập hoặc buộc thôi học." 
+      },
+      {
+        "input": "Cho em hỏi học phần tự chọn là gì ạ?", 
+        "output": "Chào em, học phần tự chọn là học phần mà em được tự do lựa chọn để tích lũy đủ số tín chỉ theo yêu cầu của chương trình đào tạo."
+      },
+      {
+        "input": "Thế nào là học phần tiên quyết, học phần song hành ạ?",
+        "output": "Chào em, học phần tiên quyết là học phần em phải học và đạt trước khi đăng ký học phần khác. Học phần song hành là học phần em phải đăng ký học cùng lúc với một học phần khác." 
+      },
+      {
+        "input": "Em muốn biết học phần nào được miễn học và công nhận tín chỉ ạ.", 
+        "output": "Chào em, các học phần có nội dung và khối lượng kiến thức tương đương với những học phần em đã học trước đó có thể được miễn học và công nhận tín chỉ." 
+      },
+      {
+        "input": "Em muốn biết thêm về học phần cấp chứng chỉ ạ.", 
+        "output": "Chào em, học phần cấp chứng chỉ là học phần không tính tín chỉ tích lũy. Sau khi hoàn thành học phần này, em sẽ được cấp chứng chỉ theo quy định." 
+      },
+      {
+        "input": "Em muốn biết danh sách học phần mở trong học kỳ này ở đâu ạ?",
+        "output": "Chào em, danh sách học phần mở trong học kỳ được công bố trên website của trường và bảng tin của khoa."
+      },
+      { 
+        "input": "Em muốn biết giới hạn số lần học lại một học phần là bao nhiêu ạ?",
+        "output": "Chào em, em có thể học lại một học phần tối đa 2 lần."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định học cải thiện điểm ạ.",
+        "output": "Chào em, em có thể đăng ký học cải thiện điểm nếu đã có điểm học phần đạt mức B, C hoặc D. Điểm cao nhất trong các lần học sẽ được tính là điểm công nhận cuối cùng của học phần đó. Em chỉ được đăng ký học cải thiện điểm tối đa 2 lần cho một học phần." 
+      },
+      {
+        "input": "Em muốn biết thêm về quy định về điểm danh ạ.", 
+        "output": "Chào em, sinh viên cần đạt tỷ lệ chuyên cần tối thiểu là 80% để đủ điều kiện dự thi kết thúc học phần." 
+      },
+      {
+        "input": "Em muốn biết nếu em nghỉ học có phép thì có được tính vào tỷ lệ chuyên cần không ạ?",
+        "output": "Chào em, nếu em nghỉ học có phép và được chấp thuận thì sẽ không bị tính vào tỷ lệ vắng mặt."
+      },
+      {
+        "input": "Em muốn biết thời gian học bù sẽ được bố trí như thế nào ạ?",
+        "output": "Chào em, thời gian học bù sẽ do giảng viên phụ trách học phần bố trí, đảm bảo phù hợp với lịch học của sinh viên và tiến độ chương trình."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định về việc sử dụng điện thoại di động trong lớp học ạ.",
+        "output": "Chào em, sinh viên cần để điện thoại ở chế độ im lặng hoặc rung trong giờ học để tránh ảnh hưởng đến giảng viên và các bạn khác."
+      },
+      {
+        "input": "Em muốn biết thêm về các hoạt động ngoại khóa của trường ạ.",
+        "output": "Chào em, trường có rất nhiều câu lạc bộ và đội nhóm sinh viên hoạt động sôi nổi với các lĩnh vực khác nhau như: thể thao, nghệ thuật, học thuật, tình nguyện... Em có thể tìm hiểu và tham gia các hoạt động này để phát triển kỹ năng và mở rộng mối quan hệ."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định về trang phục khi đi học ạ.",
+        "output": "Chào em, sinh viên cần ăn mặc lịch sự, gọn gàng và phù hợp với môi trường học đường."
+      },
+      {
+        "input": "Em muốn biết thêm về quy định về việc bảo quản tài sản của trường ạ.",
+        "output": "Chào em, sinh viên có trách nhiệm bảo quản tài sản của trường, không được tự ý di chuyển hoặc làm hư hỏng tài sản." 
+      },
+      {
+        "input": "Cho em hỏi tiết 1 bắt đầu từ mấy giờ ạ?",
+        "output": "Chào em, tiết 1 bắt đầu từ 7h00 sáng."
+      },
+      {
+        "input": "Tiết 4 kết thúc lúc mấy giờ ạ?",
+        "output": "Chào em, tiết 4 kết thúc lúc 10h35 sáng." 
+      },
+      {
+        "input": "Giờ nghỉ trưa bắt đầu từ mấy giờ ạ?",
+        "output": "Chào em, giờ nghỉ trưa thường bắt đầu từ 12h25 đến 12h55." 
+      },
+      {
+        "input": "Tiết học cuối cùng trong ngày kết thúc lúc mấy giờ ạ?",
+        "output": "Chào em, tiết học cuối cùng trong ngày (tiết 15) kết thúc lúc 21h30." 
+      },
+      {
+        "input": "Cho em hỏi thời gian nghỉ giữa các tiết học là bao lâu ạ?", 
+        "output": "Chào em, thời gian nghỉ giữa các tiết học là 5 phút."
+      },
+      {
+        "input": "Nếu em có tiết học vào buổi tối thì thời gian cụ thể là từ mấy giờ ạ?",
+        "output": "Chào em, các tiết học buổi tối thường được bố trí từ 18h50 đến 21h30, chia làm 3 tiết: tiết 13, tiết 14 và tiết 15."
+      },
+      {
+        "input": "Em muốn biết thời gian cụ thể của các buổi học sáng, chiều và tối ạ.",
+        "output": "Chào em, buổi sáng có 6 tiết học, từ 7h00 đến 12h25. Buổi chiều có 7 tiết học, từ 12h55 đến 18h20. Buổi tối có 3 tiết học, từ 18h50 đến 21h30." 
+      },
+      {
+        "input": "Kế hoạch giảng dạy và học tập có những nội dung gì ạ?",
+        "output": "Chào em, kế hoạch giảng dạy và học tập bao gồm kế hoạch năm học, kế hoạch học kỳ và thời khóa biểu." 
+      },
+      {
+        "input": "Em muốn biết kế hoạch năm học có những thông tin gì ạ?",
+        "output": "Chào em, kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt động đào tạo trong năm học cho tất cả hình thức, chương trình đào tạo."
+      },
+      {
+        "input": "Kế hoạch học kỳ có những thông tin gì ạ?",
+        "output": "Chào em, kế hoạch học kỳ bao gồm kế hoạch mở lớp, hình thức dạy và học, lịch học, lịch thi của các học phần được tổ chức trong học kỳ." 
+      },
+      {
+        "input": "Thời khóa biểu có những thông tin gì ạ?",
+        "output": "Chào em, thời khóa biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khóa học, hình thức và chương trình đào tạo."
+      },
+      {
+        "input": "Em muốn biết lịch trình giảng dạy có những thông tin gì ạ?",
+        "output": "Chào em, lịch trình giảng dạy là kế hoạch, tiến độ theo thời gian các công tác giảng dạy của từng học phần." 
+      },
+      {
+        "input": "Em muốn biết khi nào trường tổ chức đăng ký học tập ạ?",
+        "output": "Chào em, trường tổ chức đăng ký học tập trước khi bắt đầu mỗi học kỳ." 
+      },
+      {
+        "input": "Em muốn biết sinh viên đăng ký học tập ở đâu ạ?",
+        "output": "Chào em, sinh viên đăng ký học tập trên Hệ thống đăng ký học tập của Trường."
+      },
+      {
+        "input": "Em muốn biết sinh viên học theo tín chỉ phải đăng ký những gì ạ?", 
+        "output": "Chào em, sinh viên học theo tín chỉ phải đăng ký lớp của các học phần dự định sẽ học trong học kỳ, gồm: những học phần mới, một số học phần chưa đạt (để học lại) và một số học phần đã đạt (để cải thiện điểm, nếu có) căn cứ danh sách học phần được mở và điều kiện đăng ký của mỗi học phần."
+      },
+      {
+        "input": "Em muốn biết sinh viên học theo niên chế phải đăng ký những gì ạ?",
+        "output": "Chào em, sinh viên học theo niên chế đăng ký học lại những học phần chưa đạt dự định sẽ học trong học kỳ, đăng ký học cải thiện điểm hoặc đăng ký học những học phần tự chọn theo quy định của chương trình đào tạo."
+      },
+      {
+        "input": "Giới hạn khối lượng học tập của sinh viên trong một học kỳ là bao nhiêu ạ?",
+        "output": "Chào em, khối lượng học tập tối thiểu là 11 tín chỉ và tối đa là 26 tín chỉ." 
+      },
+      {
+        "input": "Em muốn biết nhiệm vụ của trưởng khoa trong việc tổ chức giảng dạy và học tập là gì ạ?", 
+        "output": "Chào em, trưởng khoa có nhiệm vụ chỉ đạo, kiểm tra các bộ môn trong việc thực hiện kế hoạch giảng dạy và học tập, đồng thời tổ chức kiểm tra đột xuất việc thực hiện nhiệm vụ của giảng viên."
+      },
+      {
+        "input": "Em muốn biết nhiệm vụ của trưởng bộ môn trong việc tổ chức giảng dạy và học tập là gì ạ?",
+        "output": "Chào em, trưởng bộ môn có nhiệm vụ phân công giảng viên, phê duyệt lịch trình giảng dạy, tổ chức dự giờ, xây dựng đề cương học phần và tổng hợp báo cáo tình hình giảng dạy của bộ môn."
+      },
+      {
+        "input": "Em muốn biết nhiệm vụ của giảng viên trong việc tổ chức giảng dạy và học tập là gì ạ?", 
+        "output": "Chào em, giảng viên có nhiệm vụ chuẩn bị bài giảng, xây dựng lịch trình giảng dạy, lên lớp đúng giờ, đúng nội dung và đổi mới phương pháp giảng dạy."
+      },
+      {
+        "input": "Em muốn biết trường sử dụng phần mềm nào để dạy và học trực tuyến ạ?",
+        "output": "Chào em, trường sử dụng phần mềm Zoom, Google Meet và Microsoft Teams để dạy và học trực tuyến."
+      },
+      {
+        "input": "Quy định về việc điểm danh trong lớp học trực tuyến như thế nào ạ?",
+        "output": "Chào em, sinh viên cần tham gia đầy đủ các buổi học trực tuyến và điểm danh theo quy định của giảng viên."
+      }
+  
+]
