@@ -171,8 +171,167 @@
     {
         "input": "Em muốn tìm hiểu về cơ hội việc làm liên quan đến tiếng Anh sau khi tốt nghiệp, trường có hỗ trợ gì không ạ?",
         "output": "Trung tâm Hỗ trợ sinh viên và việc làm của trường cung cấp thông tin về các cơ hội việc làm, tổ chức các buổi hội thảo nghề nghiệp và hướng dẫn sinh viên kỹ năng tìm việc. Em có thể liên hệ với trung tâm để được hỗ trợ."
-    }
-      
+    },
+    {
+        "input": "Em muốn biết thêm về các nguồn tài liệu học tiếng Anh mà trường cung cấp, em có thể tìm ở đâu ạ?",
+        "output": "Thư viện của trường có nhiều sách, tạp chí, báo và các tài liệu học tiếng Anh khác. Em cũng có thể truy cập vào các cơ sở dữ liệu trực tuyến mà thư viện cung cấp để tìm kiếm tài liệu học tập."
+    },
+    {
+        "input": "Trường có tổ chức các cuộc thi tiếng Anh cho sinh viên không ạ?",
+        "output": "Có em, trường thường xuyên tổ chức các cuộc thi tiếng Anh như hùng biện, debate, viết luận... để tạo sân chơi cho sinh viên rèn luyện kỹ năng và thể hiện bản thân." 
+    },
+    {
+        "input": "Em muốn rèn luyện kỹ năng giao tiếp tiếng Anh, trường có câu lạc bộ nào phù hợp không ạ?",
+        "output": "Trường có câu lạc bộ tiếng Anh giao tiếp với các hoạt động như English speaking club, movie club... Em có thể tham gia các câu lạc bộ này để thực hành giao tiếp tiếng Anh với các bạn sinh viên khác." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các chương trình học tiếng Anh ngắn hạn do trường tổ chức, em có thể tìm thông tin ở đâu ạ?",
+        "output": "Em có thể tìm thông tin về các chương trình học tiếng Anh ngắn hạn trên website của trường, tại Trung tâm Đào tạo Quốc tế hoặc phòng Đào tạo." 
+    },
+    {
+        "input": "Em muốn biết học phí của các chương trình học tiếng Anh ngắn hạn là bao nhiêu ạ?",
+        "output": "Học phí của các chương trình học tiếng Anh ngắn hạn tùy thuộc vào thời lượng và nội dung khóa học. Em có thể liên hệ trực tiếp với đơn vị tổ chức khóa học để biết thêm chi tiết." 
+    }, 
+    {
+        "input": "Em muốn tìm gia sư tiếng Anh, trường có hỗ trợ gì không ạ?",
+        "output": "Trường có danh sách các gia sư tiếng Anh uy tín mà em có thể tham khảo. Em có thể liên hệ với Trung tâm Hỗ trợ sinh viên và việc làm để được giới thiệu."
+    },
+    {
+        "input": "Em muốn biết quy định về việc bảo lưu kết quả tiếng Anh khi bảo lưu kết quả học tập như thế nào ạ?",
+        "output": "Em cần liên hệ với phòng Đào tạo để được hướng dẫn cụ thể về quy định bảo lưu kết quả tiếng Anh khi bảo lưu kết quả học tập." 
+    },
+    {
+        "input": "Em muốn biết quy trình công nhận chứng chỉ tiếng Anh quốc tế tại trường như thế nào ạ?",
+        "output": "Em cần nộp bản sao chứng chỉ tiếng Anh quốc tế cho phòng Đào tạo để được xét công nhận."
+    },
+    {
+        "input": "Em muốn xin rút ngắn thời gian học tiếng Anh, em cần làm gì ạ?",
+        "output": "Em cần liên hệ với phòng Đào tạo và trình bày lý do xin rút ngắn thời gian học tiếng Anh. Trường sẽ xem xét và quyết định dựa trên năng lực tiếng Anh hiện tại của em và quy định của chương trình." 
+    },
+    {
+        "input": "Em muốn học tiếng Anh chuyên ngành, trường có hỗ trợ gì không ạ?",
+        "output": "Trường có các môn học tiếng Anh chuyên ngành dành cho sinh viên năm 3, 4. Em cũng có thể tham khảo các tài liệu học thuật bằng tiếng Anh tại thư viện hoặc các cơ sở dữ liệu trực tuyến." 
+    },
+    {
+        "input": "Em muốn tham gia các hoạt động tình nguyện bằng tiếng Anh, trường có chương trình nào không ạ?",
+        "output": "Trường có các chương trình tình nguyện quốc tế và các dự án cộng đồng sử dụng tiếng Anh. Em có thể liên hệ với phòng Công tác Sinh viên để tìm hiểu thêm về các cơ hội tham gia."
+    },
+    {
+        "input": "Em muốn luyện tập phát âm tiếng Anh, trường có phòng lab nào hỗ trợ không ạ?",
+        "output": "Trường có phòng lab ngôn ngữ với các trang thiết bị hiện đại hỗ trợ sinh viên luyện tập phát âm và các kỹ năng tiếng Anh khác."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các phần mềm học tiếng Anh trực tuyến, trường có khuyến nghị gì không ạ?",
+        "output": "Trường có thể giới thiệu cho em một số phần mềm học tiếng Anh trực tuyến phổ biến và hiệu quả. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn cụ thể."
+    },
+    {
+        "input": "Em muốn tham gia kỳ thi tiếng Anh quốc tế nhưng không biết nên chọn chứng chỉ nào, trường có thể tư vấn cho em không ạ?",
+        "output": "Tùy thuộc vào mục tiêu và nhu cầu của em, trường có thể tư vấn cho em lựa chọn chứng chỉ tiếng Anh quốc tế phù hợp. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn." 
+    },
+    {
+        "input": "Em muốn biết về chính sách hỗ trợ tài chính cho sinh viên tham gia các khóa học tiếng Anh, trường có chương trình nào không ạ?", 
+        "output": "Trường có các chương trình học bổng và hỗ trợ tài chính cho sinh viên có hoàn cảnh khó khăn. Em có thể tìm hiểu thông tin chi tiết tại phòng Công tác Sinh viên."
+    },
+    {
+        "input": "Em muốn tìm bạn học cùng ôn luyện tiếng Anh, trường có hỗ trợ kết nối không ạ?",
+        "output": "Em có thể tham gia các câu lạc bộ tiếng Anh hoặc các nhóm học tập để tìm bạn học cùng ôn luyện tiếng Anh. Ngoài ra, em cũng có thể tìm kiếm thông tin trên các diễn đàn sinh viên của trường."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các cơ hội thực tập sử dụng tiếng Anh, trường có hỗ trợ gì không ạ?",
+        "output": "Trung tâm Hỗ trợ sinh viên và việc làm của trường cung cấp thông tin về các cơ hội thực tập sử dụng tiếng Anh. Em có thể liên hệ với trung tâm để được hỗ trợ tìm kiếm và ứng tuyển."
+    },
+    {
+        "input": "Em muốn biết về quy trình thi lại các học phần tiếng Anh nếu không đạt yêu cầu, em cần làm gì ạ?",
+        "output": "Em cần đăng ký thi lại học phần tiếng Anh theo lịch thi của trường. Em có thể tham khảo thông tin chi tiết tại phòng Đào tạo."
+    },
+    {
+        "input": "Em muốn biết điểm chuẩn tiếng Anh để xét tốt nghiệp chương trình tiên tiến là bao nhiêu ạ?",
+        "output": "Điểm chuẩn tiếng Anh để xét tốt nghiệp chương trình tiên tiến được quy định trong Quy chế đào tạo của trường. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ với phòng Đào tạo."
+    },
+    {
+        "input": "Em muốn biết về các chương trình đào tạo tiếng Anh cho giảng viên của trường, em có thể tìm hiểu ở đâu ạ?",
+        "output": "Trường có các chương trình đào tạo và bồi dưỡng năng lực tiếng Anh cho giảng viên. Em có thể liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo Quốc tế để tìm hiểu thêm thông tin." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các khóa học tiếng Anh trực tuyến miễn phí, trường có giới thiệu gì không ạ?",
+        "output": "Trường có thể giới thiệu cho em một số nền tảng học tiếng Anh trực tuyến miễn phí uy tín và chất lượng. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn." 
+    },
+    {
+        "input": "Em muốn tham gia các hoạt động giao lưu văn hóa quốc tế, trường có tổ chức chương trình nào không ạ?",
+        "output": "Trường thường xuyên tổ chức các hoạt động giao lưu văn hóa quốc tế với sinh viên nước ngoài. Em có thể theo dõi thông tin trên website của trường hoặc liên hệ với phòng Công tác Sinh viên để tham gia." 
+    },
+    {
+        "input": "Em muốn biết về chính sách hỗ trợ sinh viên khuyết tật trong việc học tiếng Anh, trường có chương trình nào không ạ?",
+        "output": "Trường có chính sách hỗ trợ sinh viên khuyết tật trong học tập, bao gồm cả việc học tiếng Anh. Em có thể liên hệ với phòng Công tác Sinh viên để được tư vấn và hỗ trợ cụ thể."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các suất học bổng du học tiếng Anh, trường có thông tin gì không ạ?",
+        "output": "Trung tâm Đào tạo Quốc tế của trường thường xuyên cập nhật thông tin về các suất học bổng du học tiếng Anh. Em có thể liên hệ với trung tâm để được tư vấn và hỗ trợ." 
+    },
+    {
+        "input": "Em muốn tham gia các dự án nghiên cứu sử dụng tiếng Anh, trường có cơ hội nào cho sinh viên không ạ?",
+        "output": "Các giảng viên của trường thường xuyên triển khai các dự án nghiên cứu sử dụng tiếng Anh và có thể tuyển dụng sinh viên tham gia. Em có thể liên hệ trực tiếp với giảng viên trong lĩnh vực em quan tâm để tìm hiểu cơ hội."
+    },
+    {
+        "input": "Em muốn biết về quy định chuyển đổi tín chỉ tiếng Anh từ các trường đại học khác, em cần làm gì ạ?",
+        "output": "Em cần liên hệ với phòng Đào tạo và cung cấp bảng điểm cùng mô tả học phần tiếng Anh từ trường đại học khác để được xét chuyển đổi tín chỉ." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các khóa học tiếng Anh hè do trường tổ chức, em có thể tìm thông tin ở đâu ạ?",
+        "output": "Thông tin về các khóa học tiếng Anh hè sẽ được đăng tải trên website của trường và thông báo qua email sinh viên. Em cũng có thể liên hệ trực tiếp với Trung tâm Đào tạo Quốc tế để được tư vấn." 
+    },
+    {
+        "input": "Em muốn tham gia các hoạt động ngoại khóa bằng tiếng Anh để nâng cao kỹ năng giao tiếp, trường có gợi ý gì không ạ?", 
+        "output": "Em có thể tham gia các câu lạc bộ tiếng Anh, các buổi hội thảo, workshop hoặc các sự kiện giao lưu văn hóa quốc tế do trường tổ chức. Ngoài ra, em cũng có thể tìm kiếm các cơ hội thực tập hoặc tình nguyện sử dụng tiếng Anh."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các nguồn tài liệu luyện thi chứng chỉ tiếng Anh quốc tế, trường có gợi ý gì không ạ?",
+        "output": "Thư viện của trường có nhiều sách và tài liệu ôn thi chứng chỉ tiếng Anh quốc tế. Em cũng có thể tìm kiếm các nguồn tài liệu trực tuyến uy tín hoặc tham khảo ý kiến của giảng viên tiếng Anh."
+    },
+    {
+        "input": "Em muốn biết về chính sách miễn giảm học phí tiếng Anh cho sinh viên có hoàn cảnh khó khăn, trường có chương trình nào không ạ?", 
+        "output": "Trường có các chương trình học bổng và hỗ trợ tài chính cho sinh viên có hoàn cảnh khó khăn. Em có thể tìm hiểu thông tin chi tiết tại phòng Công tác Sinh viên." 
+    },
+    {
+        "input": "Em muốn biết thêm về các kỹ năng tiếng Anh cần thiết cho ngành học của em, em có thể tham khảo ở đâu ạ?",
+        "output": "Em có thể tham khảo chương trình đào tạo của ngành học để biết các yêu cầu về kỹ năng tiếng Anh. Em cũng có thể trao đổi với giảng viên chuyên ngành hoặc cố vấn học tập để được tư vấn cụ thể." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các cơ hội học bổng du học sau đại học bằng tiếng Anh, trường có thông tin gì không ạ?",
+        "output": "Trung tâm Đào tạo Quốc tế của trường thường xuyên cập nhật thông tin về các học bổng du học sau đại học. Em có thể liên hệ với trung tâm để được tư vấn và hỗ trợ." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các chương trình đào tạo tiếng Anh trực tuyến do trường tổ chức, em có thể tìm thông tin ở đâu ạ?",
+        "output": "Thông tin về các chương trình đào tạo tiếng Anh trực tuyến sẽ được đăng tải trên website của trường và thông báo qua email sinh viên. Em cũng có thể liên hệ trực tiếp với Trung tâm Đào tạo Quốc tế để được tư vấn." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các phần mềm dịch thuật hỗ trợ học tiếng Anh, trường có khuyến nghị gì không ạ?",
+        "output": "Trường có thể giới thiệu cho em một số phần mềm dịch thuật uy tín và hiệu quả để hỗ trợ học tiếng Anh. Tuy nhiên, em nên sử dụng phần mềm dịch thuật một cách cẩn trọng và kết hợp với các phương pháp học khác để nâng cao trình độ tiếng Anh."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các khóa học tiếng Anh giao tiếp cho người đi làm, trường có tổ chức chương trình nào không ạ?", 
+        "output": "Trường có thể tổ chức các khóa học tiếng Anh giao tiếp cho người đi làm tùy theo nhu cầu. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn cụ thể."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các cơ hội làm việc bán thời gian sử dụng tiếng Anh, trường có hỗ trợ gì không ạ?",
+        "output": "Trung tâm Hỗ trợ sinh viên và việc làm của trường có thể cung cấp thông tin về các cơ hội làm việc bán thời gian sử dụng tiếng Anh. Em có thể liên hệ với trung tâm để được hỗ trợ." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các chương trình học bổng tiếng Anh dành cho học sinh THPT, trường có thông tin gì không ạ?",
+        "output": "Trường có thể cung cấp thông tin về các chương trình học bổng tiếng Anh dành cho học sinh THPT do các tổ chức giáo dục uy tín tổ chức. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn." 
+    },
+    {
+        "input": "Em muốn tham gia các cuộc thi hùng biện tiếng Anh, trường có hỗ trợ gì không ạ?", 
+        "output": "Trường có câu lạc bộ hùng biện tiếng Anh và thường xuyên tổ chức các cuộc thi hùng biện nội bộ. Em có thể tham gia câu lạc bộ để được hướng dẫn và rèn luyện kỹ năng hùng biện." 
+    },
+    {
+        "input": "Em muốn tìm hiểu về các chương trình trao đổi sinh viên ngắn hạn bằng tiếng Anh, trường có cơ hội nào không ạ?",
+        "output": "Trường có các chương trình trao đổi sinh viên ngắn hạn với các trường đại học đối tác trên thế giới. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để tìm hiểu thêm về các cơ hội trao đổi."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các khóa học tiếng Anh online 1 kèm 1, trường có giới thiệu gì không ạ?",
+        "output": "Trường có thể giới thiệu cho em các trung tâm hoặc giáo viên uy tín cung cấp dịch vụ học tiếng Anh online 1 kèm 1. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn."
+    }  
       
       
       
