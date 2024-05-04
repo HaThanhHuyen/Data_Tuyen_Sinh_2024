@@ -1,0 +1,183 @@
+[
+    {
+      "input": "Chào anh/chị, em muốn hỏi là chương trình tiên tiến yêu cầu đầu vào tiếng Anh như thế nào ạ?",
+      "output": "Chào em, chương trình tiên tiến không yêu cầu đầu vào tiếng Anh cụ thể. Tuy nhiên, nếu em có chứng chỉ IELTS từ 5.5 trở lên hoặc tương đương, em sẽ được miễn học tiếng Anh trong năm nhất và có thể được xét chuyển thẳng lên năm 2."
+    },
+    {
+      "input": "Em có chứng chỉ TOEFL iBT, vậy em có được miễn học tiếng Anh không ạ?",
+      "output": "Có em nhé. Chương trình chấp nhận nhiều loại chứng chỉ tiếng Anh quốc tế, em có thể xem bảng quy đổi điểm trong Quy định về trình độ tiếng Anh để biết thêm chi tiết."
+    },
+    {
+      "input": "Em nghe nói sinh viên chương trình tiên tiến phải đạt IELTS 5.5 sau năm 2, điều này có đúng không ạ?",
+      "output": "Đúng rồi em. Sinh viên chương trình tiên tiến cần đạt IELTS 4.5 hoặc tương đương sau năm nhất và IELTS 5.5 hoặc tương đương sau năm 2. Việc này giúp đảm bảo sinh viên có đủ năng lực tiếng Anh để học tập và nghiên cứu hiệu quả."
+    },
+    {
+      "input": "Nếu em không đạt yêu cầu tiếng Anh thì sao ạ?",
+      "output": "Kết quả tiếng Anh sẽ được xem xét cùng với kết quả học tập để đưa ra cảnh báo học vụ. Em có thể tham gia các khóa học tiếng Anh do trường tổ chức để nâng cao trình độ." 
+    },
+    {
+      "input": "Trường có tổ chức thi chứng chỉ tiếng Anh quốc tế không ạ?",
+      "output": "Hiện tại, trường tổ chức thi IELTS và TOEFL nội bộ để đánh giá trình độ tiếng Anh của sinh viên chương trình tiên tiến."
+    },
+    {
+      "input": "Chứng chỉ tiếng Anh của em sắp hết hạn, vậy có được chấp nhận không?",
+      "output": "Chứng chỉ tiếng Anh của em cần còn hiệu lực tại thời điểm nhập học em nhé."
+    },
+    {
+        "input": "Em muốn biết điểm IELTS của em tương đương với bao nhiêu điểm trên thang điểm 10 của trường?",
+        "output": "Em có thể xem bảng quy đổi điểm trong Quy định về trình độ tiếng Anh đối với sinh viên chương trình tiên tiến để biết điểm IELTS của em tương đương với bao nhiêu điểm trên thang điểm 10."
+    },
+    {
+        "input": "Ngoài IELTS và TOEFL, trường có chấp nhận chứng chỉ tiếng Anh nào khác không ạ?",
+        "output": "Có em, trường cũng chấp nhận chứng chỉ TOEIC và Cambridge ESOL Tests (PET). Em có thể xem bảng quy đổi điểm để biết thêm chi tiết."
+    }, 
+    {
+        "input": "Nếu em có chứng chỉ tiếng Anh nhưng chỉ được miễn một phần học分 tiếng Anh, em có thể học các học phần còn lại ở đâu ạ?",
+        "output": "Em sẽ học các học phần tiếng Anh còn lại cùng với các bạn trong chương trình tiên tiến theo sự sắp xếp của nhà trường."
+    },
+    {
+        "input": "Em muốn ôn thi tiếng Anh, trường có hỗ trợ gì không ạ?",
+        "output": "Trường có tổ chức các khóa học tiếng Anh và cung cấp tài liệu ôn tập cho sinh viên. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế hoặc phòng Đào tạo để biết thêm thông tin chi tiết."
+    },
+    {
+        "input": "Quy định về trình độ tiếng Anh này có áp dụng cho tất cả các ngành trong chương trình tiên tiến không ạ?",
+        "output": "Đúng vậy em, quy định này áp dụng cho tất cả các ngành thuộc chương trình tiên tiến của trường."
+    },
+    {
+        "input": "Em có thể xem quy định về trình độ tiếng Anh ở đâu ạ?",
+        "output": "Em có thể xem chi tiết Quy định về trình độ tiếng Anh đối với sinh viên chương trình tiên tiến trên website của trường hoặc liên hệ với phòng Đào tạo để được cung cấp."
+    },
+    {
+        "input": "Em là sinh viên quốc tế, em có cần đáp ứng yêu cầu tiếng Anh này không?",
+        "output": "Nếu tiếng Anh là ngôn ngữ mẹ đẻ của em hoặc em đã tốt nghiệp chương trình trung học phổ thông giảng dạy bằng tiếng Anh, em có thể được miễn yêu cầu tiếng Anh. Tuy nhiên, em cần cung cấp giấy tờ chứng minh cho trường." 
+    },
+    {
+        "input": "Ngoài các chứng chỉ quốc tế, em có thể sử dụng chứng chỉ tiếng Anh nào khác để được miễn học phần tiếng Anh không ạ?", 
+        "output": "Hiện tại, trường chỉ chấp nhận các chứng chỉ tiếng Anh quốc tế như IELTS, TOEFL, TOEIC và Cambridge ESOL Tests (PET) để xét miễn học phần tiếng Anh." 
+    },
+    {
+        "input": "Em có thể thi lại bài kiểm tra tiếng Anh nội bộ của trường nếu không đạt yêu cầu không ạ?",
+        "output": "Có em, trường sẽ tạo điều kiện cho em thi lại bài kiểm tra tiếng Anh nội bộ nếu em không đạt yêu cầu trong lần thi đầu tiên."
+    },
+    {
+        "input": "Yêu cầu tiếng Anh có thay đổi theo từng năm không ạ?",
+        "output": "Yêu cầu về trình độ tiếng Anh có thể thay đổi theo từng năm học. Em nên cập nhật thông tin mới nhất từ phòng Đào tạo hoặc website của trường." 
+    },
+    {
+        "input": "Chào anh/chị, em muốn hỏi là chứng chỉ IELTS của em cần đạt bao nhiêu điểm để được miễn học tiếng Anh hoàn toàn trong năm nhất ạ?",
+        "output": "Chào em, em cần đạt IELTS 5.5 hoặc tương đương để được miễn toàn bộ học phần tiếng Anh trong năm nhất."
+    },
+    {
+        "input": "Em có chứng chỉ TOEFL iBT 60 điểm, vậy em có được miễn học phần nào không ạ?",
+        "output": "Với TOEFL iBT 60 điểm, em sẽ được miễn một số học phần tiếng Anh trong năm nhất. Em có thể xem bảng quy đổi điểm trong Quy định về trình độ tiếng Anh để biết cụ thể em được miễn những học phần nào." 
+    },
+    {
+        "input": "Điểm TOEIC của em là 650, vậy tương đương với bao nhiêu điểm IELTS ạ?",
+        "output": "Theo bảng quy đổi của trường, TOEIC 650 điểm tương đương với IELTS 5.5."
+    },
+    {
+        "input": "Em có chứng chỉ Cambridge English: First (FCE), vậy có được chấp nhận không ạ?",
+        "output": "Chứng chỉ Cambridge English: First (FCE) tương đương với IELTS 5.0 - 6.0. Em có thể được miễn một số học phần tiếng Anh tùy theo điểm số cụ thể của em." 
+    },
+    {
+        "input": "Bài kiểm tra tiếng Anh nội bộ của trường thi những kỹ năng gì ạ?",
+        "output": "Bài kiểm tra tiếng Anh nội bộ của trường đánh giá 4 kỹ năng Nghe, Nói, Đọc, Viết."
+    },
+    {
+        "input": "Nếu em không đạt yêu cầu tiếng Anh sau năm nhất, em có thể làm gì để cải thiện ạ?",
+        "output": "Em có thể tham gia các khóa học tiếng Anh do trường tổ chức hoặc tự ôn luyện để nâng cao trình độ. Em cũng nên trao đổi với giảng viên tiếng Anh để được hướng dẫn cụ thể."
+    }, 
+    {
+        "input": "Trường có cung cấp học bổng cho sinh viên đạt thành tích cao trong kỳ thi tiếng Anh nội bộ không ạ?",
+        "output": "Hiện tại trường chưa có chính sách học bổng cho sinh viên đạt thành tích cao trong kỳ thi tiếng Anh nội bộ. Tuy nhiên, em có thể tham khảo các chương trình học bổng khác của trường."
+    },
+    {
+        "input": "Em muốn biết lịch thi tiếng Anh nội bộ của trường như thế nào ạ?",
+        "output": "Lịch thi tiếng Anh nội bộ sẽ được thông báo trên website của trường và qua email sinh viên. Em nên theo dõi thông tin thường xuyên để không bỏ lỡ."
+    },
+    {
+        "input": "Em có thể đăng ký thi tiếng Anh nội bộ ở đâu ạ?",
+        "output": "Em có thể đăng ký thi tiếng Anh nội bộ trực tuyến qua cổng thông tin sinh viên hoặc liên hệ trực tiếp với phòng Khảo thí và Đảm bảo chất lượng."
+    },
+    {
+        "input": "Lệ phí thi tiếng Anh nội bộ là bao nhiêu ạ?",
+        "output": "Lệ phí thi tiếng Anh nội bộ sẽ được thông báo cùng với lịch thi. Em có thể tham khảo thông tin chi tiết trên website của trường."
+    },
+    {
+        "input": "Kết quả thi tiếng Anh nội bộ có giá trị trong bao lâu ạ?",
+        "output": "Kết quả thi tiếng Anh nội bộ có giá trị trong vòng 2 năm."
+    },
+    {
+        "input": "Em là sinh viên hệ vừa học vừa làm, em có được miễn yêu cầu tiếng Anh không ạ?",
+        "output": "Yêu cầu tiếng Anh áp dụng cho tất cả sinh viên chương trình tiên tiến, bao gồm cả sinh viên hệ vừa học vừa làm."
+    },
+    {
+        "input": "Em muốn chuyển từ chương trình đại trà sang chương trình tiên tiến, em có cần đáp ứng yêu cầu tiếng Anh này không ạ?",
+        "output": "Có em, nếu em muốn chuyển sang chương trình tiên tiến, em cần đáp ứng yêu cầu về trình độ tiếng Anh như quy định của trường." 
+    },
+    {
+        "input": "Em muốn biết format bài thi tiếng Anh nội bộ của trường như thế nào ạ?",
+        "output": "Format bài thi tiếng Anh nội bộ tương tự như các bài thi IELTS hoặc TOEFL, bao gồm các phần thi Nghe, Nói, Đọc, Viết. Em có thể tham khảo các tài liệu ôn tập IELTS hoặc TOEFL để làm quen với format bài thi."
+    },
+    {
+        "input": "Trường có tổ chức các buổi ôn tập cho kỳ thi tiếng Anh nội bộ không ạ?",
+        "output": "Có em, trường có tổ chức các buổi ôn tập kỹ năng làm bài thi tiếng Anh cho sinh viên. Em có thể đăng ký tham gia các buổi ôn tập này để nâng cao kỹ năng và tự tin hơn khi bước vào kỳ thi."
+    },
+    {
+        "input": "Em có thể sử dụng từ điển trong kỳ thi tiếng Anh nội bộ không ạ?", 
+        "output": "Em không được sử dụng từ điển trong kỳ thi tiếng Anh nội bộ em nhé."
+    }, 
+    {
+        "input": "Em có thể xem điểm thi tiếng Anh nội bộ ở đâu ạ?",
+        "output": "Em có thể xem điểm thi tiếng Anh nội bộ trên cổng thông tin sinh viên sau khi có kết quả."
+    },
+    {
+        "input": "Em muốn phúc khảo bài thi tiếng Anh nội bộ, em cần làm gì ạ?", 
+        "output": "Em cần liên hệ với phòng Khảo thí và Đảm bảo chất lượng để được hướng dẫn về thủ tục phúc khảo bài thi." 
+    },
+
+    {
+        "input": "Em muốn học lên cao học tại trường, yêu cầu tiếng Anh đầu vào có giống với chương trình tiên tiến không ạ?",
+        "output": "Yêu cầu tiếng Anh đầu vào cho chương trình cao học có thể khác so với chương trình tiên tiến. Em nên tham khảo thông tin tuyển sinh cao học trên website của trường hoặc liên hệ với khoa đào tạo sau đại học để biết thêm chi tiết." 
+    },
+    {
+        "input": "Em muốn tham gia chương trình trao đổi sinh viên quốc tế, yêu cầu tiếng Anh như thế nào ạ?", 
+        "output": "Yêu cầu tiếng Anh cho chương trình trao đổi sinh viên quốc tế tùy thuộc vào trường đại học đối tác. Em nên tìm hiểu thông tin cụ thể từ trường đối tác hoặc liên hệ với Trung tâm Đào tạo Quốc tế của trường để được tư vấn."
+    },
+    {
+        "input": "Trường có hỗ trợ sinh viên luyện thi chứng chỉ tiếng Anh quốc tế không ạ?",
+        "output": "Có em, trường có các câu lạc bộ tiếng Anh và các chương trình hỗ trợ sinh viên luyện thi chứng chỉ tiếng Anh quốc tế. Em có thể tham gia các hoạt động này để nâng cao trình độ và chuẩn bị tốt hơn cho kỳ thi."
+    },
+    {
+        "input": "Em là sinh viên năm 3 chương trình tiên tiến, em muốn thi chứng chỉ tiếng Anh quốc tế để xin học bổng du học, trường có hỗ trợ gì không ạ?",
+        "output": "Trường có các chương trình hỗ trợ sinh viên luyện thi chứng chỉ tiếng Anh quốc tế và cung cấp thông tin về các học bổng du học. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn cụ thể."
+    },
+    {
+        "input": "Em muốn trở thành trợ giảng tiếng Anh cho các bạn sinh viên năm nhất, em cần đáp ứng những yêu cầu gì ạ?", 
+        "output": "Để trở thành trợ giảng tiếng Anh, em cần có trình độ tiếng Anh tốt, kỹ năng sư phạm và khả năng truyền đạt kiến thức. Em có thể liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo Quốc tế để tìm hiểu thêm về các cơ hội trợ giảng."
+    },
+    {
+        "input": "Em muốn tham gia các hoạt động ngoại khóa bằng tiếng Anh, trường có câu lạc bộ nào không ạ?",
+        "output": "Trường có nhiều câu lạc bộ tiếng Anh với các hoạt động đa dạng như hùng biện, debate, kịch nghệ... Em có thể tham gia các câu lạc bộ này để rèn luyện kỹ năng tiếng Anh và giao lưu với các bạn có cùng sở thích."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về chương trình đào tạo tiếng Anh của trường, em có thể liên hệ với ai ạ?",
+        "output": "Em có thể liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo Quốc tế để tìm hiểu thêm về chương trình đào tạo tiếng Anh của trường."
+    },
+    {
+        "input": "Em muốn đóng góp ý kiến về chương trình đào tạo tiếng Anh của trường, em có thể làm như thế nào ạ?",
+        "output": "Em có thể gửi ý kiến của mình qua email, hộp thư góp ý hoặc gặp trực tiếp đại diện phòng Đào tạo hoặc Trung tâm Đào tạo Quốc tế."
+    },
+    {
+        "input": "Em muốn tìm hiểu về cơ hội việc làm liên quan đến tiếng Anh sau khi tốt nghiệp, trường có hỗ trợ gì không ạ?",
+        "output": "Trung tâm Hỗ trợ sinh viên và việc làm của trường cung cấp thông tin về các cơ hội việc làm, tổ chức các buổi hội thảo nghề nghiệp và hướng dẫn sinh viên kỹ năng tìm việc. Em có thể liên hệ với trung tâm để được hỗ trợ."
+    }
+      
+      
+      
+      
+      
+      
+    
+      
+  ]
