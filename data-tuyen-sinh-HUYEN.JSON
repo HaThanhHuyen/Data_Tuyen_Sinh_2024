@@ -379,5 +379,73 @@
   {
     "input": "Em muốn hỏi, sinh viên có được phép ở lại ký túc xá trong dịp nghỉ hè không?",
     "output": "Sinh viên được phép ở lại ký túc xá trong dịp nghỉ hè nhưng cần đăng ký với Ban quản lý ký túc xá và đóng các khoản phí theo quy định."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn hỏi về quy định sinh viên ngoại trú ạ?",
+    "output": "Chào em, sinh viên ngoại trú là sinh viên không ở trong ký túc xá của trường. Em cần thực hiện các nghĩa vụ theo quy định của nhà trường và pháp luật, đồng thời tham gia các hoạt động văn hóa, xã hội do địa phương tổ chức."
+  },
+  {
+    "input": "Em ở trọ ngoài trường thì có cần đăng ký tạm trú không ạ?",
+    "output": "Nếu em không có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu thì cần phải đăng ký tạm trú với công an xã, phường, thị trấn nơi em ở nhé."
+  },
+  {
+    "input": "Em cần báo cáo thông tin ngoại trú cho nhà trường như thế nào?",
+    "output": "Em cần báo cáo địa chỉ ngoại trú cho lớp trưởng trong vòng 30 ngày kể từ ngày nhập học, và cập nhật lại địa chỉ mới trong vòng 20 ngày nếu có thay đổi nơi ở em nhé."
+  },
+  {
+    "input": "Lớp trưởng quản lý thông tin ngoại trú của sinh viên bằng cách nào?",
+    "output": "Đầu mỗi khóa học, lớp trưởng sẽ được nhà trường cấp phát \"Sổ theo dõi sinh viên ngoại trú\". Trong 4 tuần đầu mỗi học kỳ, lớp trưởng sẽ yêu cầu sinh viên ngoại trú khai báo địa chỉ và cập nhật thông tin vào sổ này."
+  },
+  {
+    "input": "Khoa và trường sẽ quản lý thông tin ngoại trú của sinh viên như thế nào ạ?",
+    "output": "Vào tuần thứ 5 của mỗi học kỳ, lớp trưởng sẽ báo cáo tình hình ngoại trú của lớp cho khoa. Cuối học kỳ, khoa sẽ thu sổ theo dõi, lập báo cáo và gửi về trường. Trường sẽ tổng hợp tình hình và báo cáo lên Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Nếu em vi phạm quy chế sinh viên ngoại trú thì sẽ bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm mà em có thể bị khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Cho em hỏi quy chế sinh viên ngoại trú có được áp dụng cho sinh viên hệ cao đẳng và liên thông không ạ?",
+    "output": "Có em nhé, quy chế sinh viên ngoại trú được áp dụng cho tất cả sinh viên hệ chính quy của trường, bao gồm cả hệ đại học, cao đẳng và liên thông."
+  },
+  {
+    "input": "Trường có thường xuyên kiểm tra nơi ở của sinh viên ngoại trú không?",
+    "output": "Nhà trường sẽ tiến hành kiểm tra nơi ở của sinh viên ngoại trú theo kế hoạch, đồng thời phối hợp với địa phương để đảm bảo an ninh trật tự và an toàn xã hội."
+  },
+  {
+    "input": "Ngoài việc báo cáo cho lớp trưởng, em có cần phải khai báo thông tin ngoại trú ở đâu nữa không?",
+    "output": "Em không cần khai báo ở đâu khác ngoài việc báo cáo địa chỉ cho lớp trưởng. Lớp trưởng sẽ cập nhật thông tin vào \"Sổ theo dõi sinh viên ngoại trú\" và báo cáo lên khoa, trường."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về quy chế sinh viên ngoại trú thì có thể tham khảo ở đâu ạ?",
+    "output": "Em có thể tham khảo thông báo số 788/TB-ĐHTL ngày 05/08/2010 của trường hoặc liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Nếu em có thắc mắc hoặc góp ý về quy chế sinh viên ngoại trú thì có thể liên hệ với ai?",
+    "output": "Em có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên hoặc Ban giám hiệu nhà trường để được giải đáp hoặc đóng góp ý kiến."
+  },
+  {
+    "input": "Em là sinh viên năm cuối và đang chuẩn bị làm khóa luận tốt nghiệp. Em muốn hỏi về quy định ở ký túc xá trong thời gian này như thế nào?",
+    "output": "Chào em, thông tin về quy định ở ký túc xá trong thời gian làm khóa luận tốt nghiệp em cần liên hệ trực tiếp với Ban quản lý ký túc xá để được hỗ trợ cụ thể nhé."
+  },
+  {
+    "input": "Em muốn chuyển chỗ ở trọ gần trường hơn, em cần làm những thủ tục gì?",
+    "output": "Khi chuyển chỗ ở trọ, em cần báo cáo địa chỉ mới cho lớp trưởng trong vòng 20 ngày kể từ ngày chuyển đi. Lớp trưởng sẽ cập nhật thông tin vào \"Sổ theo dõi sinh viên ngoại trú\" và báo cáo lên khoa, trường. Nếu chỗ ở mới thuộc địa bàn quản lý khác, em cũng cần đăng ký tạm trú lại theo quy định."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động tình nguyện do địa phương tổ chức, em cần liên hệ với ai?",
+    "output": "Em có thể liên hệ với Đoàn thanh niên, Hội sinh viên của trường hoặc trực tiếp với chính quyền địa phương nơi em cư trú để tìm hiểu về các hoạt động tình nguyện và đăng ký tham gia."
+  },
+  {
+    "input": "Em ở cùng phòng trọ với một bạn cùng lớp nhưng bạn ấy thường xuyên về muộn và gây ồn ào, em có thể báo cáo vấn đề này cho ai?",
+    "output": "Em có thể trao đổi trực tiếp với bạn cùng phòng để tìm cách giải quyết. Nếu vấn đề vẫn tiếp diễn, em có thể báo cáo cho lớp trưởng hoặc Ban quản lý khu nhà trọ để được hỗ trợ."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi thủ tục đăng ký tạm trú cho sinh viên ngoại trú như thế nào?",
+    "output": "Chào em, để đăng ký tạm trú, em cần mang theo giấy tờ tùy thân (CMND/CCCD) và giấy xác nhận của chủ nhà trọ đến trụ sở công an xã/phường/thị trấn nơi em ở để làm thủ tục. Thủ tục đăng ký tạm trú thường khá nhanh chóng và đơn giản."
+  },
+  {
+    "input": "Em có hộ khẩu thường trú ở tỉnh khác nhưng đang thuê trọ ở Hà Nội để học tập, em có cần phải chuyển hộ khẩu về Hà Nội không?",
+    "output": "Em không cần chuyển hộ khẩu về Hà Nội, em chỉ cần đăng ký tạm trú tại nơi ở hiện tại là được."
   }
 ]
