@@ -1691,5 +1691,441 @@
   {
     "input": "Em muốn hỏi là trường mình có những thành tựu gì trong lĩnh vực hợp tác quốc tế ạ?",
     "output": "Trường mình có nhiều thành tựu trong lĩnh vực hợp tác quốc tế, với nhiều chương trình trao đổi sinh viên, giảng viên, nghiên cứu chung với các trường đại học, viện nghiên cứu, tổ chức quốc tế."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm 2. Em muốn hỏi về mức hỗ trợ chi phí học tập cho sinh viên là người dân tộc thiểu số ạ?",
+    "output": "Chào em, mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình xét duyệt hồ sơ miễn giảm học phí vào thời gian nào ạ?",
+    "output": "Sinh viên thuộc diện miễn giảm học phí phải làm 01 bộ hồ sơ nộp lần đầu cho cả thời gian học tập, riêng sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo theo quy định của Thủ tướng Chính phủ, phải nộp bổ sung giấy xác nhận hộ nghèo hoặc cận nghèo vào đầu mỗi học kỳ em nhé."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi là sinh viên được hỗ trợ học tập là những đối tượng nào ạ?",
+    "output": "Sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thủy lợi em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức hỗ trợ học tập cho sinh viên là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng em ạ."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi về điều kiện để được hưởng trợ cấp xã hội của trường mình ạ.",
+    "output": "Trường mình có trợ cấp xã hội cho các đối tượng sau: sinh viên là người dân tộc ít người ở vùng cao, sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa, sinh viên là người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập. Mỗi đối tượng sẽ có những điều kiện cụ thể, em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là sinh viên năm nhất có được xét duyệt trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên năm nhất vẫn được xét duyệt trợ cấp xã hội như các sinh viên năm khác nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức trợ cấp xã hội của trường mình là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức trợ cấp xã hội sẽ tùy thuộc vào từng đối tượng, cụ thể là: 140.000đ/tháng đối với sinh viên là người dân tộc ít người ở vùng cao, 100.000đ/tháng đối với các đối tượng còn lại em nhé!"
+  },
+  {
+    "input": "Cho em hỏi thời gian nộp hồ sơ xét duyệt trợ cấp xã hội là khi nào ạ?",
+    "output": "Sinh viên thuộc đối tượng người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ, không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn sẽ nộp hồ sơ xin hưởng trợ cấp xã hội duy nhất một lần trong toàn khóa học. Sinh viên thuộc đối tượng nghèo vượt khó học tập sẽ nộp hồ sơ mỗi kỳ một lần sau khi có kết quả học tập và rèn luyện của học kỳ trước liền kề em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là nếu em thuộc diện được miễn giảm học phí thì có được hưởng trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên thuộc diện được miễn giảm học phí vẫn có thể được hưởng trợ cấp xã hội nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là trường mình có hỗ trợ gì cho sinh viên bị ảnh hưởng bởi dịch COVID-19 không ạ?",
+    "output": "Trường mình luôn quan tâm và có những hỗ trợ kịp thời cho sinh viên bị ảnh hưởng bởi dịch COVID-19. Em có thể theo dõi thông báo trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được biết thêm thông tin chi tiết em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Anh/chị ơi, điểm chuẩn vào trường mình những năm gần đây như thế nào ạ?",
+    "output": "Điểm chuẩn vào trường sẽ thay đổi theo từng năm và từng ngành học phụ thuộc vào số lượng thí sinh đăng ký và kết quả thi. Em có thể tham khảo điểm chuẩn của những năm trước trên website của trường hoặc các trang thông tin tuyển sinh để có dự đoán cho năm nay."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển thẳng không ạ?",
+    "output": "Trường mình có xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo cho các đối tượng như: học sinh giỏi cấp quốc gia, học sinh đạt giải trong các kỳ thi học sinh giỏi cấp tỉnh, thành phố, ... Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có tổ chức thi riêng không ạ?",
+    "output": "Trường mình chỉ xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT. Em có thể đăng ký xét tuyển vào trường theo quy định của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn tham quan trường mình thì phải làm sao ạ?",
+    "output": "Em có thể liên hệ với phòng Công tác Sinh viên hoặc Đoàn Thanh niên để đăng ký tham quan trường. Trường thường xuyên tổ chức các chương trình tham quan, trải nghiệm dành cho học sinh THPT."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những kênh thông tin nào để cập nhật tin tức về tuyển sinh ạ?",
+    "output": "Em có thể cập nhật thông tin tuyển sinh của trường qua website chính thức của trường, fanpage của trường trên Facebook, hoặc các kênh thông tin tuyển sinh uy tín khác."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi trường mình có những phương thức xét tuyển nào ạ?",
+    "output": "Trường mình xét tuyển dựa vào kết quả thi tốt nghiệp THPT theo các phương thức do Bộ Giáo dục và Đào tạo quy định. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc các trang thông tin tuyển sinh uy tín."
+  },
+  {
+    "input": "Anh/chị ơi, ngành ... của trường mình có những môn thi xét tuyển nào ạ?",
+    "output": "Môn thi xét tuyển vào từng ngành sẽ do Bộ Giáo dục và Đào tạo quy định. Em có thể tham khảo tổ hợp môn xét tuyển của từng ngành trên website của trường hoặc các trang thông tin tuyển sinh."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển học bạ không ạ?",
+    "output": "Trường mình hiện không xét tuyển học bạ. Em có thể đăng ký xét tuyển vào trường dựa vào kết quả thi tốt nghiệp THPT."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học phí của chương trình tiên tiến có cao hơn chương trình đại trà không ạ?",
+    "output": "Học phí của chương trình tiên tiến thường cao hơn chương trình đại trà do chương trình đào tạo có những yêu cầu cao hơn về cơ sở vật chất, đội ngũ giảng viên, và phương pháp giảng dạy. Em có thể tham khảo mức học phí cụ thể trên website của trường."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên chương trình tiên tiến có được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà không ạ?",
+    "output": "Sinh viên chương trình tiên tiến vẫn được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, học bổng, ... nếu đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là ký túc xá của trường có đủ chỗ cho tất cả sinh viên không ạ?",
+    "output": "Ký túc xá của trường có sức chứa giới hạn. Việc bố trí chỗ ở sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn, sinh viên ở xa. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học."
+  },
+  {
+    "input": "Anh/chị ơi, chi phí ở ký túc xá của trường mình như thế nào ạ?",
+    "output": "Chi phí ở ký túc xá sẽ tùy thuộc vào loại phòng và số lượng người ở. Em có thể tham khảo mức phí cụ thể tại Ban Quản lý Ký túc xá."
+  },
+  {
+    "input": "Em muốn hỏi là thư viện của trường mình có những tài liệu gì ạ?",
+    "output": "Thư viện của trường có đầy đủ các loại tài liệu phục vụ cho việc học tập và nghiên cứu của sinh viên, bao gồm sách giáo trình, sách tham khảo, tạp chí chuyên ngành, luận văn, đồ án, ... Em có thể tra cứu tài liệu trực tuyến hoặc đến trực tiếp thư viện để mượn sách."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những cơ sở vật chất nào phục vụ cho việc học tập và sinh hoạt của sinh viên ạ?",
+    "output": "Trường mình có đầy đủ các cơ sở vật chất hiện đại phục vụ cho việc học tập và sinh hoạt của sinh viên, bao gồm phòng học, phòng thí nghiệm, thư viện, ký túc xá, nhà ăn, sân vận động, ... "
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có hỗ trợ sinh viên khởi nghiệp không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp, nơi cung cấp các dịch vụ hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là ký túc xá của trường có đủ chỗ cho tất cả sinh viên không ạ?",
+    "output": "Ký túc xá của trường có sức chứa giới hạn. Việc bố trí chỗ ở sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn, sinh viên ở xa. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học."
+  },
+  {
+    "input": "Anh/chị ơi, chi phí ở ký túc xá của trường mình như thế nào ạ?",
+    "output": "Chi phí ở ký túc xá sẽ tùy thuộc vào loại phòng và số lượng người ở. Em có thể tham khảo mức phí cụ thể tại Ban Quản lý Ký túc xá."
+  },
+  {
+    "input": "Em muốn hỏi là thư viện của trường mình có những tài liệu gì ạ?",
+    "output": "Thư viện của trường có đầy đủ các loại tài liệu phục vụ cho việc học tập và nghiên cứu của sinh viên, bao gồm sách giáo trình, sách tham khảo, tạp chí chuyên ngành, luận văn, đồ án, ... Em có thể tra cứu tài liệu trực tuyến hoặc đến trực tiếp thư viện để mượn sách."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những cơ sở vật chất nào phục vụ cho việc học tập và sinh hoạt của sinh viên ạ?",
+    "output": "Trường mình có đầy đủ các cơ sở vật chất hiện đại phục vụ cho việc học tập và sinh hoạt của sinh viên, bao gồm phòng học, phòng thí nghiệm, thư viện, ký túc xá, nhà ăn, sân vận động, ... "
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có hỗ trợ sinh viên khởi nghiệp không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp, nơi cung cấp các dịch vụ hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Nếu em là sinh viên ngoại trú mà không đăng ký tạm trú thì sẽ bị sao ạ?",
+    "output": "Việc không đăng ký tạm trú là vi phạm pháp luật và có thể bị xử phạt hành chính theo quy định em nhé."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về quy chế sinh viên ngoại trú thì phải làm sao ạ?",
+    "output": "Em có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được cung cấp thông tin chi tiết về quy chế sinh viên ngoại trú em nhé."
+  },
+  {
+    "input": "Quy chế sinh viên ngoại trú có ảnh hưởng gì đến việc xét tốt nghiệp của em không?",
+    "output": "Việc chấp hành quy chế sinh viên ngoại trú là một trong những tiêu chí đánh giá rèn luyện của sinh viên, có ảnh hưởng đến kết quả xét tốt nghiệp."
+  },
+  {
+    "input": "Nhà trường có kiểm tra nơi ở của sinh viên ngoại trú không?",
+    "output": "Có em nhé, nhà trường sẽ phối hợp với địa phương để kiểm tra, giám sát nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn xã hội."
+  },
+  {
+    "input": "Em là sinh viên năm cuối và đang chuẩn bị làm khóa luận tốt nghiệp. Em có cần tiếp tục báo cáo địa chỉ ngoại trú không?",
+    "output": "Có em nhé, em vẫn cần cập nhật thông tin địa chỉ ngoại trú cho đến khi tốt nghiệp."
+  },
+  {
+    "input": "Em muốn chuyển chỗ ở thì cần làm những gì ạ?",
+    "output": "Khi chuyển chỗ ở, em cần thông báo địa chỉ mới cho lớp trưởng trong vòng 20 ngày để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\". Nếu chuyển đến địa phương khác, em cũng cần làm thủ tục đăng ký tạm trú mới."
+  },
+  {
+    "input": "Khoa có trách nhiệm gì trong việc quản lý sinh viên ngoại trú?",
+    "output": "Khoa chủ quản có trách nhiệm theo dõi, kiểm tra tình hình sinh viên ngoại trú, thu thập báo cáo từ các lớp và tổng hợp báo cáo gửi về phòng Công tác chính trị & Quản lý sinh viên vào cuối mỗi học kỳ."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động ngoại khóa do địa phương tổ chức thì phải đăng ký ở đâu ạ?",
+    "output": "Em có thể liên hệ với chính quyền địa phương nơi cư trú để tìm hiểu và đăng ký tham gia các hoạt động."
+  },
+  {
+    "input": "Nếu em có vấn đề về chỗ ở hoặc gặp khó khăn trong việc thực hiện quy chế ngoại trú thì có thể nhờ ai hỗ trợ ạ?",
+    "output": "Em có thể liên hệ với lớp trưởng, cố vấn học tập hoặc phòng Công tác chính trị & Quản lý sinh viên để được hỗ trợ và tư vấn."
+  },
+  {
+    "input": "Quy chế ngoại trú có áp dụng cho sinh viên hệ vừa học vừa làm không ạ?",
+    "output": "Quy chế ngoại trú áp dụng cho tất cả sinh viên hệ chính quy, bao gồm cả sinh viên hệ vừa học vừa làm."
+  },
+  {
+    "input": "Em chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là quy chế ngoại trú được áp dụng từ năm nào ạ?",
+    "output": "Chào em, quy chế sinh viên ngoại trú đã được Trường Đại học Thủy lợi áp dụng từ năm học 2010-2011 theo thông tư số 27/2009/TT-BGDĐT của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Em ở cùng người thân chứ không ở ký túc xá, vậy em có được coi là sinh viên ngoại trú không ạ?",
+    "output": "Đúng rồi em, sinh viên ngoại trú là những sinh viên không ở trong ký túc xá của trường, bao gồm cả những em ở cùng người thân hoặc thuê nhà trọ."
+  },
+  {
+    "input": "Em là sinh viên ngoại trú, vậy em cần phải làm những gì ạ?",
+    "output": "Sinh viên ngoại trú cần thực hiện các nghĩa vụ theo quy chế học sinh sinh viên, chấp hành pháp luật, tham gia các hoạt động cộng đồng, đồng thời đăng ký tạm trú với cơ quan công an (trừ khi em có hộ khẩu thường trú tại nơi ở hiện tại)."
+  },
+  {
+    "input": "Em cần phải thông báo địa chỉ ngoại trú cho nhà trường trong thời gian bao lâu?",
+    "output": "Em cần thông báo địa chỉ ngoại trú cho nhà trường (thông qua lớp trưởng) trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cần cập nhật địa chỉ mới trong vòng 20 ngày."
+  },
+  {
+    "input": "Em là lớp trưởng, vậy em có trách nhiệm gì liên quan đến quản lý sinh viên ngoại trú ạ?",
+    "output": "Em cần thu thập thông tin địa chỉ ngoại trú của các bạn trong lớp và cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\", sau đó báo cáo lên khoa chủ quản vào tuần thứ 5 của mỗi học kỳ."
+  },
+  {
+    "input": "Nếu em vi phạm quy chế ngoại trú thì sẽ bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, em có thể bị xử lý kỷ luật theo quy định của nhà trường, từ khiển trách, cảnh cáo đến đình chỉ học tập hoặc buộc thôi học."
+  },
+  {
+    "input": "Ngoài việc đăng ký tạm trú, sinh viên ngoại trú còn cần lưu ý những gì về pháp luật?",
+    "output": "Sinh viên ngoại trú cần tuân thủ pháp luật về an ninh trật tự, an toàn xã hội, phòng chống ma túy, tệ nạn xã hội và bảo vệ môi trường."
+  },
+  {
+    "input": "Em ở trọ cùng bạn, vậy cả hai bọn em đều phải đăng ký tạm trú hay chỉ cần một người đăng ký là đủ ạ?",
+    "output": "Nếu cả hai em đều không có hộ khẩu thường trú tại nơi ở hiện tại thì đều phải đăng ký tạm trú."
+  },
+  {
+    "input": "Việc thực hiện quy chế ngoại trú có ý nghĩa gì ạ?",
+    "output": "Việc thực hiện quy chế ngoại trú giúp nhà trường quản lý sinh viên tốt hơn, đảm bảo an ninh trật tự, an toàn xã hội và tạo điều kiện thuận lợi cho sinh viên trong học tập và sinh hoạt."
+  },
+  {
+    "input": "Em có thể tìm hiểu quy chế sinh viên ngoại trú ở đâu ạ?",
+    "output": "Em có thể tìm hiểu quy chế sinh viên ngoại trú trong thông tư số 27/2009/TT-BGDĐT của Bộ Giáo dục và Đào tạo hoặc liên hệ phòng Công tác chính trị & Quản lý sinh viên để được cung cấp tài liệu."
+  },
+  {
+    "input": "Nếu em có thắc mắc về việc đăng ký tạm trú thì có thể hỏi ai?",
+    "output": "Em có thể hỏi cán bộ công an xã/phường/thị trấn nơi em cư trú hoặc liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được hướng dẫn."
+  },
+  {
+    "input": "Em là sinh viên quốc tế, vậy em có cần đăng ký tạm trú không?",
+    "output": "Sinh viên quốc tế cần làm thủ tục đăng ký tạm trú theo quy định của pháp luật Việt Nam."
+  },
+  {
+    "input": "Em thấy quy định về quy chế ngoại trú khá phức tạp, em có thể không thực hiện được không?",
+    "output": "Việc thực hiện quy chế ngoại trú là nghĩa vụ của sinh viên. Nếu em gặp khó khăn, hãy liên hệ với nhà trường để được hỗ trợ."
+  },
+  {
+    "input": "Ngoài quy chế ngoại trú, còn có quy định nào khác về quản lý sinh viên không ạ?",
+    "output": "Ngoài quy chế ngoại trú, còn có quy chế học sinh, sinh viên và các quy định khác của nhà trường về quản lý sinh viên."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động tình nguyện do nhà trường tổ chức dành cho sinh viên ngoại trú thì phải làm sao ạ?",
+    "output": "Em có thể theo dõi thông báo từ Đoàn Thanh niên, Hội Sinh viên hoặc phòng Công tác chính trị & Quản lý sinh viên để biết thông tin về các hoạt động tình nguyện và đăng ký tham gia."
+  },
+  {
+    "input": "Nhà trường có hỗ trợ gì cho sinh viên ngoại trú gặp khó khăn về chỗ ở không ạ?",
+    "output": "Nhà trường có chính sách hỗ trợ sinh viên gặp khó khăn về chỗ ở, em có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để tìm hiểu thêm về các chương trình hỗ trợ."
+  },
+  {
+    "input": "Nếu em muốn phản ánh về tình hình an ninh trật tự tại nơi ở thì phải làm sao?",
+    "output": "Em có thể báo cáo với chính quyền địa phương hoặc công an nơi cư trú, hoặc thông báo cho nhà trường để phối hợp giải quyết."
+  },
+  {
+    "input": "Quy chế ngoại trú có quy định gì về việc sinh viên ở ghép phòng trọ không ạ?",
+    "output": "Quy chế ngoại trú không có quy định cụ thể về việc sinh viên ở ghép phòng trọ, tuy nhiên, sinh viên cần đảm bảo an ninh trật tự, an toàn xã hội và tuân thủ các quy định của địa phương."
+  },
+  {
+    "input": "Nếu em muốn tìm bạn cùng phòng trọ thì có thể nhờ ai hỗ trợ không ạ?",
+    "output": "Em có thể nhờ bạn bè, các anh chị khóa trên hoặc tham gia các nhóm sinh viên trên mạng xã hội để tìm bạn cùng phòng trọ."
+  },
+  {
+    "input": "Em là sinh viên ngoại trú, vậy em phải làm gì để nhà trường nắm được thông tin về chỗ ở của mình?",
+    "output": "Em cần báo cáo địa chỉ ngoại trú cho lớp trưởng trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cũng cần báo lại trong vòng 20 ngày."
+  },
+  {
+    "input": "Thủ tục đăng ký tạm trú đối với sinh viên ngoại trú như thế nào?",
+    "output": "Sinh viên ngoại trú, trừ những bạn có hộ khẩu thường trú và đang cư trú tại địa chỉ đó, cần đăng ký tạm trú với công an xã, phường hoặc thị trấn nơi mình ở."
+  },
+  {
+    "input": "Ngoài việc học tập, sinh viên ngoại trú còn phải thực hiện những nghĩa vụ gì?",
+    "output": "Sinh viên ngoại trú cần thực hiện các nghĩa vụ theo quy định của nhà trường và pháp luật, bao gồm tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao, phòng chống ma túy, tội phạm và tệ nạn xã hội, bảo vệ môi trường."
+  },
+  {
+    "input": "Nhà trường quản lý thông tin ngoại trú của sinh viên như thế nào?",
+    "output": "Lớp trưởng sẽ ghi nhận địa chỉ ngoại trú của các bạn sinh viên vào \"Sổ theo dõi sinh viên ngoại trú\" và báo cáo lên khoa chủ quản định kỳ. Các khoa sẽ tổng hợp thông tin và báo cáo lên Phòng Công tác Chính trị & Quản lý Sinh viên."
+  },
+  {
+    "input": "Việc không chấp hành quy chế ngoại trú có bị ảnh hưởng đến kết quả rèn luyện không?",
+    "output": "Có, ý thức chấp hành quy chế ngoại trú sẽ được xem xét khi đánh giá kết quả rèn luyện của sinh viên."
+  },
+  {
+    "input": "Em có hộ khẩu thường trú tại Hà Nội nhưng đang ở trọ để tiện đi học, vậy em có cần đăng ký tạm trú không?",
+    "output": "Em vẫn cần báo cáo địa chỉ ngoại trú cho lớp trưởng, nhưng không cần đăng ký tạm trú."
+  },
+  {
+    "input": "Nếu em muốn thay đổi chỗ ở thì phải báo cáo với ai và trong thời gian bao lâu?",
+    "output": "Em cần báo cáo địa chỉ mới cho lớp trưởng trong vòng 20 ngày kể từ khi thay đổi chỗ ở."
+  },
+  {
+    "input": "Sổ theo dõi sinh viên ngoại trú do ai quản lý?",
+    "output": "Lớp trưởng có trách nhiệm quản lý và bảo quản Sổ theo dõi sinh viên ngoại trú trong suốt khóa học."
+  },
+  {
+    "input": "Nhà trường có thường xuyên kiểm tra nơi ở của sinh viên ngoại trú không?",
+    "output": "Có, nhà trường sẽ tiến hành kiểm tra nơi ở của sinh viên ngoại trú định kỳ và phối hợp với địa phương để đảm bảo an ninh trật tự."
+  },
+  {
+    "input": "Sinh viên ngoại trú vi phạm quy chế có thể bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, sinh viên có thể bị khiển trách, cảnh cáo, đình chỉ học tập hoặc buộc thôi học."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về quy chế ngoại trú thì có thể hỏi ai?",
+    "output": "Em có thể hỏi lớp trưởng, cố vấn học tập hoặc liên hệ với Phòng Công tác Chính trị & Quản lý Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em muốn biết thông tin về các khu nhà trọ an toàn và giá cả hợp lý cho sinh viên thì tìm ở đâu?",
+    "output": "Em có thể tham khảo thông tin từ các anh chị khóa trên, các nhóm sinh viên trên mạng xã hội hoặc liên hệ với Đoàn Thanh niên - Hội Sinh viên trường để được hỗ trợ."
+  },
+  {
+    "input": "Em ở trọ cùng một số bạn khác, vậy em có cần phải đăng ký tạm trú cho cả nhóm không?",
+    "output": "Mỗi sinh viên cần tự đăng ký tạm trú cho bản thân, trừ những bạn có hộ khẩu thường trú và đang cư trú tại địa chỉ đó."
+  },
+  {
+    "input": "Nếu em có thắc mắc hoặc gặp khó khăn trong việc thực hiện quy chế ngoại trú thì phải làm sao?",
+    "output": "Em nên báo cáo với lớp trưởng hoặc liên hệ trực tiếp với Phòng Công tác Chính trị & Quản lý Sinh viên để được giải đáp và hỗ trợ."
+  },
+  {
+    "input": "Ngoài quy định của nhà trường, sinh viên ngoại trú còn cần lưu ý những vấn đề gì?",
+    "output": "Sinh viên ngoại trú cần tự bảo vệ bản thân và tài sản, giữ gìn vệ sinh môi trường, xây dựng mối quan hệ tốt đẹp với hàng xóm và chủ nhà trọ."
+  },
+  {
+    "input": "Em muốn đăng ký tạm trú thì cần chuẩn bị những giấy tờ gì?",
+    "output": "Em cần chuẩn bị giấy tờ tùy thân, giấy xác nhận của chủ nhà trọ và một số giấy tờ khác theo yêu cầu của công an địa phương."
+  },
+  {
+    "input": "Quy chế ngoại trú có áp dụng cho sinh viên hệ vừa học vừa làm không?",
+    "output": "Quy chế ngoại trú áp dụng cho tất cả sinh viên hệ chính quy, bao gồm cả sinh viên hệ vừa học vừa làm."
+  },
+  {
+    "input": "Nếu em ở cùng người thân tại Hà Nội thì có cần báo cáo địa chỉ ngoại trú không?",
+    "output": "Em vẫn cần báo cáo địa chỉ ngoại trú cho lớp trưởng để nhà trường nắm được thông tin."
+  },
+  {
+    "input": "Trường hợp nào sinh viên ngoại trú có thể bị buộc thôi học?",
+    "output": "Sinh viên ngoại trú vi phạm nghiêm trọng quy chế nhà trường hoặc pháp luật có thể bị buộc thôi học."
+  },
+  {
+    "input": "Em là sinh viên năm cuối và đang chuẩn bị đi thực tập, vậy em có cần tiếp tục báo cáo địa chỉ ngoại trú không?",
+    "output": "Nếu địa điểm thực tập khác với địa chỉ ngoại trú đã báo cáo trước đó, em cần cập nhật thông tin mới cho lớp trưởng."
   }
 ]
