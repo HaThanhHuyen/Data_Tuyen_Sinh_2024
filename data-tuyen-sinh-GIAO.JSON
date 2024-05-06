@@ -331,8 +331,740 @@
     {
         "input": "Em muốn tìm hiểu về các khóa học tiếng Anh online 1 kèm 1, trường có giới thiệu gì không ạ?",
         "output": "Trường có thể giới thiệu cho em các trung tâm hoặc giáo viên uy tín cung cấp dịch vụ học tiếng Anh online 1 kèm 1. Em có thể liên hệ với Trung tâm Đào tạo Quốc tế để được tư vấn."
-    }  
-      
+    },
+    {
+        "input": "Em chào anh/chị, em muốn hỏi là những sinh viên nào thì bắt buộc phải học tiếng Anh tăng cường ạ?",
+        "output": "Chào em, sinh viên có điểm thi môn Tiếng Anh THPT dưới 4 điểm sẽ bắt buộc tham gia các lớp học Tiếng Anh tăng cường do nhà trường tổ chức." 
+    },
+    {
+        "input": "Vậy nếu em có chứng chỉ IELTS 5.0 thì có được miễn học phần tiếng Anh tăng cường không ạ?",
+        "output": "Có em nhé, với chứng chỉ IELTS 5.0 em sẽ được miễn học phần tiếng anh tăng cường, em có thể nộp đơn miễn học tại Phòng Chính trị và Công tác Sinh viên."
+    },
+    {
+        "input": "Học phần tiếng Anh tăng cường kéo dài trong bao lâu và gồm những gì vậy ạ?",
+        "output": "Học phần tiếng Anh tăng cường có tổng cộng 6 tín chỉ em nhé, khi hoàn thành khóa học em sẽ tham gia một bài thi đánh giá tương đương trình độ A2. Nếu đạt, em sẽ được đăng kí học các học phần Tiếng Anh TA1, TA2 trong chương trình đào tạo."
+    },
+    {
+        "input": "Vậy nếu em không đạt thì sao ạ?",
+        "output": "Nếu em không đạt nhưng đã tham gia trên 80% số buổi học của học phần thì sẽ được nhà trường phụ đạo miễn phí để thi đạt học phần Tiếng Anh tăng cường em nhé."
+    },
+    {
+        "input": "Học phí của học phần tiếng anh tăng cường được tính như thế nào ạ?",
+        "output": "Học phí sẽ được tính bằng số tín chỉ nhân với đơn giá trên 1 tín chỉ em nhé."
+    },
+    {
+        "input": "Ngoài ra em còn phải đóng những khoản phí nào khác không ạ?",
+        "output": "Ngoài học phí, em sẽ phải đóng thêm lệ phí thi đánh giá học phần Tiếng Anh tăng cường, mức lệ phí này sẽ được thông báo trước khi em đăng ký dự thi." 
+    },
+    {
+        "input": "Lịch học của học phần tiếng Anh tăng cường như thế nào ạ?",
+        "output": "Lịch học sẽ do Phòng Đào tạo sắp xếp dựa trên số lượng sinh viên đăng ký, có thể vào các ngày trong tuần, bao gồm cả thứ Bảy, Chủ nhật và buổi tối em nhé."
+    },
+    {
+        "input": "Mỗi lớp học phần tiếng anh tăng cường có bao nhiêu sinh viên ạ?",
+        "output": "Mỗi lớp học sẽ có tối đa 30 sinh viên em nhé."
+    },
+    {
+        "input": "Giáo viên của học phần này là người Việt hay người nước ngoài vậy ạ?",
+        "output": "Giáo viên giảng dạy sẽ là người Việt Nam đạt chuẩn giảng viên của trường, tuy nhiên, nhà trường cũng sẽ mời giáo viên bản ngữ tham gia một số hoạt động giảng dạy như kỹ năng nói, phát âm."
+    },
+    {
+        "input": "Em muốn đăng ký học tiếng Anh tăng cường thì phải làm như thế nào ạ?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo hoặc Phòng Chính trị & Công tác Sinh viên để được hướng dẫn đăng ký em nhé!"
+    },
+    {
+        "input": "Ngoài giờ học trên lớp, nhà trường có tổ chức thêm hoạt động gì giúp sinh viên nâng cao trình độ tiếng Anh không ạ?",
+        "output": "Nhà trường thường xuyên tổ chức các câu lạc bộ tiếng Anh, các cuộc thi tiếng Anh toàn trường và theo từng khoa để sinh viên có thể giao lưu học hỏi và nâng cao trình độ."
+    },
+    {
+        "input": "Em muốn hỏi về học liệu cho học phần tiếng Anh tăng cường, em có thể tìm ở đâu ạ?",
+        "output": "Bộ môn tiếng Anh sẽ cung cấp các tài liệu học tập cần thiết cho em. Ngoài ra, nhà trường cũng xây dựng kho học liệu để sinh viên tham khảo và tự học."
+    },
+    {
+        "input": "Phương pháp giảng dạy của học phần tiếng Anh tăng cường có gì đặc biệt không ạ?",
+        "output": "Học phần tiếng Anh tăng cường sẽ chú trọng phát triển kỹ năng giao tiếp nghe và nói thông qua các hoạt động nhóm, thảo luận và thuyết trình. Ngoài ra, học phần cũng áp dụng công nghệ trong dạy và học để tăng cường khả năng tự học cho sinh viên."
+    },
+    {
+        "input": "Em muốn hỏi là học phần tiếng Anh tăng cường có tổ chức thi giữa kỳ không ạ?",
+        "output": "Việc tổ chức thi giữa kỳ sẽ tùy thuộc vào kế hoạch giảng dạy của từng giảng viên, em có thể hỏi trực tiếp giảng viên của mình để biết thêm thông tin chi tiết em nhé."
+    },
+    {
+        "input": "Chương trình học phần tiếng Anh tăng cường có giúp em thi chứng chỉ tiếng Anh quốc tế không ạ?",
+        "output": "Chương trình học phần tiếng Anh tăng cường sẽ giúp em đạt trình độ A2 theo Khung năng lực ngoại ngữ Việt Nam. Để thi chứng chỉ tiếng Anh quốc tế, em có thể cần học thêm để đạt trình độ cao hơn tùy theo yêu cầu của từng loại chứng chỉ."
+    },
+    {
+        "input": "Giảng viên có giao nhiều bài tập về nhà không ạ?",
+        "output": "Giảng viên sẽ giao bài tập về nhà để giúp em ôn luyện và củng cố kiến thức đã học trên lớp." 
+    },
+    {
+        "input": "Nếu em có thắc mắc trong quá trình học thì có thể hỏi ai ạ?",
+        "output": "Em có thể hỏi trực tiếp giảng viên của mình hoặc liên hệ với Bộ môn tiếng Anh để được giải đáp thắc mắc."
+    },
+    {
+        "input": "Em muốn biết về tiêu chí đánh giá học phần tiếng Anh tăng cường?",
+        "output": "Tiêu chí đánh giá sẽ bao gồm điểm chuyên cần, điểm kiểm tra thường xuyên, điểm bài tập về nhà và điểm thi cuối kỳ. Tỷ lệ phần trăm của từng phần sẽ do giảng viên thông báo cụ thể cho lớp." 
+    },
+    {
+        "input": "Nếu em bị ốm và phải nghỉ học thì sao ạ?",
+        "output": "Em cần thông báo cho giảng viên và cung cấp giấy tờ chứng minh lý do nghỉ học hợp lệ. Giảng viên sẽ xem xét và quyết định có cho em thi lại hay không."
+    },
+    {
+        "input": "Học phần tiếng Anh tăng cường có khó không ạ?",
+        "output": "Mức độ khó dễ của học phần sẽ tùy thuộc vào trình độ tiếng Anh hiện tại của em. Tuy nhiên, nếu em chăm chỉ học tập và làm bài tập đầy đủ thì sẽ đạt kết quả tốt."
+    },
+    {
+        "input": "Em có thể bảo lưu kết quả học phần tiếng Anh tăng cường không ạ?",
+        "output": "Em cần tham khảo quy định bảo lưu kết quả học tập của nhà trường để biết thêm thông tin chi tiết." 
+    },
+    {
+        "input": "Kết quả học phần tiếng Anh tăng cường có ảnh hưởng đến việc xét tốt nghiệp của em không ạ?",
+        "output": "Em cần hoàn thành học phần tiếng Anh tăng cường hoặc đạt chuẩn đầu ra tiếng Anh theo quy định của nhà trường để được xét tốt nghiệp." 
+    },
+    {
+        "input": "Nếu em đã học tiếng Anh tăng cường ở một trường đại học khác thì có được miễn học ở trường mình không ạ?",
+        "output": "Em cần liên hệ với Phòng Đào tạo và cung cấp bảng điểm hoặc giấy chứng nhận đã hoàn thành học phần tiếng Anh tương đương để được xem xét miễn học." 
+    },
+    {
+        "input": "Em có thể học lại học phần tiếng Anh tăng cường nếu không đạt không ạ?",
+        "output": "Có em nhé, em có thể đăng ký học lại học phần tiếng Anh tăng cường vào học kỳ tiếp theo."
+    },
+    {
+        "input": "Lớp học tiếng Anh tăng cường có đông không ạ?",
+        "output": "Số lượng sinh viên trong mỗi lớp học sẽ tùy thuộc vào số lượng đăng ký của mỗi học kỳ. Tuy nhiên, nhà trường sẽ đảm bảo sĩ số lớp học phù hợp để đảm bảo chất lượng giảng dạy."
+    },
+    {
+        "input": "Em có thể đăng ký học tiếng Anh tăng cường cùng với các học phần chính khóa khác không ạ?",
+        "output": "Có em nhé, em có thể đăng ký học tiếng Anh tăng cường cùng với các học phần chính khóa khác theo kế hoạch học tập của mình."
+    },
+    {
+        "input": "Giáo trình học phần tiếng Anh tăng cường là gì ạ?",
+        "output": "Giáo trình học phần tiếng Anh tăng cường sẽ do Bộ môn tiếng Anh lựa chọn và thông báo cho sinh viên trước khi bắt đầu khóa học."
+    },
+    {
+        "input": "Em có thể sử dụng tài liệu học tiếng Anh bên ngoài không ạ?",
+        "output": "Có em nhé, em có thể sử dụng thêm các tài liệu học tiếng Anh bên ngoài để nâng cao kiến thức và kỹ năng của mình." 
+    },
+    {
+        "input": "Em có thể học tiếng Anh tăng cường online không ạ?",
+        "output": "Hiện tại, học phần tiếng Anh tăng cường được tổ chức theo hình thức học trực tiếp tại trường. Tuy nhiên, nhà trường có thể xem xét tổ chức học online nếu có nhu cầu và điều kiện cho phép."
+    },
+    {
+        "input": "Em có thể lựa chọn giờ học tiếng Anh tăng cường không ạ?",
+        "output": "Việc lựa chọn giờ học sẽ phụ thuộc vào lịch học và số lượng sinh viên đăng ký. Phòng Đào tạo sẽ cố gắng sắp xếp lịch học phù hợp nhất cho sinh viên."
+    },
+    {
+        "input": "Nếu em đã có chứng chỉ tiếng Anh A2 thì có cần học tiếng Anh tăng cường không ạ?",
+        "output": "Nếu em đã có chứng chỉ tiếng Anh A2 còn hiệu lực, em có thể nộp đơn xin miễn học tiếng Anh tăng cường tại Phòng Chính trị và Công tác Sinh viên." 
+    },
+    {
+        "input": "Học phần tiếng Anh tăng cường có bao gồm cả 4 kỹ năng nghe, nói, đọc, viết không ạ?",
+        "output": "Học phần tiếng Anh tăng cường sẽ giúp em phát triển toàn diện cả 4 kỹ năng nghe, nói, đọc, viết." 
+    },
+    {
+        "input": "Bài thi đánh giá cuối kỳ học phần tiếng Anh tăng cường có dạng như thế nào ạ?",
+        "output": "Bài thi đánh giá cuối kỳ sẽ bao gồm cả 4 kỹ năng nghe, nói, đọc, viết. Cụ thể, dạng bài thi sẽ được giảng viên thông báo cho sinh viên trước khi thi."
+    },
+    {
+        "input": "Em muốn luyện thi tiếng Anh A2 thì có thể tham khảo tài liệu ở đâu ạ?",
+        "output": "Em có thể tham khảo các tài liệu luyện thi tiếng Anh A2 tại thư viện trường, các trung tâm tiếng Anh hoặc trên mạng internet." 
+    },
+    {
+        "input": "Em có thể học tiếng Anh tăng cường vào mùa hè không ạ?",
+        "output": "Việc tổ chức học phần tiếng Anh tăng cường vào mùa hè sẽ tùy thuộc vào kế hoạch của nhà trường và nhu cầu của sinh viên."
+    },
+    {
+        "input": "Em muốn biết điểm chuẩn để qua môn tiếng Anh tăng cường là bao nhiêu ạ?",
+        "output": "Điểm chuẩn để qua môn sẽ do Bộ môn tiếng Anh quy định và thông báo cho sinh viên trước khi thi."
+    },
+    {
+        "input": "Em có thể học tiếng Anh tăng cường nhiều lần không ạ?",
+        "output": "Em có thể học lại tiếng Anh tăng cường nếu chưa đạt yêu cầu. Tuy nhiên, em cần lưu ý về số lần học lại theo quy định của nhà trường."
+    },
+    {
+        "input": "Em muốn biết kinh nghiệm học tiếng Anh tăng cường hiệu quả?",
+        "output": "Để học tiếng Anh tăng cường hiệu quả, em cần chăm chỉ học tập, làm bài tập đầy đủ, tham gia các hoạt động nhóm và luyện tập thường xuyên cả 4 kỹ năng nghe, nói, đọc, viết."
+    },
+    {
+        "input": "Học tiếng Anh tăng cường có giúp em tự tin hơn khi giao tiếp bằng tiếng Anh không ạ?",
+        "output": "Học phần tiếng Anh tăng cường sẽ giúp em cải thiện kỹ năng giao tiếp tiếng Anh và tự tin hơn khi sử dụng tiếng Anh trong học tập và công việc."
+    },
+    {
+        "input": "Em muốn biết về cơ hội việc làm sau khi hoàn thành học phần tiếng Anh tăng cường?",
+        "output": "Hoàn thành học phần tiếng Anh tăng cường sẽ giúp em đáp ứng yêu cầu về trình độ tiếng Anh của nhiều công việc, đặc biệt là các công việc liên quan đến kỹ thuật và công nghệ."
+    },
+    {
+        "input": "Em muốn biết về các câu lạc bộ tiếng Anh của trường?",
+        "output": "Trường có nhiều câu lạc bộ tiếng Anh với các hoạt động đa dạng như giao tiếp, hùng biện, xem phim, hát tiếng Anh... Em có thể tìm hiểu và tham gia câu lạc bộ phù hợp với sở thích và nhu cầu của mình." 
+    },
+    {
+        "input": "Em có thể sử dụng thư viện của trường để học tiếng Anh tăng cường không ạ?",
+        "output": "Có em nhé, thư viện trường có nhiều sách, tài liệu và các nguồn học liệu khác để hỗ trợ em học tiếng Anh tăng cường." 
+    },
+    {
+        "input": "Em muốn biết về chính sách hỗ trợ sinh viên học tiếng Anh tăng cường của trường?",
+        "output": "Nhà trường có các chính sách hỗ trợ sinh viên học tiếng Anh tăng cường như miễn giảm học phí, tạo điều kiện học tập, cung cấp tài liệu học tập và tổ chức các hoạt động ngoại khóa."
+    },
+    {
+        "input": "Em muốn biết về lộ trình học tiếng Anh sau khi hoàn thành học phần tiếng Anh tăng cường?",
+        "output": "Sau khi hoàn thành học phần tiếng Anh tăng cường, em có thể tiếp tục học các học phần tiếng Anh trong chương trình đào tạo hoặc tự học để nâng cao trình độ tiếng Anh của mình."
+    },
+    {
+        "input": "Em chào anh/chị, em muốn hỏi là quy định về chuẩn đầu ra công nghệ thông tin áp dụng cho những khóa nào ạ?",
+        "output": "Chào em, quy định này áp dụng cho các khóa tuyển sinh trình độ đại học từ năm học 2021-2022 trở đi em nhé."
+    },
+    {
+        "input": "Vậy chuẩn đầu ra công nghệ thông tin này dựa trên những căn cứ nào ạ?",
+        "output": "Chuẩn đầu ra này được xây dựng dựa trên Khung trình độ quốc gia Việt Nam, Quy chế tổ chức và hoạt động của trường Đại học Thủy lợi và Chuẩn kỹ năng sử dụng công nghệ thông tin do Bộ Thông tin và Truyền thông ban hành."
+    },
+    {
+        "input": "Em là sinh viên ngành Xây dựng, vậy em có cần thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Đúng vậy em nhé, quy định về chuẩn đầu ra công nghệ thông tin áp dụng cho tất cả sinh viên đại học chính quy và vừa làm vừa học (trừ sinh viên nhóm ngành Máy tính và Công nghệ thông tin)."
+    },
+    {
+        "input": "Em muốn biết em cần đạt những yêu cầu gì để đạt chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em có hai lựa chọn: một là đạt yêu cầu tối thiểu trong kỳ thi sát hạch do trường tổ chức, hai là đáp ứng điều kiện để được miễn thi."
+    },
+    {
+        "input": "Những chứng chỉ nào được chấp nhận để miễn thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em có thể được miễn thi nếu có chứng chỉ IC3, MOS (Word, Excel, Powerpoint) hoặc ICDL (Word, Excel, Powerpoint)."
+    },
+    {
+        "input": "Em có bằng tốt nghiệp Cao đẳng ngành Công nghệ thông tin, vậy em có được miễn thi không?",
+        "output": "Chúc mừng em! Với bằng Cao đẳng Công nghệ thông tin, em sẽ được miễn thi chuẩn đầu ra công nghệ thông tin." 
+    },
+    {
+        "input": "Nếu em được miễn thi, điểm học phần Tin học cơ bản của em sẽ được tính như thế nào?",
+        "output": "Em sẽ được công nhận điểm tối đa cho học phần Tin học cơ bản (10/10)."
+    },
+    {
+        "input": "Em đã thi Tin học cơ bản nhưng điểm thấp, sau đó em mới thi được chứng chỉ MOS, vậy em có thể cải thiện điểm Tin học cơ bản được không?",
+        "output": "Hoàn toàn được em nhé! Em có thể sử dụng chứng chỉ MOS để thay thế điểm thi Tin học cơ bản trước đó."
+    },
+    {
+        "input": "Vậy em cần làm gì để được miễn thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em hãy nộp đơn đề nghị (kèm theo bằng/chứng chỉ) về Phòng Đào tạo để được xem xét và công nhận."
+    },
+    {
+        "input": "Kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin được tổ chức khi nào?",
+        "output": "Thông tin về lịch thi cụ thể sẽ được Phòng Đào tạo và Khoa Công nghệ thông tin thông báo đến các em sinh viên qua các kênh thông tin chính thức của trường."
+    },
+    {
+        "input": "Em nghe nói có quy định mới về chuẩn đầu ra ngoại ngữ, vậy có đúng không?", 
+        "output": "Đúng vậy, trường cũng đã ban hành quy định về chuẩn đầu ra ngoại ngữ. Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ với Phòng Đào tạo để được hướng dẫn."
+    },
+    {
+        "input": "Quy định về chuẩn đầu ra công nghệ thông tin này có áp dụng cho sinh viên khóa trước không?",
+        "output": "Quy định này chỉ áp dụng cho sinh viên nhập học từ năm học 2021-2022 trở về sau em nhé."
+    },
+    {
+        "input": "Em là sinh viên hệ vừa làm vừa học, vậy em có cần phải đạt chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Có em nhé. Quy định này áp dụng cho cả sinh viên chính quy và vừa làm vừa học."
+    },
+    {
+        "input": "Ngoài những chứng chỉ kể trên, còn chứng chỉ nào được công nhận để miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Hiện tại, trường chỉ công nhận các chứng chỉ đã được liệt kê trong quy định. Nếu có cập nhật về danh sách chứng chỉ được chấp nhận, trường sẽ thông báo đến các em sinh viên."
+    },
+    {
+        "input": "Em muốn biết thêm thông tin chi tiết về kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin, em có thể tìm hiểu ở đâu?", 
+        "output": "Em có thể liên hệ trực tiếp với Khoa Công nghệ thông tin hoặc Trung tâm Tin học của trường để được cung cấp thông tin chi tiết về cấu trúc đề thi, nội dung ôn tập và các tài liệu tham khảo." 
+    },
+    {
+        "input": "Em có chứng chỉ A tương đương MOS, vậy em có được miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Hiện tại, trường chỉ chấp nhận các chứng chỉ được liệt kê cụ thể trong quy định. Em có thể liên hệ với Khoa Công nghệ thông tin để được tư vấn thêm về trường hợp của mình." 
+    },
+    {
+        "input": "Điểm chuẩn đầu ra công nghệ thông tin có ảnh hưởng đến việc xét tốt nghiệp của em không?",
+        "output": "Việc đạt chuẩn đầu ra công nghệ thông tin là một trong những điều kiện bắt buộc để xét tốt nghiệp. Do đó, em cần đảm bảo mình đáp ứng được yêu cầu này."
+    },
+    {
+        "input": "Trường có tổ chức các khóa học hoặc luyện thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Trung tâm Tin học của trường thường xuyên tổ chức các khóa học tin học văn phòng và các kỹ năng công nghệ thông tin cơ bản. Em có thể đăng ký tham gia để củng cố kiến thức và kỹ năng của mình." 
+    },
+    {
+        "input": "Em là sinh viên năm cuối và chưa đạt chuẩn đầu ra công nghệ thông tin, em phải làm sao?",
+        "output": "Em nên đăng ký tham gia kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin הקרוב nhất. Em có thể liên hệ với Phòng Đào tạo để biết lịch thi cụ thể và đăng ký dự thi." 
+    },
+    {
+        "input": "Em bị mất chứng chỉ MOS rồi, vậy em có thể làm gì để được miễn thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em cần liên hệ với đơn vị cấp chứng chỉ để xin cấp lại bản sao hoặc xác nhận kết quả thi. Sau đó, em có thể nộp hồ sơ cho Phòng Đào tạo để được xem xét miễn thi."
+    },
+    {
+        "input": "Em đã thi sát hạch chuẩn đầu ra công nghệ thông tin nhưng chưa đạt, em có thể thi lại được không?",
+        "output": "Có em nhé. Trường sẽ tổ chức nhiều đợt thi trong năm để tạo điều kiện cho các em sinh viên. Em có thể đăng ký thi lại vào đợt thi tiếp theo."
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có thay đổi theo từng ngành học không?",
+        "output": "Không em nhé. Chuẩn đầu ra công nghệ thông tin là yêu cầu chung cho tất cả các ngành học (trừ nhóm ngành Máy tính và Công nghệ thông tin)."
+    }, 
+    {
+        "input": "Em muốn biết nội dung chi tiết của học phần Tin học cơ bản, em có thể tìm hiểu ở đâu?",
+        "output": "Em có thể tham khảo chương trình đào tạo của ngành học hoặc liên hệ với giảng viên phụ trách bộ môn Tin học cơ bản để được cung cấp thông tin chi tiết." 
+    },
+    {
+        "input": "Em có thể sử dụng máy tính cá nhân trong kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Thông thường, kỳ thi sát hạch sẽ được tổ chức tại phòng máy tính của trường và các em sinh viên sẽ sử dụng máy tính của trường để làm bài thi."
+    },
+    {
+        "input": "Nếu em tốt nghiệp Cao đẳng ngành Kế toán, em có được miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Rất tiếc là không em nhé. Điều kiện miễn thi chỉ áp dụng cho sinh viên có bằng tốt nghiệp trung cấp, cao đẳng, đại học thuộc nhóm ngành Máy tính và Công nghệ thông tin."
+    },
+    {
+        "input": "Em có thể đăng ký thi chuẩn đầu ra công nghệ thông tin ở trường khác được không?",
+        "output": "Theo quy định hiện hành, em cần phải tham gia kỳ thi sát hạch do trường Đại học Thủy lợi tổ chức để được công nhận đạt chuẩn đầu ra công nghệ thông tin." 
+    },
+    {
+        "input": "Em muốn ôn tập cho kỳ thi chuẩn đầu ra công nghệ thông tin, trường có tài liệu ôn tập nào không?", 
+        "output": "Khoa Công nghệ thông tin và Trung tâm Tin học có thể cung cấp cho em một số tài liệu ôn tập hoặc hướng dẫn em cách tìm kiếm tài liệu phù hợp."
+    },
+    {
+        "input": "Em có cần phải đạt chuẩn đầu ra công nghệ thông tin trước khi thực tập tốt nghiệp không?",
+        "output": "Việc đạt chuẩn đầu ra công nghệ thông tin không phải là điều kiện tiên quyết để tham gia thực tập tốt nghiệp. Tuy nhiên, em cần đảm bảo đạt chuẩn trước khi xét tốt nghiệp."
+    },
+    {
+        "input": "Ngoài kỳ thi sát hạch, còn cách nào khác để đánh giá chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Hiện tại, kỳ thi sát hạch là hình thức đánh giá chính thức và duy nhất để công nhận chuẩn đầu ra công nghệ thông tin."
+    },
+    {
+        "input": "Em có thể tham khảo đề thi những năm trước của kỳ thi chuẩn đầu ra công nghệ thông tin không?", 
+        "output": "Em có thể liên hệ với Khoa Công nghệ thông tin hoặc Trung tâm Tin học để hỏi về khả năng cung cấp đề thi tham khảo."
+    },
+    {
+        "input": "Em là sinh viên hệ liên thông, vậy quy định về chuẩn đầu ra công nghệ thông tin có áp dụng cho em không?", 
+        "output": "Em cần liên hệ với Phòng Đào tạo để xác nhận thông tin này, vì quy định có thể khác nhau tùy theo chương trình đào tạo cụ thể." 
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có yêu cầu về trình độ tiếng Anh không?", 
+        "output": "Chuẩn đầu ra công nghệ thông tin tập trung vào kỹ năng sử dụng máy tính và phần mềm văn phòng, không yêu cầu về trình độ tiếng Anh."
+    },
+    {
+        "input": "Em đã học Tin học cơ bản ở trường khác và được công nhận tín chỉ, vậy em có cần phải thi chuẩn đầu ra công nghệ thông tin không?", 
+        "output": "Nếu em đã được công nhận tín chỉ học phần Tin học cơ bản, em vẫn cần đạt chuẩn đầu ra công nghệ thông tin theo quy định của trường." 
+    },
+    {
+        "input": "Kỳ thi chuẩn đầu ra công nghệ thông tin có khó không?", 
+        "output": "Mức độ khó của kỳ thi phụ thuộc vào kiến thức và kỹ năng tin học của mỗi sinh viên. Tuy nhiên, nếu em nắm vững kiến thức cơ bản và ôn tập kỹ lưỡng thì hoàn toàn có thể vượt qua kỳ thi." 
+    },
+    {
+        "input": "Em có thể sử dụng tài liệu trong quá trình thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Thông thường, kỳ thi sát hạch không cho phép sử dụng tài liệu. Tuy nhiên, em nên xác nhận lại thông tin này với Khoa Công nghệ thông tin hoặc Trung tâm Tin học trước khi tham gia kỳ thi."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về chứng chỉ IC3, em có thể tham khảo thông tin ở đâu?",
+        "output": "Em có thể tìm kiếm thông tin về chứng chỉ IC3 trên website của Certiport hoặc các trung tâm đào tạo tin học được ủy quyền cấp chứng chỉ IC3."
+    },
+    {
+        "input": "Em nên ôn tập những nội dung nào để chuẩn bị cho kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em nên ôn tập các kiến thức và kỹ năng cơ bản về sử dụng máy tính, hệ điều hành Windows, phần mềm Microsoft Office (Word, Excel, PowerPoint) và Internet."
+    },
+    {
+        "input": "Nếu em không đạt chuẩn đầu ra công nghệ thông tin, em có thể làm gì?",
+        "output": "Em có thể đăng ký thi lại vào các đợt thi tiếp theo. Ngoài ra, em cũng nên tham gia các khóa học hoặc tự ôn tập để củng cố kiến thức và kỹ năng của mình."
+    },
+    {
+        "input": "Em có thể được bảo lưu kết quả thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Thông tin về việc bảo lưu kết quả thi, em cần liên hệ trực tiếp với Phòng Đào tạo để được giải đáp chính xác nhất." 
+    },
+    {
+        "input": "Em muốn biết quy trình đăng ký thi chuẩn đầu ra công nghệ thông tin như thế nào?",
+        "output": "Thông tin về quy trình đăng ký thi, em có thể theo dõi thông báo từ Phòng Đào tạo hoặc liên hệ trực tiếp với phòng để được hướng dẫn chi tiết."
+    },
+    {
+        "input": "Em có chứng chỉ MOS bản 2016, vậy có được công nhận để miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Em nên liên hệ với Khoa Công nghệ thông tin để xác nhận xem phiên bản chứng chỉ MOS của em có được chấp nhận hay không." 
+    },
+    {
+        "input": "Em muốn học thêm về kỹ năng tin học nâng cao, trường có tổ chức các khóa học nào không?",
+        "output": "Trung tâm Tin học của trường có thể tổ chức các khóa học về lập trình, thiết kế đồ họa, quản trị mạng,... tùy thuộc vào nhu cầu của sinh viên."
+    },
+    {
+        "input": "Ngoài chứng chỉ IC3, MOS và ICDL, còn có chứng chỉ quốc tế nào khác được công nhận để miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Hiện tại, trường chỉ công nhận ba loại chứng chỉ này. Tuy nhiên, quy định có thể thay đổi trong tương lai, em nên cập nhật thông tin thường xuyên từ trường." 
+    },
+    {
+        "input": "Em muốn thi thử chuẩn đầu ra công nghệ thông tin, em có thể làm bài thi thử ở đâu?",
+        "output": "Em có thể tìm kiếm các bài thi thử trực tuyến trên mạng hoặc tham khảo các tài liệu ôn tập do Khoa Công nghệ thông tin hoặc Trung tâm Tin học cung cấp." 
+    },
+    {
+        "input": "Em là sinh viên quốc tế, vậy em có cần phải đạt chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Quy định về chuẩn đầu ra công nghệ thông tin áp dụng cho tất cả sinh viên, bao gồm cả sinh viên quốc tế. Em nên tìm hiểu kỹ thông tin và chuẩn bị cho kỳ thi."
+    },
+    {
+        "input": "Em muốn biết điểm chuẩn để đạt yêu cầu trong kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin là bao nhiêu?",
+        "output": "Điểm chuẩn để đạt yêu cầu trong kỳ thi sát hạch có thể thay đổi theo từng đợt thi. Em nên liên hệ với Khoa Công nghệ thông tin hoặc Trung tâm Tin học để biết thông tin cụ thể."
+    },
+    {
+        "input": "Em đã có chứng chỉ MOS Word và Excel, vậy em có được miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Để được miễn thi, em cần có chứng chỉ MOS cho 2 trong 3 module Word, Excel và PowerPoint. Em có thể thi thêm module PowerPoint để đáp ứng đủ điều kiện miễn thi."
+    },
+    {
+        "input": "Em có thể sử dụng phiên bản Microsoft Office nào trong kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Thông tin về phiên bản Microsoft Office được sử dụng trong kỳ thi sẽ được thông báo cụ thể trước mỗi đợt thi. Em nên chuẩn bị kỹ năng sử dụng các phiên bản phổ biến như Office 2016, 2019 hoặc 365."
+    },
+    {
+        "input": "Em muốn biết kết quả thi chuẩn đầu ra công nghệ thông tin sau bao lâu?", 
+        "output": "Thời gian công bố kết quả thi có thể thay đổi tùy theo từng đợt thi. Thông thường, kết quả sẽ được thông báo trong vòng 1-2 tuần sau khi thi."
+    },
+    {
+        "input": "Em có thể đăng ký thi chuẩn đầu ra công nghệ thông tin nhiều lần trong một học kỳ không?",
+        "output": "Thông thường, trường sẽ tổ chức nhiều đợt thi trong một học kỳ. Em có thể đăng ký thi lại nếu chưa đạt yêu cầu ở lần thi trước."
+    },
+    {
+        "input": "Em muốn biết cấu trúc đề thi chuẩn đầu ra công nghệ thông tin như thế nào?",
+        "output": "Cấu trúc đề thi có thể thay đổi theo từng đợt thi. Tuy nhiên, đề thi thường bao gồm các phần lý thuyết và thực hành liên quan đến kỹ năng sử dụng máy tính và phần mềm văn phòng."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về quy định chuẩn đầu ra công nghệ thông tin, em có thể tham khảo ở đâu?",
+        "output": "Em có thể tìm thấy quy định chuẩn đầu ra công nghệ thông tin trên website của trường, trong mục dành cho sinh viên hoặc mục quy định đào tạo." 
+    },
+    {
+        "input": "Em có thể sử dụng phần mềm hỗ trợ gõ tiếng Việt trong kỳ thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Thông thường, kỳ thi cho phép sử dụng phần mềm hỗ trợ gõ tiếng Việt. Tuy nhiên, em nên xác nhận lại thông tin này với Khoa Công nghệ thông tin hoặc Trung tâm Tin học trước khi tham gia kỳ thi."
+    },
+    {
+        "input": "Em có thể sử dụng máy tính bảng hoặc điện thoại thông minh trong kỳ thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Kỳ thi thường yêu cầu sử dụng máy tính để bàn. Việc sử dụng máy tính bảng hoặc điện thoại thông minh có thể không được phép. Em nên tuân thủ quy định của phòng thi." 
+    },
+    {
+        "input": "Nếu em gặp sự cố kỹ thuật trong quá trình thi chuẩn đầu ra công nghệ thông tin, em nên làm gì?",
+        "output": "Em nên báo ngay cho giám thị coi thi để được hỗ trợ kịp thời. Trường hợp sự cố ảnh hưởng đến bài thi của em, em có thể được xem xét đặc cách hoặc thi lại."
+    },
+    {
+        "input": "Em muốn biết kinh nghiệm ôn thi và làm bài thi chuẩn đầu ra công nghệ thông tin từ các anh chị khóa trước, em có thể tìm hiểu ở đâu?",
+        "output": "Em có thể tham gia các nhóm sinh viên của trường trên mạng xã hội hoặc diễn đàn để trao đổi kinh nghiệm với các anh chị khóa trước." 
+    },
+    {
+        "input": "Em có chứng chỉ ICDL Start, vậy em có được miễn thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Chứng chỉ ICDL Start không đủ điều kiện để miễn thi chuẩn đầu ra công nghệ thông tin. Em cần phải có chứng chỉ ICDL đầy đủ hoặc các chứng chỉ khác theo quy định."
+    },
+    {
+        "input": "Em có thể đăng ký thi chuẩn đầu ra công nghệ thông tin ở bất kỳ thời điểm nào trong năm học không?",
+        "output": "Trường thường tổ chức các đợt thi theo lịch trình cụ thể trong năm học. Em nên theo dõi thông báo từ Phòng Đào tạo để biết lịch thi và đăng ký tham gia."
+    },
+    {
+        "input": "Em muốn biết thêm về các phần mềm văn phòng thường được sử dụng trong kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Các phần mềm văn phòng thường được sử dụng trong kỳ thi bao gồm Microsoft Word, Excel, PowerPoint và có thể có thêm phần mềm Access." 
+    },
+    {
+        "input": "Em muốn biết thời gian làm bài thi chuẩn đầu ra công nghệ thông tin là bao lâu?",
+        "output": "Thời gian làm bài thi có thể thay đổi tùy theo từng đợt thi và cấu trúc đề thi. Thông thường, thời gian làm bài khoảng 60-90 phút." 
+    },
+    {
+        "input": "Em muốn biết lệ phí thi chuẩn đầu ra công nghệ thông tin là bao nhiêu?",
+        "output": "Thông tin về lệ phí thi sẽ được thông báo cụ thể trước mỗi đợt thi. Em có thể liên hệ với Phòng Đào tạo hoặc Khoa Công nghệ thông tin để biết thông tin chi tiết."
+    },
+    {
+        "input": "Em muốn biết cách tính điểm trong kỳ thi chuẩn đầu ra công nghệ thông tin như thế nào?",
+        "output": "Cách tính điểm sẽ được công bố cụ thể trước mỗi đợt thi. Thông thường, điểm thi sẽ được tính dựa trên kết quả của phần thi lý thuyết và thực hành."
+    },
+    {
+        "input": "Em muốn biết những lưu ý quan trọng khi tham gia kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em cần mang theo thẻ sinh viên hoặc giấy tờ tùy thân, đến phòng thi đúng giờ, tuân thủ quy định của phòng thi và tập trung làm bài." 
+    },
+    {
+        "input": "Em muốn biết thông tin về việc cấp giấy chứng nhận đạt chuẩn đầu ra công nghệ thông tin như thế nào?",
+        "output": "Thông tin về việc cấp giấy chứng nhận, em nên liên hệ trực tiếp với Phòng Đào tạo để được hướng dẫn chi tiết."
+    },
+    {
+        "input": "Em muốn biết quy định về trang phục khi tham gia kỳ thi chuẩn đầu ra công nghệ thông tin?", 
+        "output": "Thông thường, không có quy định cụ thể về trang phục khi tham gia kỳ thi. Tuy nhiên, em nên ăn mặc lịch sự và gọn gàng."
+    },
+    {
+        "input": "Em muốn biết các lỗi thường gặp khi thi chuẩn đầu ra công nghệ thông tin để tránh mắc phải?",
+        "output": "Một số lỗi thường gặp bao gồm: không đọc kỹ đề bài, thao tác sai trên máy tính, quản lý thời gian không hiệu quả và chủ quan."
+    },
+    {
+        "input": "Em muốn biết cách tra cứu kết quả thi chuẩn đầu ra công nghệ thông tin như thế nào?",
+        "output": "Kết quả thi thường được công bố trên website của trường hoặc bảng thông báo của Khoa Công nghệ thông tin. Em cũng có thể liên hệ với Phòng Đào tạo để tra cứu kết quả."
+    },
+    {
+        "input": "Em muốn biết những kỹ năng cần thiết để đạt chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em cần thành thạo các kỹ năng sử dụng máy tính cơ bản, hệ điều hành Windows, phần mềm Microsoft Office (Word, Excel, PowerPoint) và Internet." 
+    },
+    {
+        "input": "Em muốn biết tầm quan trọng của việc đạt chuẩn đầu ra công nghệ thông tin đối với sinh viên?",
+        "output": "Đạt chuẩn đầu ra công nghệ thông tin giúp sinh viên có đủ kỹ năng tin học cần thiết để phục vụ cho học tập, nghiên cứu và công việc sau này." 
+    },
+    {
+        "input": "Em muốn biết có bao nhiêu phần trăm sinh viên đạt chuẩn đầu ra công nghệ thông tin trong những năm gần đây?",
+        "output": "Thông tin về tỷ lệ sinh viên đạt chuẩn đầu ra công nghệ thông tin, em có thể liên hệ với Khoa Công nghệ thông tin hoặc Phòng Đào tạo để được cung cấp số liệu thống kê."
+    },
+    {
+        "input": "Em muốn biết có những nguồn tài liệu ôn tập nào hữu ích cho kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em có thể tham khảo các sách giáo khoa tin học, tài liệu ôn thi trực tuyến, video hướng dẫn trên Youtube hoặc các khóa học tin học cơ bản."
+    },
+    {
+        "input": "Em muốn biết những lợi ích của việc có chứng chỉ tin học quốc tế như IC3, MOS, ICDL?",
+        "output": "Chứng chỉ tin học quốc tế giúp chứng minh năng lực sử dụng máy tính và phần mềm văn phòng của em, tăng khả năng cạnh tranh khi xin việc và học tập."
+    },
+    {
+        "input": "Em muốn biết những khó khăn thường gặp khi ôn thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Một số khó khăn thường gặp bao gồm: thiếu thời gian ôn tập, kiến thức nền tảng yếu, kỹ năng thực hành chưa thành thạo và tâm lý lo lắng." 
+    }, 
+    {
+        "input": "Em muốn biết những lời khuyên hữu ích để ôn thi và làm bài thi chuẩn đầu ra công nghệ thông tin hiệu quả?", 
+        "output": "Em nên lập kế hoạch ôn tập cụ thể, luyện tập thường xuyên, tham khảo các tài liệu ôn tập, giữ tâm lý thoải mái và tự tin khi làm bài thi." 
+    },
+    {
+        "input": "Em muốn biết chuẩn đầu ra công nghệ thông tin có liên quan gì đến chuẩn đầu ra ngoại ngữ không?",
+        "output": "Chuẩn đầu ra công nghệ thông tin và chuẩn đầu ra ngoại ngữ là hai yêu cầu riêng biệt. Tuy nhiên, việc thành thạo cả hai kỹ năng này sẽ giúp em có lợi thế lớn trong học tập và công việc."
+    },
+    {
+        "input": "Em muốn biết chuẩn đầu ra công nghệ thông tin có thay đổi theo thời gian không?",
+        "output": "Chuẩn đầu ra công nghệ thông tin có thể được điều chỉnh theo sự phát triển của công nghệ và nhu cầu của xã hội. Em nên cập nhật thông tin thường xuyên từ trường."
+    },
+    {
+        "input": "Em muốn biết trường có hỗ trợ sinh viên khuyết tật tham gia kỳ thi chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Trường có chính sách hỗ trợ sinh viên khuyết tật, bao gồm việc tạo điều kiện thuận lợi để tham gia các kỳ thi. Em nên liên hệ với Phòng Công tác sinh viên để được hỗ trợ cụ thể." 
+    },
+    {
+        "input": "Em muốn biết có phần mềm nào giúp em ôn tập hiệu quả cho kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Có nhiều phần mềm ôn tập tin học miễn phí và trả phí trên mạng. Em có thể tìm kiếm và lựa chọn phần mềm phù hợp với nhu cầu của mình."
+    },
+    {
+        "input": "Em muốn biết những cơ hội việc làm nào dành cho sinh viên đạt chuẩn đầu ra công nghệ thông tin?",
+        "output": "Sinh viên đạt chuẩn đầu ra công nghệ thông tin có thể làm việc trong nhiều lĩnh vực khác nhau như công nghệ thông tin, hành chính văn phòng, marketing, giáo dục,..." 
+    },
+    {
+        "input": "Em muốn biết có những cuộc thi tin học nào dành cho sinh viên để em có thể thử sức và nâng cao kỹ năng?",
+        "output": "Có nhiều cuộc thi tin học dành cho sinh viên do các trường đại học, tổ chức công nghệ thông tin hoặc doanh nghiệp tổ chức. Em có thể tìm kiếm thông tin trên mạng hoặc tham khảo ý kiến của giảng viên." 
+    },
+    {
+        "input": "Em muốn biết liệu có thể sử dụng chứng chỉ tin học để miễn thi tốt nghiệp môn Tin học không?", 
+        "output": "Việc sử dụng chứng chỉ tin học để miễn thi tốt nghiệp môn Tin học phụ thuộc vào quy định cụ thể của từng khoa và ngành học. Em nên liên hệ với khoa của mình để được hướng dẫn chi tiết."
+    },
+    {
+        "input": "Em muốn biết chuẩn đầu ra công nghệ thông tin có giúp em tự tin hơn khi sử dụng máy tính và công nghệ trong cuộc sống hàng ngày không?",
+        "output": "Chắc chắn rồi! Việc đạt chuẩn đầu ra công nghệ thông tin giúp em có kiến thức và kỹ năng cần thiết để sử dụng máy tính và công nghệ một cách hiệu quả và tự tin hơn trong cuộc sống hàng ngày." 
+    },
+    {
+        "input": "Em muốn biết có website nào cung cấp các bài tập thực hành tin học để em ôn tập cho kỳ thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Có nhiều website cung cấp các bài tập thực hành tin học miễn phí và trả phí. Em có thể tìm kiếm trên mạng hoặc tham khảo các nguồn tài liệu do Khoa Công nghệ thông tin giới thiệu." 
+    },
+    {
+        "input": "Em muốn biết có cách nào để em có thể tự học và ôn tập chuẩn đầu ra công nghệ thông tin tại nhà?",
+        "output": "Em có thể tự học và ôn tập tại nhà thông qua các tài liệu ôn tập, video hướng dẫn, phần mềm ôn tập tin học hoặc các khóa học trực tuyến."
+    },
+    {
+        "input": "Em muốn biết có những ứng dụng công nghệ thông tin nào hữu ích cho sinh viên?",
+        "output": "Có rất nhiều ứng dụng công nghệ thông tin hữu ích cho sinh viên, ví dụ như: ứng dụng quản lý thời gian, ứng dụng học tập trực tuyến, ứng dụng ghi chú, ứng dụng dịch thuật, ứng dụng đọc sách điện tử,..."
+    },
+    {
+        "input": "Em muốn biết liệu có thể sử dụng kiến thức và kỹ năng tin học để tham gia các hoạt động ngoại khóa hoặc câu lạc bộ trong trường?",
+        "output": "Hoàn toàn có thể! Nhiều câu lạc bộ và hoạt động ngoại khóa liên quan đến công nghệ thông tin, ví dụ như: câu lạc bộ lập trình, câu lạc bộ robotics, câu lạc bộ thiết kế đồ họa,..."
+    },
+    {
+        "input": "Em muốn biết chuẩn đầu ra công nghệ thông tin có giúp em phát triển tư duy logic và khả năng giải quyết vấn đề không?",
+        "output": "Việc học tập và rèn luyện kỹ năng tin học giúp em phát triển tư duy logic, khả năng phân tích và giải quyết vấn đề một cách hiệu quả."
+    },
+    {
+        "input": "Em muốn biết có những công việc nào trong tương lai sẽ yêu cầu cao về kỹ năng công nghệ thông tin?",
+        "output": "Hầu hết các công việc trong tương lai đều sẽ yêu cầu kỹ năng công nghệ thông tin ở mức độ nào đó. Đặc biệt, những ngành nghề liên quan đến công nghệ thông tin, tự động hóa, trí tuệ nhân tạo,... sẽ cần nhân lực có kỹ năng tin học cao." 
+    },
+    {
+        "input": "Em muốn biết liệu có thể sử dụng kỹ năng tin học để khởi nghiệp hoặc làm freelancer?",
+        "output": "Kỹ năng tin học là một lợi thế lớn khi khởi nghiệp hoặc làm freelancer, đặc biệt trong lĩnh vực công nghệ thông tin, thiết kế đồ họa, marketing online,..."
+    },
+    {
+        "input": "Em muốn biết có những khóa học trực tuyến nào giúp em ôn tập chuẩn đầu ra công nghệ thông tin?",
+        "output": "Có rất nhiều nền tảng học trực tuyến cung cấp các khóa học tin học cơ bản và nâng cao, ví dụ như: Coursera, EdX, Udemy, Khan Academy,..."
+    },
+    {
+        "input": "Em muốn biết có những cuốn sách nào hữu ích để ôn tập chuẩn đầu ra công nghệ thông tin?",
+        "output": "Em có thể tham khảo các sách giáo khoa tin học, sách hướng dẫn sử dụng phần mềm Microsoft Office, sách về kỹ năng sử dụng máy tính cơ bản,..." 
+    },
+    {
+        "input": "Em muốn biết có những kênh Youtube nào cung cấp kiến thức và kỹ năng tin học?",
+        "output": "Có nhiều kênh Youtube chia sẻ kiến thức và kỹ năng tin học hữu ích, ví dụ như: The New Boston, freeCodeCamp.org, Khan Academy,..."
+    },
+    {
+        "input": "Em muốn biết có những phần mềm miễn phí nào giúp em ôn tập chuẩn đầu ra công nghệ thông tin?",
+        "output": "Có nhiều phần mềm miễn phí giúp em ôn tập tin học, ví dụ như: GCompris, Tux Typing, LibreOffice,..."
+    },
+    {
+        "input": "Em muốn biết có những trang web nào cung cấp các bài kiểm tra tin học trực tuyến?", 
+        "output": "Có nhiều trang web cung cấp các bài kiểm tra tin học trực tuyến miễn phí và trả phí. Em có thể tìm kiếm trên mạng hoặc tham khảo các nguồn tài liệu do Khoa Công nghệ thông tin giới thiệu."
+    },
+    {
+        "input": "Em muốn biết có những nhóm học tập hoặc cộng đồng trực tuyến nào giúp em trao đổi kiến thức và kinh nghiệm về công nghệ thông tin?",
+        "output": "Có nhiều nhóm học tập và cộng đồng trực tuyến về công nghệ thông tin trên Facebook, Telegram, Discord,... Em có thể tìm kiếm và tham gia các nhóm phù hợp với nhu cầu của mình."
+    },
+    {
+        "input": "Em muốn biết có những sự kiện hoặc hội thảo về công nghệ thông tin dành cho sinh viên?",
+        "output": "Có nhiều sự kiện và hội thảo về công nghệ thông tin do các trường đại học, tổ chức công nghệ thông tin hoặc doanh nghiệp tổ chức. Em có thể theo dõi thông tin trên các trang web hoặc mạng xã hội của họ."
+    },
+    {
+        "input": "Em muốn biết có những chương trình học bổng hoặc hỗ trợ tài chính nào dành cho sinh viên theo đuổi lĩnh vực công nghệ thông tin?",
+        "output": "Có nhiều chương trình học bổng và hỗ trợ tài chính dành cho sinh viên theo đuổi lĩnh vực công nghệ thông tin do các tổ chức, doanh nghiệp hoặc chính phủ tài trợ. Em có thể tìm kiếm thông tin trên mạng hoặc tham khảo ý kiến của Phòng Công tác sinh viên." 
+    },
+    {
+        "input": "Em muốn biết có những cơ hội thực tập hoặc làm việc part-time trong lĩnh vực công nghệ thông tin dành cho sinh viên?",
+        "output": "Nhiều công ty công nghệ thông tin và các doanh nghiệp khác có nhu cầu tuyển dụng thực tập sinh hoặc nhân viên part-time. Em có thể tìm kiếm thông tin trên các trang web tuyển dụng hoặc liên hệ trực tiếp với các công ty." 
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng mềm nào cần thiết để thành công trong lĩnh vực công nghệ thông tin?",
+        "output": "Ngoài kỹ năng chuyên môn, em cần rèn luyện các kỹ năng mềm như kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng giải quyết vấn đề, kỹ năng quản lý thời gian,..."
+    },
+    {
+        "input": "Em muốn biết có những xu hướng công nghệ nào đang phát triển mạnh mẽ hiện nay?",
+        "output": "Một số xu hướng công nghệ đang phát triển mạnh mẽ hiện nay bao gồm: trí tuệ nhân tạo (AI), học máy (Machine Learning), Internet of Things (IoT), blockchain, điện toán đám mây (Cloud Computing),..."
+    },
+    {
+        "input": "Em muốn biết có những thách thức nào mà ngành công nghệ thông tin đang phải đối mặt?", 
+        "output": "Ngành công nghệ thông tin đang phải đối mặt với nhiều thách thức như: an ninh mạng, bảo mật thông tin, đạo đức trong AI, khoảng cách kỹ thuật số,..." 
+    },
+    {
+        "input": "Em muốn biết có những cơ hội nghề nghiệp nào trong tương lai dành cho những người có kiến thức và kỹ năng về công nghệ thông tin?",
+        "output": "Cơ hội nghề nghiệp trong lĩnh vực công nghệ thông tin rất đa dạng và rộng mở, ví dụ như: lập trình viên, kỹ sư phần mềm, chuyên gia an ninh mạng, nhà khoa học dữ liệu, chuyên gia AI,..." 
+    },
+    {
+        "input": "Em muốn biết có những lời khuyên nào dành cho sinh viên muốn theo đuổi sự nghiệp trong lĩnh vực công nghệ thông tin?",
+        "output": "Hãy trau dồi kiến thức chuyên môn, rèn luyện kỹ năng thực hành, tham gia các hoạt động ngoại khóa, xây dựng mạng lưới quan hệ và luôn cập nhật những xu hướng công nghệ mới."
+    },
+    {
+        "input": "Em muốn biết có những tổ chức hoặc hiệp hội công nghệ thông tin nào mà sinh viên có thể tham gia?",
+        "output": "Có nhiều tổ chức và hiệp hội công nghệ thông tin uy tín trên thế giới và trong nước. Em có thể tìm kiếm thông tin và tham gia các tổ chức phù hợp với sở thích và mục tiêu của mình." 
+    },
+    {
+        "input": "Em muốn biết có những cuốn sách hay về công nghệ thông tin mà em nên đọc?",
+        "output": "Có rất nhiều cuốn sách hay về công nghệ thông tin, tùy thuộc vào sở thích và lĩnh vực quan tâm của em. Em có thể tìm kiếm trên mạng hoặc tham khảo ý kiến của giảng viên, bạn bè."
+    },
+    {
+        "input": "Em muốn biết có những bộ phim hoặc phim tài liệu nào về công nghệ thông tin đáng xem?", 
+        "output": "Có nhiều bộ phim và phim tài liệu về công nghệ thông tin hấp dẫn, ví dụ như: The Social Network, Steve Jobs, The Matrix, AlphaGo,..."
+    },
+    {
+        "input": "Em muốn biết có những nhân vật nổi tiếng nào trong lĩnh vực công nghệ thông tin mà em nên tìm hiểu?",
+        "output": "Có nhiều nhân vật nổi tiếng và có tầm ảnh hưởng lớn trong lĩnh vực công nghệ thông tin, ví dụ như: Bill Gates, Steve Jobs, Elon Musk, Mark Zuckerberg, Sundar Pichai,..." 
+    },
+    {
+        "input": "Em muốn biết có những công ty công nghệ thông tin hàng đầu thế giới mà em có thể tìm hiểu?",
+        "output": "Một số công ty công nghệ thông tin hàng đầu thế giới bao gồm: Google, Microsoft, Apple, Amazon, Facebook,..." 
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng nào cần thiết để trở thành một lập trình viên giỏi?",
+        "output": "Để trở thành một lập trình viên giỏi, em cần có kiến thức về các ngôn ngữ lập trình, cấu trúc dữ liệu và giải thuật, kỹ năng phân tích và giải quyết vấn đề, kỹ năng làm việc nhóm và khả năng tự học." 
+    },
+    {
+        "input": "Em muốn biết có những ngôn ngữ lập trình nào phổ biến hiện nay?",
+        "output": "Một số ngôn ngữ lập trình phổ biến hiện nay bao gồm: Python, Java, JavaScript, C++, C#, PHP,..."
+    },
+    {
+        "input": "Em muốn biết có những công cụ và phần mềm nào hữu ích cho lập trình viên?", 
+        "output": "Có nhiều công cụ và phần mềm hữu ích cho lập trình viên, ví dụ như: trình soạn thảo mã (Visual Studio Code, Sublime Text), hệ thống quản lý phiên bản (Git), công cụ gỡ lỗi (debugger),..."
+    },
+    {
+        "input": "Em muốn biết có những website hoặc nền tảng nào giúp em học lập trình?",
+        "output": "Có nhiều website và nền tảng học lập trình trực tuyến, ví dụ như: freeCodeCamp.org, Codecademy, Khan Academy, Coursera, EdX,..." 
+    },
+    {
+        "input": "Em muốn biết có những dự án lập trình nào phù hợp cho người mới bắt đầu?",
+        "output": "Em có thể bắt đầu với các dự án đơn giản như: xây dựng website cá nhân, tạo trò chơi đơn giản, phát triển ứng dụng di động cơ bản,..."
+    },
+    {
+        "input": "Em muốn biết có những lời khuyên nào dành cho người mới học lập trình?",
+        "output": "Hãy bắt đầu với những ngôn ngữ lập trình dễ học, thực hành thường xuyên, tham gia các cộng đồng lập trình, đừng ngại hỏi và tìm kiếm sự giúp đỡ."
+    },
+    {
+        "input": "Em muốn biết có những chứng chỉ lập trình nào có giá trị?",
+        "output": "Giá trị của chứng chỉ lập trình phụ thuộc vào nhiều yếu tố, bao gồm tổ chức cấp chứng chỉ, ngôn ngữ lập trình và nhu cầu của thị trường lao động. Em nên tìm hiểu kỹ thông tin trước khi quyết định thi chứng chỉ."
+    },
+    {
+        "input": "Em muốn biết có những cuộc thi lập trình nào dành cho sinh viên?",
+        "output": "Có nhiều cuộc thi lập trình dành cho sinh viên do các trường đại học, tổ chức công nghệ thông tin hoặc doanh nghiệp tổ chức. Em có thể tìm kiếm thông tin trên mạng hoặc tham khảo ý kiến của giảng viên, bạn bè."
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng nào cần thiết để trở thành một kỹ sư phần mềm?", 
+        "output": "Để trở thành một kỹ sư phần mềm, em cần có kiến thức về lập trình, thiết kế phần mềm, kiểm thử phần mềm, kỹ năng làm việc nhóm và khả năng giải quyết vấn đề."
+    },
+    {
+        "input": "Em muốn biết có những công cụ và phần mềm nào hữu ích cho kỹ sư phần mềm?",
+        "output": "Có nhiều công cụ và phần mềm hữu ích cho kỹ sư phần mềm, ví dụ như: trình soạn thảo mã, hệ thống quản lý phiên bản, công cụ thiết kế phần mềm, công cụ kiểm thử phần mềm,..."
+    },
+    {
+        "input": "Em muốn biết có những phương pháp nào để phát triển phần mềm hiệu quả?",
+        "output": "Có nhiều phương pháp phát triển phần mềm hiệu quả, ví dụ như: Agile, Waterfall, Scrum, Kanban,... Em nên lựa chọn phương pháp phù hợp với dự án và đội ngũ của mình." 
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng nào cần thiết để trở thành một chuyên gia an ninh mạng?",
+        "output": "Để trở thành một chuyên gia an ninh mạng, em cần có kiến thức về mạng máy tính, hệ điều hành, bảo mật thông tin, kỹ năng phân tích và giải quyết vấn đề, kỹ năng phòng thủ và tấn công mạng." 
+    },
+    {
+        "input": "Em muốn biết có những chứng chỉ an ninh mạng nào có giá trị?",
+        "output": "Một số chứng chỉ an ninh mạng có giá trị bao gồm: Security+, CEH, CISSP, CISM,..."
+    },
+    {
+        "input": "Em muốn biết có những công cụ và phần mềm nào hữu ích cho chuyên gia an ninh mạng?",
+        "output": "Có nhiều công cụ và phần mềm hữu ích cho chuyên gia an ninh mạng, ví dụ như: Nmap, Wireshark, Metasploit, Burp Suite,..."
+    },
+    {
+        "input": "Em muốn biết có những thách thức nào mà lĩnh vực an ninh mạng đang phải đối mặt?",
+        "output": "Lĩnh vực an ninh mạng đang phải đối mặt với nhiều thách thức như: sự gia tăng của tội phạm mạng, các lỗ hổng bảo mật mới, sự phát triển của các công nghệ tấn công tinh vi,..."
+    },
+    {
+        "input": "Em muốn biết có những lời khuyên nào dành cho người muốn theo đuổi sự nghiệp trong lĩnh vực an ninh mạng?",
+        "output": "Hãy trau dồi kiến thức chuyên môn, rèn luyện kỹ năng thực hành, tham gia các cộng đồng an ninh mạng, luôn cập nhật những xu hướng bảo mật mới và tuân thủ đạo đức nghề nghiệp." 
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng nào cần thiết để trở thành một nhà khoa học dữ liệu?",
+        "output": "Để trở thành một nhà khoa học dữ liệu, em cần có kiến thức về toán học, thống kê, học máy, khai phá dữ liệu, kỹ năng lập trình và khả năng phân tích và giải quyết vấn đề."
+    },
+    {
+        "input": "Em muốn biết có những công cụ và phần mềm nào hữu ích cho nhà khoa học dữ liệu?",
+        "output": "Có nhiều công cụ và phần mềm hữu ích cho nhà khoa học dữ liệu, ví dụ như: Python, R, SQL, Hadoop, Spark, Tableau,..."
+    },
+    {
+        "input": "Em muốn biết có những nguồn dữ liệu mở mà em có thể sử dụng để thực hành khoa học dữ liệu?", 
+        "output": "Có nhiều nguồn dữ liệu mở mà em có thể sử dụng để thực hành khoa học dữ liệu, ví dụ như: Kaggle, UCI Machine Learning Repository, Google Dataset Search,..." 
+    },
+    {
+        "input": "Em muốn biết có những thách thức nào mà lĩnh vực khoa học dữ liệu đang phải đối mặt?",
+        "output": "Lĩnh vực khoa học dữ liệu đang phải đối mặt với nhiều thách thức như: thiếu hụt nhân lực chất lượng cao, vấn đề bảo mật và quyền riêng tư dữ liệu, sự phức tạp của các mô hình học máy,..." 
+    },
+    {
+        "input": "Em muốn biết có những lời khuyên nào dành cho người muốn theo đuổi sự nghiệp trong lĩnh vực khoa học dữ liệu?",
+        "output": "Hãy trau dồi kiến thức chuyên môn, rèn luyện kỹ năng thực hành, tham gia các cộng đồng khoa học dữ liệu, luôn cập nhật những xu hướng công nghệ mới và phát triển tư duy phản biện." 
+    },
+    {
+        "input": "Em muốn biết có những kỹ năng nào cần thiết để trở thành một chuyên gia AI?",
+        "output": "Để trở thành một chuyên gia AI, em cần có kiến thức về toán học, thống kê, học máy, xử lý ngôn ngữ tự nhiên, thị giác máy tính, kỹ năng lập trình và khả năng phân tích và giải quyết vấn đề."
+    },
+    {
+        "input": "Em muốn biết có những công cụ và phần mềm nào hữu ích cho chuyên gia AI?",
+        "output": "Có nhiều công cụ và phần mềm hữu ích cho chuyên gia AI, ví dụ như: TensorFlow, PyTorch, scikit-learn, Keras,..." 
+    },
+    {
+        "input": "Em muốn biết có những ứng dụng của AI trong cuộc sống hiện nay?",
+        "output": "AI được ứng dụng trong nhiều lĩnh vực khác nhau, ví dụ như: xe tự lái, nhận dạng khuôn mặt, trợ lý ảo, dịch máy, chẩn đoán y tế,..." 
+    },
+    {
+        "input": "Em muốn biết có những thách thức nào mà lĩnh vực AI đang phải đối mặt?",
+        "output": "Lĩnh vực AI đang phải đối mặt với nhiều thách thức như: vấn đề đạo đức, bias trong dữ liệu, tính minh bạch của mô hình AI, khả năng giải thích của AI,..." 
+    },
+    {
+        "input": "Em muốn biết có những lời khuyên nào dành cho người muốn theo đuổi sự nghiệp trong lĩnh vực AI?",
+        "output": "Hãy trau dồi kiến thức chuyên môn, rèn luyện kỹ năng thực hành, tham gia các cộng đồng AI, luôn cập nhật những xu hướng công nghệ mới và suy nghĩ về tác động xã hội của AI." 
+    },
+    {
+        "input": "Em muốn biết tầm quan trọng của việc học công nghệ thông tin trong thời đại 4.0?",
+        "output": "Công nghệ thông tin đóng vai trò quan trọng trong thời đại 4.0, ảnh hưởng đến mọi mặt của đời sống xã hội. Học công nghệ thông tin giúp em thích nghi với sự thay đổi, nắm bắt cơ hội và phát triển bản thân."
+    },
+    {
+        "input": "Em muốn biết công nghệ thông tin có thể giúp gì cho việc bảo vệ môi trường?", 
+        "output": "Công nghệ thông tin có thể được sử dụng để giám sát môi trường, phân tích dữ liệu môi trường, phát triển năng lượng tái tạo, quản lý tài nguyên hiệu quả,..." 
+    },
+    {
+        "input": "Em muốn biết công nghệ thông tin có thể giúp gì cho việc phát triển giáo dục?",
+        "output": "Công nghệ thông tin có thể giúp cá nhân hóa việc học, cung cấp tài liệu học tập phong phú, tạo môi trường học tập tương tác, kết nối học sinh và giáo viên,..."
+    },
+    {
+        "input": "Em muốn biết công nghệ thông tin có thể giúp gì cho việc chăm sóc sức khỏe?",
+        "output": "Công nghệ thông tin có thể được sử dụng để chẩn đoán bệnh, theo dõi sức khỏe, quản lý hồ sơ bệnh án, nghiên cứu y học, phát triển thuốc mới,..."
+    },
+    {
+        "input": "Em muốn biết công nghệ thông tin có thể giúp gì cho việc phát triển kinh tế?",
+        "output": "Công nghệ thông tin là động lực quan trọng cho phát triển kinh tế, giúp tăng năng suất lao động, tạo ra nhiều việc làm mới, thúc đẩy đổi mới sáng tạo và tăng trưởng kinh tế."
+    }
+    
       
       
       
