@@ -1,0 +1,2131 @@
+[
+  {
+    "input": "Quy định khen thưởng và kỷ luật sinh viên áp dụng cho những đối tượng nào?",
+    "output": "Quy định này áp dụng cho cả sinh viên hệ chính quy (Đại học, Liên thông, Cao đẳng) và sinh viên Đại học hệ vừa làm vừa học theo hệ thống tín chỉ tại trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên có thể bị kỷ luật với những hình thức nào?",
+    "output": "Tùy theo mức độ vi phạm, sinh viên có thể bị khiển trách, cảnh cáo, đình chỉ học tập có thời hạn hoặc buộc thôi học."
+  },
+  {
+    "input": "Hành vi nào của sinh viên sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học nếu vi phạm lần đầu nhưng có tính chất và mức độ đặc biệt nghiêm trọng, hoặc tiếp tục vi phạm kỷ luật trong thời gian bị đình chỉ học tập, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Sinh viên đạt thành tích gì sẽ được khen thưởng?",
+    "output": "Sinh viên có thể được khen thưởng khi đạt thành tích trong học tập, rèn luyện, nghiên cứu khoa học, hoạt động phong trào, văn hóa, văn nghệ, thể thao hoặc có hành động dũng cảm, cứu người,..."
+  },
+  {
+    "input": "Tiêu chuẩn để được công nhận là “Sinh viên Xuất sắc” cuối năm là gì?",
+    "output": "Để được công nhận là “Sinh viên Xuất sắc” cuối năm, sinh viên cần đạt loại Xuất sắc cả về học tập và rèn luyện trong cả hai học kỳ của năm học đó."
+  },
+  {
+    "input": "Lớp tôi muốn đạt danh hiệu “Tập thể lớp Tiên tiến” thì cần những điều kiện gì?",
+    "output": "Để đạt danh hiệu “Tập thể lớp Tiên tiến”, lớp bạn cần đáp ứng các tiêu chuẩn chung về ý thức kỷ luật, hoạt động phong trào; đồng thời có ít nhất 25% sinh viên đạt danh hiệu “Sinh viên Khá” trở lên, có cá nhân đạt danh hiệu “Sinh viên Giỏi” và có sinh viên tham gia nghiên cứu khoa học hoặc đạt thành tích đặc biệt."
+  },
+  {
+    "input": "Quy trình xét khen thưởng sinh viên cuối năm diễn ra như thế nào?",
+    "output": "Đầu tiên, các lớp sẽ lập danh sách khen thưởng và nộp về Khoa/Trung tâm/Cơ sở 2. Sau đó, các đơn vị này sẽ họp xét duyệt và gửi hồ sơ lên Hội đồng khen thưởng của trường. Cuối cùng, Hội đồng sẽ họp xét và trình Hiệu trưởng quyết định khen thưởng."
+  },
+  {
+    "input": "Tôi muốn xem chi tiết khung xử lý kỷ luật sinh viên thì phải làm thế nào?",
+    "output": "Bạn có thể tham khảo Phụ lục 1 đính kèm Quy định này để xem chi tiết khung xử lý kỷ luật cho từng loại vi phạm."
+  },
+  {
+    "input": "Nếu sinh viên vi phạm quy định về nộp học phí sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên cố tình chậm nộp hoặc không nộp học phí mà không có lý do chính đáng có thể bị nhắc nhở, khiển trách hoặc buộc thôi học tùy theo mức độ."
+  },
+  {
+    "input": "Sinh viên hút thuốc lá trong ký túc xá có bị kỷ luật không?",
+    "output": "Hút thuốc lá trong ký túc xá là vi phạm quy định về nội quy ký túc xá và có thể bị xử lý kỷ luật từ nhắc nhở đến cảnh cáo."
+  },
+  {
+    "input": "Tôi muốn biết về quy định xử lý sinh viên liên quan đến ma túy?",
+    "output": "Trường hợp sinh viên buôn bán, vận chuyển, tàng trữ hoặc lôi kéo người khác sử dụng ma túy sẽ bị buộc thôi học và giao cho cơ quan chức năng xử lý. Sinh viên sử dụng ma túy sẽ bị xử lý theo quy định riêng về xử lý sinh viên liên quan đến ma túy."
+  },
+  {
+    "input": "Nếu bị kỷ luật cảnh cáo thì sau bao lâu sẽ được xóa bỏ?",
+    "output": "Nếu sau 6 tháng kể từ ngày bị kỷ luật cảnh cáo mà sinh viên không tái phạm hoặc không có vi phạm mới, quyết định kỷ luật sẽ đương nhiên hết hiệu lực và sinh viên được hưởng đầy đủ quyền lợi."
+  },
+  {
+    "input": "Quy định này có hiệu lực từ khi nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 – 2017."
+  },
+  {
+    "input": "Tôi muốn phản ánh về việc xử lý kỷ luật của Khoa/Trung tâm đối với sinh viên thì liên hệ với ai?",
+    "output": "Bạn có thể gửi phản ánh về phòng Công tác chính trị & Quản lý sinh viên của trường để được xem xét giải quyết."
+  },
+  {
+    "input": "Quy định này có thay thế cho quy định nào trước đó không?",
+    "output": "Quy định này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 của Hiệu trưởng trường đại học Thủy lợi về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Ngoài quy định này, sinh viên cần phải tuân thủ những quy định nào khác?",
+    "output": "Sinh viên cần tuân thủ các quy định khác của nhà trường như Quy chế công tác sinh viên, Quy chế đào tạo, Nội quy ký túc xá,..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về Quy chế công tác sinh viên thì xem ở đâu?",
+    "output": "Bạn có thể tìm hiểu Quy chế công tác sinh viên trên website của trường hoặc liên hệ phòng Công tác chính trị & Quản lý sinh viên để được hướng dẫn."
+  },
+  {
+    "input": "Ngoài hình thức kỷ luật, sinh viên vi phạm còn bị xử lý như thế nào khác không?",
+    "output": "Tùy theo mức độ vi phạm, ngoài hình thức kỷ luật, sinh viên còn có thể bị trừ điểm rèn luyện, bị buộc thôi học và bồi thường thiệt hại, hoặc bị truy cứu trách nhiệm hình sự nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Quy định khen thưởng và kỷ luật sinh viên áp dụng cho những đối tượng nào?",
+    "output": "Quy định này áp dụng cho tất cả sinh viên đang theo học tại trường Đại học Thuỷ lợi, bao gồm cả hệ chính quy (Đại học, Liên thông, Cao đẳng) và hệ vừa làm vừa học."
+  },
+  {
+    "input": "Sinh viên có thể bị kỷ luật với những hình thức nào và mức độ ra sao?",
+    "output": "Tùy theo mức độ vi phạm, sinh viên có thể bị: \n* **Khiển trách:** Áp dụng cho lỗi nhẹ, lần đầu vi phạm.\n* **Cảnh cáo:** Áp dụng cho lỗi tái phạm hoặc lỗi nghiêm trọng hơn.\n* **Đình chỉ học tập:** Áp dụng cho lỗi vi phạm trong thời gian bị cảnh cáo hoặc vi phạm nghiêm trọng, thời hạn đình chỉ có thể là một học kỳ, một năm học, hoặc theo thời gian bị xử phạt tù treo (nếu có).\n* **Buộc thôi học:** Áp dụng cho lỗi vi phạm đặc biệt nghiêm trọng, vi phạm trong thời gian bị đình chỉ học tập, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Những hành vi nào của sinh viên sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học nếu:\n* Vi phạm lần đầu nhưng có tính chất và mức độ đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội.\n* Tiếp tục vi phạm kỷ luật trong thời gian bị đình chỉ học tập.\n* Vi phạm pháp luật bị xử phạt tù giam.\n* Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy."
+  },
+  {
+    "input": "Sinh viên đạt thành tích gì sẽ được khen thưởng?",
+    "output": "Sinh viên có thể được khen thưởng khi có thành tích nổi bật trong các lĩnh vực:\n* **Học tập:**  Đạt thành tích cao trong học tập, đạt điểm cao trong các kỳ thi, đạt học bổng...\n* **Rèn luyện:** Có ý thức tốt, chấp hành nội quy, tham gia hoạt động phong trào...\n* **Nghiên cứu khoa học:** Tham gia và đạt giải trong các cuộc thi nghiên cứu khoa học, Olympic các môn học...\n* **Văn hóa, văn nghệ, thể thao:** Tham gia và đạt giải trong các hoạt động, cuộc thi văn hóa, văn nghệ, thể thao của trường, khu vực hoặc quốc gia...\n* **Hành động dũng cảm:** Cứu người, bắt cướp, tố giác tội phạm..."
+  },
+  {
+    "input": "Tiêu chuẩn để được công nhận là “Sinh viên Xuất sắc” cuối năm là gì?",
+    "output": "Để được công nhận là “Sinh viên Xuất sắc” cuối năm, sinh viên cần đáp ứng các yêu cầu sau:\n* Đạt loại Xuất sắc cả về học tập và rèn luyện trong cả hai học kỳ của năm học đó.\n* Tích cực tham gia các hoạt động của lớp, khoa và trường.\n* Không vi phạm kỷ luật từ mức khiển trách trở lên."
+  },
+  {
+    "input": "Lớp tôi muốn đạt danh hiệu “Tập thể lớp Tiên tiến” thì cần những điều kiện gì?",
+    "output": "Để đạt danh hiệu “Tập thể lớp Tiên tiến”, lớp bạn cần:\n* Đáp ứng các tiêu chuẩn chung về ý thức kỷ luật, hoạt động phong trào.\n* Có ít nhất 25% sinh viên đạt danh hiệu “Sinh viên Khá” trở lên (trong đó có dưới 15% sinh viên bị cảnh báo học tập).\n* Có cá nhân đạt danh hiệu “Sinh viên Giỏi”.\n* Có sinh viên tham gia nghiên cứu khoa học hoặc đạt thành tích đặc biệt được nhà trường ghi nhận.\n* Không có sinh viên xếp loại rèn luyện yếu kém."
+  },
+  {
+    "input": "Quy trình xét khen thưởng sinh viên cuối năm diễn ra như thế nào?",
+    "output": "Quy trình xét khen thưởng sinh viên cuối năm diễn ra theo các bước sau:\n1. **Lập danh sách:** Các lớp lập danh sách sinh viên đủ điều kiện khen thưởng (theo mẫu quy định) và nộp về Khoa/Trung tâm/Cơ sở 2.\n2. **Xét duyệt cấp khoa:** Khoa/Trung tâm/Cơ sở 2 họp xét duyệt danh sách và lập hồ sơ gửi lên Hội đồng khen thưởng của trường.\n3. **Xét duyệt cấp trường:** Hội đồng khen thưởng họp xét duyệt hồ sơ và trình Hiệu trưởng quyết định khen thưởng."
+  },
+  {
+    "input": "Quy định khen thưởng và kỷ luật sinh viên áp dụng cho những đối tượng nào?",
+    "output": "Quy định này áp dụng cho tất cả sinh viên đang theo học tại trường Đại học Thuỷ lợi, bao gồm cả hệ chính quy (Đại học, Liên thông, Cao đẳng) và hệ vừa làm vừa học."
+  },
+  {
+    "input": "Sinh viên có thể bị kỷ luật với những hình thức nào và mức độ ra sao?",
+    "output": "Tùy theo mức độ vi phạm, sinh viên có thể bị: \n* **Khiển trách:** Áp dụng cho lỗi nhẹ, lần đầu vi phạm.\n* **Cảnh cáo:** Áp dụng cho lỗi tái phạm hoặc lỗi nghiêm trọng hơn.\n* **Đình chỉ học tập:** Áp dụng cho lỗi vi phạm trong thời gian bị cảnh cáo hoặc vi phạm nghiêm trọng, thời hạn đình chỉ có thể là một học kỳ, một năm học, hoặc theo thời gian bị xử phạt tù treo (nếu có).\n* **Buộc thôi học:** Áp dụng cho lỗi vi phạm đặc biệt nghiêm trọng, vi phạm trong thời gian bị đình chỉ học tập, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Những hành vi nào của sinh viên sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học nếu:\n* Vi phạm lần đầu nhưng có tính chất và mức độ đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội.\n* Tiếp tục vi phạm kỷ luật trong thời gian bị đình chỉ học tập.\n* Vi phạm pháp luật bị xử phạt tù giam.\n* Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy."
+  },
+  {
+    "input": "Sinh viên đạt thành tích gì sẽ được khen thưởng?",
+    "output": "Sinh viên có thể được khen thưởng khi có thành tích nổi bật trong các lĩnh vực:\n* **Học tập:**  Đạt thành tích cao trong học tập, đạt điểm cao trong các kỳ thi, đạt học bổng...\n* **Rèn luyện:** Có ý thức tốt, chấp hành nội quy, tham gia hoạt động phong trào...\n* **Nghiên cứu khoa học:** Tham gia và đạt giải trong các cuộc thi nghiên cứu khoa học, Olympic các môn học...\n* **Văn hóa, văn nghệ, thể thao:** Tham gia và đạt giải trong các hoạt động, cuộc thi văn hóa, văn nghệ, thể thao của trường, khu vực hoặc quốc gia...\n* **Hành động dũng cảm:** Cứu người, bắt cướp, tố giác tội phạm..."
+  },
+  {
+    "input": "Tiêu chuẩn để được công nhận là “Sinh viên Xuất sắc” cuối năm là gì?",
+    "output": "Để được công nhận là “Sinh viên Xuất sắc” cuối năm, sinh viên cần đáp ứng các yêu cầu sau:\n* Đạt loại Xuất sắc cả về học tập và rèn luyện trong cả hai học kỳ của năm học đó.\n* Tích cực tham gia các hoạt động của lớp, khoa và trường.\n* Không vi phạm kỷ luật từ mức khiển trách trở lên."
+  },
+  {
+    "input": "Lớp tôi muốn đạt danh hiệu “Tập thể lớp Tiên tiến” thì cần những điều kiện gì?",
+    "output": "Để đạt danh hiệu “Tập thể lớp Tiên tiến”, lớp bạn cần:\n* Đáp ứng các tiêu chuẩn chung về ý thức kỷ luật, hoạt động phong trào.\n* Có ít nhất 25% sinh viên đạt danh hiệu “Sinh viên Khá” trở lên (trong đó có dưới 15% sinh viên bị cảnh báo học tập).\n* Có cá nhân đạt danh hiệu “Sinh viên Giỏi”.\n* Có sinh viên tham gia nghiên cứu khoa học hoặc đạt thành tích đặc biệt được nhà trường ghi nhận.\n* Không có sinh viên xếp loại rèn luyện yếu kém."
+  },
+  {
+    "input": "Quy trình xét khen thưởng sinh viên cuối năm diễn ra như thế nào?",
+    "output": "Quy trình xét khen thưởng sinh viên cuối năm diễn ra theo các bước sau:\n1. **Lập danh sách:** Các lớp lập danh sách sinh viên đủ điều kiện khen thưởng (theo mẫu quy định) và nộp về Khoa/Trung tâm/Cơ sở 2.\n2. **Xét duyệt cấp khoa:** Khoa/Trung tâm/Cơ sở 2 họp xét duyệt danh sách và lập hồ sơ gửi lên Hội đồng khen thưởng của trường.\n3. **Xét duyệt cấp trường:** Hội đồng khen thưởng họp xét duyệt hồ sơ và trình Hiệu trưởng quyết định khen thưởng."
+  },
+  {
+    "input": "Tôi muốn xem chi tiết khung xử lý kỷ luật sinh viên thì phải làm thế nào?",
+    "output": "Bạn có thể tham khảo Phụ lục 1 đính kèm Quy định này. Phụ lục này liệt kê chi tiết các hành vi vi phạm và khung hình thức kỷ luật tương ứng cho từng hành vi và số lần vi phạm."
+  },
+  {
+    "input": "Nếu sinh viên vi phạm quy định về nộp học phí sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên cố tình chậm nộp hoặc không nộp học phí mà không có lý do chính đáng có thể bị:\n* Nhắc nhở: Áp dụng cho trường hợp lần đầu vi phạm và có lý do chính đáng.\n* Khiển trách: Áp dụng cho trường hợp tái phạm hoặc không có lý do chính đáng.\n* Buộc thôi học: Áp dụng cho trường hợp vi phạm nhiều lần, cố tình chây ì và gây ảnh hưởng đến hoạt động của nhà trường."
+  },
+  {
+    "input": "Sinh viên hút thuốc lá trong ký túc xá có bị kỷ luật không?",
+    "output": "Hút thuốc lá trong ký túc xá là vi phạm nội quy. Tùy theo mức độ và số lần vi phạm, sinh viên có thể bị:\n* Nhắc nhở: Áp dụng cho lần đầu vi phạm.\n* Khiển trách: Áp dụng cho lần thứ hai vi phạm.\n* Cảnh cáo: Áp dụng cho lần thứ ba vi phạm trở lên."
+  },
+  {
+    "input": "Tôi muốn biết về quy định xử lý sinh viên liên quan đến ma túy?",
+    "output": "Nhà trường có quy định rất nghiêm khắc về vấn đề ma túy. Cụ thể:\n* Sinh viên buôn bán, vận chuyển, tàng trữ hoặc lôi kéo người khác sử dụng ma túy sẽ bị buộc thôi học và giao cho cơ quan chức năng xử lý.\n* Sinh viên sử dụng ma túy sẽ bị xử lý theo quy định riêng về xử lý sinh viên liên quan đến ma túy, có thể bao gồm buộc thôi học và các biện pháp xử lý khác theo quy định của pháp luật."
+  },
+  {
+    "input": "Nếu bị kỷ luật cảnh cáo thì sau bao lâu sẽ được xóa bỏ?",
+    "output": "Quyết định kỷ luật cảnh cáo sẽ hết hiệu lực sau 6 tháng kể từ ngày bị kỷ luật, nếu trong thời gian đó sinh viên không tái phạm hoặc không có vi phạm mới. Sau khi hết hiệu lực, sinh viên sẽ được hưởng đầy đủ quyền lợi như các sinh viên khác."
+  },
+  {
+    "input": "Quy định này có hiệu lực từ khi nào và thay thế cho quy định nào trước đó?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 – 2017 và thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 của Hiệu trưởng trường đại học Thủy lợi về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Tôi muốn phản ánh về việc xử lý kỷ luật của Khoa/Trung tâm đối với sinh viên thì liên hệ với ai?",
+    "output": "Nếu bạn muốn phản ánh về việc xử lý kỷ luật của Khoa/Trung tâm, bạn có thể liên hệ với:\n* Phòng Công tác chính trị & Quản lý sinh viên: Đây là đơn vị trực tiếp phụ trách công tác sinh viên và kỷ luật của trường.\n* Hội đồng khen thưởng và kỷ luật sinh viên: Hội đồng này có nhiệm vụ tư vấn cho Hiệu trưởng về việc khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Ngoài quy định này, sinh viên cần phải tuân thủ những quy định nào khác?",
+    "output": "Ngoài Quy định về xét khen thưởng và kỷ luật, sinh viên cần tuân thủ các quy định khác của nhà trường như:\n* Quy chế công tác sinh viên: Quy định về quyền và nghĩa vụ của sinh viên, các hoạt động của sinh viên...\n* Quy chế đào tạo: Quy định về chương trình đào tạo, đánh giá kết quả học tập, thi cử...\n* Nội quy ký túc xá: Quy định về việc sinh hoạt, giữ gìn vệ sinh, an ninh trật tự trong ký túc xá...\n* Các quy định khác do nhà trường ban hành."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về Quy chế công tác sinh viên thì xem ở đâu?",
+    "output": "Bạn có thể tìm hiểu Quy chế công tác sinh viên qua các kênh sau:\n* Website của trường: Các quy định của trường thường được đăng tải công khai trên website.\n* Phòng Công tác chính trị & Quản lý sinh viên: Bạn có thể đến trực tiếp phòng hoặc liên hệ qua điện thoại, email để được cung cấp tài liệu.\n* Thư viện trường: Thư viện trường thường lưu trữ các văn bản quy định của trường."
+  },
+  {
+    "input": "Ngoài hình thức kỷ luật, sinh viên vi phạm còn bị xử lý như thế nào khác không?",
+    "output": "Tùy theo mức độ vi phạm, ngoài hình thức kỷ luật, sinh viên còn có thể bị áp dụng các biện pháp xử lý khác như:\n* Trừ điểm rèn luyện: Sinh viên vi phạm nội quy, quy chế sẽ bị trừ điểm rèn luyện. Điểm rèn luyện là một trong những tiêu chí để xét khen thưởng, học bổng và tốt nghiệp.\n* Bồi thường thiệt hại: Sinh viên gây thiệt hại về tài sản cho nhà trường, các cá nhân hoặc tổ chức khác sẽ phải bồi thường theo quy định.\n* Truy cứu trách nhiệm hình sự: Đối với các hành vi vi phạm pháp luật nghiêm trọng, sinh viên có thể bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+  },
+  {
+    "input": "Quy định về khen thưởng có những điểm gì cần lưu ý?",
+    "output": "Một số điểm cần lưu ý về khen thưởng:\n* Khen thưởng được xét theo từng lĩnh vực hoạt động và định kỳ cuối năm học, cuối khóa học.\n* Có nhiều mức khen thưởng khác nhau, từ biểu dương, giấy khen đến tiền thưởng, tặng phẩm.\n* Tiêu chuẩn khen thưởng rõ ràng, cụ thể cho từng danh hiệu và lĩnh vực.\n* Cả cá nhân và tập thể lớp đều có thể được khen thưởng."
+  },
+  {
+    "input": "Quy trình xử lý kỷ luật sinh viên diễn ra như thế nào?",
+    "output": "Quy trình xử lý kỷ luật sinh viên diễn ra theo các bước sau:\n1. **Tự kiểm điểm:** Sinh viên vi phạm viết bản tự kiểm điểm, nhận lỗi và đề xuất hình thức kỷ luật.\n2. **Kiểm điểm cấp lớp:** Giáo viên chủ nhiệm chủ trì họp lớp để phân tích lỗi vi phạm và đề xuất hình thức kỷ luật.\n3. **Xét kỷ luật cấp khoa:** Khoa/Trung tâm/Cơ sở 2 họp xét kỷ luật và đề xuất hình thức kỷ luật lên Hội đồng kỷ luật của trường.\n4. **Xét kỷ luật cấp trường:** Hội đồng kỷ luật họp xét duyệt và đề nghị Hiệu trưởng ra quyết định kỷ luật."
+  },
+  {
+    "input": "Tôi muốn tham gia hoạt động tình nguyện, tôi có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với:\n* Đoàn Thanh niên - Hội Sinh viên trường: Đây là tổ chức quản lý và tổ chức các hoạt động tình nguyện của sinh viên.\n* Ban chấp hành Đoàn - Hội các Khoa/Viện: Các đơn vị này cũng thường xuyên tổ chức các hoạt động tình nguyện cho sinh viên."
+  },
+  {
+    "input": "Nếu tôi muốn khiếu nại về quyết định kỷ luật thì phải làm sao?",
+    "output": "Nếu bạn muốn khiếu nại về quyết định kỷ luật, bạn có thể:\n* Gửi đơn khiếu nại lên Hiệu trưởng trường Đại học Thủy lợi.\n* Trong đơn khiếu nại cần nêu rõ lý do, căn cứ và đề nghị của bạn."
+  },
+  {
+    "input": "Việc khen thưởng và kỷ luật sinh viên dựa trên những nguyên tắc nào?",
+    "output": "Việc khen thưởng và kỷ luật sinh viên dựa trên các nguyên tắc sau:\n* Chính xác: Đảm bảo việc đánh giá và xử lý dựa trên chứng cứ xác thực, khách quan.\n* Công khai: Thông tin về khen thưởng, kỷ luật được công khai minh bạch.\n* Dân chủ: Sinh viên được tham gia ý kiến trong quá trình xem xét, xử lý.\n* Công bằng: Đảm bảo sự công bằng, không phân biệt đối xử.\n* Kịp thời: Việc khen thưởng, kỷ luật được thực hiện kịp thời để phát huy tác dụng giáo dục."
+  },
+  {
+    "input": "Khen thưởng có tác dụng như thế nào đối với sinh viên?",
+    "output": "Khen thưởng có tác dụng:\n* Ghi nhận và động viên sinh viên có thành tích tốt.\n* Tạo động lực cho sinh viên phấn đấu hơn nữa trong học tập và rèn luyện.\n* Góp phần xây dựng môi trường học tập tích cực, lành mạnh."
+  },
+  {
+    "input": "Kỷ luật có tác dụng như thế nào đối với sinh viên?",
+    "output": "Kỷ luật có tác dụng:\n* Răn đe, giáo dục sinh viên vi phạm, giúp họ nhận thức và sửa chữa lỗi lầm.\n* Duy trì kỷ cương, trật tự trong nhà trường.\n* Bảo vệ quyền lợi của các cá nhân và tập thể khác."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về các hoạt động Đoàn - Hội thì phải làm sao?",
+    "output": "Bạn có thể:\n* Truy cập website của Đoàn Thanh niên - Hội Sinh viên trường.\n* Liên hệ với Ban chấp hành Đoàn - Hội của Khoa/Viện bạn đang theo học.\n* Tham gia các buổi sinh hoạt, sự kiện do Đoàn - Hội tổ chức."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật có được cập nhật thường xuyên không?",
+    "output": "Quy định về xét khen thưởng và kỷ luật có thể được cập nhật, sửa đổi theo tình hình thực tế và các quy định mới của Bộ Giáo dục và Đào tạo. Các bản cập nhật sẽ được thông báo công khai đến sinh viên."
+  },
+  {
+    "input": "Tôi muốn đóng góp ý kiến cho hoạt động của Đoàn - Hội thì liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với:\n* Ban chấp hành Đoàn - Hội của Khoa/Viện: Gửi ý kiến trực tiếp đến Ban chấp hành hoặc tham gia các buổi họp, diễn đàn để đóng góp ý kiến.\n* Hòm thư góp ý của Đoàn Thanh niên - Hội Sinh viên trường: Trường thường có hòm thư góp ý để tiếp nhận ý kiến của sinh viên về hoạt động của Đoàn - Hội."
+  },
+  {
+    "input": "Ngoài việc học tập, sinh viên còn có thể tham gia những hoạt động nào khác ở trường?",
+    "output": "Ngoài việc học tập, sinh viên có thể tham gia rất nhiều hoạt động ngoại khóa bổ ích và thú vị như:\n* **Hoạt động Đoàn - Hội:** Tham gia các câu lạc bộ, đội nhóm theo sở thích, tham gia các phong trào tình nguyện, các hoạt động văn hóa, văn nghệ, thể thao...\n* **Nghiên cứu khoa học:** Tham gia các đề tài nghiên cứu khoa học, tham gia các cuộc thi, hội thảo khoa học...\n* **Khởi nghiệp:** Tham gia các chương trình hỗ trợ khởi nghiệp, các cuộc thi khởi nghiệp...\n* **Hoạt động kỹ năng mềm:** Tham gia các khóa học, workshop về kỹ năng mềm như kỹ năng giao tiếp, làm việc nhóm, quản lý thời gian..."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên khởi nghiệp không?",
+    "output": "Trường Đại học Thủy lợi có Trung tâm Hỗ trợ sinh viên khởi nghiệp và nhiều chương trình hỗ trợ sinh viên khởi nghiệp như:\n* Cung cấp không gian làm việc chung, trang thiết bị...\n* Tổ chức các khóa học, hội thảo về khởi nghiệp.\n* Kết nối sinh viên với các chuyên gia, nhà đầu tư...\n* Hỗ trợ sinh viên tham gia các cuộc thi khởi nghiệp."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học bổng thì phải làm sao?",
+    "output": "Bạn có thể tìm hiểu về học bổng qua các kênh sau:\n* Website của trường: Thông tin về các loại học bổng, điều kiện, quy trình xét duyệt thường được đăng tải trên website.\n* Phòng Công tác chính trị & Quản lý sinh viên: Bạn có thể đến trực tiếp phòng để được tư vấn chi tiết.\n* Các Khoa/Viện: Một số khoa/viện có học bổng riêng dành cho sinh viên của khoa/viện đó."
+  },
+  {
+    "input": "Sinh viên có quyền lợi gì khi tham gia các hoạt động của trường?",
+    "output": "Sinh viên tham gia các hoạt động của trường sẽ được hưởng nhiều quyền lợi như:\n* Rèn luyện kỹ năng mềm, phát triển bản thân.\n* Mở rộng mối quan hệ, giao lưu học hỏi.\n* Có cơ hội nhận học bổng, khen thưởng.\n* Nâng cao giá trị bản thân, tạo lợi thế khi tìm kiếm việc làm."
+  },
+  {
+    "input": "Trường có những chính sách hỗ trợ nào cho sinh viên có hoàn cảnh khó khăn?",
+    "output": "Trường có nhiều chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn như:\n* Miễn, giảm học phí.\n* Cấp học bổng.\n* Hỗ trợ tìm kiếm việc làm thêm.\n* Hỗ trợ chỗ ở tại ký túc xá."
+  },
+  {
+    "input": "Ngoài việc học tập, sinh viên còn có thể tham gia những hoạt động nào khác ở trường?",
+    "output": "Ngoài việc học tập, sinh viên có thể tham gia rất nhiều hoạt động ngoại khóa bổ ích và thú vị như:\n* **Hoạt động Đoàn - Hội:** Tham gia các câu lạc bộ, đội nhóm theo sở thích, tham gia các phong trào tình nguyện, các hoạt động văn hóa, văn nghệ, thể thao...\n* **Nghiên cứu khoa học:** Tham gia các đề tài nghiên cứu khoa học, tham gia các cuộc thi, hội thảo khoa học...\n* **Khởi nghiệp:** Tham gia các chương trình hỗ trợ khởi nghiệp, các cuộc thi khởi nghiệp...\n* **Hoạt động kỹ năng mềm:** Tham gia các khóa học, workshop về kỹ năng mềm như kỹ năng giao tiếp, làm việc nhóm, quản lý thời gian..."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên khởi nghiệp không?",
+    "output": "Trường Đại học Thủy lợi có Trung tâm Hỗ trợ sinh viên khởi nghiệp và nhiều chương trình hỗ trợ sinh viên khởi nghiệp như:\n* Cung cấp không gian làm việc chung, trang thiết bị...\n* Tổ chức các khóa học, hội thảo về khởi nghiệp.\n* Kết nối sinh viên với các chuyên gia, nhà đầu tư...\n* Hỗ trợ sinh viên tham gia các cuộc thi khởi nghiệp."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học bổng thì phải làm sao?",
+    "output": "Bạn có thể tìm hiểu về học bổng qua các kênh sau:\n* Website của trường: Thông tin về các loại học bổng, điều kiện, quy trình xét duyệt thường được đăng tải trên website.\n* Phòng Công tác chính trị & Quản lý sinh viên: Bạn có thể đến trực tiếp phòng để được tư vấn chi tiết.\n* Các Khoa/Viện: Một số khoa/viện có học bổng riêng dành cho sinh viên của khoa/viện đó."
+  },
+  {
+    "input": "Sinh viên có quyền lợi gì khi tham gia các hoạt động của trường?",
+    "output": "Sinh viên tham gia các hoạt động của trường sẽ được hưởng nhiều quyền lợi như:\n* Rèn luyện kỹ năng mềm, phát triển bản thân.\n* Mở rộng mối quan hệ, giao lưu học hỏi.\n* Có cơ hội nhận học bổng, khen thưởng.\n* Nâng cao giá trị bản thân, tạo lợi thế khi tìm kiếm việc làm."
+  },
+  {
+    "input": "Trường có những chính sách hỗ trợ nào cho sinh viên có hoàn cảnh khó khăn?",
+    "output": "Trường có nhiều chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn như:\n* Miễn, giảm học phí.\n* Cấp học bổng.\n* Hỗ trợ tìm kiếm việc làm thêm.\n* Hỗ trợ chỗ ở tại ký túc xá."
+  },
+  {
+    "input": "Làm thế nào để tôi có thể đóng góp xây dựng trường học ngày càng tốt hơn?",
+    "output": "Bạn có thể đóng góp xây dựng trường học ngày càng tốt hơn bằng nhiều cách:\n* **Học tập tốt, rèn luyện tốt:** Đây là cách đóng góp thiết thực nhất của sinh viên.\n* **Tham gia các hoạt động của trường:** Tham gia các phong trào, các hoạt động tình nguyện, đóng góp ý kiến xây dựng Đoàn - Hội, các hoạt động của trường...\n* **Góp ý kiến xây dựng trường:** Trường thường xuyên tổ chức các buổi đối thoại, lấy ý kiến sinh viên về các vấn đề của trường. Bạn có thể tham gia và đóng góp ý kiến của mình.\n* **Giữ gìn vệ sinh, cảnh quan trường lớp:** Có ý thức giữ gìn vệ sinh chung, bảo vệ cảnh quan môi trường xanh - sạch - đẹp."
+  },
+  {
+    "input": "Trường có những kênh thông tin nào để sinh viên cập nhật thông báo?",
+    "output": "Trường có nhiều kênh thông tin để sinh viên cập nhật thông báo như:\n* **Website của trường:** Đây là kênh thông tin chính thức của trường, đăng tải các thông báo quan trọng, tin tức, sự kiện...\n* **Fanpage, group Facebook của trường, khoa/viện:** Các kênh này thường xuyên cập nhật thông tin, tin tức, sự kiện một cách nhanh chóng.\n* **Email sinh viên:** Trường thường gửi thông báo quan trọng qua email sinh viên.\n* **Bảng tin của khoa/viện, ký túc xá:** Các bảng tin này thường đăng tải các thông báo liên quan đến sinh viên của khoa/viện, ký túc xá."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình trao đổi sinh viên với nước ngoài thì phải làm sao?",
+    "output": "Bạn có thể tìm hiểu về các chương trình trao đổi sinh viên với nước ngoài qua các kênh sau:\n* Phòng Hợp tác quốc tế: Đây là đơn vị quản lý và tổ chức các chương trình trao đổi sinh viên với nước ngoài.\n* Website của trường: Thông tin về các chương trình trao đổi, điều kiện, quy trình đăng ký thường được đăng tải trên website.\n* Các Khoa/Viện: Một số khoa/viện có chương trình trao đổi riêng với các trường đại học nước ngoài."
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động hỗ trợ sinh viên tìm kiếm việc làm không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và việc làm tổ chức nhiều hoạt động hỗ trợ sinh viên tìm kiếm việc làm như:\n* Tổ chức các buổi tư vấn hướng nghiệp, kỹ năng tìm việc.\n* Tổ chức các ngày hội việc làm, kết nối sinh viên với các doanh nghiệp.\n* Cung cấp thông tin tuyển dụng, hỗ trợ sinh viên viết CV, kỹ năng phỏng vấn."
+  },
+  {
+    "input": "Tôi là sinh viên năm nhất, tôi cần làm gì để hòa nhập với môi trường đại học?",
+    "output": "Một số lời khuyên dành cho sinh viên năm nhất để hòa nhập với môi trường đại học:\n* **Tham gia các hoạt động chào tân, làm quen với bạn bè, thầy cô.**\n* **Tích cực tham gia các hoạt động Đoàn - Hội, câu lạc bộ.**\n* **Học hỏi kinh nghiệm từ các anh chị khóa trên.**\n* **Tự tin, chủ động trong học tập và cuộc sống.**\n* **Liên hệ với giáo viên chủ nhiệm, cố vấn học tập khi gặp khó khăn."
+  },
+  {
+    "input": "Tôi muốn tham gia nghiên cứu khoa học, tôi cần chuẩn bị những gì?",
+    "output": "Để tham gia nghiên cứu khoa học, bạn cần:\n* **Nắm vững kiến thức chuyên môn:** Đây là nền tảng để bạn tham gia nghiên cứu.\n* **Rèn luyện kỹ năng nghiên cứu:** Kỹ năng tìm kiếm thông tin, phân tích dữ liệu, viết báo cáo...\n* **Tìm hiểu về các đề tài nghiên cứu đang được triển khai ở khoa/viện.**\n* **Liên hệ với giảng viên hướng dẫn để được tư vấn và hỗ trợ.**\n* **Tham gia các nhóm nghiên cứu, câu lạc bộ khoa học.**"
+  },
+  {
+    "input": "Trường có những dịch vụ hỗ trợ nào cho sinh viên?",
+    "output": "Trường có nhiều dịch vụ hỗ trợ sinh viên như:\n* **Thư viện:** Cung cấp tài liệu học tập, nghiên cứu.\n* **Ký túc xá:** Cung cấp chỗ ở cho sinh viên.\n* **Nhà ăn, căng tin:** Phục vụ nhu cầu ăn uống của sinh viên.\n* **Phòng y tế:** Chăm sóc sức khỏe ban đầu cho sinh viên.\n* **Trung tâm hỗ trợ sinh viên và việc làm:** Hỗ trợ sinh viên trong học tập, rèn luyện, tìm kiếm việc làm..."
+  },
+  {
+    "input": "Tôi muốn đăng ký tham gia chương trình trao đổi sinh viên, thủ tục như thế nào?",
+    "output": "Thủ tục đăng ký tham gia chương trình trao đổi sinh viên thường bao gồm:\n* **Tìm hiểu thông tin:** Tìm hiểu về các chương trình trao đổi, điều kiện, thời gian, chi phí...\n* **Chuẩn bị hồ sơ:** Hồ sơ thường bao gồm bảng điểm, chứng chỉ ngoại ngữ, thư giới thiệu...\n* **Nộp hồ sơ:** Nộp hồ sơ cho Phòng Hợp tác quốc tế hoặc khoa/viện phụ trách chương trình trao đổi.\n* **Tham gia phỏng vấn (nếu có).**\n* **Hoàn thiện các thủ tục cần thiết (visa, vé máy bay...).**"
+  },
+  {
+    "input": "Sinh viên có thể học thêm ngoại ngữ ở đâu?",
+    "output": "Sinh viên có thể học thêm ngoại ngữ ở:\n* **Trung tâm Ngoại ngữ của trường:** Trung tâm cung cấp các khóa học ngoại ngữ đa dạng, chất lượng.\n* **Các trung tâm ngoại ngữ bên ngoài.**\n* **Học online qua các ứng dụng, website.**"
+  },
+  {
+    "input": "Tôi muốn tham gia câu lạc bộ, đội nhóm thì phải làm sao?",
+    "output": "Để tham gia câu lạc bộ, đội nhóm, bạn có thể:\n* **Tìm hiểu thông tin:** Tham khảo danh sách các câu lạc bộ, đội nhóm trên website của Đoàn - Hội hoặc fanpage, group Facebook của trường, khoa/viện.\n* **Liên hệ với câu lạc bộ, đội nhóm bạn quan tâm để tìm hiểu thông tin và đăng ký tham gia.**\n* **Tham gia các buổi sinh hoạt, sự kiện của câu lạc bộ, đội nhóm để làm quen và hòa nhập.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình du học của trường?",
+    "output": "Bạn có thể tìm hiểu về các chương trình du học của trường qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Đây là đơn vị quản lý và tổ chức các chương trình du học của trường.\n* **Website của trường:** Thông tin về các chương trình du học, điều kiện, học phí...\n* **Các khoa/viện:** Một số khoa/viện có chương trình du học riêng với các trường đại học nước ngoài."
+  },
+  {
+    "input": "Tôi gặp khó khăn trong học tập, tôi có thể nhờ ai giúp đỡ?",
+    "output": "Bạn có thể nhờ giúp đỡ từ:\n* **Giảng viên bộ môn:** Giảng viên là người trực tiếp giảng dạy và có thể giải đáp thắc mắc về kiến thức chuyên môn.\n* **Giáo viên chủ nhiệm:** Giáo viên chủ nhiệm có thể hỗ trợ, tư vấn về các vấn đề học tập và đời sống sinh viên.\n* **Cố vấn học tập:** Cố vấn học tập là giảng viên được phân công hỗ trợ sinh viên trong việc lựa chọn môn học, định hướng học tập.\n* **Bạn bè, anh chị khóa trên:** Bạn có thể học hỏi kinh nghiệm, trao đổi kiến thức với bạn bè, anh chị khóa trên."
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động thể thao, giải trí cho sinh viên không?",
+    "output": "Trường thường xuyên tổ chức các hoạt động thể thao, giải trí cho sinh viên như:\n* **Giải thể thao sinh viên:** Các giải bóng đá, bóng chuyền, cầu lông, bơi lội...\n* **Các câu lạc bộ thể thao:** Câu lạc bộ võ thuật, yoga, dance sport...\n* **Các hoạt động văn nghệ:** Cuộc thi ca hát, nhảy múa, diễn kịch...\n* **Các hoạt động ngoại khóa:** Dã ngoại, cắm trại, tham quan..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về thủ tục ra trường, tốt nghiệp?",
+    "output": "Bạn có thể tìm hiểu về thủ tục ra trường, tốt nghiệp qua các kênh sau:\n* **Phòng Đào tạo:** Đây là đơn vị quản lý công tác đào tạo và cấp bằng tốt nghiệp.\n* **Website của trường:** Thông tin về thủ tục ra trường, tốt nghiệp thường được đăng tải trên website.\n* **Giáo viên chủ nhiệm:** Giáo viên chủ nhiệm có thể hướng dẫn bạn về thủ tục ra trường, tốt nghiệp."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ sinh viên khuyết tật như thế nào?",
+    "output": "Trường có các chính sách hỗ trợ sinh viên khuyết tật như:\n* **Miễn, giảm học phí.**\n* **Hỗ trợ học tập:** Cung cấp tài liệu học tập phù hợp, bố trí chỗ ngồi thuận tiện, hỗ trợ thi cử...\n* **Hỗ trợ sinh hoạt:** Bố trí ký túc xá gần giảng đường, hỗ trợ di chuyển...\n* **Tạo điều kiện để sinh viên khuyết tật tham gia các hoạt động của trường.**"
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng mạng xã hội?",
+    "output": "Sinh viên cần sử dụng mạng xã hội một cách văn minh, lịch sự, đúng pháp luật. Không đăng tải, chia sẻ các thông tin sai lệch, phản động, gây ảnh hưởng đến uy tín của nhà trường, các cá nhân, tổ chức khác."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về chương trình đào tạo của trường thì phải làm sao?",
+    "output": "Bạn có thể tìm hiểu về chương trình đào tạo của trường qua các kênh sau:\n* **Website của trường:** Thông tin về các ngành đào tạo, chương trình đào tạo, học phí, thời gian đào tạo... thường được đăng tải trên website.\n* **Phòng Đào tạo:** Bạn có thể đến trực tiếp phòng để được tư vấn chi tiết.\n* **Các Khoa/Viện:** Mỗi khoa/viện có website riêng giới thiệu về chương trình đào tạo của khoa/viện đó."
+  },
+  {
+    "input": "Sinh viên có thể tham gia các hoạt động chính trị - xã hội nào?",
+    "output": "Sinh viên có thể tham gia các hoạt động chính trị - xã hội như:\n* **Tham gia các tổ chức chính trị - xã hội:** Đoàn Thanh niên, Hội Sinh viên, Hội Chữ thập đỏ...\n* **Tham gia các hoạt động tình nguyện:** Tình nguyện vì cộng đồng, tình nguyện mùa hè xanh, hiến máu nhân đạo...\n* **Tham gia các hoạt động bảo vệ môi trường:** Trồng cây xanh, thu gom rác thải, tuyên truyền bảo vệ môi trường..."
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động thể dục thể thao cho sinh viên không?",
+    "output": "Trường có tổ chức nhiều hoạt động thể dục thể thao cho sinh viên như:\n* **Các giải đấu thể thao:** Bóng đá, bóng chuyền, cầu lông, bơi lội...\n* **Các câu lạc bộ thể thao:** Yoga, gym, võ thuật...\n* **Các hoạt động thể dục thể thao quần chúng:** Chạy bộ, đạp xe, nhảy dân vũ..."
+  },
+  {
+    "input": "Tôi muốn tham gia các hoạt động văn hóa, văn nghệ thì phải làm sao?",
+    "output": "Bạn có thể tham gia các hoạt động văn hóa, văn nghệ như:\n* **Tham gia các câu lạc bộ văn hóa, văn nghệ:** Âm nhạc, múa, hát, kịch...\n* **Tham gia các cuộc thi, festival văn hóa, văn nghệ do trường, khoa/viện tổ chức.**\n* **Tham gia các chương trình giao lưu văn hóa, văn nghệ với các trường khác."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định thi, kiểm tra của trường?",
+    "output": "Bạn có thể tìm hiểu về quy định thi, kiểm tra của trường qua các kênh sau:\n* **Quy chế đào tạo:** Quy chế đào tạo quy định rõ về các hình thức thi, kiểm tra, cách tính điểm, quy định về gian lận thi cử...\n* **Website của trường:** Thông tin về lịch thi, địa điểm thi, quy định thi thường được đăng tải trên website.\n* **Giáo viên bộ môn:** Giảng viên bộ môn sẽ thông báo chi tiết về hình thức thi, kiểm tra, nội dung thi, tài liệu tham khảo..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng du học?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng du học qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế thường có thông tin về các chương trình học bổng du học do các tổ chức, chính phủ nước ngoài cấp.\n* **Website của các tổ chức, chính phủ nước ngoài:** Các tổ chức, chính phủ nước ngoài thường có website riêng giới thiệu về các chương trình học bổng du học.\n* **Các trung tâm tư vấn du học.**"
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động hướng nghiệp cho sinh viên không?",
+    "output": "Trường có tổ chức nhiều hoạt động hướng nghiệp cho sinh viên như:\n* **Các buổi tư vấn hướng nghiệp:** Giúp sinh viên định hướng nghề nghiệp phù hợp với năng lực và sở thích.\n* **Các buổi chia sẻ kinh nghiệm của các cựu sinh viên thành đạt.**\n* **Các khóa học kỹ năng mềm:** Kỹ năng giao tiếp, làm việc nhóm, viết CV, phỏng vấn..."
+  },
+  {
+    "input": "Tôi muốn phản ánh về chất lượng giảng dạy, tôi phải làm sao?",
+    "output": "Bạn có thể phản ánh về chất lượng giảng dạy qua các kênh sau:\n* **Hòm thư góp ý của khoa/viện.**\n* **Gửi ý kiến trực tiếp đến trưởng khoa/viện hoặc giảng viên bộ môn.**\n* **Tham gia các buổi đánh giá giảng dạy cuối kỳ.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về bảo hiểm y tế cho sinh viên?",
+    "output": "Bạn có thể tìm hiểu về các quy định về bảo hiểm y tế cho sinh viên qua các kênh sau:\n* **Phòng Công tác chính trị & Quản lý sinh viên:** Đây là đơn vị quản lý công tác bảo hiểm y tế cho sinh viên.\n* **Website của trường:** Thông tin về bảo hiểm y tế thường được đăng tải trên website.\n* **Bảng tin của khoa/viện, ký túc xá.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình liên kết đào tạo của trường?",
+    "output": "Bạn có thể tìm hiểu về các chương trình liên kết đào tạo của trường qua các kênh sau:\n* **Phòng Đào tạo:** Phòng Đào tạo quản lý thông tin về các chương trình liên kết đào tạo với các trường đại học trong và ngoài nước.\n* **Website của trường:** Thông tin về các chương trình liên kết, điều kiện, học phí...\n* **Các khoa/viện:** Một số khoa/viện có chương trình liên kết đào tạo riêng với các trường đại học khác."
+  },
+  {
+    "input": "Trường có hỗ trợ sinh viên thực tập, tìm kiếm việc làm không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và việc làm hỗ trợ sinh viên thực tập, tìm kiếm việc làm thông qua các hoạt động:\n* **Kết nối với các doanh nghiệp:** Trung tâm hợp tác với nhiều doanh nghiệp để giới thiệu sinh viên thực tập và tìm kiếm việc làm.\n* **Tổ chức các ngày hội việc làm:** Sinh viên có cơ hội tiếp xúc trực tiếp với các nhà tuyển dụng.\n* **Tư vấn hướng nghiệp, kỹ năng tìm việc:** Sinh viên được trang bị kiến thức, kỹ năng cần thiết để tìm kiếm việc làm hiệu quả."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định về học phí, lệ phí của trường?",
+    "output": "Bạn có thể tìm hiểu về quy định về học phí, lệ phí của trường qua các kênh sau:\n* **Website của trường:** Thông tin về mức học phí, lệ phí các loại thường được đăng tải công khai trên website.\n* **Phòng Tài chính - Kế toán:** Đây là đơn vị quản lý công tác thu học phí, lệ phí.\n* **Các khoa/viện:**  Khoa/viện có thể cung cấp thông tin về học phí, lệ phí của từng ngành đào tạo."
+  },
+  {
+    "input": "Trường có những quy định gì về việc bảo mật thông tin cá nhân của sinh viên?",
+    "output": "Trường có quy định nghiêm ngặt về việc bảo mật thông tin cá nhân của sinh viên. Thông tin cá nhân của sinh viên chỉ được sử dụng cho mục đích học tập, quản lý và các hoạt động liên quan đến sinh viên. Trường cam kết không tiết lộ thông tin cá nhân của sinh viên cho bên thứ ba khi chưa có sự đồng ý của sinh viên."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động văn hóa, thể thao của trường?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động văn hóa, thể thao của trường qua các kênh sau:\n* **Website của Đoàn Thanh niên - Hội Sinh viên trường.**\n* **Fanpage, group Facebook của trường, khoa/viện.**\n* **Bảng tin của khoa/viện, ký túc xá.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về cơ hội học bổng sau đại học?",
+    "output": "Bạn có thể tìm hiểu về cơ hội học bổng sau đại học qua các kênh sau:\n* **Phòng Sau đại học:** Phòng Sau đại học quản lý thông tin về các chương trình học bổng sau đại học do trường, các tổ chức, chính phủ trong và ngoài nước cấp.\n* **Website của trường:** Thông tin về các chương trình học bổng sau đại học thường được đăng tải trên website.\n* **Website của các tổ chức, chính phủ cấp học bổng.**\n* **Các trung tâm tư vấn du học.**"
+  },
+  {
+    "input": "Trường có quy định gì về việc sử dụng điện thoại di động trong lớp học?",
+    "output": "Sinh viên cần tuân thủ quy định của giảng viên về việc sử dụng điện thoại di động trong lớp học. Thông thường, sinh viên không được sử dụng điện thoại di động vào mục đích cá nhân trong giờ học để đảm bảo tập trung nghe giảng."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo ngắn hạn?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo ngắn hạn qua các kênh sau:\n* **Trung tâm Đào tạo thường xuyên:** Trung tâm cung cấp các khóa học ngắn hạn về nhiều lĩnh vực khác nhau.\n* **Các khoa/viện:** Một số khoa/viện có tổ chức các khóa học ngắn hạn chuyên sâu về lĩnh vực của khoa/viện đó.\n* **Website của trường:** Thông tin về các chương trình đào tạo ngắn hạn thường được đăng tải trên website."
+  },
+  {
+    "input": "Trường có những quy định gì về trang phục của sinh viên?",
+    "output": "Sinh viên cần ăn mặc lịch sự, phù hợp với môi trường học đường. Không mặc quần áo quá ngắn, hở hang, phản cảm. Khi tham gia các hoạt động trang trọng, sinh viên cần mặc đồng phục hoặc trang phục lịch sự theo quy định."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các dịch vụ hỗ trợ sinh viên quốc tế?",
+    "output": "Trường có Phòng Hợp tác quốc tế hỗ trợ sinh viên quốc tế về các vấn đề:\n* **Thủ tục nhập học, visa.**\n* **Chỗ ở, sinh hoạt.**\n* **Học tập, hòa nhập với môi trường mới."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định về nghỉ học, bảo lưu kết quả học tập?",
+    "output": "Bạn có thể tìm hiểu về quy định về nghỉ học, bảo lưu kết quả học tập qua các kênh sau:\n* **Quy chế đào tạo:** Quy chế đào tạo quy định rõ về các trường hợp được phép nghỉ học, bảo lưu kết quả học tập, thời gian bảo lưu, thủ tục đăng ký...\n* **Phòng Đào tạo:** Phòng Đào tạo có thể tư vấn chi tiết về các trường hợp cụ thể.\n* **Giáo viên chủ nhiệm:** Giáo viên chủ nhiệm có thể hướng dẫn bạn về thủ tục đăng ký nghỉ học, bảo lưu kết quả học tập."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng tài sản của trường?",
+    "output": "Sinh viên cần có ý thức giữ gìn, bảo quản tài sản của trường. Không được lấy, phá hoại hoặc sử dụng tài sản của trường vào mục đích cá nhân. Nếu làm hư hỏng tài sản của trường, sinh viên phải bồi thường theo quy định."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình thực tập tốt nghiệp?",
+    "output": "Bạn có thể tìm hiểu về các chương trình thực tập tốt nghiệp qua các kênh sau:\n* **Khoa/viện:** Khoa/viện quản lý thông tin về các chương trình thực tập tốt nghiệp của sinh viên thuộc khoa/viện đó.\n* **Trung tâm Hỗ trợ sinh viên và việc làm:** Trung tâm có thể kết nối sinh viên với các doanh nghiệp có nhu cầu tuyển dụng thực tập sinh.\n* **Website của trường:** Thông tin về các chương trình thực tập tốt nghiệp đôi khi được đăng tải trên website."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các dịch vụ tư vấn tâm lý cho sinh viên?",
+    "output": "Trường có phòng Công tác chính trị & Quản lý sinh viên cung cấp dịch vụ tư vấn tâm lý cho sinh viên. Bạn có thể liên hệ với phòng để được tư vấn về các vấn đề tâm lý, stress, áp lực học tập, cuộc sống..."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các hoạt động trong trường?",
+    "output": "Để tổ chức các hoạt động trong trường, sinh viên cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức hoạt động cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Tuân thủ các quy định của nhà trường về an ninh trật tự, vệ sinh môi trường.**\n* **Đảm bảo tính phù hợp, lành mạnh, ý nghĩa của hoạt động.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng khuyến khích học tập?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng khuyến khích học tập qua các kênh sau:\n* **Phòng Công tác chính trị & Quản lý sinh viên:** Phòng quản lý thông tin về các chương trình học bổng khuyến khích học tập do trường, các tổ chức, cá nhân cấp.\n* **Website của trường:** Thông tin về các chương trình học bổng thường được đăng tải trên website.\n* **Các khoa/viện:** Một số khoa/viện có học bổng riêng dành cho sinh viên có thành tích học tập xuất sắc."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng xe máy, xe đạp trong trường?",
+    "output": "Sinh viên cần chấp hành luật giao thông đường bộ khi điều khiển xe máy, xe đạp trong trường. Đỗ xe đúng nơi quy định, không lạng lách, đánh võng, gây mất trật tự an toàn giao thông."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy trình chuyển ngành, chuyển trường?",
+    "output": "Bạn có thể tìm hiểu về quy trình chuyển ngành, chuyển trường qua các kênh sau:\n* **Phòng Đào tạo:** Phòng Đào tạo quản lý công tác chuyển ngành, chuyển trường.\n* **Website của trường:** Thông tin về điều kiện, thủ tục chuyển ngành, chuyển trường thường được đăng tải trên website.\n* **Khoa/viện:** Khoa/viện có thể tư vấn về điều kiện chuyển ngành trong nội bộ khoa/viện."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng phòng học, phòng thực hành?",
+    "output": "Sinh viên cần sử dụng phòng học, phòng thực hành đúng mục đích, giữ gìn vệ sinh, bảo quản trang thiết bị. Không được tự ý di chuyển, thay đổi kết cấu, trang thiết bị trong phòng học, phòng thực hành."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động nghiên cứu khoa học của sinh viên?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động nghiên cứu khoa học của sinh viên qua các kênh sau:\n* **Hội Sinh viên khoa/viện:** Hội Sinh viên thường xuyên tổ chức các hoạt động nghiên cứu khoa học cho sinh viên.\n* **Các nhóm nghiên cứu, câu lạc bộ khoa học:** Các nhóm, câu lạc bộ này thường xuyên tổ chức các buổi seminar, hội thảo, chia sẻ kiến thức, kinh nghiệm nghiên cứu khoa học.\n* **Website của trường, khoa/viện:** Thông tin về các hoạt động nghiên cứu khoa học của sinh viên đôi khi được đăng tải trên website."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng thư viện?",
+    "output": "Sinh viên cần tuân thủ nội quy của thư viện như:\n* **Giữ gìn trật tự, vệ sinh trong thư viện.**\n* **Không mang thức ăn, nước uống vào thư viện.**\n* **Đăng ký mượn, trả sách đúng quy định.**\n* **Bảo quản sách, tài liệu cẩn thận.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về chương trình học theo hệ tín chỉ?",
+    "output": "Bạn có thể tìm hiểu về chương trình học theo hệ tín chỉ qua các kênh sau:\n* **Quy chế đào tạo:** Quy chế đào tạo quy định rõ về cách thức tổ chức đào tạo theo hệ tín chỉ, cách tính tín chỉ, quy định về đăng ký học phần, bảo lưu kết quả học tập...\n* **Phòng Đào tạo:** Phòng Đào tạo có thể tư vấn chi tiết về chương trình học theo hệ tín chỉ.\n* **Website của trường:** Thông tin về chương trình học theo hệ tín chỉ thường được đăng tải trên website."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ sinh viên dân tộc thiểu số như thế nào?",
+    "output": "Trường có các chính sách hỗ trợ sinh viên dân tộc thiểu số như:\n* **Miễn, giảm học phí.**\n* **Cấp học bổng.**\n* **Hỗ trợ chỗ ở tại ký túc xá.**\n* **Tổ chức các hoạt động hỗ trợ sinh viên dân tộc thiểu số hòa nhập với môi trường học tập."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo sau đại học?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo sau đại học qua các kênh sau:\n* **Phòng Sau đại học:** Phòng Sau đại học quản lý thông tin về các chương trình đào tạo thạc sĩ, tiến sĩ của trường.\n* **Website của trường:** Thông tin về các chương trình đào tạo sau đại học thường được đăng tải trên website.\n* **Các khoa/viện:** Một số khoa/viện có chương trình đào tạo sau đại học riêng."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các sự kiện, hội thảo trong trường?",
+    "output": "Để tổ chức các sự kiện, hội thảo trong trường, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức sự kiện, hội thảo cho Ban Giám hiệu nhà trường để được xem xét, phê duyệt.\n* **Tuân thủ các quy định của nhà trường về an ninh trật tự, vệ sinh môi trường.**\n* **Đảm bảo tính khoa học, ý nghĩa của sự kiện, hội thảo.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về thi tốt nghiệp?",
+    "output": "Bạn có thể tìm hiểu về các quy định về thi tốt nghiệp qua các kênh sau:\n* **Quy chế đào tạo:** Quy chế đào tạo quy định rõ về điều kiện tốt nghiệp, hình thức thi tốt nghiệp, quy định về gian lận thi cử...\n* **Phòng Đào tạo:** Phòng Đào tạo có thể tư vấn chi tiết về các quy định về thi tốt nghiệp.\n* **Website của trường:** Thông tin về lịch thi tốt nghiệp, địa điểm thi, quy định thi thường được đăng tải trên website."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng phòng máy tính?",
+    "output": "Sinh viên cần sử dụng phòng máy tính đúng mục đích, giữ gìn vệ sinh, bảo quản trang thiết bị. Không được tự ý cài đặt phần mềm, thay đổi cấu hình máy tính. Không được sử dụng phòng máy tính vào mục đích cá nhân, giải trí."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu văn hóa quốc tế?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu văn hóa quốc tế qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế thường tổ chức các hoạt động giao lưu văn hóa quốc tế cho sinh viên.\n* **Hội Sinh viên trường:** Hội Sinh viên thường xuyên tổ chức các chương trình giao lưu văn hóa với sinh viên quốc tế đang học tập tại trường.\n* **Các câu lạc bộ sinh viên quốc tế."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định về bảo hiểm tai nạn cho sinh viên?",
+    "output": "Bạn có thể tìm hiểu về quy định về bảo hiểm tai nạn cho sinh viên qua các kênh sau:\n* **Phòng Công tác chính trị & Quản lý sinh viên:** Đây là đơn vị quản lý công tác bảo hiểm tai nạn cho sinh viên.\n* **Website của trường:** Thông tin về bảo hiểm tai nạn thường được đăng tải trên website."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các cuộc thi cho sinh viên?",
+    "output": "Để tổ chức các cuộc thi cho sinh viên, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức cuộc thi cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Xây dựng thể lệ cuộc thi rõ ràng, minh bạch.**\n* **Đảm bảo tính công bằng, khách quan trong quá trình tổ chức và chấm điểm.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về chương trình học liên thông lên đại học?",
+    "output": "Bạn có thể tìm hiểu về chương trình học liên thông lên đại học qua các kênh sau:\n* **Phòng Đào tạo:** Phòng Đào tạo quản lý thông tin về chương trình học liên thông lên đại học.\n* **Website của trường:** Thông tin về điều kiện, thủ tục đăng ký, ngành đào tạo, học phí...\n* **Các khoa/viện:** Khoa/viện có thể tư vấn về chương trình học liên thông lên đại học của từng ngành."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng mạng internet trong trường?",
+    "output": "Sinh viên được sử dụng mạng internet của trường phục vụ cho mục đích học tập, nghiên cứu. Không được sử dụng mạng internet vào mục đích cá nhân, giải trí quá mức. Không được truy cập vào các trang web có nội dung xấu, độc hại."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động tình nguyện của trường?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động tình nguyện của trường qua các kênh sau:\n* **Đoàn Thanh niên - Hội Sinh viên trường:** Đây là tổ chức quản lý và tổ chức các hoạt động tình nguyện của sinh viên.\n* **Ban chấp hành Đoàn - Hội các khoa/viện:** Các đơn vị này cũng thường xuyên tổ chức các hoạt động tình nguyện.\n* **Website, fanpage, group Facebook của trường, khoa/viện."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an ninh trật tự trong trường?",
+    "output": "Sinh viên cần chấp hành các quy định về an ninh trật tự của nhà trường như:\n* **Không tụ tập đông người gây mất trật tự.**\n* **Không đánh nhau, gây rối.**\n* **Không mang hung khí, chất nổ, chất gây cháy vào trường.**\n* **Báo cáo ngay cho bảo vệ hoặc cơ quan chức năng khi phát hiện các hành vi vi phạm an ninh trật tự.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo văn bằng 2?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo văn bằng 2 qua các kênh sau:\n* **Phòng Đào tạo:** Phòng Đào tạo quản lý thông tin về các chương trình đào tạo văn bằng 2.\n* **Website của trường:** Thông tin về điều kiện, thủ tục đăng ký, ngành đào tạo, học phí...\n* **Các khoa/viện:** Khoa/viện có thể tư vấn về chương trình đào tạo văn bằng 2 của từng ngành."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về bảo quản đồ dùng cá nhân trong ký túc xá?",
+    "output": "Sinh viên cần tự bảo quản đồ dùng cá nhân cẩn thận. Không để tài sản có giá trị ở nơi dễ bị mất cắp. Khi ra khỏi phòng, cần khóa cửa cẩn thận. Nếu bị mất cắp tài sản, cần báo cáo ngay cho Ban quản lý ký túc xá và cơ quan công an."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng thư viện điện tử?",
+    "output": "Sinh viên cần tuân thủ các quy định về sử dụng thư viện điện tử như:\n* **Không chia sẻ tài khoản cho người khác.**\n* **Không tải về, sao chép tài liệu trái phép.**\n* **Sử dụng tài nguyên thư viện điện tử đúng mục đích học tập, nghiên cứu.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động hỗ trợ sinh viên sau tốt nghiệp?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và việc làm hỗ trợ sinh viên sau tốt nghiệp thông qua các hoạt động:\n* **Kết nối với các doanh nghiệp:** Trung tâm hợp tác với nhiều doanh nghiệp để giới thiệu việc làm cho sinh viên mới tốt nghiệp.\n* **Tổ chức các ngày hội việc làm.**\n* **Cung cấp thông tin tuyển dụng, hỗ trợ sinh viên viết CV, kỹ năng phỏng vấn.**\n* **Tổ chức các khóa học kỹ năng mềm, kỹ năng nghề nghiệp."
+  },
+  {
+    "input": "Trường có những quy định gì về việc giữ gìn vệ sinh môi trường trong trường?",
+    "output": "Sinh viên cần có ý thức giữ gìn vệ sinh môi trường trong trường. Không vứt rác bừa bãi, bỏ rác đúng nơi quy định. Tham gia các hoạt động vệ sinh môi trường do trường, khoa/viện tổ chức."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các tổ chức phi chính phủ?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các tổ chức phi chính phủ qua các kênh sau:\n* **Website của các tổ chức phi chính phủ.**\n* **Các trung tâm tư vấn du học.**\n* **Báo chí, truyền thông."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động nghiên cứu khoa học của giảng viên?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động nghiên cứu khoa học của giảng viên qua các kênh sau:\n* **Website của trường, khoa/viện:** Thông tin về các đề tài nghiên cứu khoa học của giảng viên thường được đăng tải trên website.\n* **Các tạp chí khoa học, hội thảo khoa học.**\n* **Liên hệ trực tiếp với giảng viên."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các hoạt động ngoại khóa?",
+    "output": "Để tổ chức các hoạt động ngoại khóa, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức hoạt động ngoại khóa cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Đảm bảo an toàn cho sinh viên tham gia.**\n* **Có kế hoạch dự phòng cho các tình huống bất ngờ.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu học thuật với các trường đại học khác?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu học thuật với các trường đại học khác qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế thường tổ chức các chương trình giao lưu học thuật với các trường đại học trong và ngoài nước.\n* **Hội Sinh viên trường:** Hội Sinh viên có thể tổ chức các hoạt động giao lưu học thuật với các trường đại học khác.\n* **Các khoa/viện:** Một số khoa/viện có chương trình giao lưu học thuật riêng với các trường đại học khác."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng các thiết bị điện tử trong ký túc xá?",
+    "output": "Sinh viên cần sử dụng các thiết bị điện tử trong ký túc xá một cách hợp lý, không gây ảnh hưởng đến sinh hoạt của các bạn cùng phòng. Không sử dụng các thiết bị điện tử có công suất lớn gây quá tải điện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo trực tuyến?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo trực tuyến qua các kênh sau:\n* **Trung tâm Đào tạo trực tuyến:** Trung tâm cung cấp các chương trình đào tạo trực tuyến về nhiều lĩnh vực khác nhau.\n* **Các khoa/viện:** Một số khoa/viện có tổ chức các chương trình đào tạo trực tuyến.\n* **Website của trường:** Thông tin về các chương trình đào tạo trực tuyến thường được đăng tải trên website."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về an toàn phòng cháy chữa cháy trong ký túc xá?",
+    "output": "Sinh viên cần tuân thủ các quy định về an toàn phòng cháy chữa cháy trong ký túc xá như:\n* **Không sử dụng bếp điện, bếp gas trong phòng.**\n* **Không đốt nến, hương trong phòng.**\n* **Không để các vật dụng dễ cháy gần nguồn điện, nguồn nhiệt.**\n* **Biết cách sử dụng các thiết bị phòng cháy chữa cháy.**"
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng các phương tiện truyền thông?",
+    "output": "Sinh viên được sử dụng các phương tiện truyền thông để phục vụ cho mục đích học tập, nghiên cứu, giải trí lành mạnh. Không được sử dụng các phương tiện truyền thông để tuyên truyền các nội dung xấu, độc hại, trái pháp luật."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động hỗ trợ sinh viên khuyết tật?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động hỗ trợ sinh viên khuyết tật qua các kênh sau:\n* **Phòng Công tác chính trị & Quản lý sinh viên:** Phòng có thể cung cấp thông tin về các chính sách hỗ trợ sinh viên khuyết tật.\n* **Hội Sinh viên trường:** Hội Sinh viên có thể có các hoạt động hỗ trợ sinh viên khuyết tật.\n* **Các tổ chức xã hội hỗ trợ người khuyết tật."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng wifi trong trường?",
+    "output": "Sinh viên được sử dụng wifi của trường phục vụ cho mục đích học tập, nghiên cứu. Không được sử dụng wifi vào mục đích cá nhân, giải trí quá mức. Không được truy cập vào các trang web có nội dung xấu, độc hại."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động hợp tác quốc tế của trường?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động hợp tác quốc tế của trường qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế quản lý thông tin về các hoạt động hợp tác quốc tế của trường.\n* **Website của trường:** Thông tin về các hoạt động hợp tác quốc tế thường được đăng tải trên website."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo thạc sĩ?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo thạc sĩ qua các kênh sau:\n* **Phòng Sau đại học:** Phòng Sau đại học quản lý thông tin về các chương trình đào tạo thạc sĩ của trường.\n* **Website của trường:** Thông tin về các chương trình đào tạo thạc sĩ, điều kiện, học phí...\n* **Các khoa/viện:** Một số khoa/viện có chương trình đào tạo thạc sĩ riêng."
+  },
+  {
+    "input": "Trường có những quy định gì về việc giữ gìn an ninh trật tự trong ký túc xá?",
+    "output": "Sinh viên cần chấp hành các quy định về an ninh trật tự trong ký túc xá như:\n* **Không tụ tập đông người gây mất trật tự.**\n* **Không đánh nhau, gây rối.**\n* **Không mang hung khí, chất nổ, chất gây cháy vào ký túc xá.**\n* **Báo cáo ngay cho Ban quản lý ký túc xá hoặc cơ quan công an khi phát hiện các hành vi vi phạm an ninh trật tự.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động khởi nghiệp của sinh viên?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động khởi nghiệp của sinh viên qua các kênh sau:\n* **Trung tâm Hỗ trợ sinh viên khởi nghiệp:** Trung tâm hỗ trợ sinh viên khởi nghiệp thông qua các hoạt động tư vấn, đào tạo, kết nối...\n* **Hội Sinh viên trường:** Hội Sinh viên có thể tổ chức các cuộc thi, chương trình hỗ trợ sinh viên khởi nghiệp.\n* **Các câu lạc bộ khởi nghiệp."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng phòng gym, sân vận động?",
+    "output": "Sinh viên cần tuân thủ các quy định về sử dụng phòng gym, sân vận động như:\n* **Đăng ký sử dụng theo quy định.**\n* **Giữ gìn vệ sinh, bảo quản trang thiết bị.**\n* **Mặc trang phục phù hợp khi tập luyện.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình đào tạo tiến sĩ?",
+    "output": "Bạn có thể tìm hiểu về các chương trình đào tạo tiến sĩ qua các kênh sau:\n* **Phòng Sau đại học:** Phòng Sau đại học quản lý thông tin về các chương trình đào tạo tiến sĩ của trường.\n* **Website của trường:** Thông tin về các chương trình đào tạo tiến sĩ, điều kiện, học phí...\n* **Các khoa/viện:** Một số khoa/viện có chương trình đào tạo tiến sĩ riêng."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng phòng tự học?",
+    "output": "Sinh viên cần tuân thủ các quy định về sử dụng phòng tự học như:\n* **Giữ gìn trật tự, vệ sinh trong phòng tự học.**\n* **Không nói chuyện ồn ào, gây mất trật tự.**\n* **Không mang thức ăn, nước uống vào phòng tự học.**\n* **Bảo quản sách, tài liệu, trang thiết bị trong phòng tự học cẩn thận."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng mạng xã hội của các tổ chức, đơn vị trong trường?",
+    "output": "Các tổ chức, đơn vị trong trường cần sử dụng mạng xã hội một cách văn minh, lịch sự, đúng pháp luật. Thông tin đăng tải trên mạng xã hội cần chính xác, khách quan, không gây ảnh hưởng đến uy tín của nhà trường và các cá nhân, tổ chức khác."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu học thuật quốc tế?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu học thuật quốc tế qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế thường tổ chức các chương trình giao lưu học thuật quốc tế cho giảng viên, sinh viên.\n* **Các khoa/viện:** Một số khoa/viện có chương trình giao lưu học thuật quốc tế riêng.\n* **Website của trường, khoa/viện."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an toàn vệ sinh thực phẩm trong các quán ăn, căng tin trong trường?",
+    "output": "Các quán ăn, căng tin trong trường cần tuân thủ các quy định về an toàn vệ sinh thực phẩm do Bộ Y tế ban hành. Đảm bảo nguồn gốc thực phẩm rõ ràng, chế biến đảm bảo vệ sinh, an toàn."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của doanh nghiệp?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của doanh nghiệp qua các kênh sau:\n* **Trung tâm Hỗ trợ sinh viên và việc làm:** Trung tâm có thể có thông tin về các chương trình học bổng của doanh nghiệp.\n* **Website của các doanh nghiệp.**\n* **Báo chí, truyền thông."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng phòng thí nghiệm?",
+    "output": "Sinh viên cần tuân thủ các quy định về sử dụng phòng thí nghiệm như:\n* **Mặc trang phục bảo hộ lao động khi thực hành.**\n* **Tuân thủ các quy định về an toàn lao động, phòng chống cháy nổ.**\n* **Sử dụng hóa chất, dụng cụ thí nghiệm đúng cách, an toàn.**\n* **Bảo quản hóa chất, dụng cụ thí nghiệm cẩn thận.**"
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các buổi hội thảo khoa học?",
+    "output": "Để tổ chức các buổi hội thảo khoa học, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức hội thảo khoa học cho khoa/viện hoặc Ban Giám hiệu nhà trường để được xem xét, phê duyệt.\n* **Xây dựng nội dung hội thảo khoa học đảm bảo tính khoa học, thực tiễn.**\n* **Mời các chuyên gia, nhà khoa học tham gia báo cáo, thảo luận.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu văn hóa, thể thao với các trường đại học khác?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu văn hóa, thể thao với các trường đại học khác qua các kênh sau:\n* **Hội Sinh viên trường:** Hội Sinh viên thường xuyên tổ chức các hoạt động giao lưu văn hóa, thể thao với các trường đại học khác.\n* **Các câu lạc bộ thể thao, văn nghệ.**\n* **Website, fanpage, group Facebook của trường, khoa/viện."
+  },
+  {
+    "input": "Trường có những quy định gì về việc sử dụng phòng học nhóm?",
+    "output": "Sinh viên cần sử dụng phòng học nhóm đúng mục đích, giữ gìn vệ sinh, bảo quản trang thiết bị. Đăng ký sử dụng phòng học nhóm theo quy định. Không sử dụng phòng học nhóm vào mục đích cá nhân, giải trí."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các tổ chức quốc tế?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các tổ chức quốc tế qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế có thể có thông tin về các chương trình học bổng của các tổ chức quốc tế.\n* **Website của các tổ chức quốc tế.**\n* **Các trung tâm tư vấn du học.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng các thiết bị điện tử trong lớp học?",
+    "output": "Sinh viên cần tuân thủ quy định của giảng viên về việc sử dụng các thiết bị điện tử trong lớp học. Thông thường, sinh viên chỉ được sử dụng các thiết bị điện tử phục vụ cho việc học tập, không được sử dụng vào mục đích cá nhân, giải trí."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các buổi tọa đàm, diễn đàn?",
+    "output": "Để tổ chức các buổi tọa đàm, diễn đàn, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức tọa đàm, diễn đàn cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Xây dựng nội dung tọa đàm, diễn đàn đảm bảo tính thời sự, ý nghĩa.**\n* **Mời các diễn giả có uy tín, chuyên môn tham gia."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu văn hóa với các nước khác?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu văn hóa với các nước khác qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế thường tổ chức các hoạt động giao lưu văn hóa với các nước khác.\n* **Hội Sinh viên trường:** Hội Sinh viên có thể tổ chức các chương trình giao lưu văn hóa với sinh viên quốc tế đang học tập tại trường.\n* **Các câu lạc bộ sinh viên quốc tế."
+  },
+  {
+    "input": "Trường có những quy định gì về việc giữ gìn vệ sinh cá nhân?",
+    "output": "Sinh viên cần giữ gìn vệ sinh cá nhân sạch sẽ, gọn gàng. Mặc trang phục sạch sẽ, phù hợp với môi trường học đường."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các trường đại học nước ngoài?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các trường đại học nước ngoài qua các kênh sau:\n* **Website của các trường đại học nước ngoài.**\n* **Các trung tâm tư vấn du học.**\n* **Phòng Hợp tác quốc tế của trường."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định về việc sử dụng mạng nội bộ của trường?",
+    "output": "Sinh viên được sử dụng mạng nội bộ của trường phục vụ cho mục đích học tập, nghiên cứu. Không được sử dụng mạng nội bộ vào mục đích cá nhân, giải trí quá mức. Không được truy cập vào các trang web có nội dung xấu, độc hại."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các cuộc thi Olympic các môn học?",
+    "output": "Để tổ chức các cuộc thi Olympic các môn học, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức cuộc thi cho khoa/viện hoặc Ban Giám hiệu nhà trường để được xem xét, phê duyệt.\n* **Xây dựng đề thi đảm bảo tính khoa học, phù hợp với trình độ sinh viên.**\n* **Tổ chức thi nghiêm túc, đảm bảo tính công bằng, khách quan.**"
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu văn hóa với các vùng miền khác trong nước?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu văn hóa với các vùng miền khác trong nước qua các kênh sau:\n* **Hội Sinh viên trường:** Hội Sinh viên có thể tổ chức các chương trình giao lưu văn hóa với sinh viên các trường đại học khác trong cả nước.\n* **Các câu lạc bộ văn hóa, văn nghệ.**\n* **Website, fanpage, group Facebook của trường, khoa/viện."
+  },
+  {
+    "input": "Trường có những quy định gì về việc bảo quản tài sản cá nhân trong phòng học, phòng thực hành?",
+    "output": "Sinh viên cần tự bảo quản tài sản cá nhân cẩn thận. Không để tài sản có giá trị ở nơi dễ bị mất cắp. Khi ra khỏi phòng học, phòng thực hành, cần kiểm tra kỹ đồ dùng cá nhân."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các tập đoàn, công ty lớn?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các tập đoàn, công ty lớn qua các kênh sau:\n* **Trung tâm Hỗ trợ sinh viên và việc làm:** Trung tâm có thể có thông tin về các chương trình học bổng của các tập đoàn, công ty lớn.\n* **Website của các tập đoàn, công ty lớn.**\n* **Báo chí, truyền thông."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng phòng hội thảo, hội trường?",
+    "output": "Sinh viên cần sử dụng phòng hội thảo, hội trường đúng mục đích, giữ gìn vệ sinh, bảo quản trang thiết bị. Đăng ký sử dụng phòng hội thảo, hội trường theo quy định. Không sử dụng phòng hội thảo, hội trường vào mục đích cá nhân, giải trí."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các hoạt động văn hóa, văn nghệ?",
+    "output": "Để tổ chức các hoạt động văn hóa, văn nghệ, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức hoạt động văn hóa, văn nghệ cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Xây dựng nội dung chương trình đảm bảo tính thẩm mỹ, phù hợp với thuần phong mỹ tục.**\n* **Đảm bảo an toàn cho diễn viên, khán giả tham gia."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu với sinh viên quốc tế?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu với sinh viên quốc tế qua các kênh sau:\n* **Hội Sinh viên trường:** Hội Sinh viên thường xuyên tổ chức các chương trình giao lưu với sinh viên quốc tế.\n* **Các câu lạc bộ sinh viên quốc tế.**\n* **Các hoạt động tình nguyện hỗ trợ sinh viên quốc tế."
+  },
+  {
+    "input": "Trường có những quy định gì về việc giữ gìn vệ sinh chung trong trường?",
+    "output": "Sinh viên cần có ý thức giữ gìn vệ sinh chung trong trường. Không vứt rác bừa bãi, bỏ rác đúng nơi quy định. Tham gia các hoạt động vệ sinh môi trường do trường, khoa/viện tổ chức."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các quỹ học bổng?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các quỹ học bổng qua các kênh sau:\n* **Website của các quỹ học bổng.**\n* **Các trung tâm tư vấn du học.**\n* **Phòng Hợp tác quốc tế của trường."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng các thiết bị điện trong ký túc xá?",
+    "output": "Sinh viên cần sử dụng các thiết bị điện trong ký túc xá một cách an toàn, tiết kiệm. Không sử dụng các thiết bị điện có công suất lớn gây quá tải điện. Tắt các thiết bị điện khi không sử dụng."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các buổi biểu diễn văn nghệ?",
+    "output": "Để tổ chức các buổi biểu diễn văn nghệ, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức biểu diễn văn nghệ cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Xây dựng nội dung chương trình đảm bảo tính thẩm mỹ, phù hợp với thuần phong mỹ tục.**\n* **Đảm bảo an toàn cho diễn viên, khán giả tham gia.**\n* **Chuẩn bị đầy đủ âm thanh, ánh sáng, sân khấu..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu với sinh viên các trường đại học khác?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu với sinh viên các trường đại học khác qua các kênh sau:\n* **Hội Sinh viên trường:** Hội Sinh viên thường xuyên tổ chức các chương trình giao lưu với sinh viên các trường đại học khác.\n* **Các câu lạc bộ, đội nhóm sinh viên.**\n* **Các hoạt động tình nguyện, hoạt động xã hội."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an toàn giao thông trong trường?",
+    "output": "Sinh viên cần chấp hành luật giao thông đường bộ khi điều khiển xe máy, xe đạp trong trường. Đỗ xe đúng nơi quy định, không lạng lách, đánh võng, gây mất trật tự an toàn giao thông."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng du học ngắn hạn?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng du học ngắn hạn qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế có thể có thông tin về các chương trình học bổng du học ngắn hạn do các tổ chức, chính phủ nước ngoài cấp.\n* **Website của các tổ chức, chính phủ nước ngoài.**\n* **Các trung tâm tư vấn du học."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng phòng học, phòng thực hành ngoài giờ?",
+    "output": "Sinh viên cần đăng ký sử dụng phòng học, phòng thực hành ngoài giờ với khoa/viện hoặc đơn vị quản lý phòng. Giữ gìn vệ sinh, bảo quản trang thiết bị. Tắt đèn, khóa cửa cẩn thận khi ra về."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các hoạt động thể dục thể thao?",
+    "output": "Để tổ chức các hoạt động thể dục thể thao, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức hoạt động thể dục thể thao cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Đảm bảo an toàn cho sinh viên tham gia.**\n* **Có kế hoạch dự phòng cho các tình huống bất ngờ.**\n* **Chuẩn bị đầy đủ dụng cụ, trang thiết bị phục vụ cho hoạt động."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu với cộng đồng?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu với cộng đồng qua các kênh sau:\n* **Đoàn Thanh niên - Hội Sinh viên trường:** Đoàn - Hội thường xuyên tổ chức các hoạt động tình nguyện, hoạt động xã hội.\n* **Các câu lạc bộ, đội nhóm sinh viên."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an ninh thông tin trong trường?",
+    "output": "Sinh viên cần có ý thức bảo mật thông tin cá nhân, thông tin của nhà trường. Không tiết lộ thông tin quan trọng cho người khác. Không truy cập vào các trang web có nội dung xấu, độc hại, có nguy cơ bị tấn công mạng."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các doanh nghiệp nước ngoài?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các doanh nghiệp nước ngoài qua các kênh sau:\n* **Website của các doanh nghiệp nước ngoài.**\n* **Các trung tâm tư vấn du học.**\n* **Phòng Hợp tác quốc tế của trường."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng ký túc xá?",
+    "output": "Bạn có thể tìm hiểu về các quy định về việc sử dụng ký túc xá qua các kênh sau:\n* **Nội quy ký túc xá:** Nội quy ký túc xá quy định rõ về các quy định về sinh hoạt, giữ gìn vệ sinh, an ninh trật tự trong ký túc xá.\n* **Ban quản lý ký túc xá:** Ban quản lý ký túc xá có thể tư vấn chi tiết về các quy định và giải đáp thắc mắc của sinh viên."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các buổi dã ngoại, cắm trại?",
+    "output": "Để tổ chức các buổi dã ngoại, cắm trại, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức dã ngoại, cắm trại cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Đảm bảo an toàn cho sinh viên tham gia.**\n* **Có kế hoạch dự phòng cho các tình huống bất ngờ.**\n* **Giữ gìn vệ sinh môi trường tại địa điểm dã ngoại, cắm trại."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu với cựu sinh viên?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu với cựu sinh viên qua các kênh sau:\n* **Hội Cựu sinh viên trường:** Hội Cựu sinh viên thường xuyên tổ chức các hoạt động giao lưu, kết nối với cựu sinh viên.\n* **Các khoa/viện:** Một số khoa/viện có tổ chức các hoạt động giao lưu với cựu sinh viên của khoa/viện đó.\n* **Website, fanpage, group Facebook của trường, khoa/viện, Hội Cựu sinh viên."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an toàn phòng chống dịch bệnh?",
+    "output": "Sinh viên cần tuân thủ các quy định về phòng chống dịch bệnh do Bộ Y tế và nhà trường ban hành. Khai báo y tế trung thực. Thực hiện các biện pháp phòng chống dịch bệnh như đeo khẩu trang, rửa tay sát khuẩn, giữ khoảng cách..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các tổ chức tôn giáo?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các tổ chức tôn giáo qua các kênh sau:\n* **Website của các tổ chức tôn giáo.**\n* **Các cơ sở tôn giáo."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các quy định về việc sử dụng phòng tập thể thao?",
+    "output": "Sinh viên cần tuân thủ các quy định về sử dụng phòng tập thể thao như:\n* **Đăng ký sử dụng theo quy định.**\n* **Giữ gìn vệ sinh, bảo quản trang thiết bị.**\n* **Mặc trang phục phù hợp khi tập luyện.**\n* **Không mang thức ăn, nước uống vào phòng tập."
+  },
+  {
+    "input": "Trường có những quy định gì về việc tổ chức các buổi tham quan, học tập trải nghiệm?",
+    "output": "Để tổ chức các buổi tham quan, học tập trải nghiệm, cần:\n* **Đăng ký xin phép:** Gửi kế hoạch tổ chức tham quan, học tập trải nghiệm cho Đoàn Thanh niên - Hội Sinh viên trường hoặc khoa/viện để được xem xét, phê duyệt.\n* **Đảm bảo an toàn cho sinh viên tham gia.**\n* **Có kế hoạch dự phòng cho các tình huống bất ngờ.**\n* **Xây dựng nội dung chương trình tham quan, học tập trải nghiệm đảm bảo tính giáo dục, thực tiễn."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các hoạt động giao lưu với doanh nghiệp?",
+    "output": "Bạn có thể tìm hiểu về các hoạt động giao lưu với doanh nghiệp qua các kênh sau:\n* **Trung tâm Hỗ trợ sinh viên và việc làm:** Trung tâm thường xuyên tổ chức các hoạt động kết nối sinh viên với doanh nghiệp.\n* **Các khoa/viện:** Một số khoa/viện có tổ chức các hoạt động giao lưu với doanh nghiệp thuộc lĩnh vực của khoa/viện đó."
+  },
+  {
+    "input": "Trường có những quy định gì về việc đảm bảo an toàn vệ sinh lao động?",
+    "output": "Sinh viên cần tuân thủ các quy định về an toàn vệ sinh lao động khi tham gia các hoạt động thực hành, thí nghiệm, lao động sản xuất. Mặc trang phục bảo hộ lao động, sử dụng dụng cụ, máy móc đúng cách, an toàn."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các chương trình học bổng của các tổ chức chính phủ?",
+    "output": "Bạn có thể tìm hiểu về các chương trình học bổng của các tổ chức chính phủ qua các kênh sau:\n* **Phòng Hợp tác quốc tế:** Phòng Hợp tác quốc tế có thể có thông tin về các chương trình học bổng của các tổ chức chính phủ.\n* **Website của các tổ chức chính phủ.**\n* **Các trung tâm tư vấn du học."
+  },
+  {
+    "input": "Chào bạn, mình muốn tham gia thi Olympic các môn học của trường thì cần những điều kiện gì?",
+    "output": "Chào bạn, để tham gia thi Olympic các môn học của trường, bạn cần đáp ứng các điều kiện sau: \n- Có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; \n- Có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Bạn cho mình biết những quyền lợi khi tham gia thi Olympic cấp trường là gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp trường sẽ nhận được các quyền lợi sau: \n- Được tặng Giấy khen và phần thưởng của Hiệu trưởng \n- Được cộng điểm rèn luyện theo quy định \n- Được điều chỉnh điểm quá trình của môn học tương ứng"
+  },
+  {
+    "input": "Mình muốn biết cách tính điểm và phân loại giải thưởng thi Olympic cấp trường như thế nào?",
+    "output": "Điểm thi Olympic môn học được chấm theo thang điểm 10 và làm tròn đến một chữ số thập phân. \nGiải thưởng sẽ được phân loại theo tỷ lệ phần trăm số sinh viên dự thi như sau: \n- Giải Nhất: top 5% \n- Giải Nhì: top 10% tiếp theo \n- Giải Ba: top 15% tiếp theo \n- Giải Khuyến khích: top 10% tiếp theo, điểm bài thi đạt từ 6.0 trở lên"
+  },
+  {
+    "input": "Thế còn điều kiện để tham gia thi Olympic cấp Quốc gia?",
+    "output": "Để tham gia thi Olympic cấp Quốc gia, sinh viên cần đáp ứng 2 điều kiện sau: \n- Tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách \n- Được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được điều chỉnh điểm môn học tương ứng như sau: \n- Điểm quá trình và điểm thi giữa kỳ (nếu có): 10.0 điểm \n- Điểm thi kết thúc học phần: \n + Giải Nhất: 10.0 điểm \n + Giải Nhì: 9.5 điểm \n + Giải Ba: 9.0 điểm \n + Giải Khuyến khích: 8.5 điểm \n- Được chọn vào đội tuyển nhưng không đạt giải: 8.0 điểm"
+  },
+  {
+    "input": "Mình muốn hỏi về quy trình thực hiện việc điều chỉnh điểm môn học?",
+    "output": "Quy trình thực hiện việc điều chỉnh điểm môn học cho sinh viên đạt giải Olympic như sau: \n- Sinh viên làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic \n- Bộ môn tổng hợp đơn của sinh viên, xác nhận và nộp báo cáo lên Nhà trường (qua phòng Chính trị và Công tác sinh viên) \n- Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học \n- Ban Giám hiệu phê duyệt và phòng Chính trị và Công tác sinh viên thông báo kết quả đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Vậy còn nhiệm vụ và quyền lợi của giảng viên khi tham gia bồi dưỡng học sinh thi Olympic là gì?",
+    "output": "Nhiệm vụ của giảng viên là thực hiện giảng dạy theo đúng lịch trình và yêu cầu của Bộ môn. \nGiảng viên sẽ nhận được các quyền lợi sau: \n- Được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và được thanh toán theo Quy chế chi tiêu nội bộ của trường \n- Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên \n- Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Nếu có thắc mắc về quy định thi Olympic, mình phải liên hệ với ai?",
+    "output": "Nếu bạn có thắc mắc về quy định thi Olympic, bạn hãy báo cáo Ban Giám hiệu bằng văn bản (qua Phòng Chính trị và Công tác sinh viên) để được xem xét giải quyết."
+  },
+  {
+    "input": "Trường mình có tổ chức thi Olympic cho môn Vật lý không?",
+    "output": "Có bạn nhé, trường có tổ chức thi Olympic cho tất cả các môn học, trong đó có Vật lý. Tuy nhiên, để biết chính xác về thời gian và hình thức thi, bạn nên theo dõi thông báo từ nhà trường vào đầu năm học."
+  },
+  {
+    "input": "Nếu mình đạt giải Nhất Olympic cấp trường môn Tiếng Anh thì được chuyển điểm cho những môn học nào?",
+    "output": "Nếu bạn đạt giải Nhất Olympic cấp trường môn Tiếng Anh, bạn có thể lựa chọn chuyển điểm cho một trong các học phần sau: Tiếng Anh 1, 2, Kĩ năng tiếng tổng hợp 1, 2, 3, 4, Kĩ năng Nghe 1, 2, Kĩ năng Nói 1, 2, Kĩ năng Đọc 1, 2, Kĩ năng Viết 1, 2, Kĩ năng Nghe nâng cao 1 (CTTT), Kĩ năng Nói nâng cao 1 (CTTT), Kĩ năng Đọc nâng cao 1 (CTTT), Kĩ năng Viết nâng cao 1 (CTTT)."
+  },
+  {
+    "input": "Mình nghe nói sinh viên đạt giải Olympic cấp Quốc gia được nhà trường khen thưởng, bạn có thể cho mình biết cụ thể hơn không?",
+    "output": "Đúng vậy, sinh viên đạt giải Olympic cấp Quốc gia sẽ được nhận Giấy khen và phần thưởng của Hiệu trưởng, bên cạnh đó còn được cộng điểm rèn luyện và điều chỉnh điểm môn học tương ứng."
+  },
+  {
+    "input": "Mình là sinh viên năm 2, vậy mình có thể tham gia bồi dưỡng Olympic cấp Quốc gia không?",
+    "output": "Sinh viên các khoá đều có thể tham gia chương trình bồi dưỡng Olympic cấp Quốc gia bạn nhé. Vào đầu năm học, các Bộ môn sẽ lập kế hoạch bồi dưỡng và thông báo cho sinh viên. Bạn có thể theo dõi thông báo từ khoa/bộ môn của mình để biết thêm chi tiết."
+  },
+  {
+    "input": "Mình muốn biết cụ thể hơn về quy trình lựa chọn sinh viên tham gia đội tuyển Olympic cấp Quốc gia?",
+    "output": "Sau khi kết thúc chương trình bồi dưỡng, Bộ môn sẽ lựa chọn những sinh viên có đủ tiêu chuẩn và thành tích tốt để tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia. Danh sách này sẽ được gửi về phòng Chính trị và Công tác sinh viên để trình Hiệu trưởng ra quyết định."
+  },
+  {
+    "input": "Nếu mình có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì có được hưởng quyền lợi gì không?",
+    "output": "Nếu bạn có thành tích tốt trong quá trình ôn luyện cùng đội tuyển nhưng không may mắn được chọn vào đội tuyển dự thi Olympic cấp Quốc gia, bạn vẫn sẽ được hưởng một số quyền lợi nhất định. Cụ thể là bạn sẽ được 10.0 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Mình là sinh viên ngành Kỹ thuật tài nguyên nước, cho mình hỏi nếu đạt giải Olympic môn Cơ học kỹ thuật thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên ngành Kỹ thuật tài nguyên nước đạt giải Olympic môn Cơ học kỹ thuật sẽ được chuyển điểm cho môn Cơ học cơ sở."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên đạt giải Olympic cấp trường môn Tin học văn phòng thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic cấp trường môn Tin học văn phòng sẽ được lựa chọn chuyển điểm cho một trong hai môn học: Tin học văn phòng hoặc Tin học cơ bản."
+  },
+  {
+    "input": "Mình muốn hỏi về quy định liên quan đến việc sử dụng điểm được điều chỉnh sau khi đạt giải Olympic?",
+    "output": "- Đối với những môn học mà bạn đề nghị điều chỉnh tại học kỳ thi Olympic và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. \n- Đối với những môn học mà bạn đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. \n- Đối với những môn học mà bạn đề nghị điều chỉnh tại học kỳ sau khi thi Olympic và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ đó."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên tham gia thi Olympic cấp Quốc gia không?",
+    "output": "Có bạn nhé. Trường sẽ hỗ trợ kinh phí, phương tiện và cử giảng viên, cán bộ đi cùng để đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Mình là sinh viên năm nhất, vậy mình có thể đăng ký tham gia thi Olympic cấp trường luôn không?",
+    "output": "Chào bạn, sinh viên năm nhất hoàn toàn có thể đăng ký tham gia thi Olympic cấp trường. Bạn hãy theo dõi thông báo từ nhà trường vào đầu năm học về thời gian và hình thức đăng ký nhé!"
+  },
+  {
+    "input": "Mình muốn tham khảo đề thi Olympic các môn học của những năm trước thì tìm ở đâu?",
+    "output": "Bạn có thể liên hệ với bộ môn phụ trách môn học mà bạn quan tâm để xin tham khảo đề thi Olympic các năm trước. Hoặc bạn có thể tìm kiếm trên trang web của trường hoặc các diễn đàn sinh viên."
+  },
+  {
+    "input": "Cho mình hỏi về quy định thi Olympic cấp trường của môn Tiếng Anh được không?",
+    "output": "Quy định thi Olympic cấp trường của môn Tiếng Anh cũng tương tự như các môn học khác. Vào đầu năm học, nhà trường sẽ thông báo về thời gian và hình thức thi. Bộ môn Tiếng Anh sẽ phối hợp với Phòng Chính trị và Công tác sinh viên để tổ chức cho sinh viên đăng ký và tiến hành thi theo quy định."
+  },
+  {
+    "input": "Mình muốn biết sinh viên đạt giải Olympic cấp Quốc gia môn Toán học thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia môn Toán học sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Đại số tuyến tính, Giải tích hàm 1 biến, Giải tích hàm nhiều biến, Xác suất thống kê, Nhập môn đại số tuyến tính, Nhập môn xác suất thống kê, Phương trình vi phân, Toán cao cấp 1, Toán cao cấp 2, Thống kê ứng dụng, Toán cho các nhà kinh tế."
+  },
+  {
+    "input": "Ngoài việc điều chỉnh điểm môn học, sinh viên đạt giải Olympic cấp trường còn được cộng điểm rèn luyện, vậy điểm này được cộng như thế nào?",
+    "output": "Điểm rèn luyện được cộng cho sinh viên đạt giải Olympic cấp trường sẽ theo quy định của nhà trường về khen thưởng và kỷ luật. Bạn có thể tham khảo quy định này trên trang web của trường hoặc liên hệ với Phòng Chính trị và Công tác sinh viên để biết thêm chi tiết."
+  },
+  {
+    "input": "Bộ môn có hỗ trợ gì cho sinh viên trong quá trình ôn luyện thi Olympic không?",
+    "output": "Bộ môn sẽ bố trí giảng viên có kinh nghiệm và chuyên môn cao để hướng dẫn và bồi dưỡng cho sinh viên trong suốt quá trình ôn luyện thi Olympic."
+  },
+  {
+    "input": "Mình muốn biết danh sách các môn học đã tổ chức thi Olympic cấp Quốc gia?",
+    "output": "Trường đã tổ chức thi Olympic cấp Quốc gia cho các môn học sau: Toán học, Vật lý, Hóa học, Tin học, Tiếng Anh, Cơ học kỹ thuật, Cơ học đất, Cơ học kết cấu, Sức bền vật liệu, Thủy lực, Nguyên lý máy, Chi tiết máy."
+  },
+  {
+    "input": "Cho mình hỏi, nếu mình đạt giải Olympic môn học nào đó thì có được miễn thi môn đó không?",
+    "output": "Hiện tại, quy định của trường không có điều khoản miễn thi kết thúc học phần cho sinh viên đạt giải Olympic. Tuy nhiên, bạn sẽ được điều chỉnh điểm môn học tương ứng như đã trao đổi ở trên."
+  },
+  {
+    "input": "Mình muốn biết thêm về cơ cấu giải thưởng của kỳ thi Olympic cấp trường?",
+    "output": "Cơ cấu giải thưởng của kỳ thi Olympic cấp trường sẽ đảm bảo sự hợp lý và được xác định dựa trên tổng số sinh viên dự thi và chất lượng bài thi. Tổng số giải thưởng của mỗi môn sẽ không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Giảng viên tham gia bồi dưỡng học sinh thi Olympic được tính khối lượng giảng dạy như thế nào?",
+    "output": "Giảng viên tham gia bồi dưỡng học sinh thi Olympic sẽ được tính khối lượng giảng dạy là khối lượng vượt giờ và được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. "
+  },
+  {
+    "input": "Olympic cấp trường thường được tổ chức vào thời gian nào trong năm học?",
+    "output": "Olympic cấp trường thường được tổ chức vào khoảng tháng 3 đến tháng 5 hàng năm. Tuy nhiên, thời gian cụ thể có thể thay đổi tùy theo từng năm học và lịch học của sinh viên."
+  },
+  {
+    "input": "Ngoài các quyền lợi đã nêu, sinh viên đạt giải Olympic còn có cơ hội gì khác không?",
+    "output": "Sinh viên đạt giải Olympic, đặc biệt là cấp Quốc gia, sẽ có cơ hội được tuyển thẳng vào các chương trình đào tạo sau đại học hoặc được các công ty, doanh nghiệp săn đón."
+  },
+  {
+    "input": "Mình là sinh viên năm cuối, vậy mình có nên tham gia thi Olympic không?",
+    "output": "Việc tham gia thi Olympic hay không là quyết định của bạn. Tuy nhiên, nếu bạn có năng lực và muốn thử sức mình thì Olympic là một sân chơi bổ ích, giúp bạn củng cố kiến thức, rèn luyện kỹ năng và có thêm nhiều trải nghiệm thú vị."
+  },
+  {
+    "input": "Mình muốn biết tiêu chí đánh giá bài thi Olympic?",
+    "output": "Bài thi Olympic sẽ được đánh giá dựa trên các tiêu chí như kiến thức chuyên môn, kỹ năng giải quyết vấn đề, tư duy logic, sáng tạo và trình bày. Đề thi Olympic thường yêu cầu kiến thức chuyên sâu và khả năng vận dụng kiến thức vào thực tiễn."
+  },
+  {
+    "input": "Ngoài giảng viên của trường, sinh viên có thể được học với giảng viên bên ngoài trong quá trình bồi dưỡng Olympic không?",
+    "output": "Trong một số trường hợp, Bộ môn có thể mời các giảng viên bên ngoài, các chuyên gia có kinh nghiệm và uy tín để tham gia bồi dưỡng cho sinh viên."
+  },
+  {
+    "input": "Kế hoạch bồi dưỡng Olympic cấp Quốc gia của các bộ môn có khác nhau không?",
+    "output": "Kế hoạch bồi dưỡng Olympic cấp Quốc gia của các bộ môn sẽ có sự khác nhau tùy thuộc vào đặc thù của từng môn học, nội dung thi và số lượng sinh viên tham gia."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức thi Olympic online không?",
+    "output": "Hình thức thi Olympic sẽ do Bộ môn quyết định và được thông báo cụ thể cho sinh viên vào đầu năm học. Trong những năm gần đây, một số môn học đã tổ chức thi Olympic online."
+  },
+  {
+    "input": "Mình muốn biết điểm điều chỉnh sau khi đạt giải Olympic có ảnh hưởng đến điểm học bổng không?",
+    "output": "Điểm điều chỉnh sau khi đạt giải Olympic sẽ được sử dụng để xét học bổng theo quy định của trường. Tuy nhiên, việc xét học bổng còn phụ thuộc vào nhiều yếu tố khác như điểm trung bình học tập, điểm rèn luyện và các thành tích khác của sinh viên."
+  },
+  {
+    "input": "Trường có quy định về số lần sinh viên được tham gia thi Olympic không?",
+    "output": "Hiện tại, trường không có quy định về số lần sinh viên được tham gia thi Olympic. Bạn có thể đăng ký tham gia thi Olympic nhiều lần nếu đáp ứng đủ điều kiện."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Cơ học kết cấu thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Cơ học kết cấu sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Cơ học kết cấu 1, Cơ học kết cấu 2, Lý thuyết đàn hồi và ứng dụng, Ổn định và động lực học công trình, Phân tích ứng suất, Thực nghiệm kết cấu công trình, Phương pháp phần tử hữu hạn."
+  },
+  {
+    "input": "Mình muốn biết sinh viên có thể tham gia bồi dưỡng Olympic nhiều môn cùng lúc được không?",
+    "output": "Sinh viên có thể tham gia bồi dưỡng Olympic nhiều môn cùng lúc nếu đáp ứng đủ điều kiện và sắp xếp được thời gian học tập."
+  },
+  {
+    "input": "Mình muốn biết điểm điều chỉnh sau khi đạt giải Olympic có ảnh hưởng đến điểm học bổng không?",
+    "output": "Điểm điều chỉnh sau khi đạt giải Olympic sẽ được sử dụng để xét học bổng theo quy định của trường. Tuy nhiên, việc xét học bổng còn phụ thuộc vào nhiều yếu tố khác như điểm trung bình học tập, điểm rèn luyện và các thành tích khác của sinh viên."
+  },
+  {
+    "input": "Trường có quy định về số lần sinh viên được tham gia thi Olympic không?",
+    "output": "Hiện tại, trường không có quy định về số lần sinh viên được tham gia thi Olympic. Bạn có thể đăng ký tham gia thi Olympic nhiều lần nếu đáp ứng đủ điều kiện."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Cơ học kết cấu thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Cơ học kết cấu sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Cơ học kết cấu 1, Cơ học kết cấu 2, Lý thuyết đàn hồi và ứng dụng, Ổn định và động lực học công trình, Phân tích ứng suất, Thực nghiệm kết cấu công trình, Phương pháp phần tử hữu hạn."
+  },
+  {
+    "input": "Mình muốn biết sinh viên có thể tham gia bồi dưỡng Olympic nhiều môn cùng lúc được không?",
+    "output": "Sinh viên có thể tham gia bồi dưỡng Olympic nhiều môn cùng lúc nếu đáp ứng đủ điều kiện và sắp xếp được thời gian học tập."
+  },
+  {
+    "input": "Chào bạn, mình là sinh viên năm 3 ngành Công nghệ thông tin, mình muốn hỏi nếu đạt giải Olympic môn Tin học thì được chuyển điểm cho những môn học nào?",
+    "output": "Chào bạn, sinh viên ngành Công nghệ thông tin đạt giải Olympic môn Tin học sẽ được lựa chọn chuyển điểm cho 3 trong số các học phần sau: Nhập môn lập trình, Tin học đại cương, Tin học cơ bản, Toán rời rạc, Cấu trúc dữ liệu và giải thuật, Nhập môn tư duy tính toán, Thuật toán ứng dụng, Lập trình Python, Ngôn ngữ lập trình (dành cho K61), Lập trình nâng cao (dành cho K62 trở về sau), Tiếng Anh chuyên ngành (dành cho sinh viên dự thi ICPC)."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên có thể bảo lưu quyền lợi điều chỉnh điểm môn học sau khi đạt giải Olympic không?",
+    "output": "Có bạn nhé. Đối với sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia, bạn sẽ được bảo lưu quyền lợi này. Sau khi bạn học các môn tương ứng, điểm sẽ được điều chỉnh theo quy định."
+  },
+  {
+    "input": "Nếu mình tham gia đội tuyển Olympic cấp Quốc gia nhưng không đạt giải thì sao?",
+    "output": "Nếu bạn được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải, bạn vẫn sẽ được 8.0 điểm cho môn học tương ứng."
+  },
+  {
+    "input": "Cho mình hỏi Olympic cấp trường có tổ chức thi vòng loại không?",
+    "output": "Việc tổ chức vòng loại hay không sẽ do Bộ môn quyết định dựa trên số lượng sinh viên đăng ký và năng lực của sinh viên."
+  },
+  {
+    "input": "Mình muốn hỏi chi tiết hơn về nội dung bồi dưỡng Olympic cấp Quốc gia?",
+    "output": "Nội dung bồi dưỡng Olympic cấp Quốc gia sẽ tập trung vào kiến thức chuyên sâu của môn học, kỹ năng giải quyết vấn đề, làm việc nhóm và các kỹ năng mềm khác cần thiết cho kỳ thi. Bộ môn sẽ xây dựng chương trình bồi dưỡng phù hợp với yêu cầu của kỳ thi Olympic và năng lực của sinh viên."
+  },
+  {
+    "input": "Mình muốn đăng ký tham gia bồi dưỡng Olympic thì phải làm như thế nào?",
+    "output": "Vào đầu năm học, các Bộ môn sẽ thông báo về kế hoạch bồi dưỡng Olympic. Bạn có thể đăng ký tham gia trực tiếp với Bộ môn hoặc thông qua Đoàn Thanh niên, Hội Sinh viên của khoa."
+  },
+
+  {
+    "input": "Nếu mình đạt giải Olympic môn Toán học thì có thể chuyển điểm cho môn Toán cao cấp không?",
+    "output": "Có bạn nhé. Sinh viên đạt giải Olympic môn Toán học có thể lựa chọn chuyển điểm cho môn Toán cao cấp 1 hoặc Toán cao cấp 2."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức ôn tập cho sinh viên trước khi thi Olympic cấp Quốc gia không?",
+    "output": "Trước khi diễn ra kỳ thi Olympic cấp Quốc gia, Bộ môn sẽ tổ chức ôn tập, củng cố kiến thức và luyện tập thêm cho các thành viên trong đội tuyển."
+  },
+  {
+    "input": "Ngoài việc tham gia thi Olympic, sinh viên còn có thể tham gia những hoạt động học thuật nào khác?",
+    "output": "Ngoài thi Olympic, sinh viên có thể tham gia các hoạt động học thuật khác như nghiên cứu khoa học, tham gia các câu lạc bộ học thuật, các cuộc thi sáng tạo, ... để nâng cao kiến thức và kỹ năng của bản thân."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên năm nhất có được tham gia thi Olympic cấp Quốc gia không?",
+    "output": "Sinh viên năm nhất hoàn toàn có thể tham gia thi Olympic cấp Quốc gia nếu đáp ứng đủ điều kiện và được Bộ môn tuyển chọn."
+  },
+  {
+    "input": "Nếu mình muốn tham gia bồi dưỡng Olympic nhưng chưa tự tin về kiến thức của mình thì sao?",
+    "output": "Bạn đừng quá lo lắng nhé. Chương trình bồi dưỡng Olympic sẽ bắt đầu từ những kiến thức cơ bản và nâng dần lên kiến thức chuyên sâu. Giảng viên sẽ luôn đồng hành và hỗ trợ bạn trong suốt quá trình học tập."
+  },
+  {
+    "input": "Trường có hỗ trợ kinh phí cho sinh viên tham gia bồi dưỡng Olympic không?",
+    "output": "Trường sẽ hỗ trợ một phần kinh phí cho sinh viên tham gia bồi dưỡng Olympic, ví dụ như tiền thuê giảng đường, tài liệu học tập,... "
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức thi Olympic cho các môn học thuộc khối kiến thức chung không?",
+    "output": "Có bạn nhé, trường có tổ chức thi Olympic cho tất cả các môn học, bao gồm cả các môn học thuộc khối kiến thức chung như Triết học, Kinh tế chính trị, Chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh,... "
+  },
+  {
+    "input": "Mình muốn biết thêm về quy định liên quan đến việc thay thế sáng kiến khi đạt giải Olympic?",
+    "output": "Giảng viên hướng dẫn đội tuyển đạt giải Olympic từ giải Ba trở lên hoặc có ít nhất 50% sinh viên dự thi đạt giải từ giải Ba trở lên sẽ được xem xét tính thành tích thay thế sáng kiến theo quy định của trường. Bạn có thể tham khảo quy định này trên trang web của trường hoặc liên hệ với phòng Tổ chức - Cán bộ để biết thêm chi tiết."
+  },
+  {
+    "input": "Mình muốn biết tiêu chí để lựa chọn giảng viên bồi dưỡng Olympic?",
+    "output": "Bộ môn sẽ lựa chọn giảng viên có kinh nghiệm, chuyên môn cao và tâm huyết với công tác bồi dưỡng học sinh giỏi để tham gia giảng dạy Olympic."
+  },
+  {
+    "input": "Chào bạn, mình là sinh viên năm 2, mình muốn hỏi nếu mình chưa học môn Cơ học chất lỏng nhưng muốn thi Olympic môn Thủy lực thì có được không?",
+    "output": "Chào bạn, bạn vẫn có thể tham gia thi Olympic môn Thủy lực và được bảo lưu quyền lợi điều chỉnh điểm môn học. Sau khi bạn học xong môn Cơ học chất lỏng, điểm sẽ được điều chỉnh theo quy định."
+  },
+  {
+    "input": "Cho mình hỏi, nếu mình đạt giải Olympic cấp Quốc gia thì có được xét tuyển thẳng vào chương trình Thạc sĩ của trường không?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ có cơ hội được xét tuyển thẳng vào chương trình Thạc sĩ của trường theo quy định tuyển sinh của trường."
+  },
+  {
+    "input": "Mình muốn biết thông tin về lịch thi Olympic cấp Quốc gia thì tìm ở đâu?",
+    "output": "Lịch thi Olympic cấp Quốc gia của từng môn học sẽ do Bộ Giáo dục và Đào tạo hoặc các đơn vị tổ chức công bố. Bạn có thể theo dõi thông tin trên website của Bộ Giáo dục và Đào tạo, các trang web của các trường đại học hoặc các diễn đàn sinh viên."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi về quy định thi Olympic môn Hóa học?",
+    "output": "Quy định thi Olympic môn Hóa học cũng tương tự như các môn học khác. Vào đầu năm học, nhà trường sẽ thông báo về thời gian và hình thức thi. Bộ môn Hóa học sẽ phối hợp với Phòng Chính trị và Công tác sinh viên để tổ chức cho sinh viên đăng ký và tiến hành thi theo quy định."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Hóa học thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Hóa học sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Hóa đại cương, Hóa vô cơ, Hóa lý 1, Hóa học phức chất và ứng dụng, Hóa học xanh."
+  },
+  {
+    "input": "Mình muốn biết thêm về quyền lợi của sinh viên khi tham gia đội tuyển Olympic cấp Quốc gia?",
+    "output": "Ngoài việc được điều chỉnh điểm môn học và cộng điểm rèn luyện, sinh viên tham gia đội tuyển Olympic cấp Quốc gia còn được hỗ trợ kinh phí, phương tiện đi lại, ăn ở trong quá trình tập huấn và thi đấu. Trường cũng tạo điều kiện cho sinh viên được nghỉ học để tham gia các hoạt động của đội tuyển."
+  },
+  {
+    "input": "Cho mình hỏi, mình có thể vừa tham gia thi Olympic cấp trường vừa tham gia thi Olympic cấp Quốc gia cùng một môn học không?",
+    "output": "Có bạn nhé. Bạn có thể tham gia cả hai kỳ thi Olympic cấp trường và cấp Quốc gia cùng một môn học nếu đáp ứng đủ điều kiện và được Bộ môn tuyển chọn."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Cơ học đất thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Cơ học đất sẽ được chuyển điểm cho cả 2 học phần: Cơ học đất và Địa kỹ thuật."
+  },
+  {
+    "input": "Mình muốn hỏi về tiêu chí để xét chọn sinh viên vào đội tuyển Olympic cấp Quốc gia?",
+    "output": "Tiêu chí để xét chọn sinh viên vào đội tuyển Olympic cấp Quốc gia bao gồm thành tích học tập, kết quả thi Olympic cấp trường (nếu có), kết quả kiểm tra kiến thức và kỹ năng trong quá trình bồi dưỡng, tinh thần học tập và thái độ nghiêm túc."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên đạt giải Olympic cấp Quốc gia có được ưu tiên xét tốt nghiệp loại giỏi không?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được xem xét ưu tiên xét tốt nghiệp loại giỏi theo quy định của trường."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Vật lý thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Vật lý sẽ được chuyển điểm cho cả 2 học phần: Vật lý 1 và Vật lý 2."
+  },
+  {
+    "input": "Mình muốn biết thêm thông tin về các cuộc thi Olympic cấp Quốc gia?",
+    "output": "Thông tin về các cuộc thi Olympic cấp Quốc gia sẽ được Bộ Giáo dục và Đào tạo hoặc các đơn vị tổ chức công bố trên website hoặc các phương tiện thông tin đại chúng. Bạn có thể tìm kiếm thông tin về môn học mà bạn quan tâm để biết thêm chi tiết về thời gian, địa điểm, thể lệ thi,..."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi về thời gian nộp đơn đề nghị điều chỉnh điểm môn học sau khi đạt giải Olympic?",
+    "output": "Chào bạn, sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học trong vòng 10 ngày sau khi có kết quả thi Olympic."
+  },
+  {
+    "input": "Mình muốn biết thêm thông tin về phần thưởng dành cho sinh viên đạt giải Olympic?",
+    "output": "Phần thưởng dành cho sinh viên đạt giải Olympic sẽ do nhà trường quyết định và trao tặng trong lễ tuyên dương khen thưởng. Phần thưởng có thể là tiền mặt, hiện vật hoặc các hình thức khen thưởng khác."
+  },
+  {
+    "input": "Cho mình hỏi, có giới hạn số lượng sinh viên tham gia bồi dưỡng Olympic không?",
+    "output": "Số lượng sinh viên tham gia bồi dưỡng Olympic có thể được giới hạn tùy theo năng lực của bộ môn và điều kiện cơ sở vật chất. Tuy nhiên, bộ môn sẽ tạo điều kiện tối đa cho sinh viên có nguyện vọng tham gia."
+  },
+  {
+    "input": "Chào bạn, mình là sinh viên K64, mình muốn hỏi nếu mình đạt giải Olympic môn Tiếng Anh thì được chuyển điểm cho những môn nào?",
+    "output": "Chào bạn, sinh viên K64 đạt giải Olympic môn Tiếng Anh sẽ được lựa chọn chuyển điểm cho một trong các học phần sau: Kĩ năng Nghe 3, Kĩ năng Nói 3, Kĩ năng Đọc 3, Kĩ năng Viết 3, Kĩ năng Nghe nâng cao 2 (CTTT), Kĩ năng Nói nâng cao 2 (CTTT), Kĩ năng Đọc nâng cao 2 (CTTT), Kĩ năng Viết nâng cao 2 (CTTT)."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Cơ học kỹ thuật thì được chuyển điểm cho những môn nào?",
+    "output": "- Sinh viên ngành Cơ khí đạt giải Olympic môn Cơ học kỹ thuật sẽ được chuyển điểm cho cả 2 học phần: Cơ học kỹ thuật 1 và Cơ học kỹ thuật 2. \n- Sinh viên các ngành khác đạt giải Olympic môn Cơ học kỹ thuật sẽ được chuyển điểm cho môn Cơ học cơ sở."
+  },
+  {
+    "input": "Mình muốn biết quy trình thanh toán cho giảng viên tham gia bồi dưỡng Olympic?",
+    "output": "Sau khi kết thúc chương trình bồi dưỡng, giảng viên sẽ nộp sổ theo dõi học tập và giấy đề nghị thanh toán về phòng Chính trị và Công tác sinh viên. Phòng Chính trị và Công tác sinh viên sẽ kiểm tra và trình Ban Giám hiệu phê duyệt để thanh toán cho giảng viên theo quy định."
+  },
+  {
+    "input": "Cho mình hỏi, điểm điều chỉnh sau khi đạt giải Olympic có được sử dụng để xét tốt nghiệp không?",
+    "output": "Có bạn nhé, điểm điều chỉnh sau khi đạt giải Olympic sẽ được sử dụng để xét tốt nghiệp như bình thường."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Sức bền vật liệu thì được chuyển điểm cho những môn nào?",
+    "output": "- Sinh viên ngành Kỹ thuật xây dựng dân dụng và công nghiệp đạt giải Olympic môn Sức bền vật liệu sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Sức bền 1, Sức bền 2, Lý thuyết đàn hồi và ứng dụng, Thực nghiệm kết cấu công trình. \n- Sinh viên ngành Kỹ thuật cơ khí đạt giải Olympic môn Sức bền vật liệu sẽ được chuyển điểm cho cả 2 học phần: Sức bền và Cơ học kết cấu trong kỹ thuật cơ khí."
+  },
+  {
+    "input": "Mình muốn biết thêm về quy định khen thưởng cho các cá nhân, tập thể có thành tích trong công tác Olympic?",
+    "output": "Các cá nhân, tập thể có thành tích xuất sắc trong công tác Olympic sẽ được nhà trường khen thưởng theo quy định hiện hành. Bạn có thể tham khảo quy định này trên trang web của trường hoặc liên hệ với phòng Tổ chức - Cán bộ để biết thêm chi tiết."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên có được tham gia bồi dưỡng Olympic môn học mà mình chưa học không?",
+    "output": "Sinh viên hoàn toàn có thể tham gia bồi dưỡng Olympic môn học mà mình chưa học. Chương trình bồi dưỡng sẽ cung cấp đầy đủ kiến thức từ cơ bản đến nâng cao cho sinh viên."
+  },
+  {
+    "input": "Mình muốn biết nếu mình đạt giải Olympic môn Thủy lực thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Thủy lực sẽ được lựa chọn chuyển điểm cho 2 trong số các học phần sau: Cơ học chất lỏng, Thủy lực công trình, Thủy lực dòng hở, Thủy lực đại cương, Cơ học chất lỏng ứng dụng."
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động giao lưu học hỏi giữa sinh viên đạt giải Olympic các năm không?",
+    "output": "Có bạn nhé, trường thường xuyên tổ chức các hoạt động giao lưu học hỏi, chia sẻ kinh nghiệm giữa sinh viên đạt giải Olympic các năm, nhằm tạo môi trường học thuật sôi nổi và động viên tinh thần học tập của sinh viên."
+  },
+  {
+    "input": "Cho mình hỏi, mình có cần đóng học phí khi tham gia bồi dưỡng Olympic không?",
+    "output": "Bạn không cần phải đóng học phí khi tham gia bồi dưỡng Olympic. Chương trình bồi dưỡng Olympic là hoàn toàn miễn phí cho sinh viên."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Nguyên lý máy thì được chuyển điểm cho môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Nguyên lý máy sẽ được chuyển điểm cho môn Nguyên lý máy."
+  },
+  {
+    "input": "Mình muốn biết thêm về các hoạt động hỗ trợ của Đoàn Thanh niên, Hội Sinh viên đối với sinh viên tham gia Olympic?",
+    "output": "Đoàn Thanh niên, Hội Sinh viên sẽ phối hợp với các Bộ môn trong việc thông báo, tuyên truyền về cuộc thi Olympic, hỗ trợ sinh viên đăng ký tham gia bồi dưỡng và thi Olympic, tổ chức các hoạt động động viên tinh thần cho sinh viên."
+  },
+  {
+    "input": "Cho mình hỏi, nếu mình đạt giải Olympic môn Chi tiết máy thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Chi tiết máy sẽ được chuyển điểm cho cả 2 học phần: Cơ sở thiết kế máy và Đồ án cơ sở thiết kế máy."
+  },
+  {
+    "input": "Mình muốn biết thêm về thành tích của trường trong các kỳ thi Olympic cấp Quốc gia?",
+    "output": "Trường Đại học Thủy lợi luôn tự hào về thành tích của sinh viên trong các kỳ thi Olympic cấp Quốc gia. Sinh viên của trường đã đạt được nhiều giải cao, góp phần khẳng định chất lượng đào tạo của nhà trường."
+  },
+  {
+    "input": "Ngoài các môn học chuyên ngành, trường có tổ chức thi Olympic cho các môn học khác không?",
+    "output": "Ngoài các môn học chuyên ngành, trường còn tổ chức thi Olympic cho các môn học khác như Tiếng Anh, Tin học văn phòng,... nhằm tạo điều kiện cho sinh viên các ngành có cơ hội tham gia và thể hiện năng lực của bản thân."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức các lớp bồi dưỡng kỹ năng mềm cho sinh viên tham gia Olympic không?",
+    "output": "Bên cạnh việc bồi dưỡng kiến thức chuyên môn, trường cũng tổ chức các lớp bồi dưỡng kỹ năng mềm như kỹ năng giao tiếp, kỹ năng thuyết trình, kỹ năng làm việc nhóm,... cho sinh viên tham gia Olympic, giúp sinh viên tự tin và đạt kết quả cao trong kỳ thi."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Tiếng Anh thì có được miễn thi chứng chỉ ngoại ngữ không?",
+    "output": "Hiện tại, quy định của trường không có điều khoản miễn thi chứng chỉ ngoại ngữ cho sinh viên đạt giải Olympic. Tuy nhiên, việc đạt giải Olympic môn Tiếng Anh sẽ là một lợi thế lớn cho bạn khi thi chứng chỉ ngoại ngữ."
+  },
+  {
+    "input": "Mình muốn biết thêm về cơ hội việc làm cho sinh viên đạt giải Olympic?",
+    "output": "Sinh viên đạt giải Olympic thường được các công ty, doanh nghiệp đánh giá cao về năng lực và kỹ năng. Điều này sẽ giúp bạn có nhiều cơ hội việc làm tốt hơn sau khi ra trường."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi về quy định thi Olympic môn Khoa học Mác - Lênin và Tư tưởng Hồ Chí Minh?",
+    "output": "Chào bạn, quy định thi Olympic môn Khoa học Mác - Lênin và Tư tưởng Hồ Chí Minh cũng tương tự như các môn học khác. Tuy nhiên, môn học này có thể có thêm vòng thi sân khấu hóa. Bạn hãy theo dõi thông báo từ nhà trường và bộ môn để biết thêm chi tiết."
+  },
+  {
+    "input": "Nếu mình đạt giải Olympic môn Khoa học Mác - Lênin và Tư tưởng Hồ Chí Minh thì được chuyển điểm cho những môn nào?",
+    "output": "Sinh viên đạt giải Olympic môn Khoa học Mác - Lênin và Tư tưởng Hồ Chí Minh sẽ được lựa chọn chuyển điểm cho một trong các học phần sau: Triết học, Kinh tế chính trị, Chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh, Lịch sử Đảng cộng sản Việt Nam, Pháp luật đại cương."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên có thể tham gia bồi dưỡng Olympic vào thời gian nào?",
+    "output": "Thời gian bồi dưỡng Olympic sẽ do Bộ môn quyết định và thông báo cho sinh viên. Thông thường, các lớp bồi dưỡng Olympic sẽ được tổ chức vào buổi tối hoặc cuối tuần để không ảnh hưởng đến lịch học chính khóa của sinh viên."
+  },
+  {
+    "input": "Mình muốn biết sinh viên đạt giải Olympic có được tạo điều kiện để tham gia các hội thảo, hội nghị khoa học không?",
+    "output": "Sinh viên đạt giải Olympic sẽ được tạo điều kiện để tham gia các hội thảo, hội nghị khoa học trong và ngoài nước, giúp sinh viên mở mang kiến thức, giao lưu học hỏi và nâng cao năng lực nghiên cứu khoa học."
+  },
+  {
+    "input": "Cho mình hỏi, nếu mình đạt giải Olympic môn Tin học văn phòng thì được chuyển điểm cho môn Tin học đại cương không?",
+    "output": "Sinh viên đạt giải Olympic môn Tin học văn phòng không được chuyển điểm cho môn Tin học đại cương. Bạn chỉ có thể lựa chọn chuyển điểm cho môn Tin học văn phòng hoặc Tin học cơ bản."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ gì cho giảng viên tham gia bồi dưỡng Olympic không?",
+    "output": "Giảng viên tham gia bồi dưỡng Olympic sẽ được hưởng các chính sách hỗ trợ về kinh phí, thời gian và cơ sở vật chất để đảm bảo chất lượng công tác bồi dưỡng."
+  },
+  {
+    "input": "Mình là sinh viên năm cuối và đã bảo lưu kết quả học tập, vậy mình có thể tham gia thi Olympic không?",
+    "output": "Sinh viên đã bảo lưu kết quả học tập vẫn có thể tham gia thi Olympic nếu đáp ứng đủ điều kiện và được Bộ môn tuyển chọn."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức thi Olympic cho sinh viên cao học không?",
+    "output": "Hiện tại, trường chưa tổ chức thi Olympic cho sinh viên cao học. Tuy nhiên, sinh viên cao học có thể tham gia các hoạt động nghiên cứu khoa học, các hội thảo, hội nghị khoa học để nâng cao năng lực và trình độ chuyên môn."
+  },
+  {
+    "input": "Mình muốn biết quy trình xét duyệt và phê duyệt kế hoạch thi Olympic?",
+    "output": "Kế hoạch thi Olympic cấp trường sẽ do Bộ môn xây dựng và trình Ban Giám hiệu phê duyệt. Kế hoạch bồi dưỡng Olympic cấp Quốc gia sẽ do Bộ môn xây dựng và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên)."
+  },
+  {
+    "input": "Cho mình hỏi, điểm điều chỉnh sau khi đạt giải Olympic có ảnh hưởng đến xếp loại tốt nghiệp không?",
+    "output": "Điểm điều chỉnh sau khi đạt giải Olympic sẽ được sử dụng để tính điểm trung bình tích lũy và xếp loại tốt nghiệp như bình thường."
+  },
+  {
+    "input": "Mình muốn biết sinh viên có thể đăng ký tham gia bồi dưỡng Olympic ở nhiều bộ môn khác nhau không?",
+    "output": "Sinh viên có thể đăng ký tham gia bồi dưỡng Olympic ở nhiều bộ môn khác nhau nếu đáp ứng đủ điều kiện và sắp xếp được thời gian học tập."
+  },
+  {
+    "input": "Trường có tổ chức các hoạt động giao lưu với các trường đại học khác trong lĩnh vực Olympic không?",
+    "output": "Trường thường xuyên tổ chức các hoạt động giao lưu, trao đổi kinh nghiệm với các trường đại học khác trong lĩnh vực Olympic, nhằm nâng cao chất lượng công tác bồi dưỡng và tạo điều kiện cho sinh viên được học hỏi, cọ xát."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi sinh viên năm nhất có thể tham gia bồi dưỡng Olympic luôn được không?",
+    "output": "Chào bạn, sinh viên năm nhất hoàn toàn có thể tham gia bồi dưỡng Olympic ngay từ năm học đầu tiên nếu có nguyện vọng và đáp ứng đủ điều kiện."
+  },
+  {
+    "input": "Cho mình hỏi, trường có quy định cụ thể về thời gian tổ chức thi Olympic cấp trường không?",
+    "output": "Thời gian tổ chức thi Olympic cấp trường sẽ do Bộ môn quyết định và thông báo cho sinh viên. Thông thường, kỳ thi sẽ được tổ chức trước khi diễn ra kỳ thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Mình muốn biết thêm về quy trình đề xuất, xây dựng và ban hành Quy định về thi Olympic các môn học?",
+    "output": "Quy định về thi Olympic các môn học được xây dựng bởi Phòng Chính trị và Công tác sinh viên, trên cơ sở tham khảo ý kiến của các đơn vị liên quan và được Hiệu trưởng phê duyệt ban hành."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi về kinh phí tổ chức thi Olympic cấp trường?",
+    "output": "Kinh phí tổ chức thi Olympic cấp trường sẽ được nhà trường hỗ trợ và chi trả theo quy định."
+  },
+  {
+    "input": "Cho mình hỏi, trường có quy định về hình thức thi Olympic không?",
+    "output": "Hình thức thi Olympic cấp trường sẽ do Bộ môn quyết định và thông báo cho sinh viên. Kỳ thi có thể được tổ chức dưới hình thức thi viết, thi thực hành, thi vấn đáp hoặc kết hợp các hình thức."
+  },
+  {
+    "input": "Mình muốn biết thêm về thành phần Ban tổ chức kỳ thi Olympic cấp trường?",
+    "output": "Ban tổ chức kỳ thi Olympic cấp trường sẽ bao gồm đại diện lãnh đạo nhà trường, phòng Chính trị và Công tác sinh viên, Bộ môn phụ trách môn thi và các thành viên khác có liên quan."
+  },
+  {
+    "input": "Cho mình hỏi, trường có xét tuyển thẳng cho thí sinh đạt giải Olympic cấp Quốc gia không?",
+    "output": "Có bạn nhé. Trường Đại học Thủy lợi có xét tuyển thẳng và ưu tiên xét tuyển cho thí sinh đạt giải Olympic cấp Quốc gia theo quy định tuyển sinh của Bộ Giáo dục và Đào tạo và của trường."
+  },
+  {
+    "input": "Mình muốn biết thêm về quyền lợi của giảng viên tham gia hướng dẫn đội tuyển Olympic cấp Quốc gia?",
+    "output": "Giảng viên tham gia hướng dẫn đội tuyển Olympic cấp Quốc gia sẽ được hưởng các quyền lợi như: được tính giờ giảng dạy, được khen thưởng, được tạo điều kiện để nâng cao trình độ chuyên môn và được ưu tiên xét các danh hiệu thi đua, các hình thức khen thưởng khác."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ gì cho sinh viên có hoàn cảnh khó khăn tham gia Olympic không?",
+    "output": "Trường có các chính sách hỗ trợ cho sinh viên có hoàn cảnh khó khăn tham gia Olympic, ví dụ như miễn giảm học phí, hỗ trợ chi phí sinh hoạt,..."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tổ chức các buổi tư vấn, hướng dẫn cho sinh viên về kỳ thi Olympic không?",
+    "output": "Có bạn nhé. Trường thường xuyên tổ chức các buổi tư vấn, hướng dẫn cho sinh viên về kỳ thi Olympic, giúp sinh viên hiểu rõ hơn về thể lệ thi, nội dung thi và cách thức ôn tập hiệu quả."
+  },
+  {
+    "input": "Mình muốn biết quy trình xử lý các trường hợp vi phạm quy chế thi Olympic?",
+    "output": "Các trường hợp vi phạm quy chế thi Olympic sẽ bị xử lý theo quy định của nhà trường về khen thưởng và kỷ luật. Tùy theo mức độ vi phạm, sinh viên có thể bị khiển trách, cảnh cáo, đình chỉ thi hoặc hủy kết quả thi."
+  },
+  {
+    "input": "Trường có kế hoạch gì để nâng cao chất lượng công tác Olympic trong thời gian tới?",
+    "output": "Trường luôn quan tâm và có kế hoạch cụ thể để nâng cao chất lượng công tác Olympic, ví dụ như: tăng cường đầu tư cơ sở vật chất, nâng cao trình độ chuyên môn cho đội ngũ giảng viên, đổi mới phương pháp bồi dưỡng, mở rộng hợp tác với các trường đại học trong và ngoài nước,..."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên có thể tham gia thi Olympic nhiều lần trong một năm học không?",
+    "output": "Sinh viên có thể tham gia thi Olympic nhiều lần trong một năm học nếu đáp ứng đủ điều kiện và được Bộ môn tuyển chọn."
+  },
+  {
+    "input": "Mình muốn biết thêm về các hoạt động bồi dưỡng kỹ năng cho sinh viên tham gia Olympic?",
+    "output": "Ngoài các lớp bồi dưỡng kỹ năng mềm, trường còn tổ chức các hoạt động ngoại khóa, các buổi giao lưu, chia sẻ kinh nghiệm, các chuyến tham quan thực tế,... giúp sinh viên nâng cao kỹ năng sống, kỹ năng làm việc nhóm và khả năng thích ứng với môi trường."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ gì cho sinh viên đạt giải Olympic đi du học?",
+    "output": "Trường có các chính sách hỗ trợ cho sinh viên đạt giải Olympic đi du học như: giới thiệu học bổng, hỗ trợ làm hồ sơ du học,..."
+  },
+  {
+    "input": "Cho mình hỏi, trường có tạo điều kiện cho sinh viên đạt giải Olympic được tham gia nghiên cứu khoa học không?",
+    "output": "Có bạn nhé, trường tạo điều kiện và khuyến khích sinh viên đạt giải Olympic tham gia nghiên cứu khoa học, tham gia các đề tài nghiên cứu của giảng viên hoặc đăng ký thực hiện các đề tài nghiên cứu sinh viên."
+  },
+  {
+    "input": "Mình muốn biết thêm về quy trình giải quyết khiếu nại liên quan đến kết quả thi Olympic?",
+    "output": "Sinh viên có quyền khiếu nại về kết quả thi Olympic. Đơn khiếu nại sẽ được gửi đến Ban tổ chức kỳ thi để xem xét và giải quyết theo quy định."
+  },
+  {
+    "input": "Trường có kế hoạch gì để mở rộng quy mô và nâng cao chất lượng kỳ thi Olympic trong tương lai?",
+    "output": "Trường có kế hoạch mở rộng quy mô kỳ thi Olympic bằng cách tăng cường công tác tuyên truyền, khuyến khích sinh viên các ngành tham gia, đồng thời nâng cao chất lượng kỳ thi thông qua việc đổi mới nội dung, hình thức thi và nâng cao trình độ chuyên môn cho đội ngũ giảng viên, cán bộ coi thi, chấm thi."
+  },
+  {
+    "input": "Cho mình hỏi, điểm điều chỉnh sau khi đạt giải Olympic có được sử dụng để xét tuyển dụng không?",
+    "output": "Điểm điều chỉnh sau khi đạt giải Olympic sẽ thể hiện trên bảng điểm của sinh viên. Việc sử dụng điểm này để xét tuyển dụng sẽ do các công ty, doanh nghiệp quyết định."
+  },
+  {
+    "input": "Mình muốn biết thêm về thành tích của sinh viên trường mình trong các cuộc thi Olympic quốc tế?",
+    "output": "Sinh viên trường Đại học Thủy lợi đã tham gia và đạt thành tích cao trong nhiều cuộc thi Olympic quốc tế, góp phần khẳng định vị thế của trường trên trường quốc tế."
+  },
+  {
+    "input": "Trường có kế hoạch gì để đẩy mạnh phong trào học tập, nghiên cứu khoa học trong sinh viên?",
+    "output": "Trường có nhiều hoạt động và chương trình nhằm đẩy mạnh phong trào học tập, nghiên cứu khoa học trong sinh viên như: tổ chức các cuộc thi học thuật, các hội thảo khoa học, các câu lạc bộ học thuật, hỗ trợ sinh viên thực hiện các đề tài nghiên cứu khoa học,..."
+  },
+  {
+    "input": "Cho mình hỏi, sinh viên có thể tham gia bồi dưỡng Olympic từ năm thứ mấy?",
+    "output": "Sinh viên có thể tham gia bồi dưỡng Olympic từ năm thứ nhất nếu có nguyện vọng và đáp ứng đủ điều kiện."
+  },
+  {
+    "input": "Mình muốn biết thêm về quy định về trang phục khi tham gia thi Olympic?",
+    "output": "Sinh viên tham gia thi Olympic cần ăn mặc lịch sự, phù hợp với môi trường học thuật."
+  },
+  {
+    "input": "Trường có kế hoạch gì để tăng cường hợp tác quốc tế trong lĩnh vực Olympic không?",
+    "output": "Trường có kế hoạch tăng cường hợp tác quốc tế trong lĩnh vực Olympic thông qua việc trao đổi sinh viên, giảng viên, tham gia các dự án nghiên cứu chung, tổ chức các hội thảo khoa học quốc tế,..."
+  },
+  {
+    "input": "Em chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm 2. Em muốn hỏi về mức hỗ trợ chi phí học tập cho sinh viên là người dân tộc thiểu số ạ?",
+    "output": "Chào em, mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình xét duyệt hồ sơ miễn giảm học phí vào thời gian nào ạ?",
+    "output": "Sinh viên thuộc diện miễn giảm học phí phải làm 01 bộ hồ sơ nộp lần đầu cho cả thời gian học tập, riêng sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo theo quy định của Thủ tướng Chính phủ, phải nộp bổ sung giấy xác nhận hộ nghèo hoặc cận nghèo vào đầu mỗi học kỳ em nhé."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi là sinh viên được hỗ trợ học tập là những đối tượng nào ạ?",
+    "output": "Sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thủy lợi em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức hỗ trợ học tập cho sinh viên là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng em ạ."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi về điều kiện để được hưởng trợ cấp xã hội của trường mình ạ.",
+    "output": "Trường mình có trợ cấp xã hội cho các đối tượng sau: sinh viên là người dân tộc ít người ở vùng cao, sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa, sinh viên là người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập. Mỗi đối tượng sẽ có những điều kiện cụ thể, em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là sinh viên năm nhất có được xét duyệt trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên năm nhất vẫn được xét duyệt trợ cấp xã hội như các sinh viên năm khác nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức trợ cấp xã hội của trường mình là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức trợ cấp xã hội sẽ tùy thuộc vào từng đối tượng, cụ thể là: 140.000đ/tháng đối với sinh viên là người dân tộc ít người ở vùng cao, 100.000đ/tháng đối với các đối tượng còn lại em nhé!"
+  },
+  {
+    "input": "Cho em hỏi thời gian nộp hồ sơ xét duyệt trợ cấp xã hội là khi nào ạ?",
+    "output": "Sinh viên thuộc đối tượng người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ, không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn sẽ nộp hồ sơ xin hưởng trợ cấp xã hội duy nhất một lần trong toàn khóa học. Sinh viên thuộc đối tượng nghèo vượt khó học tập sẽ nộp hồ sơ mỗi kỳ một lần sau khi có kết quả học tập và rèn luyện của học kỳ trước liền kề em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là nếu em thuộc diện được miễn giảm học phí thì có được hưởng trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên thuộc diện được miễn giảm học phí vẫn có thể được hưởng trợ cấp xã hội nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là trường mình có hỗ trợ gì cho sinh viên bị ảnh hưởng bởi dịch COVID-19 không ạ?",
+    "output": "Trường mình luôn quan tâm và có những hỗ trợ kịp thời cho sinh viên bị ảnh hưởng bởi dịch COVID-19. Em có thể theo dõi thông báo trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được biết thêm thông tin chi tiết em nhé!"
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi là thủ tục để làm đơn xin bảo lưu kết quả học tập như thế nào ạ?",
+    "output": "Chào em. Để làm đơn xin bảo lưu kết quả học tập, em cần liên hệ với phòng Đào tạo để được hướng dẫn cụ thể về thủ tục và hồ sơ cần thiết em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có quy định về việc bảo hiểm y tế cho sinh viên không ạ?",
+    "output": "Có em nhé. Theo quy định, sinh viên hệ chính quy sẽ tham gia bảo hiểm y tế tại trường. Em có thể liên hệ phòng Công tác Sinh viên để được hướng dẫn chi tiết hơn."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên có được ở ký túc xá của trường không ạ?",
+    "output": "Trường mình có ký túc xá dành cho sinh viên. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học. Nếu có thắc mắc, em có thể liên hệ Ban Quản lý Ký túc xá để được giải đáp cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những câu lạc bộ hay hoạt động ngoại khóa nào dành cho sinh viên không ạ?",
+    "output": "Trường mình có rất nhiều câu lạc bộ và hoạt động ngoại khóa đa dạng cho sinh viên tham gia, ví dụ như: Câu lạc bộ Tiếng Anh, Câu lạc bộ Thể thao, Câu lạc bộ Nghệ thuật, Đội tình nguyện, ... Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên trường mình có cơ hội việc làm sau khi ra trường như thế nào ạ?",
+    "output": "Trường mình có mối liên kết chặt chẽ với nhiều doanh nghiệp, tổ chức trong và ngoài nước, thường xuyên tổ chức các buổi hội thảo việc làm, tạo điều kiện để sinh viên tiếp cận với các cơ hội việc làm tốt sau khi ra trường. Ngoài ra, trường cũng hỗ trợ sinh viên trong việc định hướng nghề nghiệp và rèn luyện kỹ năng mềm để đáp ứng nhu cầu của thị trường lao động."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Anh/chị ơi, điểm chuẩn vào trường mình những năm gần đây như thế nào ạ?",
+    "output": "Điểm chuẩn vào trường sẽ thay đổi theo từng năm và từng ngành học phụ thuộc vào số lượng thí sinh đăng ký và kết quả thi. Em có thể tham khảo điểm chuẩn của những năm trước trên website của trường hoặc các trang thông tin tuyển sinh để có dự đoán cho năm nay."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển thẳng không ạ?",
+    "output": "Trường mình có xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo cho các đối tượng như: học sinh giỏi cấp quốc gia, học sinh đạt giải trong các kỳ thi học sinh giỏi cấp tỉnh, thành phố, ... Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có tổ chức thi riêng không ạ?",
+    "output": "Trường mình chỉ xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT. Em có thể đăng ký xét tuyển vào trường theo quy định của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn tham quan trường mình thì phải làm sao ạ?",
+    "output": "Em có thể liên hệ với phòng Công tác Sinh viên hoặc Đoàn Thanh niên để đăng ký tham quan trường. Trường thường xuyên tổ chức các chương trình tham quan, trải nghiệm dành cho học sinh THPT."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những kênh thông tin nào để cập nhật tin tức về tuyển sinh ạ?",
+    "output": "Em có thể cập nhật thông tin tuyển sinh của trường qua website chính thức của trường, fanpage của trường trên Facebook, hoặc các kênh thông tin tuyển sinh uy tín khác."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi trường mình có những phương thức xét tuyển nào ạ?",
+    "output": "Trường mình xét tuyển dựa vào kết quả thi tốt nghiệp THPT theo các phương thức do Bộ Giáo dục và Đào tạo quy định và xét tuyển học bạ. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc các trang thông tin tuyển sinh uy tín."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển học bạ không ạ?",
+    "output": "Trường mình hiện có xét tuyển học bạ. Em có thể đăng ký xét tuyển vào trường dựa vào kết quả của học bạ 3 năm THPT."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học phí của chương trình tiên tiến có cao hơn chương trình đại trà không ạ?",
+    "output": "Học phí của chương trình tiên tiến thường cao hơn chương trình đại trà do chương trình đào tạo có những yêu cầu cao hơn về cơ sở vật chất, đội ngũ giảng viên, và phương pháp giảng dạy. Em có thể tham khảo mức học phí cụ thể trên website của trường."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên chương trình tiên tiến có được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà không ạ?",
+    "output": "Sinh viên chương trình tiên tiến vẫn được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, học bổng, ... nếu đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là ký túc xá của trường có đủ chỗ cho tất cả sinh viên không ạ?",
+    "output": "Ký túc xá của trường có sức chứa giới hạn. Việc bố trí chỗ ở sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn, sinh viên ở xa. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học."
+  },
+  {
+    "input": "Anh/chị ơi, chi phí ở ký túc xá của trường mình như thế nào ạ?",
+    "output": "Chi phí ở ký túc xá sẽ tùy thuộc vào loại phòng và số lượng người ở. Em có thể tham khảo mức phí cụ thể tại Ban Quản lý Ký túc xá."
+  },
+  {
+    "input": "Em muốn hỏi là thư viện của trường mình có những tài liệu gì ạ?",
+    "output": "Thư viện của trường có đầy đủ các loại tài liệu phục vụ cho việc học tập và nghiên cứu của sinh viên, bao gồm sách giáo trình, sách tham khảo, tạp chí chuyên ngành, luận văn, đồ án, ... Em có thể tra cứu tài liệu trực tuyến hoặc đến trực tiếp thư viện để mượn sách."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những cơ sở vật chất nào phục vụ cho việc học tập và sinh hoạt của sinh viên ạ?",
+    "output": "Trường mình có đầy đủ các cơ sở vật chất hiện đại phục vụ cho việc học tập và sinh hoạt của sinh viên, bao gồm phòng học, phòng thí nghiệm, thư viện, ký túc xá, nhà ăn, sân vận động, ... "
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có hỗ trợ sinh viên khởi nghiệp không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp, nơi cung cấp các dịch vụ hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là môi trường học tập ở trường mình như thế nào ạ?",
+    "output": "Trường mình có môi trường học tập năng động, sáng tạo, với đội ngũ giảng viên giàu kinh nghiệm, tâm huyết. Bên cạnh đó, trường cũng thường xuyên tổ chức các hoạt động học thuật, hội thảo, seminar để sinh viên có cơ hội giao lưu, học hỏi và phát triển bản thân."
+  },
+  {
+    "input": "Anh/chị ơi, sinh viên trường mình có cơ hội tham gia nghiên cứu khoa học không ạ?",
+    "output": "Trường mình khuyến khích sinh viên tham gia nghiên cứu khoa học thông qua các đề tài nghiên cứu khoa học cấp trường, cấp bộ, cấp nhà nước. Sinh viên có thể đăng ký tham gia nghiên cứu khoa học dưới sự hướng dẫn của các thầy cô giáo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động văn hóa, văn nghệ nào dành cho sinh viên không ạ?",
+    "output": "Trường mình có nhiều hoạt động văn hóa, văn nghệ sôi nổi dành cho sinh viên, ví dụ như: các cuộc thi tài năng, các chương trình giao lưu văn hóa, các lễ hội truyền thống, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những hoạt động thể dục thể thao nào dành cho sinh viên không ạ?",
+    "output": "Trường mình có nhiều hoạt động thể dục thể thao dành cho sinh viên, ví dụ như: các giải đấu thể thao, các câu lạc bộ thể thao, các lớp học thể dục thể thao, ... Em có thể tham gia các hoạt động này để rèn luyện sức khỏe và tinh thần."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động tình nguyện nào dành cho sinh viên không ạ?",
+    "output": "Trường mình có Đội tình nguyện thường xuyên tổ chức các hoạt động tình nguyện vì cộng đồng, ví dụ như: hiến máu nhân đạo, thăm hỏi các gia đình chính sách, dạy học cho trẻ em nghèo, ... Em có thể đăng ký tham gia Đội tình nguyện để đóng góp cho xã hội và phát triển bản thân."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi về cơ hội học lên cao học của sinh viên trường mình ạ?",
+    "output": "Trường mình có các chương trình đào tạo thạc sĩ và tiến sĩ cho sinh viên có nhu cầu học lên cao. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo sau đại học trên website của trường hoặc liên hệ phòng Đào tạo sau đại học."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có hỗ trợ sinh viên tìm kiếm học bổng du học không ạ?",
+    "output": "Trường mình có Phòng Hợp tác Quốc tế hỗ trợ sinh viên tìm kiếm thông tin về học bổng du học và các chương trình trao đổi sinh viên quốc tế."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có tổ chức các lớp học kỹ năng mềm cho sinh viên không ạ?",
+    "output": "Trường mình thường xuyên tổ chức các lớp học kỹ năng mềm miễn phí cho sinh viên, ví dụ như: kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian, ... Em có thể đăng ký tham gia các lớp học này để nâng cao kỹ năng và chuẩn bị tốt hơn cho công việc sau này."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách hỗ trợ gì cho sinh viên là người khuyết tật ạ?",
+    "output": "Trường mình có những chính sách hỗ trợ đặc biệt dành cho sinh viên là người khuyết tật, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, tạo điều kiện thuận lợi trong học tập và sinh hoạt."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để đảm bảo an ninh trật tự trong khuôn viên trường ạ?",
+    "output": "Trường mình có đội ngũ bảo vệ chuyên nghiệp, hệ thống camera giám sát, và các quy định nghiêm ngặt về an ninh trật tự để đảm bảo môi trường học tập và sinh hoạt an toàn cho sinh viên."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có dịch vụ y tế cho sinh viên không ạ?",
+    "output": "Trường mình có phòng y tế với đội ngũ y bác sĩ sẵn sàng hỗ trợ sinh viên trong trường hợp cần thiết. Ngoài ra, trường cũng có liên kết với các bệnh viện để đảm bảo chăm sóc sức khỏe tốt nhất cho sinh viên."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có hỗ trợ sinh viên trong việc tìm kiếm nhà trọ không ạ?",
+    "output": "Trường mình có Ban Quản lý Ký túc xá và Đoàn Thanh niên hỗ trợ sinh viên trong việc tìm kiếm nhà trọ an toàn, giá cả hợp lý ở khu vực xung quanh trường."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những dịch vụ hỗ trợ sinh viên quốc tế nào ạ?",
+    "output": "Trường mình có Phòng Hợp tác Quốc tế hỗ trợ sinh viên quốc tế trong các vấn đề về visa, chỗ ở, học tập, sinh hoạt, ... "
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có tổ chức các chương trình giao lưu văn hóa cho sinh viên quốc tế không ạ?",
+    "output": "Trường mình thường xuyên tổ chức các chương trình giao lưu văn hóa để sinh viên quốc tế có cơ hội tìm hiểu về văn hóa Việt Nam và giao lưu với sinh viên Việt Nam."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để bảo vệ môi trường ạ?",
+    "output": "Trường mình luôn chú trọng đến việc bảo vệ môi trường thông qua các hoạt động như: trồng cây xanh, tiết kiệm năng lượng, phân loại rác thải, sử dụng năng lượng tái tạo, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có dịch vụ y tế cho sinh viên không ạ?",
+    "output": "Trường mình có phòng y tế với đội ngũ y bác sĩ sẵn sàng hỗ trợ sinh viên trong trường hợp cần thiết. Ngoài ra, trường cũng có liên kết với các bệnh viện để đảm bảo chăm sóc sức khỏe tốt nhất cho sinh viên."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có hỗ trợ sinh viên trong việc tìm kiếm nhà trọ không ạ?",
+    "output": "Trường mình có Ban Quản lý Ký túc xá và Đoàn Thanh niên hỗ trợ sinh viên trong việc tìm kiếm nhà trọ an toàn, giá cả hợp lý ở khu vực xung quanh trường."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những dịch vụ hỗ trợ sinh viên quốc tế nào ạ?",
+    "output": "Trường mình có Phòng Hợp tác Quốc tế hỗ trợ sinh viên quốc tế trong các vấn đề về visa, chỗ ở, học tập, sinh hoạt, ... "
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có tổ chức các chương trình giao lưu văn hóa cho sinh viên quốc tế không ạ?",
+    "output": "Trường mình thường xuyên tổ chức các chương trình giao lưu văn hóa để sinh viên quốc tế có cơ hội tìm hiểu về văn hóa Việt Nam và giao lưu với sinh viên Việt Nam."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để bảo vệ môi trường ạ?",
+    "output": "Trường mình luôn chú trọng đến việc bảo vệ môi trường thông qua các hoạt động như: trồng cây xanh, tiết kiệm năng lượng, phân loại rác thải, sử dụng năng lượng tái tạo, ..."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là sinh viên trường mình có được tham gia các hoạt động của Đoàn Thanh niên không ạ?",
+    "output": "Tất cả sinh viên trường mình đều có thể tham gia các hoạt động của Đoàn Thanh niên. Đây là môi trường để sinh viên rèn luyện kỹ năng, phát triển bản thân và đóng góp cho cộng đồng."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có tổ chức các hoạt động hướng nghiệp cho sinh viên không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên và Việc làm thường xuyên tổ chức các hoạt động hướng nghiệp, tư vấn nghề nghiệp cho sinh viên, giúp sinh viên định hướng nghề nghiệp và chuẩn bị tốt hơn cho công việc sau này."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên có hoàn cảnh khó khăn ạ?",
+    "output": "Trường mình có nhiều chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, học bổng, tạo điều kiện làm thêm, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là sinh viên trường mình có được tham gia các cuộc thi học thuật không ạ?",
+    "output": "Trường mình khuyến khích sinh viên tham gia các cuộc thi học thuật, nghiên cứu khoa học, sáng tạo, khởi nghiệp, ... để phát triển năng lực và khẳng định bản thân."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để đảm bảo quyền lợi cho sinh viên ạ?",
+    "output": "Trường mình có Ban đại diện Hội sinh viên, nơi đại diện cho tiếng nói và bảo vệ quyền lợi của sinh viên. Sinh viên có thể liên hệ với Ban đại diện Hội sinh viên nếu gặp bất kỳ vấn đề gì trong quá trình học tập và sinh hoạt tại trường."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là sinh viên trường mình có cơ hội thực tập ở nước ngoài không ạ?",
+    "output": "Trường mình có hợp tác với nhiều trường đại học và doanh nghiệp nước ngoài, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc quốc tế."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có tổ chức các khóa học tiếng Anh cho sinh viên không ạ?",
+    "output": "Trường mình có Trung tâm Ngoại ngữ tổ chức các khóa học tiếng Anh với nhiều trình độ khác nhau để sinh viên nâng cao khả năng ngoại ngữ."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chương trình đào tạo liên kết quốc tế nào ạ?",
+    "output": "Trường mình có liên kết với nhiều trường đại học quốc tế để triển khai các chương trình đào tạo liên kết, cấp bằng quốc tế. Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là sinh viên trường mình có cơ hội tham gia các chương trình tình nguyện quốc tế không ạ?",
+    "output": "Trường mình có hợp tác với các tổ chức quốc tế để triển khai các chương trình tình nguyện quốc tế, tạo cơ hội cho sinh viên trải nghiệm và đóng góp cho cộng đồng quốc tế."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên sau khi ra trường ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên và Việc làm hỗ trợ sinh viên sau khi ra trường trong việc tìm kiếm việc làm, tư vấn nghề nghiệp, kết nối với các cựu sinh viên, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là sinh viên trường mình có được tham gia các hoạt động nghiên cứu khoa học cùng với giảng viên không ạ?",
+    "output": "Trường mình khuyến khích sinh viên tham gia các đề tài nghiên cứu khoa học cùng với giảng viên. Đây là cơ hội để sinh viên học hỏi kinh nghiệm, phát triển năng lực nghiên cứu và ứng dụng kiến thức vào thực tiễn."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có tổ chức các cuộc thi khởi nghiệp cho sinh viên không ạ?",
+    "output": "Trường mình thường xuyên tổ chức các cuộc thi khởi nghiệp dành cho sinh viên với nhiều lĩnh vực khác nhau, tạo sân chơi để sinh viên thể hiện ý tưởng sáng tạo và phát triển dự án khởi nghiệp."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để thu hút sinh viên quốc tế ạ?",
+    "output": "Trường mình có nhiều chính sách thu hút sinh viên quốc tế, bao gồm học bổng, chương trình đào tạo bằng tiếng Anh, môi trường học tập quốc tế, hỗ trợ sinh viên quốc tế trong học tập và sinh hoạt, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những thành tích nổi bật nào ạ?",
+    "output": "Trường mình tự hào là một trong những trường đại học hàng đầu về đào tạo kỹ thuật, kinh tế, quản lý, ... với nhiều thành tích nổi bật trong nghiên cứu khoa học, đào tạo, chuyển giao công nghệ, ... "
+  },
+  {
+    "input": "Em muốn hỏi là cựu sinh viên trường mình làm việc ở những lĩnh vực nào ạ?",
+    "output": "Cựu sinh viên trường mình làm việc ở nhiều lĩnh vực khác nhau, bao gồm kỹ thuật, kinh tế, quản lý, giáo dục, nghiên cứu khoa học, ... tại các doanh nghiệp, tổ chức trong và ngoài nước."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là sinh viên trường mình có cơ hội tham gia các chương trình thực tập hưởng lương không ạ?",
+    "output": "Trường mình có liên kết với nhiều doanh nghiệp, tổ chức để cung cấp các chương trình thực tập hưởng lương cho sinh viên. Em có thể tìm kiếm thông tin về các chương trình thực tập trên website của trường hoặc liên hệ Trung tâm Hỗ trợ Sinh viên và Việc làm."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những câu lạc bộ nào về công nghệ thông tin ạ?",
+    "output": "Trường mình có nhiều câu lạc bộ về công nghệ thông tin, ví dụ như: Câu lạc bộ An toàn thông tin, Câu lạc bộ Lập trình, Câu lạc bộ Robotics, ... Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ Đoàn Thanh niên."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có tổ chức các hoạt động văn hóa, nghệ thuật cho sinh viên quốc tế không ạ?",
+    "output": "Trường mình thường xuyên tổ chức các hoạt động văn hóa, nghệ thuật dành cho cả sinh viên Việt Nam và sinh viên quốc tế, ví dụ như: các chương trình giao lưu văn hóa, các lễ hội truyền thống, các cuộc thi tài năng, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên có hoàn cảnh khó khăn về nhà ở ạ?",
+    "output": "Trường mình có chính sách hỗ trợ chỗ ở trong ký túc xá cho sinh viên có hoàn cảnh khó khăn. Ngoài ra, trường cũng hỗ trợ sinh viên tìm kiếm nhà trọ an toàn, giá cả hợp lý ở khu vực xung quanh trường."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những dịch vụ tư vấn tâm lý cho sinh viên không ạ?",
+    "output": "Trường mình có phòng tư vấn tâm lý với đội ngũ chuyên gia sẵn sàng hỗ trợ sinh viên trong các vấn đề về tâm lý, học tập, cuộc sống, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những hoạt động nào để kết nối sinh viên với cựu sinh viên ạ?",
+    "output": "Trường mình thường xuyên tổ chức các buổi gặp gỡ, giao lưu giữa sinh viên và cựu sinh viên để chia sẻ kinh nghiệm, định hướng nghề nghiệp và hỗ trợ sinh viên trong việc tìm kiếm việc làm."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những chương trình học bổng nào dành cho sinh viên quốc tế ạ?",
+    "output": "Trường mình có nhiều chương trình học bổng dành cho sinh viên quốc tế với các mức hỗ trợ khác nhau, bao gồm học bổng toàn phần, học bổng bán phần, học bổng hỗ trợ sinh hoạt phí, ... Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ phòng Hợp tác Quốc tế."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những thành tựu gì trong lĩnh vực nghiên cứu khoa học ạ?",
+    "output": "Trường mình có nhiều thành tựu trong lĩnh vực nghiên cứu khoa học, với nhiều công trình nghiên cứu được công bố trên các tạp chí khoa học uy tín trong nước và quốc tế."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để khuyến khích sinh viên tham gia các hoạt động xã hội ạ?",
+    "output": "Trường mình khuyến khích sinh viên tham gia các hoạt động xã hội, tình nguyện thông qua các câu lạc bộ, đội nhóm, chương trình, dự án, ... Sinh viên tham gia các hoạt động xã hội sẽ được ghi nhận và đánh giá trong quá trình học tập và rèn luyện."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chương trình đào tạo nào về kỹ năng lãnh đạo ạ?",
+    "output": "Trường mình có các chương trình đào tạo kỹ năng lãnh đạo dành cho sinh viên, ví dụ như: các khóa học, hội thảo, seminar, các hoạt động ngoại khóa, ... giúp sinh viên phát triển kỹ năng lãnh đạo và quản lý."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên nữ ạ?",
+    "output": "Trường mình có Ban Nữ công và các tổ chức, câu lạc bộ dành riêng cho sinh viên nữ, hỗ trợ sinh viên nữ trong học tập, sinh hoạt, phát triển bản thân và bảo vệ quyền lợi."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những chương trình học bổng nào dành cho sinh viên có hoàn cảnh khó khăn ạ?",
+    "output": "Trường mình có nhiều chương trình học bổng dành cho sinh viên có hoàn cảnh khó khăn, ví dụ như: học bổng Vượt khó, học bổng Thắp sáng niềm tin, học bổng Nguyễn Văn Trỗi, ... Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động gì để giúp sinh viên hòa nhập với môi trường đại học ạ?",
+    "output": "Trường mình có chương trình “Tiếp sức mùa thi”, chương trình chào đón tân sinh viên, các hoạt động ngoại khóa, các câu lạc bộ, đội nhóm, ... để giúp sinh viên hòa nhập với môi trường đại học và làm quen với bạn bè."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những dịch vụ hỗ trợ sinh viên trong việc tìm kiếm việc làm thêm không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên và Việc làm hỗ trợ sinh viên trong việc tìm kiếm việc làm thêm phù hợp với thời gian học tập và chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để đảm bảo chất lượng đào tạo ạ?",
+    "output": "Trường mình luôn chú trọng đến việc nâng cao chất lượng đào tạo thông qua việc cập nhật chương trình đào tạo, đổi mới phương pháp giảng dạy, nâng cao trình độ đội ngũ giảng viên, đầu tư cơ sở vật chất, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những ngành học nào có tỷ lệ sinh viên có việc làm cao sau khi ra trường ạ?",
+    "output": "Trường mình có nhiều ngành học có tỷ lệ sinh viên có việc làm cao sau khi ra trường, ví dụ như các ngành thuộc lĩnh vực công nghệ thông tin, xây dựng, kinh tế, quản lý, ... Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những chương trình đào tạo nào được đánh giá cao bởi các tổ chức kiểm định chất lượng giáo dục ạ?",
+    "output": "Trường mình có nhiều chương trình đào tạo được đánh giá cao bởi các tổ chức kiểm định chất lượng giáo dục trong nước và quốc tế. Em có thể tìm hiểu thông tin chi tiết trên website của trường."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động nào để giúp sinh viên phát triển kỹ năng mềm ạ?",
+    "output": "Trường mình có nhiều hoạt động ngoại khóa, câu lạc bộ, đội nhóm, các khóa học kỹ năng mềm, ... để giúp sinh viên phát triển kỹ năng mềm như kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên là người dân tộc thiểu số ạ?",
+    "output": "Trường mình có nhiều chính sách hỗ trợ sinh viên là người dân tộc thiểu số, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, học bổng, ..."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động gì để kỷ niệm các ngày lễ lớn ạ?",
+    "output": "Trường mình thường xuyên tổ chức các hoạt động văn hóa, văn nghệ, thể dục thể thao, ... để kỷ niệm các ngày lễ lớn như ngày Quốc khánh, ngày Nhà giáo Việt Nam, ngày Sinh viên Việt Nam, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để thu hút giảng viên giỏi ạ?",
+    "output": "Trường mình có những chính sách thu hút giảng viên giỏi như: mức lương cạnh tranh, môi trường làm việc chuyên nghiệp, cơ hội nghiên cứu khoa học, ... "
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những hợp tác quốc tế nào trong lĩnh vực đào tạo và nghiên cứu khoa học ạ?",
+    "output": "Trường mình có hợp tác với nhiều trường đại học, viện nghiên cứu, tổ chức quốc tế trong lĩnh vực đào tạo và nghiên cứu khoa học, triển khai các chương trình trao đổi giảng viên, sinh viên, nghiên cứu chung, ..."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những thành tựu gì trong lĩnh vực chuyển giao công nghệ ạ?",
+    "output": "Trường mình có nhiều thành tựu trong lĩnh vực chuyển giao công nghệ, ứng dụng kết quả nghiên cứu khoa học vào thực tiễn sản xuất và đời sống."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những hoạt động gì để giúp sinh viên rèn luyện kỹ năng sống ạ?",
+    "output": "Trường mình có nhiều hoạt động ngoại khóa, câu lạc bộ, đội nhóm, các khóa học kỹ năng mềm, ... để giúp sinh viên rèn luyện kỹ năng sống như kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian, kỹ năng giải quyết vấn đề, ..."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chương trình đào tạo nào theo nhu cầu xã hội ạ?",
+    "output": "Trường mình thường xuyên cập nhật chương trình đào tạo, mở thêm các ngành học mới theo nhu cầu xã hội và xu hướng phát triển của thị trường lao động."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên tốt nghiệp loại giỏi ạ?",
+    "output": "Trường mình có những chính sách hỗ trợ sinh viên tốt nghiệp loại giỏi như: giới thiệu việc làm, học bổng học lên cao học, ... "
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những chương trình học bổng nào dành cho sinh viên tham gia nghiên cứu khoa học ạ?",
+    "output": "Trường mình có những chương trình học bổng dành cho sinh viên tham gia nghiên cứu khoa học, ví dụ như: học bổng Tài năng nghiên cứu, học bổng Eureka, ... Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động gì để kết nối với phụ huynh sinh viên ạ?",
+    "output": "Trường mình thường xuyên tổ chức các buổi gặp gỡ, trao đổi thông tin với phụ huynh sinh viên để cập nhật tình hình học tập, rèn luyện của sinh viên và lắng nghe ý kiến đóng góp từ phía phụ huynh."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chính sách gì để đảm bảo công bằng trong tuyển sinh ạ?",
+    "output": "Trường mình thực hiện tuyển sinh theo quy định của Bộ Giáo dục và Đào tạo, đảm bảo công bằng, minh bạch, khách quan."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những hoạt động gì để chào mừng tân sinh viên ạ?",
+    "output": "Trường mình có chương trình chào đón tân sinh viên với nhiều hoạt động sôi nổi, giúp tân sinh viên làm quen với môi trường đại học và hòa nhập với bạn bè."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những chương trình đào tạo nào được giảng dạy bằng tiếng Anh ạ?",
+    "output": "Trường mình có nhiều chương trình đào tạo được giảng dạy bằng tiếng Anh, đặc biệt là các chương trình tiên tiến, chương trình liên kết quốc tế. Em có thể tìm hiểu thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo."
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có những hoạt động gì để hỗ trợ sinh viên trong việc học tập tiếng Anh ạ?",
+    "output": "Trường mình có Trung tâm Ngoại ngữ tổ chức các khóa học tiếng Anh, câu lạc bộ tiếng Anh, các hoạt động ngoại khóa bằng tiếng Anh, ... để hỗ trợ sinh viên trong việc học tập và nâng cao khả năng tiếng Anh."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những chính sách gì để hỗ trợ sinh viên ra trường khởi nghiệp ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những hoạt động gì để tăng cường mối quan hệ hợp tác với các doanh nghiệp ạ?",
+    "output": "Trường mình thường xuyên tổ chức các buổi gặp gỡ, hội thảo, ký kết hợp tác với các doanh nghiệp để tạo điều kiện cho sinh viên thực tập, làm việc, và tiếp cận với cơ hội việc làm sau khi ra trường."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những thành tựu gì trong lĩnh vực hợp tác quốc tế ạ?",
+    "output": "Trường mình có nhiều thành tựu trong lĩnh vực hợp tác quốc tế, với nhiều chương trình trao đổi sinh viên, giảng viên, nghiên cứu chung với các trường đại học, viện nghiên cứu, tổ chức quốc tế."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm 2. Em muốn hỏi về mức hỗ trợ chi phí học tập cho sinh viên là người dân tộc thiểu số ạ?",
+    "output": "Chào em, mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình xét duyệt hồ sơ miễn giảm học phí vào thời gian nào ạ?",
+    "output": "Sinh viên thuộc diện miễn giảm học phí phải làm 01 bộ hồ sơ nộp lần đầu cho cả thời gian học tập, riêng sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo theo quy định của Thủ tướng Chính phủ, phải nộp bổ sung giấy xác nhận hộ nghèo hoặc cận nghèo vào đầu mỗi học kỳ em nhé."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi là sinh viên được hỗ trợ học tập là những đối tượng nào ạ?",
+    "output": "Sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thủy lợi em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức hỗ trợ học tập cho sinh viên là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng em ạ."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi về điều kiện để được hưởng trợ cấp xã hội của trường mình ạ.",
+    "output": "Trường mình có trợ cấp xã hội cho các đối tượng sau: sinh viên là người dân tộc ít người ở vùng cao, sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa, sinh viên là người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập. Mỗi đối tượng sẽ có những điều kiện cụ thể, em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là sinh viên năm nhất có được xét duyệt trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên năm nhất vẫn được xét duyệt trợ cấp xã hội như các sinh viên năm khác nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, mức trợ cấp xã hội của trường mình là bao nhiêu một tháng vậy ạ?",
+    "output": "Mức trợ cấp xã hội sẽ tùy thuộc vào từng đối tượng, cụ thể là: 140.000đ/tháng đối với sinh viên là người dân tộc ít người ở vùng cao, 100.000đ/tháng đối với các đối tượng còn lại em nhé!"
+  },
+  {
+    "input": "Cho em hỏi thời gian nộp hồ sơ xét duyệt trợ cấp xã hội là khi nào ạ?",
+    "output": "Sinh viên thuộc đối tượng người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ, không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn sẽ nộp hồ sơ xin hưởng trợ cấp xã hội duy nhất một lần trong toàn khóa học. Sinh viên thuộc đối tượng nghèo vượt khó học tập sẽ nộp hồ sơ mỗi kỳ một lần sau khi có kết quả học tập và rèn luyện của học kỳ trước liền kề em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là nếu em thuộc diện được miễn giảm học phí thì có được hưởng trợ cấp xã hội không ạ?",
+    "output": "Có em nhé. Sinh viên thuộc diện được miễn giảm học phí vẫn có thể được hưởng trợ cấp xã hội nếu thuộc các đối tượng và đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là trường mình có hỗ trợ gì cho sinh viên bị ảnh hưởng bởi dịch COVID-19 không ạ?",
+    "output": "Trường mình luôn quan tâm và có những hỗ trợ kịp thời cho sinh viên bị ảnh hưởng bởi dịch COVID-19. Em có thể theo dõi thông báo trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được biết thêm thông tin chi tiết em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Anh/chị ơi, điểm chuẩn vào trường mình những năm gần đây như thế nào ạ?",
+    "output": "Điểm chuẩn vào trường sẽ thay đổi theo từng năm và từng ngành học phụ thuộc vào số lượng thí sinh đăng ký và kết quả thi. Em có thể tham khảo điểm chuẩn của những năm trước trên website của trường hoặc các trang thông tin tuyển sinh để có dự đoán cho năm nay."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển thẳng không ạ?",
+    "output": "Trường mình có xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo cho các đối tượng như: học sinh giỏi cấp quốc gia, học sinh đạt giải trong các kỳ thi học sinh giỏi cấp tỉnh, thành phố, ... Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có tổ chức thi riêng không ạ?",
+    "output": "Trường mình chỉ xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT. Em có thể đăng ký xét tuyển vào trường theo quy định của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn tham quan trường mình thì phải làm sao ạ?",
+    "output": "Em có thể liên hệ với phòng Công tác Sinh viên hoặc Đoàn Thanh niên để đăng ký tham quan trường. Trường thường xuyên tổ chức các chương trình tham quan, trải nghiệm dành cho học sinh THPT."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những kênh thông tin nào để cập nhật tin tức về tuyển sinh ạ?",
+    "output": "Em có thể cập nhật thông tin tuyển sinh của trường qua website chính thức của trường, fanpage của trường trên Facebook, hoặc các kênh thông tin tuyển sinh uy tín khác."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi trường mình có những phương thức xét tuyển nào ạ?",
+    "output": "Trường mình xét tuyển dựa vào kết quả thi tốt nghiệp THPT theo các phương thức do Bộ Giáo dục và Đào tạo quy định. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc các trang thông tin tuyển sinh uy tín."
+  },
+  {
+    "input": "Anh/chị ơi, ngành ... của trường mình có những môn thi xét tuyển nào ạ?",
+    "output": "Môn thi xét tuyển vào từng ngành sẽ do Bộ Giáo dục và Đào tạo quy định. Em có thể tham khảo tổ hợp môn xét tuyển của từng ngành trên website của trường hoặc các trang thông tin tuyển sinh."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có xét tuyển học bạ không ạ?",
+    "output": "Trường mình hiện không xét tuyển học bạ. Em có thể đăng ký xét tuyển vào trường dựa vào kết quả thi tốt nghiệp THPT."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học phí của chương trình tiên tiến có cao hơn chương trình đại trà không ạ?",
+    "output": "Học phí của chương trình tiên tiến thường cao hơn chương trình đại trà do chương trình đào tạo có những yêu cầu cao hơn về cơ sở vật chất, đội ngũ giảng viên, và phương pháp giảng dạy. Em có thể tham khảo mức học phí cụ thể trên website của trường."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên chương trình tiên tiến có được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà không ạ?",
+    "output": "Sinh viên chương trình tiên tiến vẫn được hưởng các chính sách hỗ trợ như sinh viên chương trình đại trà, bao gồm miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập, trợ cấp xã hội, học bổng, ... nếu đáp ứng đủ điều kiện theo quy định."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là ký túc xá của trường có đủ chỗ cho tất cả sinh viên không ạ?",
+    "output": "Ký túc xá của trường có sức chứa giới hạn. Việc bố trí chỗ ở sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn, sinh viên ở xa. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học."
+  },
+  {
+    "input": "Anh/chị ơi, chi phí ở ký túc xá của trường mình như thế nào ạ?",
+    "output": "Chi phí ở ký túc xá sẽ tùy thuộc vào loại phòng và số lượng người ở. Em có thể tham khảo mức phí cụ thể tại Ban Quản lý Ký túc xá."
+  },
+  {
+    "input": "Em muốn hỏi là thư viện của trường mình có những tài liệu gì ạ?",
+    "output": "Thư viện của trường có đầy đủ các loại tài liệu phục vụ cho việc học tập và nghiên cứu của sinh viên, bao gồm sách giáo trình, sách tham khảo, tạp chí chuyên ngành, luận văn, đồ án, ... Em có thể tra cứu tài liệu trực tuyến hoặc đến trực tiếp thư viện để mượn sách."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những cơ sở vật chất nào phục vụ cho việc học tập và sinh hoạt của sinh viên ạ?",
+    "output": "Trường mình có đầy đủ các cơ sở vật chất hiện đại phục vụ cho việc học tập và sinh hoạt của sinh viên, bao gồm phòng học, phòng thí nghiệm, thư viện, ký túc xá, nhà ăn, sân vận động, ... "
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có hỗ trợ sinh viên khởi nghiệp không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp, nơi cung cấp các dịch vụ hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là học phí của trường mình đóng như thế nào ạ?",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Em có thể xem chi tiết tại website của trường hoặc liên hệ phòng Tài chính - Kế toán để được hỗ trợ thêm."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian thu học phí của trường mình là khi nào vậy ạ?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học em nhé!"
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có chính sách miễn giảm học phí không ạ?",
+    "output": "Có em nhé! Trường mình có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số, ... Em có thể xem chi tiết hơn tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, vậy em cần những giấy tờ gì để làm hồ sơ miễn giảm học phí ạ?",
+    "output": "Em cần chuẩn bị các giấy tờ sau: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu thường trú hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (nếu sổ hộ khẩu bị thất lạc), giấy chứng nhận vùng theo hộ khẩu có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (nếu có). Em có thể tham khảo thêm tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi em nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những hỗ trợ nào khác cho sinh viên không ạ?",
+    "output": "Ngoài miễn giảm học phí, trường mình còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên là người dân tộc thiểu số, và trợ cấp xã hội cho các đối tượng như: người dân tộc ít người ở vùng cao, người mồ côi cả cha lẫn mẹ không nơi nương tựa, người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn, sinh viên nghèo vượt khó học tập.  Em có thể tìm hiểu thêm thông tin tại website của trường hoặc liên hệ phòng Công tác Sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là học bổng của trường mình xét duyệt như thế nào ạ?",
+    "output": "Trường mình có nhiều loại học bổng khác nhau dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn, sinh viên tham gia nghiên cứu khoa học, ... Mỗi loại học bổng sẽ có những tiêu chí xét duyệt riêng. Em có thể xem thông tin chi tiết trên website của trường hoặc liên hệ phòng Công tác Sinh viên để được hướng dẫn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Anh/chị ơi, trường mình có chương trình trao đổi sinh viên quốc tế không ạ?",
+    "output": "Có em nhé! Trường mình có hợp tác với nhiều trường đại học danh tiếng trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên quốc tế. Đây là cơ hội để sinh viên trải nghiệm môi trường học tập mới, nâng cao trình độ ngoại ngữ và mở rộng mối quan hệ."
+  },
+  {
+    "input": "Cho em hỏi là sinh viên trường mình có được hỗ trợ thực tập tại các doanh nghiệp không ạ?",
+    "output": "Trường mình có mối quan hệ hợp tác với nhiều doanh nghiệp, tổ chức trong và ngoài nước, tạo điều kiện để sinh viên thực tập và trải nghiệm môi trường làm việc thực tế. Bên cạnh đó, trường cũng hỗ trợ sinh viên trong việc tìm kiếm cơ hội thực tập phù hợp với chuyên ngành đào tạo."
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có những ngành đào tạo nào ạ?",
+    "output": "Trường mình đào tạo đa dạng các ngành thuộc lĩnh vực kỹ thuật, kinh tế, quản lý, ... Em có thể xem danh sách chi tiết các ngành đào tạo trên website của trường hoặc liên hệ phòng Đào tạo để được tư vấn cụ thể hơn em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi là thủ tục nhập học của trường mình như thế nào ạ?",
+    "output": "Sau khi có kết quả trúng tuyển, em cần chuẩn bị hồ sơ nhập học theo hướng dẫn của nhà trường và nộp tại phòng Đào tạo trong thời gian quy định. Em có thể theo dõi thông tin chi tiết trên website của trường hoặc liên hệ phòng Đào tạo để được giải đáp thắc mắc."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là ký túc xá của trường có đủ chỗ cho tất cả sinh viên không ạ?",
+    "output": "Ký túc xá của trường có sức chứa giới hạn. Việc bố trí chỗ ở sẽ ưu tiên cho sinh viên năm nhất, sinh viên có hoàn cảnh khó khăn, sinh viên ở xa. Em có thể đăng ký ở ký túc xá theo thông báo của nhà trường vào đầu mỗi năm học."
+  },
+  {
+    "input": "Anh/chị ơi, chi phí ở ký túc xá của trường mình như thế nào ạ?",
+    "output": "Chi phí ở ký túc xá sẽ tùy thuộc vào loại phòng và số lượng người ở. Em có thể tham khảo mức phí cụ thể tại Ban Quản lý Ký túc xá."
+  },
+  {
+    "input": "Em muốn hỏi là thư viện của trường mình có những tài liệu gì ạ?",
+    "output": "Thư viện của trường có đầy đủ các loại tài liệu phục vụ cho việc học tập và nghiên cứu của sinh viên, bao gồm sách giáo trình, sách tham khảo, tạp chí chuyên ngành, luận văn, đồ án, ... Em có thể tra cứu tài liệu trực tuyến hoặc đến trực tiếp thư viện để mượn sách."
+  },
+  {
+    "input": "Chào anh/chị, cho em hỏi là trường mình có những cơ sở vật chất nào phục vụ cho việc học tập và sinh hoạt của sinh viên ạ?",
+    "output": "Trường mình có đầy đủ các cơ sở vật chất hiện đại phục vụ cho việc học tập và sinh hoạt của sinh viên, bao gồm phòng học, phòng thí nghiệm, thư viện, ký túc xá, nhà ăn, sân vận động, ... "
+  },
+  {
+    "input": "Em muốn hỏi là trường mình có hỗ trợ sinh viên khởi nghiệp không ạ?",
+    "output": "Trường mình có Trung tâm Hỗ trợ Sinh viên Khởi nghiệp, nơi cung cấp các dịch vụ hỗ trợ sinh viên trong việc khởi nghiệp, bao gồm tư vấn ý tưởng, xây dựng kế hoạch kinh doanh, đào tạo kỹ năng, kết nối với các nhà đầu tư, ..."
+  },
+  {
+    "input": "Nếu em là sinh viên ngoại trú mà không đăng ký tạm trú thì sẽ bị sao ạ?",
+    "output": "Việc không đăng ký tạm trú là vi phạm pháp luật và có thể bị xử phạt hành chính theo quy định em nhé."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về quy chế sinh viên ngoại trú thì phải làm sao ạ?",
+    "output": "Em có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được cung cấp thông tin chi tiết về quy chế sinh viên ngoại trú em nhé."
+  },
+  {
+    "input": "Quy chế sinh viên ngoại trú có ảnh hưởng gì đến việc xét tốt nghiệp của em không?",
+    "output": "Việc chấp hành quy chế sinh viên ngoại trú là một trong những tiêu chí đánh giá rèn luyện của sinh viên, có ảnh hưởng đến kết quả xét tốt nghiệp."
+  },
+  {
+    "input": "Nhà trường có kiểm tra nơi ở của sinh viên ngoại trú không?",
+    "output": "Có em nhé, nhà trường sẽ phối hợp với địa phương để kiểm tra, giám sát nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn xã hội."
+  },
+  {
+    "input": "Em là sinh viên năm cuối và đang chuẩn bị làm khóa luận tốt nghiệp. Em có cần tiếp tục báo cáo địa chỉ ngoại trú không?",
+    "output": "Có em nhé, em vẫn cần cập nhật thông tin địa chỉ ngoại trú cho đến khi tốt nghiệp."
+  },
+  {
+    "input": "Em muốn chuyển chỗ ở thì cần làm những gì ạ?",
+    "output": "Khi chuyển chỗ ở, em cần thông báo địa chỉ mới cho lớp trưởng trong vòng 20 ngày để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\". Nếu chuyển đến địa phương khác, em cũng cần làm thủ tục đăng ký tạm trú mới."
+  },
+  {
+    "input": "Khoa có trách nhiệm gì trong việc quản lý sinh viên ngoại trú?",
+    "output": "Khoa chủ quản có trách nhiệm theo dõi, kiểm tra tình hình sinh viên ngoại trú, thu thập báo cáo từ các lớp và tổng hợp báo cáo gửi về phòng Công tác chính trị & Quản lý sinh viên vào cuối mỗi học kỳ."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động ngoại khóa do địa phương tổ chức thì phải đăng ký ở đâu ạ?",
+    "output": "Em có thể liên hệ với chính quyền địa phương nơi cư trú để tìm hiểu và đăng ký tham gia các hoạt động."
+  },
+  {
+    "input": "Nếu em có vấn đề về chỗ ở hoặc gặp khó khăn trong việc thực hiện quy chế ngoại trú thì có thể nhờ ai hỗ trợ ạ?",
+    "output": "Em có thể liên hệ với lớp trưởng, cố vấn học tập hoặc phòng Công tác chính trị & Quản lý sinh viên để được hỗ trợ và tư vấn."
+  },
+  {
+    "input": "Quy chế ngoại trú có áp dụng cho sinh viên hệ vừa học vừa làm không ạ?",
+    "output": "Quy chế ngoại trú áp dụng cho tất cả sinh viên hệ chính quy, bao gồm cả sinh viên hệ vừa học vừa làm."
+  },
+  {
+    "input": "Em chào anh/chị, em là sinh viên năm nhất. Em muốn hỏi là quy chế ngoại trú được áp dụng từ năm nào ạ?",
+    "output": "Chào em, quy chế sinh viên ngoại trú đã được Trường Đại học Thủy lợi áp dụng từ năm học 2010-2011 theo thông tư số 27/2009/TT-BGDĐT của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Em ở cùng người thân chứ không ở ký túc xá, vậy em có được coi là sinh viên ngoại trú không ạ?",
+    "output": "Đúng rồi em, sinh viên ngoại trú là những sinh viên không ở trong ký túc xá của trường, bao gồm cả những em ở cùng người thân hoặc thuê nhà trọ."
+  },
+  {
+    "input": "Em là sinh viên ngoại trú, vậy em cần phải làm những gì ạ?",
+    "output": "Sinh viên ngoại trú cần thực hiện các nghĩa vụ theo quy chế học sinh sinh viên, chấp hành pháp luật, tham gia các hoạt động cộng đồng, đồng thời đăng ký tạm trú với cơ quan công an (trừ khi em có hộ khẩu thường trú tại nơi ở hiện tại)."
+  },
+  {
+    "input": "Em cần phải thông báo địa chỉ ngoại trú cho nhà trường trong thời gian bao lâu?",
+    "output": "Em cần thông báo địa chỉ ngoại trú cho nhà trường (thông qua lớp trưởng) trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cần cập nhật địa chỉ mới trong vòng 20 ngày."
+  },
+  {
+    "input": "Em là lớp trưởng, vậy em có trách nhiệm gì liên quan đến quản lý sinh viên ngoại trú ạ?",
+    "output": "Em cần thu thập thông tin địa chỉ ngoại trú của các bạn trong lớp và cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\", sau đó báo cáo lên khoa chủ quản vào tuần thứ 5 của mỗi học kỳ."
+  },
+  {
+    "input": "Nếu em vi phạm quy chế ngoại trú thì sẽ bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, em có thể bị xử lý kỷ luật theo quy định của nhà trường, từ khiển trách, cảnh cáo đến đình chỉ học tập hoặc buộc thôi học."
+  },
+  {
+    "input": "Ngoài việc đăng ký tạm trú, sinh viên ngoại trú còn cần lưu ý những gì về pháp luật?",
+    "output": "Sinh viên ngoại trú cần tuân thủ pháp luật về an ninh trật tự, an toàn xã hội, phòng chống ma túy, tệ nạn xã hội và bảo vệ môi trường."
+  },
+  {
+    "input": "Em ở trọ cùng bạn, vậy cả hai bọn em đều phải đăng ký tạm trú hay chỉ cần một người đăng ký là đủ ạ?",
+    "output": "Nếu cả hai em đều không có hộ khẩu thường trú tại nơi ở hiện tại thì đều phải đăng ký tạm trú."
+  },
+  {
+    "input": "Việc thực hiện quy chế ngoại trú có ý nghĩa gì ạ?",
+    "output": "Việc thực hiện quy chế ngoại trú giúp nhà trường quản lý sinh viên tốt hơn, đảm bảo an ninh trật tự, an toàn xã hội và tạo điều kiện thuận lợi cho sinh viên trong học tập và sinh hoạt."
+  },
+  {
+    "input": "Em có thể tìm hiểu quy chế sinh viên ngoại trú ở đâu ạ?",
+    "output": "Em có thể tìm hiểu quy chế sinh viên ngoại trú trong thông tư số 27/2009/TT-BGDĐT của Bộ Giáo dục và Đào tạo hoặc liên hệ phòng Công tác chính trị & Quản lý sinh viên để được cung cấp tài liệu."
+  },
+  {
+    "input": "Nếu em có thắc mắc về việc đăng ký tạm trú thì có thể hỏi ai?",
+    "output": "Em có thể hỏi cán bộ công an xã/phường/thị trấn nơi em cư trú hoặc liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được hướng dẫn."
+  },
+  {
+    "input": "Em là sinh viên quốc tế, vậy em có cần đăng ký tạm trú không?",
+    "output": "Sinh viên quốc tế cần làm thủ tục đăng ký tạm trú theo quy định của pháp luật Việt Nam."
+  },
+  {
+    "input": "Em thấy quy định về quy chế ngoại trú khá phức tạp, em có thể không thực hiện được không?",
+    "output": "Việc thực hiện quy chế ngoại trú là nghĩa vụ của sinh viên. Nếu em gặp khó khăn, hãy liên hệ với nhà trường để được hỗ trợ."
+  },
+  {
+    "input": "Ngoài quy chế ngoại trú, còn có quy định nào khác về quản lý sinh viên không ạ?",
+    "output": "Ngoài quy chế ngoại trú, còn có quy chế học sinh, sinh viên và các quy định khác của nhà trường về quản lý sinh viên."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động tình nguyện do nhà trường tổ chức dành cho sinh viên ngoại trú thì phải làm sao ạ?",
+    "output": "Em có thể theo dõi thông báo từ Đoàn Thanh niên, Hội Sinh viên hoặc phòng Công tác chính trị & Quản lý sinh viên để biết thông tin về các hoạt động tình nguyện và đăng ký tham gia."
+  },
+  {
+    "input": "Nhà trường có hỗ trợ gì cho sinh viên ngoại trú gặp khó khăn về chỗ ở không ạ?",
+    "output": "Nhà trường có chính sách hỗ trợ sinh viên gặp khó khăn về chỗ ở, em có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để tìm hiểu thêm về các chương trình hỗ trợ."
+  },
+  {
+    "input": "Nếu em muốn phản ánh về tình hình an ninh trật tự tại nơi ở thì phải làm sao?",
+    "output": "Em có thể báo cáo với chính quyền địa phương hoặc công an nơi cư trú, hoặc thông báo cho nhà trường để phối hợp giải quyết."
+  },
+  {
+    "input": "Quy chế ngoại trú có quy định gì về việc sinh viên ở ghép phòng trọ không ạ?",
+    "output": "Quy chế ngoại trú không có quy định cụ thể về việc sinh viên ở ghép phòng trọ, tuy nhiên, sinh viên cần đảm bảo an ninh trật tự, an toàn xã hội và tuân thủ các quy định của địa phương."
+  },
+  {
+    "input": "Nếu em muốn tìm bạn cùng phòng trọ thì có thể nhờ ai hỗ trợ không ạ?",
+    "output": "Em có thể nhờ bạn bè, các anh chị khóa trên hoặc tham gia các nhóm sinh viên trên mạng xã hội để tìm bạn cùng phòng trọ."
+  },
+  {
+    "input": "Em là sinh viên ngoại trú, vậy em phải làm gì để nhà trường nắm được thông tin về chỗ ở của mình?",
+    "output": "Em cần báo cáo địa chỉ ngoại trú cho lớp trưởng trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cũng cần báo lại trong vòng 20 ngày."
+  },
+  {
+    "input": "Thủ tục đăng ký tạm trú đối với sinh viên ngoại trú như thế nào?",
+    "output": "Sinh viên ngoại trú, trừ những bạn có hộ khẩu thường trú và đang cư trú tại địa chỉ đó, cần đăng ký tạm trú với công an xã, phường hoặc thị trấn nơi mình ở."
+  },
+  {
+    "input": "Ngoài việc học tập, sinh viên ngoại trú còn phải thực hiện những nghĩa vụ gì?",
+    "output": "Sinh viên ngoại trú cần thực hiện các nghĩa vụ theo quy định của nhà trường và pháp luật, bao gồm tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao, phòng chống ma túy, tội phạm và tệ nạn xã hội, bảo vệ môi trường."
+  },
+  {
+    "input": "Nhà trường quản lý thông tin ngoại trú của sinh viên như thế nào?",
+    "output": "Lớp trưởng sẽ ghi nhận địa chỉ ngoại trú của các bạn sinh viên vào \"Sổ theo dõi sinh viên ngoại trú\" và báo cáo lên khoa chủ quản định kỳ. Các khoa sẽ tổng hợp thông tin và báo cáo lên Phòng Công tác Chính trị & Quản lý Sinh viên."
+  },
+  {
+    "input": "Việc không chấp hành quy chế ngoại trú có bị ảnh hưởng đến kết quả rèn luyện không?",
+    "output": "Có, ý thức chấp hành quy chế ngoại trú sẽ được xem xét khi đánh giá kết quả rèn luyện của sinh viên."
+  },
+  {
+    "input": "Em có hộ khẩu thường trú tại Hà Nội nhưng đang ở trọ để tiện đi học, vậy em có cần đăng ký tạm trú không?",
+    "output": "Em vẫn cần báo cáo địa chỉ ngoại trú cho lớp trưởng, nhưng không cần đăng ký tạm trú."
+  },
+  {
+    "input": "Nếu em muốn thay đổi chỗ ở thì phải báo cáo với ai và trong thời gian bao lâu?",
+    "output": "Em cần báo cáo địa chỉ mới cho lớp trưởng trong vòng 20 ngày kể từ khi thay đổi chỗ ở."
+  },
+  {
+    "input": "Sổ theo dõi sinh viên ngoại trú do ai quản lý?",
+    "output": "Lớp trưởng có trách nhiệm quản lý và bảo quản Sổ theo dõi sinh viên ngoại trú trong suốt khóa học."
+  },
+  {
+    "input": "Nhà trường có thường xuyên kiểm tra nơi ở của sinh viên ngoại trú không?",
+    "output": "Có, nhà trường sẽ tiến hành kiểm tra nơi ở của sinh viên ngoại trú định kỳ và phối hợp với địa phương để đảm bảo an ninh trật tự."
+  },
+  {
+    "input": "Sinh viên ngoại trú vi phạm quy chế có thể bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, sinh viên có thể bị khiển trách, cảnh cáo, đình chỉ học tập hoặc buộc thôi học."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về quy chế ngoại trú thì có thể hỏi ai?",
+    "output": "Em có thể hỏi lớp trưởng, cố vấn học tập hoặc liên hệ với Phòng Công tác Chính trị & Quản lý Sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em muốn biết thông tin về các khu nhà trọ an toàn và giá cả hợp lý cho sinh viên thì tìm ở đâu?",
+    "output": "Em có thể tham khảo thông tin từ các anh chị khóa trên, các nhóm sinh viên trên mạng xã hội hoặc liên hệ với Đoàn Thanh niên - Hội Sinh viên trường để được hỗ trợ."
+  },
+  {
+    "input": "Em ở trọ cùng một số bạn khác, vậy em có cần phải đăng ký tạm trú cho cả nhóm không?",
+    "output": "Mỗi sinh viên cần tự đăng ký tạm trú cho bản thân, trừ những bạn có hộ khẩu thường trú và đang cư trú tại địa chỉ đó."
+  },
+  {
+    "input": "Nếu em có thắc mắc hoặc gặp khó khăn trong việc thực hiện quy chế ngoại trú thì phải làm sao?",
+    "output": "Em nên báo cáo với lớp trưởng hoặc liên hệ trực tiếp với Phòng Công tác Chính trị & Quản lý Sinh viên để được giải đáp và hỗ trợ."
+  },
+  {
+    "input": "Ngoài quy định của nhà trường, sinh viên ngoại trú còn cần lưu ý những vấn đề gì?",
+    "output": "Sinh viên ngoại trú cần tự bảo vệ bản thân và tài sản, giữ gìn vệ sinh môi trường, xây dựng mối quan hệ tốt đẹp với hàng xóm và chủ nhà trọ."
+  },
+  {
+    "input": "Em muốn đăng ký tạm trú thì cần chuẩn bị những giấy tờ gì?",
+    "output": "Em cần chuẩn bị giấy tờ tùy thân, giấy xác nhận của chủ nhà trọ và một số giấy tờ khác theo yêu cầu của công an địa phương."
+  },
+  {
+    "input": "Quy chế ngoại trú có áp dụng cho sinh viên hệ vừa học vừa làm không?",
+    "output": "Quy chế ngoại trú áp dụng cho tất cả sinh viên hệ chính quy, bao gồm cả sinh viên hệ vừa học vừa làm."
+  },
+  {
+    "input": "Nếu em ở cùng người thân tại Hà Nội thì có cần báo cáo địa chỉ ngoại trú không?",
+    "output": "Em vẫn cần báo cáo địa chỉ ngoại trú cho lớp trưởng để nhà trường nắm được thông tin."
+  },
+  {
+    "input": "Trường hợp nào sinh viên ngoại trú có thể bị buộc thôi học?",
+    "output": "Sinh viên ngoại trú vi phạm nghiêm trọng quy chế nhà trường hoặc pháp luật có thể bị buộc thôi học."
+  },
+  {
+    "input": "Em là sinh viên năm cuối và đang chuẩn bị đi thực tập, vậy em có cần tiếp tục báo cáo địa chỉ ngoại trú không?",
+    "output": "Nếu địa điểm thực tập khác với địa chỉ ngoại trú đã báo cáo trước đó, em cần cập nhật thông tin mới cho lớp trưởng."
+  }
+]
