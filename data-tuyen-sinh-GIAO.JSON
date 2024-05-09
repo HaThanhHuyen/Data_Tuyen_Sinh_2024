@@ -1063,8 +1063,518 @@
     {
         "input": "Em muốn biết công nghệ thông tin có thể giúp gì cho việc phát triển kinh tế?",
         "output": "Công nghệ thông tin là động lực quan trọng cho phát triển kinh tế, giúp tăng năng suất lao động, tạo ra nhiều việc làm mới, thúc đẩy đổi mới sáng tạo và tăng trưởng kinh tế."
+    },
+    {
+        "input": "Chào bạn, tôi muốn biết về chương trình tiên tiến của trường, bạn có thể cho tôi biết điều kiện để xếp lớp và miễn học tiếng Anh không?",
+        "output": "Chào bạn, việc xếp lớp và miễn học tiếng Anh cho sinh viên chương trình tiên tiến sẽ dựa vào trình độ tiếng Anh của bạn khi trúng tuyển. Nếu bạn không có chứng chỉ tiếng Anh quốc tế, bạn sẽ được phân lớp học tiếng Anh dựa trên điểm thi THPT. Nếu bạn có chứng chỉ IELTS từ 5.5 trở lên hoặc tương đương, bạn sẽ được miễn học tất cả các học phần tiếng Anh năm nhất và có thể được chuyển thẳng lên năm 2. Với chứng chỉ từ 4.5 đến dưới 5.5, bạn sẽ được miễn một số học phần."
+    },
+    {
+        "input": "Vậy nếu tôi có chứng chỉ tiếng Anh, làm sao để quy đổi thành điểm tiếng Anh của trường?",
+        "output": "Trường có bảng quy đổi điểm từ các chứng chỉ tiếng Anh quốc tế sang thang điểm 10. Bạn có thể tham khảo bảng này để biết điểm quy đổi của mình." 
+    },
+    {
+        "input": "Tôi cần đạt trình độ tiếng Anh như thế nào sau khi học xong năm nhất và năm hai?",
+        "output": "Sinh viên chương trình tiên tiến cần đạt trình độ IELTS 4.5 hoặc tương đương sau năm nhất và IELTS 5.5 hoặc tương đương sau năm hai. Trường sẽ tổ chức các kỳ thi IELTS/TOEFL nội bộ để đánh giá trình độ của bạn."
+    },
+    {
+        "input": "Liệu có cảnh báo học tập nếu tôi không đạt yêu cầu về tiếng Anh không?",
+        "output": "Đúng vậy, yêu cầu về trình độ tiếng Anh là một trong những điều kiện để xét cảnh báo kết quả học tập của sinh viên chương trình tiên tiến."
+    },
+    {
+        "input": "Quy định này có hiệu lực từ khi nào?",
+        "output": "Quy định này có hiệu lực từ năm học 2021-2022 cho sinh viên chương trình tiên tiến trúng tuyển từ năm đó."
+    },
+    {
+        "input": "Ngoài IELTS và TOEFL, trường có chấp nhận chứng chỉ tiếng Anh nào khác không?",
+        "output": "Có, trường cũng chấp nhận các chứng chỉ tiếng Anh quốc tế khác như TOEIC và Cambridge ESOL Tests (PET) với mức điểm tương đương."
+    },
+    {
+        "input": "Nếu tôi được miễn học tiếng Anh, tôi có thể học các môn khác thay thế không?",
+        "output": "Việc thay thế các học phần tiếng Anh bằng các môn học khác cần được xem xét và quyết định bởi phòng Đào tạo. Bạn có thể liên hệ với phòng Đào tạo để biết thêm chi tiết."
+    },
+    {
+        "input": "Trường có tổ chức các lớp học tiếng Anh nâng cao cho sinh viên chương trình tiên tiến không?", 
+        "output": "Có, trường có tổ chức các lớp học tiếng Anh nâng cao cho sinh viên chương trình tiên tiến nhằm giúp các bạn nâng cao trình độ tiếng Anh và đáp ứng yêu cầu của chương trình học."
+    },
+    {
+        "input": "Tôi có thể tham khảo quy định về trình độ tiếng Anh ở đâu?",
+        "output": "Bạn có thể tham khảo Quy định về trình độ tiếng Anh đối với sinh viên Chương trình tiên tiến của Trường Đại học Thủy lợi tại website của trường hoặc liên hệ với phòng Đào tạo để được cung cấp thông tin chi tiết." 
+    },
+    {
+        "input": "Nếu tôi không đạt yêu cầu tiếng Anh sau năm nhất, tôi có thể học lại vào năm sau không?",
+        "output": "Có, bạn sẽ có cơ hội học lại và thi lại tiếng Anh vào năm sau. Tuy nhiên, việc không đạt yêu cầu tiếng Anh có thể ảnh hưởng đến kết quả học tập và tiến độ học của bạn."
+    },
+    {
+        "input": "Điểm tiếng Anh của kỳ thi THPT có ảnh hưởng đến việc xét tuyển vào chương trình tiên tiến không?",
+        "output": "Điểm tiếng Anh của kỳ thi THPT là một trong những yếu tố được xem xét trong quá trình xét tuyển vào chương trình tiên tiến. Điểm càng cao thì khả năng trúng tuyển càng lớn."
+    },
+    {
+        "input": "Tôi có thể sử dụng chứng chỉ tiếng Anh đã hết hạn để xét miễn học tiếng Anh không?",
+        "output": "Không, bạn cần sử dụng chứng chỉ tiếng Anh còn thời hạn sử dụng tính đến ngày nhập học để xét miễn học tiếng Anh."
+    },
+    {
+        "input": "Trường có hỗ trợ gì cho sinh viên chương trình tiên tiến trong việc học tiếng Anh không?",
+        "output": "Trường có Trung tâm Đào tạo quốc tế hỗ trợ sinh viên chương trình tiên tiến trong việc học tiếng Anh, bao gồm các lớp học tiếng Anh nâng cao, các khóa luyện thi chứng chỉ tiếng Anh quốc tế và các hoạt động ngoại khóa bằng tiếng Anh." 
+    },
+    {
+        "input": "Tôi có thể đăng ký thi IELTS/TOEFL nội bộ ở đâu?",
+        "output": "Thông tin về lịch thi và cách đăng ký thi IELTS/TOEFL nội bộ sẽ được Trung tâm Đào tạo quốc tế thông báo trên website và các kênh thông tin của trường." 
+    },
+    {
+        "input": "Yêu cầu về trình độ tiếng Anh có thay đổi theo từng ngành học không?",
+        "output": "Không, yêu cầu về trình độ tiếng Anh là như nhau đối với tất cả các ngành học của chương trình tiên tiến."
+    },
+    {
+        "input": "Chứng chỉ tiếng Anh cần có thời hạn sử dụng bao lâu mới được chấp nhận?", 
+        "output": "Chứng chỉ tiếng Anh cần có thời hạn sử dụng tính đến ngày nhập học."
+    },
+    {
+        "input": "Nếu tôi có thắc mắc về quy định tiếng Anh, tôi có thể liên hệ với ai?",
+        "output": "Bạn có thể liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế để được giải đáp thắc mắc về quy định tiếng Anh cho sinh viên chương trình tiên tiến." 
+    },
+    {
+        "input": "Kỹ năng tiếng Anh nào được chú trọng nhất trong chương trình tiên tiến?",
+        "output": "Chương trình tiên tiến chú trọng phát triển toàn diện cả 4 kỹ năng Nghe, Nói, Đọc, Viết. Tuy nhiên, tùy theo từng ngành học, có thể có sự nhấn mạnh vào một số kỹ năng cụ thể hơn." 
+    },
+    {
+        "input": "Trường có chương trình trao đổi sinh viên quốc tế cho sinh viên chương trình tiên tiến không?",
+        "output": "Có, trường có chương trình trao đổi sinh viên quốc tế với nhiều trường đại học đối tác trên thế giới. Sinh viên chương trình tiên tiến có cơ hội tham gia chương trình này để học tập và trải nghiệm môi trường quốc tế." 
+    },
+    {
+        "input": "Việc học tiếng Anh trong chương trình tiên tiến có giúp ích gì cho công việc sau này không?",
+        "output": "Chắc chắn rồi! Trình độ tiếng Anh tốt sẽ giúp bạn có nhiều cơ hội việc làm hơn, đặc biệt là trong các công ty, tổ chức quốc tế hoặc các ngành nghề yêu cầu giao tiếp bằng tiếng Anh."
+    },
+    {
+        "input": "Giảng viên dạy tiếng Anh trong chương trình tiên tiến là người nước ngoài hay người Việt?",
+        "output": "Chương trình tiên tiến có cả giảng viên người Việt Nam và người nước ngoài giàu kinh nghiệm giảng dạy tiếng Anh cho sinh viên."
+    },
+    {
+        "input": "Tôi có thể tham gia câu lạc bộ tiếng Anh nào trong trường?",
+        "output": "Trường có nhiều câu lạc bộ tiếng Anh với các hoạt động đa dạng như CLB Debate, CLB MC, CLB Tiếng Anh giao tiếp... Bạn có thể tham gia để rèn luyện kỹ năng tiếng Anh và giao lưu với các bạn cùng sở thích." 
+    },
+    {
+        "input": "Tài liệu học tiếng Anh trong chương trình tiên tiến có gì khác so với chương trình đại trà?",
+        "output": "Tài liệu học tiếng Anh trong chương trình tiên tiến thường là những giáo trình cập nhật, tiên tiến và phù hợp với nhu cầu học tập của sinh viên theo định hướng quốc tế."
+    },
+    {
+        "input": "Lớp học tiếng Anh trong chương trình tiên tiến có sĩ số bao nhiêu?", 
+        "output": "Sĩ số lớp học tiếng Anh trong chương trình tiên tiến thường nhỏ hơn so với chương trình đại trà, giúp đảm bảo chất lượng giảng dạy và tương tác giữa giảng viên và sinh viên." 
+    },
+    {
+        "input": "Ngoài giờ học chính khóa, tôi có thể tìm kiếm sự hỗ trợ về tiếng Anh ở đâu?",
+        "output": "Ngoài giờ học chính khóa, bạn có thể tìm kiếm sự hỗ trợ về tiếng Anh tại Trung tâm tự học của trường, thư viện hoặc tham gia các nhóm học tập tiếng Anh cùng các bạn sinh viên khác." 
+    },
+    {
+        "input": "Chương trình tiên tiến có tổ chức các kỳ thi tiếng Anh quốc tế tại trường không?",
+        "output": "Hiện tại, trường chưa tổ chức các kỳ thi tiếng Anh quốc tế như IELTS hoặc TOEFL. Tuy nhiên, trường có các kỳ thi nội bộ để đánh giá trình độ tiếng Anh của sinh viên và có thể hỗ trợ sinh viên đăng ký thi chứng chỉ quốc tế tại các trung tâm khảo thí uy tín."
+    },
+    {
+        "input": "Tôi có thể sử dụng kết quả thi tiếng Anh nội bộ của trường để làm gì?",
+        "output": "Kết quả thi tiếng Anh nội bộ của trường được sử dụng để đánh giá trình độ tiếng Anh của sinh viên, xếp lớp, miễn giảm học phần và xét cảnh báo học tập." 
+    },
+    {
+        "input": "Nếu tôi đã có chứng chỉ tiếng Anh đạt yêu cầu nhưng muốn học thêm tiếng Anh, tôi có thể đăng ký học không?",
+        "output": "Có, bạn vẫn có thể đăng ký học các lớp tiếng Anh nâng cao hoặc các khóa học tiếng Anh chuyên ngành để nâng cao trình độ tiếng Anh của mình."
+    },
+    {
+        "input": "Có giới hạn số lần thi tiếng Anh nội bộ trong một năm học không?",
+        "output": "Thông thường, trường sẽ tổ chức ít nhất 2 kỳ thi tiếng Anh nội bộ trong một năm học. Số lần thi cụ thể sẽ được thông báo bởi Trung tâm Đào tạo quốc tế." 
+    },
+    {
+        "input": "Tôi có thể sử dụng chứng chỉ tiếng Anh nội bộ để xin học bổng hoặc việc làm không?",
+        "output": "Chứng chỉ tiếng Anh nội bộ của trường thường được sử dụng trong phạm vi nội bộ trường. Để xin học bổng hoặc việc làm, bạn nên sử dụng các chứng chỉ tiếng Anh quốc tế được công nhận rộng rãi hơn." 
+    },
+    {
+        "input": "Chi phí thi tiếng Anh nội bộ là bao nhiêu?",
+        "output": "Chi phí thi tiếng Anh nội bộ sẽ được thông báo cụ thể trước mỗi kỳ thi." 
+    },
+    {
+        "input": "Ngoài việc học tiếng Anh, sinh viên chương trình tiên tiến còn được hưởng những lợi ích gì?",
+        "output": "Sinh viên chương trình tiên tiến còn được hưởng nhiều lợi ích khác như: học tập trong môi trường quốc tế, tiếp cận với chương trình đào tạo tiên tiến, cơ hội tham gia các chương trình trao đổi sinh viên, thực tập tại các công ty, tập đoàn lớn..."
+    },
+    {
+        "input": "Tôi có thể chuyển từ chương trình đại trà sang chương trình tiên tiến không?",
+        "output": "Việc chuyển đổi chương trình học cần tuân thủ quy định của trường. Bạn nên liên hệ với phòng Đào tạo để được tư vấn cụ thể." 
+    },
+    {
+        "input": "Có sự khác biệt nào về bằng cấp giữa sinh viên chương trình tiên tiến và chương trình đại trà không?",
+        "output": "Bằng cấp của sinh viên chương trình tiên tiến và chương trình đại trà về cơ bản là giống nhau. Tuy nhiên, sinh viên chương trình tiên tiến có thể được ghi nhận thêm thông tin về chương trình học trên bảng điểm hoặc học bạ." 
+    },
+    {
+        "input": "Chào bạn, tôi muốn biết về chương trình tiếng Anh tăng cường của trường. Bạn có thể giải thích rõ hơn về chương trình này không?",
+        "output": "Chào bạn, chương trình tiếng Anh tăng cường là chương trình bổ trợ dành cho sinh viên có trình độ tiếng Anh đầu vào chưa đáp ứng yêu cầu. Chương trình này giúp sinh viên đạt được ngưỡng tối thiểu trước khi bắt đầu học các học phần tiếng Anh chính thức trong chương trình đào tạo."
+    },
+    {
+        "input": "Tôi có bắt buộc phải học tiếng Anh tăng cường không?",
+        "output": "Sinh viên có điểm thi tiếng Anh THPT dưới 4 điểm sẽ bắt buộc tham gia chương trình tiếng Anh tăng cường. Các bạn có điểm thi từ 4 điểm trở lên hoặc có chứng chỉ tiếng Anh theo quy định của trường sẽ được miễn học phần này."
+    },
+    {
+        "input": "Chương trình tiếng Anh tăng cường kéo dài bao lâu và gồm những nội dung gì?",
+        "output": "Chương trình tiếng Anh tăng cường có tổng khối lượng 6 tín chỉ và tập trung vào việc phát triển các kỹ năng nghe, nói, đọc, viết cơ bản để giúp sinh viên đạt trình độ A2 theo Khung năng lực ngoại ngữ Việt Nam." 
+    },
+    {
+        "input": "Tôi có chứng chỉ tiếng Anh quốc tế, tôi có được miễn học tiếng Anh tăng cường không?", 
+        "output": "Nếu bạn có chứng chỉ tiếng Anh quốc tế như IELTS, TOEFL, TOEIC,... đạt mức điểm tối thiểu theo quy định, bạn có thể được miễn học tiếng Anh tăng cường. Bạn cần nộp đơn và chứng chỉ cho Phòng Chính trị và Công tác sinh viên để được xét miễn."
+    },
+    {
+        "input": "Tôi có thể tham khảo danh sách các chứng chỉ tiếng Anh được công nhận ở đâu?",
+        "output": "Danh sách các chứng chỉ tiếng Anh được công nhận và mức điểm tối thiểu tương ứng được quy định trong Quy định về khối lượng và tổ chức học phần tiếng Anh tăng cường của trường. Bạn có thể tham khảo quy định này trên website của trường hoặc liên hệ với phòng Đào tạo." 
+    },
+    {
+        "input": "Lớp học tiếng Anh tăng cường được tổ chức như thế nào?",
+        "output": "Lớp học tiếng Anh tăng cường được tổ chức vào các ngày trong tuần, bao gồm cả thứ Bảy, Chủ nhật và buổi tối, để đáp ứng nhu cầu của sinh viên. Sĩ số mỗi lớp tối đa 30 sinh viên." 
+    },
+    {
+        "input": "Giảng viên dạy tiếng Anh tăng cường là ai?", 
+        "output": "Giảng viên tiếng Anh tăng cường là các giảng viên của Bộ môn Tiếng Anh hoặc giảng viên thỉnh giảng đáp ứng điều kiện về trình độ và kinh nghiệm giảng dạy."
+    },
+    {
+        "input": "Kết thúc chương trình, tôi cần làm gì để được học tiếng Anh chính khóa?",
+        "output": "Sau khi hoàn thành chương trình tiếng Anh tăng cường, bạn sẽ tham gia một bài thi đánh giá. Nếu đạt yêu cầu, bạn sẽ được đăng ký học các học phần tiếng Anh chính thức trong chương trình đào tạo." 
+    },
+    {
+        "input": "Nếu tôi không đạt yêu cầu trong kỳ thi đánh giá tiếng Anh tăng cường thì sao?",
+        "output": "Nếu bạn đã tham gia trên 80% số buổi học và không đạt yêu cầu trong kỳ thi đánh giá, bạn sẽ được tạo điều kiện để học phụ đạo miễn phí và thi lại." 
+    },
+    {
+        "input": "Học phí và lệ phí thi tiếng Anh tăng cường là bao nhiêu?",
+        "output": "Học phí tiếng Anh tăng cường được tính theo số tín chỉ và đơn giá quy định của trường. Lệ phí thi sẽ được thông báo trước mỗi kỳ thi." 
+    },
+    {
+        "input": "Phương pháp giảng dạy tiếng Anh tăng cường có gì đặc biệt?",
+        "output": "Chương trình tiếng Anh tăng cường chú trọng phát triển kỹ năng giao tiếp thông qua các hoạt động nhóm, thảo luận, thuyết trình. Ngoài ra, chương trình cũng ứng dụng công nghệ trong dạy và học, mời giáo viên bản ngữ tham gia giảng dạy và tổ chức các hoạt động ngoại khóa, câu lạc bộ tiếng Anh."
+    },
+    {
+        "input": "Trường có hỗ trợ gì cho sinh viên trong việc học tiếng Anh tăng cường không?",
+        "output": "Trường cung cấp đầy đủ cơ sở vật chất phục vụ cho việc học tập, bao gồm phòng học tiêu chuẩn, máy chiếu, điều hòa. Ngoài ra, trường còn xây dựng kho học liệu để sinh viên tham khảo, tự học và tổ chức các cuộc thi tiếng Anh để tạo động lực học tập cho sinh viên."
+    },
+    {
+        "input": "Tôi có thể đăng ký học tiếng Anh tăng cường ở đâu?",
+        "output": "Thông tin về việc đăng ký học tiếng Anh tăng cường sẽ được thông báo bởi Phòng Đào tạo và Phòng Chính trị & Công tác sinh viên." 
+    },
+    {
+        "input": "Nếu tôi đã có chứng chỉ tiếng Anh nhưng muốn ôn luyện lại kiến thức cơ bản, tôi có thể tham gia tiếng Anh tăng cường không?",
+        "output": "Có, bạn hoàn toàn có thể đăng ký học tiếng Anh tăng cường nếu có nhu cầu, kể cả khi đã có chứng chỉ tiếng Anh."
+    },
+    {
+        "input": "Chương trình tiếng Anh tăng cường có giúp ích gì cho việc học tiếng Anh chính khóa sau này không?",
+        "output": "Chương trình tiếng Anh tăng cường giúp bạn củng cố kiến thức nền tảng, làm quen với phương pháp học tập và tạo sự tự tin để bạn có thể học tốt tiếng Anh chính khóa sau này."
+    },
+    {
+        "input": "Tôi có thể bảo lưu kết quả học phần tiếng Anh tăng cường không?",
+        "output": "Việc bảo lưu kết quả học phần tiếng Anh tăng cường cần tuân thủ quy định về bảo lưu kết quả học tập của trường. Bạn nên liên hệ với phòng Đào tạo để được hướng dẫn cụ thể." 
+    },
+    {
+        "input": "Giáo trình sử dụng trong chương trình tiếng Anh tăng cường là gì?",
+        "output": "Giáo trình sử dụng trong chương trình tiếng Anh tăng cường là những giáo trình phù hợp với trình độ A2 và được Bộ môn Tiếng Anh lựa chọn kỹ lưỡng."
+    },
+    {
+        "input": "Tôi có thể học tiếng Anh tăng cường online không?",
+        "output": "Hiện tại, chương trình tiếng Anh tăng cường chủ yếu được tổ chức theo hình thức học trực tiếp. Tuy nhiên, trường cũng đang nghiên cứu và triển khai các giải pháp học tập trực tuyến để đáp ứng nhu cầu của sinh viên."
+    },
+    {
+        "input": "Kết quả học phần tiếng Anh tăng cường có ảnh hưởng đến việc xét tốt nghiệp không?",
+        "output": "Kết quả học phần tiếng Anh tăng cường không ảnh hưởng trực tiếp đến việc xét tốt nghiệp. Tuy nhiên, bạn cần hoàn thành học phần này để đáp ứng yêu cầu về trình độ tiếng Anh và tiếp tục học các học phần tiếng Anh chính khóa."
+    },
+    {
+        "input": "Nếu tôi đã học tiếng Anh ở trung tâm bên ngoài, tôi có thể sử dụng kết quả đó để miễn học tiếng Anh tăng cường không?", 
+        "output": "Việc miễn học tiếng Anh tăng cường chỉ áp dụng cho những sinh viên có chứng chỉ tiếng Anh theo quy định của trường. Bạn nên liên hệ với phòng Đào tạo để được tư vấn cụ thể về trường hợp của mình." 
+    },
+    {
+        "input": "Tôi có thể học lại tiếng Anh tăng cường nếu đã trượt kỳ thi đánh giá không?",
+        "output": "Có, bạn có thể đăng ký học lại tiếng Anh tăng cường và thi lại kỳ thi đánh giá nếu chưa đạt yêu cầu."
+    },
+    {
+        "input": "Có giới hạn số lần học lại tiếng Anh tăng cường không?",
+        "output": "Hiện tại, trường chưa quy định giới hạn số lần học lại tiếng Anh tăng cường. Tuy nhiên, bạn nên cố gắng hoàn thành chương trình này sớm để đảm bảo tiến độ học tập." 
+    },
+    {
+        "input": "Ngoài tiếng Anh tăng cường, trường có chương trình hỗ trợ tiếng Anh nào khác cho sinh viên không?", 
+        "output": "Ngoài tiếng Anh tăng cường, trường còn có các chương trình hỗ trợ tiếng Anh khác như: các lớp tiếng Anh nâng cao, các khóa luyện thi chứng chỉ tiếng Anh quốc tế, câu lạc bộ tiếng Anh và các hoạt động ngoại khóa bằng tiếng Anh."
+    },
+    {
+        "input": "Tôi có thể tìm hiểu thêm thông tin về chương trình tiếng Anh tăng cường ở đâu?",
+        "output": "Bạn có thể tìm hiểu thêm thông tin về chương trình tiếng Anh tăng cường trên website của trường, liên hệ với phòng Đào tạo, phòng Chính trị & Công tác sinh viên hoặc Bộ môn Tiếng Anh."
+    },
+    {
+        "input": "Tôi cần chuẩn bị gì trước khi tham gia chương trình tiếng Anh tăng cường?", 
+        "output": "Trước khi tham gia chương trình tiếng Anh tăng cường, bạn nên ôn tập lại kiến thức tiếng Anh cơ bản, chuẩn bị sách vở, tài liệu học tập và tinh thần sẵn sàng học hỏi."
+    },
+    {
+        "input": "Chương trình tiếng Anh tăng cường có áp dụng cho sinh viên hệ vừa học vừa làm không?",
+        "output": "Chương trình tiếng Anh tăng cường hiện tại chỉ áp dụng cho sinh viên hệ chính quy. Sinh viên hệ vừa học vừa làm có thể tham khảo các chương trình hỗ trợ tiếng Anh khác của trường hoặc các trung tâm tiếng Anh bên ngoài."
+    },
+    {
+        "input": "Nếu tôi đã tốt nghiệp THPT lâu năm và mất căn bản tiếng Anh, liệu tôi có thể theo kịp chương trình tiếng Anh tăng cường không?",
+        "output": "Chương trình tiếng Anh tăng cường được thiết kế phù hợp với trình độ của sinh viên mới tốt nghiệp THPT. Tuy nhiên, nếu bạn đã mất căn bản tiếng Anh, bạn có thể cần nỗ lực nhiều hơn trong việc tự học và ôn tập."
+    },
+    {
+        "input": "Tôi có thể đóng học phí tiếng Anh tăng cường theo kỳ được không?",
+        "output": "Việc đóng học phí tiếng Anh tăng cường sẽ được thông báo cụ thể bởi phòng Tài chính - Kế toán. Bạn có thể liên hệ với phòng này để biết thêm chi tiết."
+    },
+    {
+        "input": "Tôi có thể xin học bổng tiếng Anh tăng cường không?",
+        "output": "Hiện tại, trường chưa có chính sách học bổng riêng cho chương trình tiếng Anh tăng cường. Tuy nhiên, bạn có thể tham khảo các chương trình học bổng khác của trường hoặc các tổ chức bên ngoài." 
+    },
+    {
+        "input": "Chào anh/chị, cho em hỏi trường mình có quy định gì về chuẩn đầu ra công nghệ thông tin cho sinh viên đại học không?",
+        "output": "Chào em, trường Đại học Thủy lợi có ban hành Quy định về chuẩn đầu ra công nghệ thông tin cho sinh viên đại học từ khóa tuyển sinh năm học 2021-2022 theo Quyết định số 411/QĐ-ĐHTL ngày 06/04/2022."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về quy định chuẩn đầu ra công nghệ thông tin, anh/chị có thể cho em biết văn bản nào quy định về vấn đề này không?",
+        "output": "Em có thể tham khảo Quyết định số 411/QĐ-ĐHTL ngày 06/04/2022 của Hiệu trưởng trường Đại học Thủy lợi. Quyết định này ban hành kèm theo Quy định về chuẩn đầu ra công nghệ thông tin đối với sinh viên trình độ đại học của trường." 
+    },
+    {
+        "input": "Quy định này có hiệu lực từ khi nào vậy anh/chị?",
+        "output": "Quy định này có hiệu lực từ ngày ký, tức là ngày 06/04/2022 em nhé."
+    },
+    {
+        "input": "Vậy quy định này áp dụng cho những sinh viên nào ạ?",
+        "output": "Quy định này áp dụng cho các khóa tuyển sinh trình độ đại học từ năm học 2021-2022 trở đi."
+    },
+    {
+        "input": "Ngoài quy định của trường, chuẩn đầu ra công nghệ thông tin còn dựa trên những văn bản nào khác không anh/chị?",
+        "output": "Chuẩn đầu ra công nghệ thông tin còn được xây dựng dựa trên Khung trình độ quốc gia Việt Nam (Quyết định số 1982/QĐ-TTg ngày 18/10/2016 của Thủ tướng Chính phủ) và Chuẩn kỹ năng sử dụng công nghệ thông tin (Thông tư số 03/2014/TT-BTTTT ngày 11/03/2014 của Bộ trưởng Bộ Thông tin và Truyền thông)." 
+    },
+    {
+        "input": "Em muốn biết thêm chi tiết về chuẩn đầu ra công nghệ thông tin thì phải làm sao ạ?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo, Phòng Khảo thí và Đảm bảo chất lượng hoặc Phòng Chính trị và Công tác sinh viên của trường để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Vậy em có thể tìm đọc Quyết định số 411/QĐ-ĐHTL ở đâu?",
+        "output": "Em có thể tìm đọc Quyết định này trên website của trường, cổng thông tin sinh viên hoặc liên hệ với Phòng Đào tạo để được cung cấp em nhé."
+    },
+    {
+        "input": "Cảm ơn anh/chị đã giải đáp! Em muốn hỏi thêm về chương trình đào tạo của trường mình, anh/chị có thể giới thiệu qua không?",
+        "output": "Chắc chắn rồi em. Trường Đại học Thủy lợi đào tạo đa ngành, đa lĩnh vực với các khối ngành chính như Khoa học Kỹ thuật và Công nghệ, Kinh tế - Quản lý, Khoa học Xã hội và Nhân văn. Em quan tâm đến khối ngành nào?"
+    },
+    {
+        "input": "Em muốn tìm hiểu về ngành Công nghệ thông tin ạ. Trường mình có những chuyên ngành nào về Công nghệ thông tin?",
+        "output": "Trường có các chuyên ngành về Công nghệ thông tin như Khoa học Máy tính, Kỹ thuật Phần mềm, Hệ thống Thông tin, An toàn thông tin, Trí tuệ nhân tạo, Khoa học Dữ liệu. Em muốn tìm hiểu về chuyên ngành nào cụ thể?" 
+    },
+    {
+        "input": "Nghe hay quá! Vậy chuyên ngành Khoa học Máy tính học những gì ạ?",
+        "output": "Chuyên ngành Khoa học Máy tính cung cấp kiến thức nền tảng về khoa học máy tính, lập trình, cấu trúc dữ liệu và giải thuật, hệ điều hành, mạng máy tính, trí tuệ nhân tạo, v.v. Sinh viên được trang bị kỹ năng phân tích, thiết kế, xây dựng và triển khai các hệ thống phần mềm."
+    },
+    {
+        "input": "Vậy cơ hội việc làm của ngành này như thế nào anh/chị?",
+        "output": "Sinh viên tốt nghiệp ngành Khoa học máy tính có thể làm việc trong nhiều lĩnh vực như phát triển phần mềm, quản trị hệ thống, an ninh mạng, nghiên cứu và phát triển, v.v. với nhiều vị trí như lập trình viên, kỹ sư phần mềm, chuyên gia phân tích dữ liệu, chuyên gia an ninh mạng, v.v."
+    },
+    {
+        "input": "Nghe hấp dẫn quá! Vậy điểm chuẩn đầu vào của ngành này có cao không anh/chị?",
+        "output": "Điểm chuẩn đầu vào của ngành Khoa học Máy tính có thể thay đổi theo từng năm và phương thức tuyển sinh. Em có thể tham khảo điểm chuẩn các năm trước trên website của trường hoặc liên hệ với Phòng Đào tạo để được tư vấn cụ thể hơn."
+    },
+    {
+        "input": "Em cảm ơn anh/chị đã tư vấn! Trường mình có học bổng gì cho sinh viên không ạ?",
+        "output": "Trường có nhiều loại học bổng cho sinh viên như học bổng khuyến khích học tập, học bổng tài năng, học bổng sinh viên nghèo vượt khó, học bổng doanh nghiệp, v.v. Em có thể tìm hiểu thêm thông tin về các loại học bổng và điều kiện xét học bổng trên website của trường hoặc liên hệ với Phòng Công tác sinh viên."
+    },
+    {
+        "input": "Học bổng hấp dẫn quá! Vậy điều kiện để xét tuyển vào trường là gì anh/chị?",
+        "output": "Trường Đại học Thủy lợi tuyển sinh theo nhiều phương thức khác nhau như xét tuyển dựa trên kết quả thi THPT, xét tuyển học bạ, xét tuyển thẳng, v.v. Mỗi phương thức sẽ có những điều kiện xét tuyển riêng. Em có thể tham khảo thông tin chi tiết về các phương thức tuyển sinh và điều kiện xét tuyển trên website của trường hoặc liên hệ với Phòng Đào tạo để được tư vấn cụ thể."
+    },
+    {
+        "input": "Ngoài ra, trường mình có các hoạt động ngoại khóa hay câu lạc bộ gì thú vị không anh/chị?",
+        "output": "Trường có rất nhiều câu lạc bộ và đội nhóm sinh viên hoạt động sôi nổi trong các lĩnh vực học thuật, văn nghệ, thể thao, tình nguyện, v.v. như CLB Tiếng Anh, CLB Âm nhạc, Đội tình nguyện Hoa Phượng đỏ, v.v. Tham gia các hoạt động ngoại khóa sẽ giúp em phát triển kỹ năng mềm, mở rộng mối quan hệ và có những trải nghiệm đáng nhớ trong thời sinh viên."
+    },
+    {
+        "input": "Vậy chi phí ký túc xá khoảng bao nhiêu một tháng ạ?",
+        "output": "Chi phí ký túc xá có thể thay đổi theo từng năm và loại phòng. Em có thể tham khảo mức phí ký túc xá hiện tại trên website của trường hoặc liên hệ với Ban quản lý ký túc xá để được thông tin chính xác." 
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin áp dụng cho những ai?",
+        "output": "Chuẩn đầu ra công nghệ thông tin áp dụng cho sinh viên đại học hệ chính quy và vừa làm vừa học từ năm 2021-2022 trở về sau, trừ sinh viên nhóm ngành Máy tính và Công nghệ thông tin."
+    },
+    {
+        "input": "Tôi cần làm gì để đạt chuẩn đầu ra công nghệ thông tin?",
+        "output": "Bạn có hai lựa chọn: thi sát hạch Chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản do trường tổ chức hoặc đáp ứng điều kiện miễn thi."
+    },
+    {
+        "input": "Trường hợp nào được miễn thi chuẩn đầu ra công nghệ thông tin?",
+        "output": "Bạn được miễn thi nếu có bằng tốt nghiệp trung cấp, cao đẳng, đại học nhóm ngành Máy tính và Công nghệ thông tin hoặc có chứng chỉ tin học tương đương như IC3, MOS, ICDL."
+    },
+    {
+        "input": "Nếu tôi có chứng chỉ MOS, tôi có được miễn học phần Tin học cơ bản không?",
+        "output": "Có, bạn sẽ được miễn học và thi phần Tin học cơ bản, đồng thời được công nhận điểm tối đa cho học phần này."
+    },
+    {
+        "input": "Tôi cần làm gì để được công nhận miễn thi chuẩn đầu ra?",
+        "output": "Bạn cần nộp đơn đề nghị kèm minh chứng (bằng cấp, chứng chỉ) về Phòng Đào tạo để được xét duyệt."
+    },
+    {
+        "input": "Điểm chuẩn đầu ra công nghệ thông tin có ảnh hưởng đến điểm học phần Tin học cơ bản không?",
+        "output": "Có, nếu bạn đạt từ 5.0 điểm trở lên trong kỳ thi sát hạch, điểm số này sẽ được quy đổi thành điểm học phần Tin học cơ bản theo thang điểm 10." 
+    },
+    {
+        "input": "Tôi đã thi Tin học cơ bản rồi nhưng điểm thấp, giờ có chứng chỉ IC3 thì sao?",
+        "output": "Bạn vẫn có thể sử dụng chứng chỉ IC3 để được miễn thi chuẩn đầu ra và điểm Tin học cơ bản của bạn sẽ được cải thiện thành điểm tối đa."
+    },
+    {
+        "input": "Khoa nào chịu trách nhiệm chính về việc xét duyệt miễn thi chuẩn đầu ra?",
+        "output": "Phòng Đào tạo sẽ phối hợp với Khoa Công nghệ thông tin để kiểm tra minh chứng và trình Ban Giám hiệu xem xét."
+    },
+    {
+        "input": "Tôi muốn biết thêm thông tin chi tiết về quy định này, tôi phải làm sao?",
+        "output": "Bạn có thể liên hệ với cố vấn học tập hoặc khoa, bộ môn của mình để được giải đáp cụ thể hơn."
+    },
+    {
+        "input": "Quy định này có hiệu lực từ khi nào?",
+        "output": "Quy định này có hiệu lực từ ngày 06 tháng 04 năm 2022."
+    },
+    {
+        "input": "Chuẩn đầu ra có thay đổi theo từng ngành học không?",
+        "output": "Không, chuẩn đầu ra công nghệ thông tin là như nhau cho tất cả các ngành học, trừ nhóm ngành Máy tính và Công nghệ thông tin."
+    },
+    {
+        "input": "Tôi là sinh viên khóa trước năm 2021, quy định này có áp dụng cho tôi không?",
+        "output": "Quy định này chỉ áp dụng cho sinh viên nhập học từ năm 2021-2022 trở về sau. Bạn có thể tham khảo quy định cũ của trường hoặc liên hệ phòng đào tạo để biết thêm chi tiết."
+    },
+    {
+        "input": "Chứng chỉ tin học của tôi không nằm trong danh sách quy định, tôi có được miễn thi không?",
+        "output": "Bạn cần liên hệ phòng đào tạo để được xem xét cụ thể về chứng chỉ của bạn và khả năng miễn thi."
+    },
+    {
+        "input": "Kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin được tổ chức khi nào?",
+        "output": "Lịch thi sát hạch sẽ được thông báo cụ thể bởi phòng đào tạo và trung tâm tin học. Bạn nên theo dõi thông báo của trường hoặc liên hệ trực tiếp để biết lịch thi."
+    },
+    {
+        "input": "Tôi có thể thi lại chuẩn đầu ra công nghệ thông tin nếu không đạt không?",
+        "output": "Có, trường sẽ tổ chức thi lại cho những sinh viên chưa đạt chuẩn đầu ra. Bạn nên liên hệ phòng đào tạo để biết thêm chi tiết về lịch thi và thủ tục đăng ký."
+    },
+    {
+        "input": "Tôi có cần phải đạt chuẩn đầu ra công nghệ thông tin để được xét tốt nghiệp không?",
+        "output": "Có, đạt chuẩn đầu ra công nghệ thông tin là một trong những điều kiện bắt buộc để được xét tốt nghiệp."
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có giá trị vĩnh viễn không?",
+        "output": "Chuẩn đầu ra công nghệ thông tin mà bạn đạt được tại trường Đại học Thủy lợi có giá trị trong suốt quá trình học tập tại trường. Tuy nhiên, giá trị của chứng chỉ có thể thay đổi theo thời gian và yêu cầu của thị trường lao động." 
+    },
+    {
+        "input": "Tôi cần chuẩn bị những gì cho kỳ thi sát hạch chuẩn đầu ra?",
+        "output": "Bạn nên ôn tập các kiến thức cơ bản về tin học văn phòng như soạn thảo văn bản, bảng tính, trình chiếu, cũng như các kỹ năng sử dụng internet và phần mềm cơ bản. Trung tâm tin học có thể cung cấp tài liệu ôn tập hoặc tổ chức các khóa học hỗ trợ." 
+    }, 
+    {
+        "input": "Tôi có thể sử dụng máy tính cá nhân trong kỳ thi sát hạch không?",
+        "output": "Thông tin về việc sử dụng máy tính cá nhân trong kỳ thi sẽ được thông báo cụ thể bởi trung tâm tin học. Bạn nên tuân thủ theo hướng dẫn của giám thị."
+    },
+    {
+        "input": "Trường có hỗ trợ gì cho sinh viên gặp khó khăn trong việc đạt chuẩn đầu ra không?",
+        "output": "Trường có các chương trình hỗ trợ sinh viên như khóa học bổ trợ, tài liệu ôn tập, tư vấn học tập. Bạn có thể liên hệ trung tâm tin học hoặc phòng công tác sinh viên để được hỗ trợ." 
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có giúp ích gì cho công việc sau này không?",
+        "output": "Có, đạt chuẩn đầu ra chứng tỏ bạn có đủ kỹ năng tin học văn phòng cơ bản, cần thiết cho hầu hết các công việc hiện nay. Nó cũng thể hiện khả năng tự học và thích nghi với công nghệ của bạn."
+    },
+    {
+        "input": "Tôi muốn thi chứng chỉ MOS, trường có hỗ trợ gì không?",
+        "output": "Trung tâm tin học có thể cung cấp thông tin về kỳ thi MOS, tài liệu ôn tập, và thậm chí tổ chức thi lấy chứng chỉ ngay tại trường."
+    },
+    {
+        "input": "Tôi có thể sử dụng chứng chỉ tin học của mình để xin việc làm thêm không?",
+        "output": "Chứng chỉ tin học là một lợi thế khi xin việc làm thêm, đặc biệt là các công việc văn phòng hoặc yêu cầu sử dụng máy tính."
+    },
+    {
+        "input": "Ngoài chuẩn đầu ra công nghệ thông tin, còn có chuẩn đầu ra nào khác không?",
+        "output": "Tùy từng ngành học, trường có thể có các chuẩn đầu ra khác như ngoại ngữ, kỹ năng mềm, ... Bạn nên tham khảo thông tin từ khoa, bộ môn của mình."
+    },
+    {
+        "input": "Tôi có thể đóng góp ý kiến gì về quy định chuẩn đầu ra công nghệ thông tin không?",
+        "output": "Trường luôn khuyến khích sinh viên đóng góp ý kiến để hoàn thiện quy định. Bạn có thể gửi ý kiến của mình qua email, hộp thư góp ý hoặc liên hệ trực tiếp với phòng đào tạo." 
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có liên quan gì đến việc học các môn chuyên ngành không?",
+        "output": "Kỹ năng tin học văn phòng là nền tảng để bạn học tập hiệu quả các môn chuyên ngành, đặc biệt là trong việc tìm kiếm tài liệu, xử lý dữ liệu, làm bài tập, thuyết trình..." 
+    },
+    {
+        "input": "Tôi có thể học Tin học cơ bản ở đâu?",
+        "output": "Học phần Tin học cơ bản được giảng dạy bởi Khoa Công nghệ thông tin. Bạn có thể tham khảo lịch học và đăng ký học phần theo hướng dẫn của trường."
+    },
+    {
+        "input": "Nếu tôi đã có kiến thức tin học tốt, tôi có thể bỏ qua học phần Tin học cơ bản không?",
+        "output": "Bạn vẫn cần phải đăng ký và hoàn thành học phần Tin học cơ bản theo chương trình đào tạo. Tuy nhiên, nếu bạn đạt chuẩn đầu ra công nghệ thông tin, bạn sẽ được miễn thi và công nhận điểm tối đa cho học phần này." 
+    },
+    {
+        "input": "Trường có tổ chức các hoạt động ngoại khóa về công nghệ thông tin không?",
+        "output": "Có, trường và các câu lạc bộ sinh viên thường xuyên tổ chức các hoạt động ngoại khóa như hội thảo, cuộc thi, workshop về công nghệ thông tin. Bạn nên tham gia để nâng cao kiến thức và kỹ năng của mình." 
+    },
+    {
+        "input": "Tôi muốn trở thành chuyên gia công nghệ thông tin, trường có chương trình đào tạo nào phù hợp không?",
+        "output": "Trường Đại học Thủy lợi có các chương trình đào tạo chất lượng cao về công nghệ thông tin. Bạn có thể tìm hiểu thông tin tuyển sinh và lựa chọn ngành học phù hợp với sở thích và năng lực của mình."
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có giống nhau giữa các trường đại học không?",
+        "output": "Chuẩn đầu ra công nghệ thông tin có thể khác nhau giữa các trường đại học, tùy thuộc vào định hướng đào tạo và yêu cầu của từng trường. Tuy nhiên, nhìn chung, các chuẩn đầu ra đều hướng đến việc trang bị cho sinh viên những kỹ năng tin học văn phòng cơ bản."
+    },
+    {
+        "input": "Tôi có thể tham khảo tài liệu ôn tập chuẩn đầu ra công nghệ thông tin ở đâu?",
+        "output": "Trung tâm tin học có thể cung cấp tài liệu ôn tập hoặc giới thiệu các nguồn tài liệu trực tuyến hữu ích. Bạn cũng có thể tìm kiếm tài liệu trên internet hoặc tham khảo sách vở tại thư viện." 
+    },
+    {
+        "input": "Kỳ thi sát hạch chuẩn đầu ra công nghệ thông tin có khó không?",
+        "output": "Mức độ khó của kỳ thi phụ thuộc vào kiến thức và kỹ năng tin học của mỗi người. Tuy nhiên, nếu bạn ôn tập kỹ lưỡng và nắm vững các kiến thức cơ bản, bạn hoàn toàn có thể vượt qua kỳ thi." 
+    },
+    {
+        "input": "Tôi muốn học thêm về lập trình, trường có hỗ trợ không?",
+        "output": "Khoa Công nghệ thông tin có các học phần và chương trình đào tạo về lập trình. Bạn cũng có thể tham gia các câu lạc bộ sinh viên về công nghệ thông tin để học hỏi kinh nghiệm từ các anh chị đi trước."
+    },
+    {
+        "input": "Chuẩn đầu ra công nghệ thông tin có giúp tôi khởi nghiệp trong lĩnh vực công nghệ không?",
+        "output": "Chuẩn đầu ra công nghệ thông tin là bước khởi đầu để bạn tiếp cận với lĩnh vực công nghệ. Tuy nhiên, để khởi nghiệp thành công, bạn cần trang bị thêm nhiều kiến thức và kỹ năng chuyên sâu hơn."
+    },
+    {
+        "input": "Tôi có thể sử dụng kỹ năng tin học của mình để tham gia các cuộc thi học thuật không?",
+        "output": "Có, nhiều cuộc thi học thuật yêu cầu thí sinh có kỹ năng tin học tốt, ví dụ như Olympic Tin học, Robocon, lập trình ứng dụng di động..."
+    },
+    {
+        "input": "Tôi muốn học thêm về an toàn thông tin, trường có hỗ trợ không?",
+        "output": "Khoa Công nghệ thông tin có các học phần về an toàn thông tin. Bạn cũng có thể tham gia các hội thảo, workshop về chủ đề này do trường tổ chức."
+    },
+    {
+        "input": "Ngoài máy tính, tôi có cần trang bị thêm thiết bị gì để học tập hiệu quả không?",
+        "output": "Tùy thuộc vào ngành học và nhu cầu cá nhân, bạn có thể cân nhắc trang bị thêm các thiết bị như máy tính bảng, ổ cứng di động, USB..."
+    },
+    {
+        "input": "Tôi có thể tham gia nghiên cứu khoa học về công nghệ thông tin không?",
+        "output": "Có, Khoa Công nghệ thông tin luôn chào đón sinh viên tham gia các đề tài nghiên cứu khoa học. Bạn có thể liên hệ với giảng viên để tìm hiểu thêm thông tin."
+    },
+    {
+        "input": "Trường có hỗ trợ sinh viên thực tập tại các công ty công nghệ không?",
+        "output": "Trường có mối quan hệ hợp tác với nhiều công ty công nghệ và thường xuyên giới thiệu cơ hội thực tập cho sinh viên. Bạn có thể theo dõi thông báo từ phòng công tác sinh viên hoặc liên hệ trực tiếp với khoa, bộ môn của mình."
     }
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
     
+      
+
       
       
       
