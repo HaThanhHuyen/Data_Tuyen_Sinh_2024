@@ -2127,5 +2127,893 @@
   {
     "input": "Em là sinh viên năm cuối và đang chuẩn bị đi thực tập, vậy em có cần tiếp tục báo cáo địa chỉ ngoại trú không?",
     "output": "Nếu địa điểm thực tập khác với địa chỉ ngoại trú đã báo cáo trước đó, em cần cập nhật thông tin mới cho lớp trưởng."
+  },
+  {
+    "input": "Chào bạn, mình muốn hỏi về học phí của trường mình năm nay như thế nào?",
+    "output": "Chào bạn, học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ tại Nghị định số 81/2021/NĐ-CP ngày 27/8/2021. Học phí sẽ được thông báo công khai trước mỗi năm học bạn nhé!"
+  },
+  {
+    "input": "Bạn ơi, cho mình hỏi thời gian nộp học phí là khi nào vậy?",
+    "output": "Học phí của học kỳ chính và học kỳ thực hiện Học phần tốt nghiệp được thu một lần vào tuần học thứ tư của mỗi giai đoạn học. Học phí của học kỳ song song với học kỳ chính, học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học bạn nhé!"
+  },
+  {
+    "input": "Mình lỡ nộp học phí muộn thì sẽ bị sao nhỉ?",
+    "output": "Nếu bạn nộp học phí muộn, tài khoản đăng ký học của bạn sẽ bị khóa ít nhất 01 học kỳ cho đến khi bạn hoàn thành học phí. Nếu đang trong thời gian thực hiện Học phần tốt nghiệp thì bạn sẽ không được bảo vệ Học phần tốt nghiệp. Bạn chỉ được bảo vệ Học phần tốt nghiệp cùng với các đợt sau (theo kế hoạch trường tổ chức) nếu đã hoàn thành học phí."
+  },
+  {
+    "input": "Trường mình có chính sách miễn giảm học phí không bạn?",
+    "output": "Có bạn nhé, trường có chính sách miễn giảm học phí cho các đối tượng như: con của người có công với cách mạng, người khuyết tật, người dân tộc thiểu số,..."
+  },
+  {
+    "input": "Mình là người dân tộc thiểu số, vậy mình cần những giấy tờ gì để được miễn giảm học phí?",
+    "output": "Bạn cần chuẩn bị các giấy tờ sau: Đơn đề nghị miễn giảm học phí, bản sao Giấy khai sinh, bản sao Giấy xác nhận hộ nghèo/hộ cận nghèo do UBND cấp xã cấp (nếu có) bạn nhé!"
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường mình còn có những chính sách hỗ trợ nào khác không?",
+    "output": "Ngoài miễn giảm học phí, trường còn có các chính sách hỗ trợ khác như: hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội dành cho các đối tượng sinh viên khác nhau bạn nhé!"
+  },
+  {
+    "input": "Mình muốn biết thêm thông tin về chính sách hỗ trợ chi phí học tập",
+    "output": "Chính sách hỗ trợ chi phí học tập dành cho sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước đang học đại học chính quy tại Trường Đại học Thủy lợi. Mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên."
+  },
+  {
+    "input": "Vậy còn chính sách hỗ trợ học tập thì sao bạn?",
+    "output": "Chính sách hỗ trợ học tập dành cho sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thủy lợi. Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng và thời gian được hưởng hỗ trợ là 12 tháng/năm cho sinh viên có thời gian học đủ 9 tháng/năm trở lên."
+  },
+  {
+    "input": "Trường mình có chính sách trợ cấp xã hội không vậy?",
+    "output": "Có bạn nhé! Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học chính quy tại trường Đại học Thủy lợi thuộc một trong các đối tượng sau đây sẽ được hưởng trợ cấp xã hội: Sinh viên là người dân tộc ít người ở vùng cao; Sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa; Sinh viên là người tàn tật; Sinh viên có hoàn cảnh đặc biệt khó khăn về kinh tế, vượt khó học tập."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn biết học phí một tín chỉ là bao nhiêu?",
+    "output": "Chào em, học phí một tín chỉ sẽ tùy thuộc vào từng ngành học và chương trình đào tạo. Em có thể tham khảo mức học phí chi tiết trên website của trường hoặc liên hệ với phòng Tài chính - Kế toán để biết thông tin chính xác nhé."
+  },
+  {
+    "input": "Em muốn đóng học phí, em có thể đóng bằng hình thức nào?",
+    "output": "Em có thể đóng học phí qua các hình thức sau: trực tiếp tại phòng Tài chính - Kế toán, chuyển khoản qua ngân hàng hoặc thanh toán trực tuyến qua cổng thông tin của trường. Em nên lựa chọn hình thức phù hợp và thuận tiện nhất cho mình nhé."
+  },
+  {
+    "input": "Em thuộc diện con thương binh, em cần làm những thủ tục gì để được miễn giảm học phí?",
+    "output": "Em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ thương binh của bố/mẹ. Sau đó, em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được hướng dẫn và xét duyệt miễn giảm học phí theo quy định em nhé!"
+  },
+  {
+    "input": "Em là người dân tộc Chứt, em muốn hỏi về chính sách hỗ trợ học tập của trường dành cho mình là gì?",
+    "output": "Chào em, em thuộc đối tượng được hưởng chính sách hỗ trợ học tập theo Nghị định 57/2017/NĐ-CP. Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng và thời gian được hưởng hỗ trợ là 12 tháng/năm nếu em có thời gian học đủ 9 tháng/năm trở lên."
+  },
+  {
+    "input": "Em muốn hỏi về điều kiện để được hưởng trợ cấp xã hội dành cho sinh viên nghèo vượt khó?",
+    "output": "Để được hưởng trợ cấp xã hội dành cho sinh viên nghèo vượt khó, em cần đáp ứng các điều kiện sau: gia đình thuộc diện hộ nghèo, điểm trung bình chung học kỳ đạt loại Khá trở lên, rèn luyện đạt loại Tốt trở lên và không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét trợ cấp em nhé!"
+  },
+  {
+    "input": "Thời gian nộp hồ sơ xin hỗ trợ chi phí học tập là khi nào?",
+    "output": "Em nộp hồ sơ xin hỗ trợ chi phí học tập vào đầu mỗi học kỳ tại phòng Chính trị & Công tác sinh viên nhé."
+  },
+  {
+    "input": "Ngoài những giấy tờ theo quy định, em có cần bổ sung thêm giấy tờ gì không?",
+    "output": "Tùy từng trường hợp cụ thể, phòng Chính trị & Công tác sinh viên có thể yêu cầu em bổ sung thêm một số giấy tờ khác để xác minh thông tin và hoàn thiện hồ sơ. Em nên liên hệ trực tiếp với phòng để được hướng dẫn chi tiết nhé!"
+  },
+  {
+    "input": "Nếu em có thắc mắc về chính sách học phí, em có thể liên hệ ai để được giải đáp?",
+    "output": "Em có thể liên hệ với phòng Tài chính - Kế toán hoặc phòng Chính trị & Công tác sinh viên để được giải đáp mọi thắc mắc liên quan đến chính sách học phí và các chính sách hỗ trợ khác của trường."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về quy định học phí của trường mình",
+    "output": "Chào em, học phí của trường được xác định cho từng năm học dựa trên khung học phí do Thủ tướng Chính phủ quy định. Mức học phí sẽ được công bố công khai trước khi năm học mới bắt đầu. Học phí được tính dựa trên số tín chỉ mà em đăng ký học trong mỗi kỳ, bằng tổng số tín chỉ nhân với mức học phí của 1 tín chỉ. Trường hợp em học chương trình tiên tiến hoặc liên thông, mức học phí sẽ có sự điều chỉnh riêng. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ phòng Tài chính - Kế toán để được giải đáp cụ thể hơn nhé."
+  },
+  {
+    "input": "Em muốn biết về quy trình đóng học phí của trường",
+    "output": "Quy trình đóng học phí của trường khá đơn giản. Em có thể lựa chọn một trong các hình thức sau: \n* **Đóng trực tiếp:** Em đến phòng Tài chính - Kế toán của trường để đóng học phí. \n* **Chuyển khoản ngân hàng:** Em chuyển khoản theo thông tin tài khoản của trường được công bố trên website hoặc bảng thông báo. \n* **Thanh toán trực tuyến:** Em truy cập cổng thông tin của trường và thực hiện thanh toán học phí trực tuyến. \nEm lưu ý đóng học phí đúng hạn để tránh bị khóa tài khoản đăng ký học hoặc ảnh hưởng đến việc bảo vệ khóa luận tốt nghiệp."
+  },
+  {
+    "input": "Em là người dân tộc thiểu số, em muốn biết mình thuộc diện miễn giảm học phí nào và cần những giấy tờ gì?",
+    "output": "Chào em, trường có chính sách miễn giảm học phí cho sinh viên là người dân tộc thiểu số. Tùy thuộc vào điều kiện cụ thể, em có thể thuộc diện miễn 100% học phí hoặc giảm 70% học phí. Để xác định chính xác diện miễn giảm và thủ tục cần thiết, em vui lòng cung cấp thêm thông tin về dân tộc, hộ khẩu thường trú và tình trạng kinh tế của gia đình (hộ nghèo, cận nghèo). Em có thể liên hệ với phòng Chính trị & Công tác sinh viên để được hướng dẫn chi tiết và hỗ trợ chuẩn bị hồ sơ nhé."
+  },
+  {
+    "input": "Ngoài miễn giảm học phí, trường còn có hỗ trợ gì cho sinh viên dân tộc thiểu số không?",
+    "output": "Bên cạnh chính sách miễn giảm học phí, trường còn có chính sách hỗ trợ chi phí học tập và hỗ trợ học tập dành cho sinh viên dân tộc thiểu số. Cụ thể, sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo sẽ được hỗ trợ chi phí học tập bằng 60% mức lương cơ sở, tối đa 10 tháng/năm học. Sinh viên là người dân tộc thiểu số rất ít người sẽ được hỗ trợ học tập bằng 100% mức lương cơ sở/tháng, tối đa 12 tháng/năm. Để biết thêm thông tin chi tiết và hướng dẫn thủ tục, em có thể liên hệ với phòng Chính trị & Công tác sinh viên."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chính sách trợ cấp xã hội của trường",
+    "output": "Chính sách trợ cấp xã hội của trường dành cho các đối tượng sinh viên sau: \n* Sinh viên là người dân tộc ít người ở vùng cao \n* Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa \n* Sinh viên là người tàn tật và có hoàn cảnh kinh tế gia đình khó khăn \n* Sinh viên nghèo vượt khó học tập \nMức trợ cấp là 100.000 - 140.000 đồng/tháng tùy theo từng đối tượng. Sinh viên cần nộp hồ sơ theo quy định để được xét duyệt và hưởng trợ cấp. Em có thể liên hệ phòng Chính trị & Công tác sinh viên để biết thêm chi tiết về điều kiện, thủ tục và mức trợ cấp cụ thể nhé."
+  },
+  {
+    "input": "Em nghe nói trường có chương trình học phí ưu đãi, em muốn tìm hiểu thêm về chương trình này",
+    "output": "Chào em, trường có chính sách học phí ưu đãi dành cho sinh viên có thành tích học tập xuất sắc và sinh viên thuộc diện chính sách. Sinh viên có thành tích học tập xuất sắc sẽ được giảm học phí theo từng mức phần trăm dựa trên kết quả học tập của kỳ trước đó. Sinh viên thuộc diện chính sách như con thương binh, liệt sĩ, người dân tộc thiểu số, người khuyết tật,... sẽ được hưởng chính sách miễn giảm học phí theo quy định của nhà nước. Em có thể liên hệ với phòng Chính trị & Công tác sinh viên hoặc phòng Tài chính - Kế toán để được tư vấn cụ thể về chương trình học phí ưu đãi và các chính sách hỗ trợ khác của trường nhé."
+  },
+  {
+    "input": "Em muốn biết nếu đóng học phí muộn thì sẽ bị ảnh hưởng như thế nào?",
+    "output": "Việc đóng học phí muộn sẽ ảnh hưởng đến quá trình học tập của em. Cụ thể, nếu em chưa đóng học phí theo thời hạn quy định, tài khoản đăng ký học của em sẽ bị khóa, em sẽ không thể đăng ký học các môn học trong học kỳ tiếp theo. Ngoài ra, nếu em đang trong thời gian thực hiện khóa luận tốt nghiệp, em sẽ không được tham gia bảo vệ khóa luận cho đến khi hoàn thành nghĩa vụ đóng học phí. Để tránh những ảnh hưởng này, em nên lưu ý đóng học phí đúng hạn. Trong trường hợp gặp khó khăn về tài chính, em có thể liên hệ với phòng Chính trị & Công tác sinh viên để được hỗ trợ và hướng dẫn các thủ tục cần thiết."
+  },
+  {
+    "input": "Em là sinh viên năm cuối, em muốn hỏi về thủ tục bảo lưu kết quả học tập",
+    "output": "Chào em, thủ tục bảo lưu kết quả học tập áp dụng cho sinh viên có lý do chính đáng như ốm đau, tai nạn, sinh con,... Em cần nộp đơn xin bảo lưu kết quả học tập kèm theo các giấy tờ chứng minh lý do bảo lưu đến phòng Đào tạo. Thời gian bảo lưu tối đa là 2 năm. Sau khi hết thời hạn bảo lưu, em cần làm đơn xin tiếp tục học tập và nộp tại phòng Đào tạo để được sắp xếp lớp học phù hợp. Em lưu ý, trong thời gian bảo lưu, em vẫn phải đóng học phí theo quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn biết về các loại học bổng mà trường đang có",
+    "output": "Trường có nhiều loại học bổng dành cho sinh viên với các tiêu chí xét duyệt khác nhau như học bổng khuyến khích học tập, học bổng tài năng, học bổng dành cho sinh viên nghèo vượt khó, học bổng doanh nghiệp,... Mỗi loại học bổng sẽ có mức hỗ trợ và thời gian hỗ trợ khác nhau. Em có thể tham khảo thông tin chi tiết về các loại học bổng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là con liệt sĩ",
+    "output": "Chào em, trường có chính sách miễn học phí hoàn toàn cho sinh viên là con liệt sĩ theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao giấy báo tử của bố/mẹ. Sau khi hoàn thiện hồ sơ, em nộp tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn biết về chương trình học bổng khuyến khích học tập của trường",
+    "output": "Chương trình học bổng khuyến khích học tập được xét duyệt hàng năm dựa trên kết quả học tập của sinh viên. Sinh viên đạt thành tích học tập loại Giỏi sẽ được xét học bổng với mức hỗ trợ tương ứng với số tín chỉ đạt loại Giỏi. Sinh viên đạt thành tích học tập loại Xuất sắc sẽ được xét học bổng với mức hỗ trợ cao hơn. Bên cạnh đó, trường còn có các suất học bổng khuyến khích học tập dành cho sinh viên có thành tích cao trong các hoạt động nghiên cứu khoa học, hoạt động đoàn thể,... Em có thể theo dõi thông báo về chương trình học bổng khuyến khích học tập trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 3, em muốn bảo lưu kết quả học tập để đi du học, em cần làm những thủ tục gì?",
+    "output": "Chào em, trường hợp em muốn bảo lưu kết quả học tập để đi du học, em cần làm đơn xin bảo lưu kết quả học tập và nộp kèm theo giấy tờ chứng minh việc đi du học (thư mời nhập học, visa,...) đến phòng Đào tạo. Thời gian bảo lưu tối đa là 2 năm. Sau khi hoàn thành chương trình du học, em có thể làm đơn xin tiếp tục học tập và nộp tại phòng Đào tạo để được sắp xếp lớp học phù hợp. Trong thời gian bảo lưu, em vẫn phải đóng học phí theo quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là người khuyết tật",
+    "output": "Trường có chính sách miễn học phí hoàn toàn cho sinh viên là người khuyết tật theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí và giấy xác nhận khuyết tật do cơ quan có thẩm quyền cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Chào anh/chị, em là tân sinh viên, em muốn tìm hiểu về các khoản chi phí cần thiết khi học tập tại trường",
+    "output": "Chào em, khi học tập tại trường, ngoài học phí, em sẽ cần chi trả một số khoản phí khác như: \n* **Phí đăng ký học phần:** Phí này được thu theo số tín chỉ em đăng ký học trong mỗi kỳ. \n* **Phí bảo hiểm y tế:** Đây là khoản phí bắt buộc đối với tất cả sinh viên. \n* **Phí ký túc xá (nếu có):** Nếu em ở ký túc xá, em sẽ cần đóng phí theo quy định của ban quản lý ký túc xá. \n* **Chi phí sinh hoạt:** Khoản chi phí này sẽ tùy thuộc vào mức sống và nhu cầu cá nhân của mỗi em.  \nEm có thể tham khảo thông tin chi tiết về các khoản phí trên website của trường hoặc liên hệ với phòng Tài chính - Kế toán để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về điều kiện để được xét học bổng tài năng",
+    "output": "Học bổng tài năng được xét duyệt cho sinh viên có thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Điều kiện cụ thể để được xét học bổng tài năng như sau: \n* **Thành tích học tập:** Đạt điểm trung bình học kỳ từ 3.6 trở lên và không có môn học nào dưới 8.0. \n* **Thành tích hoạt động ngoại khóa:** Có thành tích nổi bật trong các hoạt động nghiên cứu khoa học, hoạt động văn nghệ, thể thao, hoạt động đoàn thể,... \nEm có thể theo dõi thông báo về chương trình học bổng tài năng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm cuối, em muốn hỏi trường hợp nào sinh viên sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học trong các trường hợp sau: \n* **Vi phạm kỷ luật nghiêm trọng:** Ví dụ như gian lận thi cử, đánh nhau, gây rối trật tự,... \n* **Kết quả học tập kém:** Thiếu tín chỉ tích lũy quá quy định, học lại quá số lần cho phép,... \n* **Không đóng học phí quá thời hạn quy định.** \nEm nên tuân thủ nội quy của nhà trường và cố gắng học tập để tránh rơi vào những trường hợp đáng tiếc này."
+  },
+  {
+    "input": "Em muốn biết về chính sách hỗ trợ học phí dành cho sinh viên là người dân tộc thiểu số có hoàn cảnh khó khăn",
+    "output": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo sẽ được hưởng chính sách miễn học phí hoàn toàn. Sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn sẽ được giảm 70% học phí. Để được hưởng chính sách này, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ nghèo/cận nghèo hoặc giấy xác nhận thuộc khu vực khó khăn do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn giảm học phí."
+  },
+  {
+    "input": "Chào anh/chị, em là tân sinh viên, em muốn tìm hiểu về các khoản chi phí cần thiết khi học tập tại trường",
+    "output": "Chào em, khi học tập tại trường, ngoài học phí, em sẽ cần chi trả một số khoản phí khác như: \n* **Phí đăng ký học phần:** Phí này được thu theo số tín chỉ em đăng ký học trong mỗi kỳ. \n* **Phí bảo hiểm y tế:** Đây là khoản phí bắt buộc đối với tất cả sinh viên. \n* **Phí ký túc xá (nếu có):** Nếu em ở ký túc xá, em sẽ cần đóng phí theo quy định của ban quản lý ký túc xá. \n* **Chi phí sinh hoạt:** Khoản chi phí này sẽ tùy thuộc vào mức sống và nhu cầu cá nhân của mỗi em.  \nEm có thể tham khảo thông tin chi tiết về các khoản phí trên website của trường hoặc liên hệ với phòng Tài chính - Kế toán để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về điều kiện để được xét học bổng tài năng",
+    "output": "Học bổng tài năng được xét duyệt cho sinh viên có thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Điều kiện cụ thể để được xét học bổng tài năng như sau: \n* **Thành tích học tập:** Đạt điểm trung bình học kỳ từ 3.6 trở lên và không có môn học nào dưới 8.0. \n* **Thành tích hoạt động ngoại khóa:** Có thành tích nổi bật trong các hoạt động nghiên cứu khoa học, hoạt động văn nghệ, thể thao, hoạt động đoàn thể,... \nEm có thể theo dõi thông báo về chương trình học bổng tài năng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm cuối, em muốn hỏi trường hợp nào sinh viên sẽ bị buộc thôi học?",
+    "output": "Sinh viên sẽ bị buộc thôi học trong các trường hợp sau: \n* **Vi phạm kỷ luật nghiêm trọng:** Ví dụ như gian lận thi cử, đánh nhau, gây rối trật tự,... \n* **Kết quả học tập kém:** Thiếu tín chỉ tích lũy quá quy định, học lại quá số lần cho phép,... \n* **Không đóng học phí quá thời hạn quy định.** \nEm nên tuân thủ nội quy của nhà trường và cố gắng học tập để tránh rơi vào những trường hợp đáng tiếc này."
+  },
+  {
+    "input": "Em muốn biết về chính sách hỗ trợ học phí dành cho sinh viên là người dân tộc thiểu số có hoàn cảnh khó khăn",
+    "output": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo sẽ được hưởng chính sách miễn học phí hoàn toàn. Sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn sẽ được giảm 70% học phí. Để được hưởng chính sách này, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ nghèo/cận nghèo hoặc giấy xác nhận thuộc khu vực khó khăn do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn giảm học phí."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên có hoàn cảnh khó khăn",
+    "output": "Chào em, trường có chương trình học bổng “Tiếp sức đến trường” dành cho sinh viên có hoàn cảnh khó khăn nhưng có ý chí vươn lên trong học tập. Học bổng được xét duyệt dựa trên các tiêu chí như: thuộc diện hộ nghèo, hộ cận nghèo, mồ côi, khuyết tật,...; có thành tích học tập khá giỏi; tham gia tích cực các hoạt động đoàn thể. Mức học bổng sẽ hỗ trợ một phần hoặc toàn phần học phí cho sinh viên. Em có thể theo dõi thông báo về chương trình học bổng “Tiếp sức đến trường” trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là người dân tộc thiểu số rất ít người",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số rất ít người được miễn học phí hoàn toàn theo quy định của Nghị định 57/2017/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi trường hợp nào sinh viên được bảo lưu kết quả học tập?",
+    "output": "Sinh viên được bảo lưu kết quả học tập trong các trường hợp sau: \n* **Ốm đau, tai nạn:** Sinh viên cần nộp đơn xin bảo lưu kết quả học tập kèm theo giấy tờ chứng nhận của cơ sở y tế có thẩm quyền. \n* **Sinh con:** Sinh viên nữ cần nộp đơn xin bảo lưu kết quả học tập kèm theo giấy khai sinh của con. \n* **Lý do khác:** Sinh viên cần nộp đơn xin bảo lưu kết quả học tập và các giấy tờ chứng minh lý do bảo lưu đến phòng Đào tạo để được xem xét và phê duyệt."
+  },
+  {
+    "input": "Em muốn tìm hiểu về học bổng doanh nghiệp",
+    "output": "Học bổng doanh nghiệp là chương trình học bổng do các doanh nghiệp tài trợ cho sinh viên của trường. Mỗi doanh nghiệp sẽ có tiêu chí xét duyệt học bổng riêng, thường dựa trên thành tích học tập, hoạt động ngoại khóa hoặc chuyên ngành học. Mức học bổng và thời gian hỗ trợ cũng sẽ khác nhau tùy từng doanh nghiệp. Em có thể theo dõi thông báo về các chương trình học bổng doanh nghiệp trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn tham gia chương trình trao đổi sinh viên, em cần làm những thủ tục gì?",
+    "output": "Chào em, để tham gia chương trình trao đổi sinh viên, em cần đáp ứng các điều kiện sau: \n* **Thành tích học tập:** Đạt điểm trung bình học kỳ từ 3.2 trở lên. \n* **Ngoại ngữ:** Có chứng chỉ ngoại ngữ theo yêu cầu của chương trình trao đổi. \n* **Kỹ năng mềm:** Có khả năng thích nghi và giao tiếp tốt. \nEm có thể tìm hiểu thông tin chi tiết về các chương trình trao đổi sinh viên trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được tư vấn cụ thể về điều kiện, quy trình đăng ký và các trường đối tác."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách miễn giảm học phí dành cho sinh viên là người dân tộc thiểu số thuộc hộ cận nghèo",
+    "output": "Sinh viên là người dân tộc thiểu số thuộc hộ cận nghèo được miễn 100% học phí theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ cận nghèo do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em là sinh viên năm cuối, em muốn biết sinh viên sẽ được xét tốt nghiệp khi nào?",
+    "output": "Sinh viên sẽ được xét tốt nghiệp khi đáp ứng đủ các điều kiện sau: \n* **Hoàn thành chương trình đào tạo:** Đạt đủ số tín chỉ theo quy định của chương trình đào tạo. \n* **Hoàn thành khóa luận tốt nghiệp:** Bảo vệ thành công khóa luận tốt nghiệp trước hội đồng chấm khóa luận. \n* **Không vi phạm kỷ luật:** Không bị kỷ luật từ mức khiển trách trở lên trong thời gian học tập tại trường. \n* **Hoàn thành nghĩa vụ tài chính:** Đóng đầy đủ các khoản phí theo quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tìm kiếm việc làm sau khi tốt nghiệp không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Việc làm với các hoạt động hỗ trợ sinh viên tìm kiếm việc làm như: \n* **Tổ chức các buổi hướng nghiệp, tư vấn việc làm.** \n* **Kết nối sinh viên với các doanh nghiệp thông qua các chương trình tuyển dụng, ngày hội việc làm.** \n* **Cung cấp thông tin về thị trường lao động, kỹ năng tìm việc làm.** \nEm có thể liên hệ với Trung tâm Hỗ trợ sinh viên và Việc làm để được tư vấn và hỗ trợ tìm kiếm việc làm phù hợp sau khi tốt nghiệp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về các chương trình học bổng của trường",
+    "output": "Chào em, trường có đa dạng các chương trình học bổng dành cho sinh viên với các tiêu chí xét duyệt khác nhau: \n* **Học bổng khuyến khích học tập:** Dành cho sinh viên có thành tích học tập xuất sắc. \n* **Học bổng tài năng:** Dành cho sinh viên có thành tích nổi bật trong học tập và các hoạt động ngoại khóa. \n* **Học bổng “Tiếp sức đến trường”**: Dành cho sinh viên có hoàn cảnh khó khăn. \n* **Học bổng doanh nghiệp:** Do các doanh nghiệp tài trợ với tiêu chí xét duyệt riêng. \n* **Học bổng nước ngoài:** Dành cho sinh viên tham gia chương trình trao đổi sinh viên hoặc du học. \nEm có thể tìm hiểu thông tin chi tiết về các chương trình học bổng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách miễn giảm học phí dành cho sinh viên là người mồ côi cả cha lẫn mẹ",
+    "output": "Sinh viên là người mồ côi cả cha lẫn mẹ, không nơi nương tựa được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao giấy chứng tử của cha và mẹ hoặc giấy xác nhận của UBND cấp xã (phường) về việc cha mẹ đã mất, giấy xác nhận của cơ quan thương binh xã hội cấp quận, huyện, thị xã về việc em không có người đỡ đầu chính thức và không có nguồn chu cấp thường xuyên. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về điều kiện để được ở ký túc xá",
+    "output": "Điều kiện để được ở ký túc xá như sau: \n* **Sinh viên năm nhất:** Ưu tiên cho sinh viên có hộ khẩu thường trú ngoài thành phố Hà Nội, sinh viên thuộc diện chính sách, sinh viên có hoàn cảnh khó khăn. \n* **Sinh viên năm 2 trở lên:** Xét duyệt dựa trên kết quả học tập và rèn luyện của năm học trước đó.  \nEm có thể theo dõi thông báo về đăng ký ở ký túc xá trên website của trường hoặc liên hệ với Ban quản lý ký túc xá để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn biết về chính sách hỗ trợ sinh viên khởi nghiệp",
+    "output": "Trường có Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo với các hoạt động hỗ trợ sinh viên khởi nghiệp như: \n* **Tổ chức các khóa đào tạo, hội thảo về khởi nghiệp.** \n* **Cung cấp không gian làm việc chung, hỗ trợ kết nối với các nhà đầu tư, cố vấn khởi nghiệp.** \n* **Tổ chức các cuộc thi khởi nghiệp để sinh viên có cơ hội thể hiện ý tưởng và nhận hỗ trợ.** \nEm có thể liên hệ với Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo để được tư vấn và hỗ trợ khởi nghiệp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên đạt giải trong kỳ thi học sinh giỏi quốc gia",
+    "output": "Chào em, trường có chính sách học bổng dành cho sinh viên đạt giải trong kỳ thi học sinh giỏi quốc gia với mức hỗ trợ hấp dẫn. Cụ thể, sinh viên đạt giải Nhất, Nhì, Ba sẽ được miễn học phí trong năm học đầu tiên và nhận thêm phần thưởng tiền mặt. Ngoài ra, sinh viên còn có cơ hội được xét tuyển thẳng vào chương trình đào tạo chất lượng cao hoặc chương trình tiên tiến của trường. Em có thể tham khảo thông tin chi tiết về chính sách học bổng này trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là con thương binh",
+    "output": "Sinh viên là con thương binh được giảm 70% học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được giảm học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ thương binh của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt giảm học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn biết sinh viên có thể tham gia các hoạt động ngoại khóa nào tại trường",
+    "output": "Trường có đa dạng các câu lạc bộ, đội, nhóm hoạt động ngoại khóa với nhiều lĩnh vực khác nhau như: \n* **Lĩnh vực học thuật:** Câu lạc bộ tiếng Anh, câu lạc bộ kỹ năng mềm, câu lạc bộ nghiên cứu khoa học,... \n* **Lĩnh vực văn nghệ, thể thao:** Câu lạc bộ nhảy, câu lạc bộ bóng đá, câu lạc bộ bóng rổ,... \n* **Lĩnh vực tình nguyện:** Đội sinh viên tình nguyện, câu lạc bộ thiện nguyện,... \nEm có thể tham gia các hoạt động ngoại khóa để rèn luyện kỹ năng, mở rộng mối quan hệ và có thêm những trải nghiệm thú vị trong đời sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm 3, em muốn tìm kiếm cơ hội thực tập, trường có hỗ trợ gì cho em không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Việc làm với các hoạt động hỗ trợ sinh viên tìm kiếm cơ hội thực tập như: \n* **Kết nối sinh viên với các doanh nghiệp có nhu cầu tuyển dụng thực tập sinh.** \n* **Tổ chức các buổi hội thảo, chia sẻ kinh nghiệm thực tập.** \n* **Hỗ trợ sinh viên hoàn thiện hồ sơ xin thực tập.** \nEm có thể liên hệ với Trung tâm Hỗ trợ sinh viên và Việc làm để được tư vấn và hỗ trợ tìm kiếm cơ hội thực tập phù hợp với chuyên ngành và sở thích của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chính sách hỗ trợ học phí dành cho sinh viên là người dân tộc thiểu số",
+    "output": "Chào em, trường có nhiều chính sách hỗ trợ học phí dành cho sinh viên là người dân tộc thiểu số, tùy thuộc vào điều kiện cụ thể của em. Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo sẽ được miễn học phí hoàn toàn. Sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn sẽ được giảm 70% học phí. Sinh viên là người dân tộc thiểu số rất ít người cũng được miễn học phí hoàn toàn. Để biết chính xác em thuộc diện hỗ trợ nào và cần chuẩn bị những giấy tờ gì, em có thể liên hệ với phòng Chính trị & Công tác sinh viên để được hướng dẫn chi tiết."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình học bổng khuyến khích học tập",
+    "output": "Chương trình học bổng khuyến khích học tập được xét duyệt hàng năm dựa trên kết quả học tập của sinh viên. Sinh viên đạt thành tích học tập loại Giỏi sẽ được xét học bổng với mức hỗ trợ tương ứng với số tín chỉ đạt loại Giỏi. Sinh viên đạt thành tích học tập loại Xuất sắc sẽ được xét học bổng với mức hỗ trợ cao hơn. Bên cạnh đó, trường còn có các suất học bổng khuyến khích học tập dành cho sinh viên có thành tích cao trong các hoạt động nghiên cứu khoa học, hoạt động đoàn thể,... Em có thể theo dõi thông báo về chương trình học bổng khuyến khích học tập trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về chính sách học phí khi học vượt tín chỉ",
+    "output": "Học phí khi học vượt tín chỉ sẽ được tính tương tự như học phí các tín chỉ trong chương trình đào tạo chính quy. Em sẽ cần đóng học phí cho số tín chỉ vượt theo mức học phí quy định của ngành học và chương trình đào tạo của em. Em có thể tham khảo thông tin chi tiết về học phí trên website của trường hoặc liên hệ với phòng Tài chính - Kế toán để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn biết về điều kiện để được xét tốt nghiệp loại Giỏi",
+    "output": "Để được xét tốt nghiệp loại Giỏi, sinh viên cần đáp ứng các điều kiện sau: \n* **Điểm trung bình tích lũy toàn khóa:** Từ 3.20 đến 3.59. \n* **Kết quả khóa luận tốt nghiệp:** Đạt loại Khá trở lên. \n* **Rèn luyện:** Đạt loại Tốt trở lên trong suốt quá trình học tập. \n* **Không vi phạm kỷ luật:** Không bị kỷ luật từ mức khiển trách trở lên trong thời gian học tập tại trường. \n* **Hoàn thành nghĩa vụ tài chính:** Đóng đầy đủ các khoản phí theo quy định của nhà trường."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là thủ khoa đầu vào",
+    "output": "Chào em, trường có chính sách học bổng hấp dẫn dành cho sinh viên là thủ khoa đầu vào của từng ngành học. Sinh viên là thủ khoa đầu vào sẽ được miễn học phí trong năm học đầu tiên và nhận thêm phần thưởng tiền mặt. Ngoài ra, sinh viên còn có cơ hội được xét tuyển thẳng vào chương trình đào tạo chất lượng cao hoặc chương trình tiên tiến của trường. Em có thể tham khảo thông tin chi tiết về chính sách học bổng này trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là người khuyết tật",
+    "output": "Sinh viên là người khuyết tật được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí và giấy xác nhận khuyết tật do cơ quan có thẩm quyền cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về điều kiện để được học vượt tín chỉ",
+    "output": "Để được học vượt tín chỉ, em cần đáp ứng các điều kiện sau: \n* **Hoàn thành chương trình học phần của học kỳ hiện tại.** \n* **Điểm trung bình tích lũy học kỳ trước đó đạt từ 2.5 trở lên.** \n* **Không có môn học nào bị đánh giá F trong học kỳ trước đó.** \nEm có thể đăng ký học vượt tín chỉ theo hướng dẫn của phòng Đào tạo."
+  },
+  {
+    "input": "Em muốn biết về chương trình học bổng trao đổi sinh viên",
+    "output": "Chương trình học bổng trao đổi sinh viên hỗ trợ một phần hoặc toàn phần chi phí cho sinh viên tham gia chương trình trao đổi sinh viên tại các trường đối tác của trường. Mức học bổng và thời gian hỗ trợ sẽ tùy thuộc vào chương trình trao đổi và trường đối tác. Em có thể tìm hiểu thông tin chi tiết về các chương trình học bổng trao đổi sinh viên trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên đạt giải cao trong các cuộc thi Olympic quốc tế",
+    "output": "Chào em, trường có chính sách học bổng đặc biệt dành cho sinh viên đạt giải cao trong các cuộc thi Olympic quốc tế. Sinh viên đạt Huy chương Vàng, Bạc, Đồng sẽ được miễn học phí trong suốt quá trình học tập tại trường và nhận thêm phần thưởng giá trị. Ngoài ra, sinh viên còn có cơ hội được xét tuyển thẳng vào chương trình đào tạo tiến sĩ của trường. Em có thể tham khảo thông tin chi tiết về chính sách học bổng này trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là con bệnh binh",
+    "output": "Sinh viên là con bệnh binh được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ bệnh binh của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chương trình học bổng tài năng",
+    "output": "Học bổng tài năng được xét duyệt cho sinh viên có thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Điều kiện cụ thể để được xét học bổng tài năng như sau: \n* **Thành tích học tập:** Đạt điểm trung bình học kỳ từ 3.6 trở lên và không có môn học nào dưới 8.0. \n* **Thành tích hoạt động ngoại khóa:** Có thành tích nổi bật trong các hoạt động nghiên cứu khoa học, hoạt động văn nghệ, thể thao, hoạt động đoàn thể,... \nHọc bổng tài năng có giá trị hỗ trợ cao và là nguồn động viên lớn cho sinh viên tiếp tục phát huy năng lực của bản thân."
+  },
+  {
+    "input": "Em muốn biết về các dịch vụ hỗ trợ sinh viên tại trường",
+    "output": "Trường có hệ thống các phòng ban, trung tâm hỗ trợ sinh viên trong suốt quá trình học tập và sinh hoạt tại trường: \n* **Phòng Đào tạo:** Hỗ trợ sinh viên về các vấn đề liên quan đến chương trình học, đăng ký học phần, thi cử, tốt nghiệp,... \n* **Phòng Chính trị & Công tác sinh viên:** Hỗ trợ sinh viên về các chính sách học phí, học bổng, trợ cấp xã hội, hoạt động ngoại khóa, tư vấn tâm lý,... \n* **Phòng Hợp tác Quốc tế:** Hỗ trợ sinh viên về các chương trình trao đổi sinh viên, du học,... \n* **Trung tâm Hỗ trợ sinh viên và Việc làm:** Hỗ trợ sinh viên tìm kiếm cơ hội thực tập, việc làm sau khi tốt nghiệp. \n* **Trung tâm Y tế:** Chăm sóc sức khỏe cho sinh viên. \n* **Thư viện:** Cung cấp tài liệu học tập và nghiên cứu cho sinh viên. \n* **Ký túc xá:** Cung cấp chỗ ở cho sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số",
+    "output": "Chào em, trường có nhiều chương trình học bổng dành cho sinh viên là người dân tộc thiểu số, tùy thuộc vào dân tộc và hoàn cảnh cụ thể của em. Một số chương trình học bổng phổ biến như: \n* **Học bổng Tiếp sức đến trường:** Dành cho sinh viên là người dân tộc thiểu số có hoàn cảnh khó khăn nhưng có ý chí vươn lên trong học tập. \n* **Học bổng của các tổ chức, cá nhân:** Nhiều tổ chức, cá nhân cũng có chương trình học bổng dành riêng cho sinh viên là người dân tộc thiểu số. \n* **Hỗ trợ học phí, chi phí học tập:** Trường cũng có chính sách miễn giảm học phí và hỗ trợ chi phí học tập cho sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo hoặc ở vùng có điều kiện kinh tế - xã hội khó khăn. \nEm có thể tìm hiểu thông tin chi tiết về các chương trình học bổng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về học bổng du học",
+    "output": "Học bổng du học là chương trình học bổng dành cho sinh viên có thành tích học tập xuất sắc và mong muốn học tập tại các trường đại học danh tiếng trên thế giới. Học bổng du học có thể hỗ trợ toàn phần hoặc một phần chi phí học tập, sinh hoạt phí, vé máy bay,... Em có thể tìm hiểu thông tin chi tiết về các chương trình học bổng du học trên website của trường, các tổ chức giáo dục hoặc liên hệ với phòng Hợp tác Quốc tế để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định thi lại và học lại",
+    "output": "Quy định thi lại và học lại như sau: \n* **Thi lại:** Sinh viên được thi lại tối đa 2 lần đối với mỗi môn học. Nếu sau 2 lần thi lại vẫn không đạt, sinh viên sẽ phải học lại môn học đó. \n* **Học lại:** Sinh viên phải học lại các môn học bị đánh giá F hoặc các môn học đã thi lại 2 lần mà vẫn không đạt. Học phí học lại được tính theo số tín chỉ của môn học. \nEm có thể tham khảo quy định chi tiết về thi lại và học lại trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết về các dịch vụ hỗ trợ người khuyết tật tại trường",
+    "output": "Trường có các dịch vụ hỗ trợ người khuyết tật như: \n* **Cơ sở vật chất:** Trường có hệ thống đường dẫn, thang máy, nhà vệ sinh dành cho người khuyết tật. \n* **Hỗ trợ học tập:** Trường có đội ngũ cán bộ, giảng viên hỗ trợ sinh viên khuyết tật trong học tập. \n* **Hỗ trợ sinh hoạt:** Trường có ký túc xá dành riêng cho sinh viên khuyết tật và đội ngũ cán bộ hỗ trợ sinh viên trong sinh hoạt hàng ngày. \nEm có thể liên hệ với phòng Chính trị & Công tác sinh viên hoặc Ban quản lý ký túc xá để được hỗ trợ cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên tham gia nghiên cứu khoa học",
+    "output": "Chào em, trường có chương trình học bổng khuyến khích nghiên cứu khoa học dành cho sinh viên tham gia các đề tài nghiên cứu khoa học cấp trường, cấp bộ hoặc cấp quốc gia. Sinh viên có thành tích nghiên cứu khoa học xuất sắc sẽ được xét học bổng với mức hỗ trợ hấp dẫn. Ngoài ra, trường còn có các chương trình hỗ trợ kinh phí cho sinh viên tham gia các hội nghị, hội thảo khoa học trong và ngoài nước. Em có thể theo dõi thông báo về chương trình học bổng nghiên cứu khoa học trên website của trường hoặc liên hệ với phòng Khoa học & Công nghệ để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách miễn giảm học phí dành cho sinh viên là đối tượng chính sách",
+    "output": "Sinh viên là đối tượng chính sách được miễn giảm học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Cụ thể: \n* **Miễn học phí hoàn toàn:** Con liệt sĩ, con thương binh, con bệnh binh, con người hoạt động kháng chiến bị nhiễm chất độc hóa học, người hoạt động cách mạng trước 01/01/1945, người hoạt động cách mạng từ 01/01/1945 đến trước ngày khởi nghĩa tháng Tám năm 1945, Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động trong thời kỳ kháng chiến. \n* **Giảm 70% học phí:** Con của cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động, bệnh nghề nghiệp. \nĐể được miễn giảm học phí, em cần chuẩn bị hồ sơ theo quy định và nộp tại phòng Chính trị & Công tác sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định chuyển ngành, chuyển trường",
+    "output": "Quy định chuyển ngành, chuyển trường như sau: \n* **Chuyển ngành:** Sinh viên được phép chuyển ngành trong trường một lần sau khi hoàn thành chương trình năm thứ nhất. Điều kiện chuyển ngành là sinh viên phải có điểm trung bình tích lũy năm thứ nhất đạt từ 2.0 trở lên và đáp ứng điều kiện tuyển sinh của ngành muốn chuyển đến. \n* **Chuyển trường:** Sinh viên được phép chuyển trường sau khi hoàn thành chương trình năm thứ nhất. Điều kiện chuyển trường là sinh viên phải có điểm trung bình tích lũy năm thứ nhất đạt từ 2.0 trở lên và đáp ứng điều kiện tuyển sinh của trường muốn chuyển đến. \nEm có thể tham khảo quy định chi tiết về chuyển ngành, chuyển trường trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên học ngoại ngữ không?",
+    "output": "Trường có Trung tâm Ngoại ngữ với các khóa học tiếng Anh, tiếng Pháp, tiếng Trung, tiếng Nhật,... dành cho sinh viên. Trung tâm Ngoại ngữ cũng tổ chức các kỳ thi chứng chỉ ngoại ngữ quốc tế như TOEIC, IELTS, TOEFL,... Em có thể đăng ký học tại Trung tâm Ngoại ngữ để nâng cao trình độ ngoại ngữ của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số ở vùng sâu, vùng xa",
+    "output": "Chào em, trường có chương trình học bổng “Chung một ước mơ” dành cho sinh viên là người dân tộc thiểu số ở vùng sâu, vùng xa có hoàn cảnh khó khăn nhưng có thành tích học tập tốt. Học bổng hỗ trợ một phần học phí và chi phí sinh hoạt cho sinh viên trong suốt quá trình học tập tại trường. Ngoài ra, trường còn có chính sách hỗ trợ xe đưa đón, chỗ ở miễn phí tại ký túc xá cho sinh viên là người dân tộc thiểu số ở vùng sâu, vùng xa. Em có thể tìm hiểu thông tin chi tiết về chương trình học bổng “Chung một ước mơ” trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách miễn giảm học phí dành cho sinh viên là người có công với cách mạng",
+    "output": "Sinh viên là người có công với cách mạng được miễn giảm học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Cụ thể: \n* **Miễn học phí hoàn toàn:** Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động trong thời kỳ kháng chiến, thương binh, bệnh binh, người hoạt động cách mạng trước 01/01/1945, người hoạt động cách mạng từ 01/01/1945 đến trước ngày khởi nghĩa tháng Tám năm 1945. \n* **Giảm 70% học phí:** Con của người có công với cách mạng. \nĐể được miễn giảm học phí, em cần chuẩn bị hồ sơ theo quy định và nộp tại phòng Chính trị & Công tác sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định xét học bổng",
+    "output": "Quy định xét học bổng sẽ tùy thuộc vào từng loại học bổng. Tuy nhiên, thông thường, sinh viên cần đáp ứng các điều kiện sau để được xét học bổng: \n* **Thành tích học tập:** Đạt điểm trung bình học kỳ theo yêu cầu của từng loại học bổng. \n* **Rèn luyện:** Đạt loại Khá trở lên. \n* **Không vi phạm kỷ luật:** Không bị kỷ luật từ mức khiển trách trở lên. \nEm có thể tham khảo quy định chi tiết về xét học bổng trong thông báo của từng chương trình học bổng."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tham gia các hoạt động tình nguyện không?",
+    "output": "Trường có Đội sinh viên tình nguyện và các câu lạc bộ thiện nguyện tổ chức các hoạt động tình nguyện thường xuyên như: \n* **Tình nguyện Mùa hè xanh:** Sinh viên tham gia các hoạt động xây dựng nông thôn mới, hỗ trợ người dân ở vùng sâu, vùng xa. \n* **Tình nguyện Chào tân sinh viên:** Sinh viên hỗ trợ tân sinh viên trong những ngày đầu nhập học. \n* **Tình nguyện hiến máu nhân đạo:** Sinh viên tham gia hiến máu cứu người. \nEm có thể đăng ký tham gia các hoạt động tình nguyện để góp phần giúp đỡ cộng đồng và rèn luyện kỹ năng sống."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người khuyết tật",
+    "output": "Chào em, trường có chương trình học bổng Vượt lên chính mình dành cho sinh viên là người khuyết tật có hoàn cảnh khó khăn nhưng có ý chí vươn lên trong học tập. Học bổng hỗ trợ một phần học phí và chi phí sinh hoạt cho sinh viên. Ngoài ra, trường còn có chính sách miễn giảm học phí hoàn toàn cho sinh viên là người khuyết tật. Em có thể tìm hiểu thông tin chi tiết về chương trình học bổng Vượt lên chính mình trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học phí dành cho sinh viên là con của Anh hùng lực lượng vũ trang nhân dân",
+    "output": "Sinh viên là con của Anh hùng lực lượng vũ trang nhân dân được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng lực lượng vũ trang nhân dân của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn tìm hiểu về chương trình đào tạo chất lượng cao",
+    "output": "Chương trình đào tạo chất lượng cao là chương trình đào tạo được thiết kế với nội dung chuyên sâu và phương pháp giảng dạy hiện đại. Sinh viên theo học chương trình đào tạo chất lượng cao sẽ được hưởng nhiều lợi ích như: \n* **Cơ hội học tập với giảng viên giỏi, chuyên gia đầu ngành.** \n* **Cơ sở vật chất hiện đại, đáp ứng nhu cầu học tập và nghiên cứu.** \n* **Cơ hội thực tập, làm việc tại các doanh nghiệp lớn.** \n* **Cơ hội học bổng du học.** \nEm có thể tìm hiểu thông tin chi tiết về chương trình đào tạo chất lượng cao trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn biết về chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn",
+    "output": "Trường có nhiều chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn như: \n* **Học bổng Tiếp sức đến trường**: Dành cho sinh viên có hoàn cảnh khó khăn nhưng có ý chí vươn lên trong học tập. \n* **Trợ cấp xã hội:** Dành cho sinh viên thuộc diện hộ nghèo, hộ cận nghèo, mồ côi, khuyết tật,... \n* **Hỗ trợ vay vốn học tập:** Trường liên kết với các ngân hàng để hỗ trợ sinh viên vay vốn học tập với lãi suất ưu đãi. \n* **Hỗ trợ tìm kiếm việc làm thêm:** Trung tâm Hỗ trợ sinh viên và Việc làm hỗ trợ sinh viên tìm kiếm việc làm thêm phù hợp với thời gian học tập."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của Anh hùng Lao động",
+    "output": "Chào em, sinh viên là con của Anh hùng Lao động được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng Lao động của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo bằng tiếng Anh",
+    "output": "Trường có chương trình đào tạo bằng tiếng Anh ở một số ngành học. Chương trình đào tạo bằng tiếng Anh được thiết kế với nội dung chuyên sâu, phương pháp giảng dạy hiện đại và đội ngũ giảng viên có trình độ chuyên môn cao, sử dụng thành thạo tiếng Anh. Sinh viên theo học chương trình đào tạo bằng tiếng Anh sẽ có cơ hội nâng cao trình độ ngoại ngữ, tiếp cận với kiến thức tiên tiến và mở rộng cơ hội nghề nghiệp trong tương lai. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo bằng tiếng Anh trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định thi kết thúc học phần",
+    "output": "Quy định thi kết thúc học phần như sau: \n* **Hình thức thi:** Tùy theo từng môn học, hình thức thi có thể là thi viết, thi trắc nghiệm, thi vấn đáp, thi thực hành,... \n* **Thời gian thi:** Thời gian thi kết thúc học phần được quy định trong lịch thi học kỳ do phòng Đào tạo công bố. \n* **Điều kiện dự thi:** Sinh viên phải hoàn thành đầy đủ các yêu cầu của môn học, bao gồm điểm chuyên cần, điểm quá trình và bài tập. \n* **Xử lý vi phạm:** Sinh viên vi phạm quy chế thi sẽ bị xử lý kỷ luật theo quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên học tập và nghiên cứu như thế nào?",
+    "output": "Trường có nhiều hoạt động hỗ trợ sinh viên học tập và nghiên cứu như: \n* **Hệ thống thư viện hiện đại:** Cung cấp tài liệu học tập, nghiên cứu phong phú. \n* **Phòng máy tính:** Trang bị đầy đủ máy tính và phần mềm phục vụ học tập, nghiên cứu. \n* **Các phòng thí nghiệm, xưởng thực hành:** Đáp ứng nhu cầu thực hành, nghiên cứu của sinh viên. \n* **Chương trình học bổng khuyến khích nghiên cứu khoa học:** Hỗ trợ sinh viên tham gia nghiên cứu khoa học. \n* **Hội thảo, seminar khoa học:** Giúp sinh viên cập nhật kiến thức mới, trao đổi kinh nghiệm nghiên cứu."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình du học tại chỗ",
+    "output": "Chương trình du học tại chỗ là chương trình liên kết đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình du học tại chỗ sẽ được học tập với giảng viên nước ngoài, sử dụng giáo trình nước ngoài và nhận bằng cấp của trường đối tác nước ngoài. Em có thể tìm hiểu thông tin chi tiết về chương trình du học tại chỗ trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định xét học bổng khuyến khích học tập",
+    "output": "Học bổng khuyến khích học tập được xét duyệt hàng năm dựa trên kết quả học tập của học kỳ trước đó. Sinh viên đạt thành tích học tập loại Giỏi sẽ được xét học bổng với mức hỗ trợ tương ứng với số tín chỉ đạt loại Giỏi. Sinh viên đạt thành tích học tập loại Xuất sắc sẽ được xét học bổng với mức hỗ trợ cao hơn. Em có thể tham khảo quy định chi tiết về xét học bổng khuyến khích học tập trong thông báo của chương trình học bổng."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tìm kiếm nhà trọ không?",
+    "output": "Trường có Ban quản lý ký túc xá hỗ trợ sinh viên tìm kiếm nhà trọ thông qua các kênh thông tin như: \n* **Bảng tin nhà trọ:** Ban quản lý ký túc xá thường xuyên cập nhật thông tin về các nhà trọ uy tín, giá cả hợp lý trên bảng tin tại ký túc xá và website của trường. \n* **Nhóm hỗ trợ tìm nhà trọ trên mạng xã hội:** Sinh viên có thể tham gia các nhóm hỗ trợ tìm nhà trọ trên mạng xã hội để trao đổi thông tin và tìm kiếm bạn cùng phòng. \nEm cũng có thể hỏi thăm bạn bè, anh chị khóa trên để tìm kiếm nhà trọ phù hợp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động kháng chiến bị nhiễm chất độc hóa học",
+    "output": "Chào em, sinh viên là con của người hoạt động kháng chiến bị nhiễm chất độc hóa học được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy tờ chứng minh bố/mẹ bị nhiễm chất độc hóa học. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo theo tín chỉ",
+    "output": "Chương trình đào tạo theo tín chỉ là chương trình đào tạo cho phép sinh viên chủ động lựa chọn môn học và thời gian học tập phù hợp với khả năng và nhu cầu của bản thân. Sinh viên cần tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo để được xét tốt nghiệp. Chương trình đào tạo theo tín chỉ giúp sinh viên phát huy tính tự chủ, sáng tạo và linh hoạt trong học tập."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định bảo lưu kết quả học tập",
+    "output": "Sinh viên được bảo lưu kết quả học tập trong các trường hợp sau: \n* **Ốm đau, tai nạn:** Sinh viên cần nộp đơn xin bảo lưu kết quả học tập kèm theo giấy tờ chứng nhận của cơ sở y tế có thẩm quyền. \n* **Sinh con:** Sinh viên nữ cần nộp đơn xin bảo lưu kết quả học tập kèm theo giấy khai sinh của con. \n* **Lý do khác:** Sinh viên cần nộp đơn xin bảo lưu kết quả học tập và các giấy tờ chứng minh lý do bảo lưu đến phòng Đào tạo để được xem xét và phê duyệt. \nThời gian bảo lưu tối đa là 2 năm. Trong thời gian bảo lưu, sinh viên vẫn phải đóng học phí theo quy định của nhà trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tham gia các hoạt động văn hóa, văn nghệ, thể thao không?",
+    "output": "Trường có Nhà văn hóa sinh viên với các câu lạc bộ, đội, nhóm hoạt động văn hóa, văn nghệ, thể thao sôi nổi. Sinh viên có thể tham gia các câu lạc bộ như: \n* **Câu lạc bộ nhảy:** Tham gia các hoạt động tập luyện và biểu diễn các điệu nhảy hiện đại, dân gian,... \n* **Câu lạc bộ bóng đá, bóng rổ, cầu lông,...:** Tham gia các giải đấu thể thao trong và ngoài trường. \n* **Câu lạc bộ âm nhạc:** Tham gia các hoạt động tập luyện và biểu diễn các loại nhạc cụ, ca hát,... \nNgoài ra, trường còn tổ chức các chương trình văn hóa, văn nghệ, thể thao lớn trong năm như Hội diễn văn nghệ quần chúng, Giải thể thao sinh viên,... để tạo sân chơi lành mạnh và bổ ích cho sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên đạt thành tích cao trong kỳ thi THPT Quốc gia",
+    "output": "Chào em, trường có chính sách học bổng dành cho sinh viên đạt thành tích cao trong kỳ thi THPT Quốc gia. Sinh viên có tổng điểm thi THPT Quốc gia từ 27 điểm trở lên sẽ được xét học bổng với mức hỗ trợ hấp dẫn. Mức học bổng sẽ tăng dần theo tổng điểm thi của sinh viên. Em có thể tham khảo thông tin chi tiết về chính sách học bổng này trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình liên kết đào tạo quốc tế",
+    "output": "Chương trình liên kết đào tạo quốc tế là chương trình hợp tác đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình liên kết đào tạo quốc tế sẽ được học tập một phần hoặc toàn bộ chương trình tại trường đối tác nước ngoài và nhận bằng cấp của cả hai trường. Em có thể tìm hiểu thông tin chi tiết về các chương trình liên kết đào tạo quốc tế trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định xét tốt nghiệp",
+    "output": "Để được xét tốt nghiệp, sinh viên cần đáp ứng đủ các điều kiện sau: \n* **Hoàn thành chương trình đào tạo:** Đạt đủ số tín chỉ theo quy định của chương trình đào tạo. \n* **Hoàn thành khóa luận tốt nghiệp:** Bảo vệ thành công khóa luận tốt nghiệp trước hội đồng chấm khóa luận. \n* **Không vi phạm kỷ luật:** Không bị kỷ luật từ mức khiển trách trở lên trong thời gian học tập tại trường. \n* **Hoàn thành nghĩa vụ tài chính:** Đóng đầy đủ các khoản phí theo quy định của nhà trường. \nSinh viên đáp ứng đủ các điều kiện trên sẽ được xét tốt nghiệp và cấp bằng tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tham gia các cuộc thi học thuật không?",
+    "output": "Trường khuyến khích sinh viên tham gia các cuộc thi học thuật như Olympic Toàn quốc các môn khoa học Mác - Lênin, tư tưởng Hồ Chí Minh; Olympic Toàn quốc các môn khoa học; Giải thưởng Sinh viên nghiên cứu khoa học,... Trường sẽ hỗ trợ sinh viên về mặt tài chính, kiến thức chuyên môn và kỹ năng mềm để sinh viên tự tin tham gia các cuộc thi và đạt kết quả cao."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số có thành tích học tập tốt",
+    "output": "Chào em, trường có nhiều chương trình học bổng dành cho sinh viên là người dân tộc thiểu số có thành tích học tập tốt. Một số chương trình học bổng phổ biến như: \n* **Học bổng Thắp sáng niềm tin:** Dành cho sinh viên là người dân tộc thiểu số có điểm thi THPT Quốc gia cao. \n* **Học bổng của các tổ chức, cá nhân:** Nhiều tổ chức, cá nhân cũng có chương trình học bổng dành riêng cho sinh viên là người dân tộc thiểu số có thành tích học tập tốt. \n* **Học bổng khuyến khích học tập:** Sinh viên là người dân tộc thiểu số cũng được xét học bổng khuyến khích học tập như các sinh viên khác nếu đạt thành tích học tập tốt. \nEm có thể tìm hiểu thông tin chi tiết về các chương trình học bổng trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư tài năng",
+    "output": "Chương trình đào tạo kỹ sư tài năng là chương trình đào tạo được thiết kế nhằm đào tạo ra những kỹ sư có trình độ chuyên môn cao, kỹ năng thực hành tốt và khả năng sáng tạo, đáp ứng nhu cầu của thị trường lao động trong nước và quốc tế. Sinh viên theo học chương trình đào tạo kỹ sư tài năng sẽ được hưởng nhiều lợi ích như: \n* **Cơ hội học tập với giảng viên giỏi, chuyên gia đầu ngành.** \n* **Cơ sở vật chất hiện đại, đáp ứng nhu cầu học tập và nghiên cứu.** \n* **Cơ hội thực tập, làm việc tại các doanh nghiệp lớn.** \n* **Cơ hội học bổng du học.** \nEm có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư tài năng trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm rèn luyện",
+    "output": "Điểm rèn luyện được đánh giá dựa trên các tiêu chí như: \n* **Ý thức chấp hành nội quy, quy chế của nhà trường.** \n* **Tham gia các hoạt động ngoại khóa, hoạt động đoàn thể.** \n* **Ý thức học tập, rèn luyện.** \n* **Phẩm chất đạo đức, lối sống.** \nĐiểm rèn luyện được xếp loại từ Xuất sắc đến Kém. Điểm rèn luyện là một trong những điều kiện để xét học bổng, xét tốt nghiệp và đánh giá xếp loại sinh viên."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về chỗ ở không?",
+    "output": "Trường có hệ thống ký túc xá với đầy đủ tiện nghi phục vụ nhu cầu sinh hoạt của sinh viên. Sinh viên có thể đăng ký ở ký túc xá theo quy định của nhà trường. Ngoài ra, Ban quản lý ký túc xá cũng hỗ trợ sinh viên tìm kiếm nhà trọ thông qua các kênh thông tin như bảng tin nhà trọ, nhóm hỗ trợ tìm nhà trọ trên mạng xã hội."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận thuộc khu vực đặc biệt khó khăn do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo thạc sĩ",
+    "output": "Trường có chương trình đào tạo thạc sĩ ở nhiều ngành học. Chương trình đào tạo thạc sĩ được thiết kế nhằm đào tạo ra những người có trình độ chuyên môn cao, khả năng nghiên cứu khoa học và giải quyết các vấn đề thực tiễn trong lĩnh vực chuyên môn. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo thạc sĩ trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định thi hết môn",
+    "output": "Thi hết môn là kỳ thi dành cho sinh viên chưa hoàn thành yêu cầu của một hoặc một số môn học trong học kỳ chính thức. Sinh viên cần đăng ký thi hết môn và đóng lệ phí thi theo quy định của nhà trường. Thời gian thi hết môn thường được tổ chức sau khi kết thúc học kỳ chính thức. Em có thể tham khảo quy định chi tiết về thi hết môn trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng mềm không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Việc làm tổ chức các khóa đào tạo kỹ năng mềm cho sinh viên như: \n* **Kỹ năng giao tiếp:** Giúp sinh viên tự tin giao tiếp trong môi trường học tập và làm việc. \n* **Kỹ năng làm việc nhóm:** Giúp sinh viên phối hợp hiệu quả với các thành viên trong nhóm để hoàn thành công việc. \n* **Kỹ năng thuyết trình:** Giúp sinh viên tự tin thuyết trình trước đám đông. \n* **Kỹ năng quản lý thời gian:** Giúp sinh viên sử dụng thời gian hiệu quả. \n* **Kỹ năng giải quyết vấn đề:** Giúp sinh viên phân tích và giải quyết vấn đề một cách hiệu quả. \nEm có thể tham gia các khóa đào tạo kỹ năng mềm để nâng cao năng lực của bản thân và tăng cơ hội thành công trong tương lai."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà thuộc hộ nghèo và hộ cận nghèo",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao giấy xác nhận hộ nghèo/hộ cận nghèo do UBND cấp xã cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo tiến sĩ",
+    "output": "Trường có chương trình đào tạo tiến sĩ ở một số ngành học. Chương trình đào tạo tiến sĩ được thiết kế nhằm đào tạo ra những nhà khoa học có trình độ chuyên môn cao, khả năng nghiên cứu khoa học độc lập và đóng góp cho sự phát triển của xã hội. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo tiến sĩ trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định xét lên lớp",
+    "output": "Để được xét lên lớp, sinh viên cần đáp ứng các điều kiện sau: \n* **Hoàn thành chương trình học phần của học kỳ hiện tại.** \n* **Tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo.** \n* **Không có môn học nào bị đánh giá F.** \n* **Điểm rèn luyện đạt loại Khá trở lên.** \nSinh viên đáp ứng đủ các điều kiện trên sẽ được xét lên lớp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tham gia các hoạt động khởi nghiệp không?",
+    "output": "Trường có Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo với các hoạt động hỗ trợ sinh viên khởi nghiệp như: \n* **Tổ chức các khóa đào tạo, hội thảo về khởi nghiệp.** \n* **Cung cấp không gian làm việc chung, hỗ trợ kết nối với các nhà đầu tư, cố vấn khởi nghiệp.** \n* **Tổ chức các cuộc thi khởi nghiệp để sinh viên có cơ hội thể hiện ý tưởng và nhận hỗ trợ.** \nEm có thể liên hệ với Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo để được tư vấn và hỗ trợ khởi nghiệp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư chất lượng cao",
+    "output": "Chương trình đào tạo kỹ sư chất lượng cao là chương trình đào tạo được thiết kế với mục tiêu đào tạo ra những kỹ sư có trình độ chuyên môn cao, kỹ năng thực hành tốt và khả năng sáng tạo, đáp ứng nhu cầu của thị trường lao động. Sinh viên theo học chương trình đào tạo kỹ sư chất lượng cao sẽ được học tập với giảng viên giỏi, chuyên gia đầu ngành; sử dụng cơ sở vật chất hiện đại; có cơ hội thực tập, làm việc tại các doanh nghiệp lớn; và có cơ hội học bổng du học. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư chất lượng cao trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm chuyên cần",
+    "output": "Điểm chuyên cần được tính dựa trên số buổi học mà sinh viên tham gia trên tổng số buổi học của môn học đó. Sinh viên vắng mặt quá 20% số buổi học của một môn học sẽ bị cấm thi kết thúc học phần môn học đó. Em cần chú ý tham gia đầy đủ các buổi học để đảm bảo điểm chuyên cần và không bị ảnh hưởng đến kết quả học tập."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về y tế không?",
+    "output": "Trường có Trung tâm Y tế với đội ngũ y bác sĩ có trình độ chuyên môn cao, tận tình chăm sóc sức khỏe cho sinh viên. Sinh viên có thể đến Trung tâm Y tế để khám bệnh, tư vấn sức khỏe, cấp phát thuốc,... Ngoài ra, trường còn tổ chức các chương trình khám sức khỏe định kỳ, các buổi tuyên truyền về phòng chống dịch bệnh, các hoạt động thể dục thể thao để nâng cao sức khỏe cho sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của Anh hùng Lực lượng vũ trang nhân dân",
+    "output": "Chào em, sinh viên là con của Anh hùng Lực lượng vũ trang nhân dân được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng Lực lượng vũ trang nhân dân của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo từ xa",
+    "output": "Chương trình đào tạo từ xa là chương trình đào tạo sử dụng công nghệ thông tin và truyền thông để truyền tải kiến thức đến người học. Sinh viên theo học chương trình đào tạo từ xa có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo từ xa trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định học lại",
+    "output": "Sinh viên phải học lại các môn học bị đánh giá F hoặc các môn học đã thi lại 2 lần mà vẫn không đạt. Học phí học lại được tính theo số tín chỉ của môn học. Em có thể tham khảo quy định chi tiết về học lại trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về tâm lý không?",
+    "output": "Trường có Trung tâm Tư vấn và Hỗ trợ sinh viên với đội ngũ chuyên viên tâm lý có trình độ chuyên môn cao, sẵn sàng hỗ trợ sinh viên về các vấn đề tâm lý như: \n* **Khó khăn trong học tập, định hướng nghề nghiệp.** \n* **Stress, lo âu, trầm cảm.** \n* **Các vấn đề về mối quan hệ.** \n* **Các vấn đề về sức khỏe tâm thần.** \nEm có thể liên hệ với Trung tâm Tư vấn và Hỗ trợ sinh viên để được tư vấn và hỗ trợ tâm lý miễn phí."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên đạt giải Nhất, Nhì, Ba trong kỳ thi học sinh giỏi cấp tỉnh",
+    "output": "Chào em, trường có chính sách học bổng dành cho sinh viên đạt giải Nhất, Nhì, Ba trong kỳ thi học sinh giỏi cấp tỉnh. Sinh viên đạt giải sẽ được xét học bổng với mức hỗ trợ hấp dẫn, tùy thuộc vào loại giải và ngành học. Em có thể tham khảo thông tin chi tiết về chính sách học bổng này trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo văn bằng 2",
+    "output": "Chương trình đào tạo văn bằng 2 là chương trình đào tạo dành cho những người đã có bằng đại học và muốn học thêm một ngành học khác. Sinh viên theo học chương trình đào tạo văn bằng 2 sẽ được miễn giảm một số môn học đã học ở chương trình đào tạo đại học trước đó. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo văn bằng 2 trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm quá trình",
+    "output": "Điểm quá trình là điểm đánh giá quá trình học tập của sinh viên trong suốt học kỳ. Điểm quá trình được tính dựa trên các yếu tố như: \n* **Điểm chuyên cần.** \n* **Điểm kiểm tra giữa kỳ, bài tập về nhà, tiểu luận,...** \n* **Thái độ học tập, tham gia thảo luận.** \nĐiểm quá trình chiếm một tỷ lệ nhất định trong điểm tổng kết môn học. Em cần chú ý học tập và tham gia tích cực các hoạt động học tập trên lớp để đảm bảo điểm quá trình."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên rèn luyện kỹ năng tin học không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học tin học văn phòng, lập trình, thiết kế đồ họa,... dành cho sinh viên. Trung tâm Tin học cũng tổ chức các kỳ thi chứng chỉ tin học quốc tế như MOS, IC3,... Em có thể đăng ký học tại Trung tâm Tin học để nâng cao kỹ năng tin học của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số có hoàn cảnh đặc biệt khó khăn",
+    "output": "Chào em, trường có chương trình học bổng “Cùng em đến trường” dành cho sinh viên là người dân tộc thiểu số có hoàn cảnh đặc biệt khó khăn. Học bổng hỗ trợ toàn phần học phí, chi phí sinh hoạt, chi phí đi lại và các khoản chi phí khác cho sinh viên trong suốt quá trình học tập tại trường. Em có thể tìm hiểu thông tin chi tiết về chương trình học bổng “Cùng em đến trường” trên website của trường hoặc liên hệ với phòng Chính trị & Công tác sinh viên để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo liên thông",
+    "output": "Chương trình đào tạo liên thông là chương trình đào tạo dành cho những người đã tốt nghiệp cao đẳng, trung cấp chuyên nghiệp và muốn học tiếp lên đại học. Sinh viên theo học chương trình đào tạo liên thông sẽ được miễn giảm một số môn học đã học ở chương trình đào tạo trước đó. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo liên thông trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định thi kết thúc môn",
+    "output": "Thi kết thúc môn là kỳ thi cuối cùng của một môn học trong học kỳ. Sinh viên cần đạt yêu cầu của kỳ thi kết thúc môn để được tính điểm tổng kết môn học và xét lên lớp, xét tốt nghiệp. Hình thức thi kết thúc môn có thể là thi viết, thi trắc nghiệm, thi vấn đáp, thi thực hành,... tùy theo từng môn học."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về chỗ ăn, uống không?",
+    "output": "Trường có hệ thống nhà ăn phục vụ sinh viên với giá cả hợp lý và thực đơn đa dạng. Ngoài ra, trong khuôn viên trường cũng có nhiều quán ăn, quán cà phê phục vụ nhu cầu ăn uống của sinh viên."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số có bố hoặc mẹ là thương binh",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số có bố hoặc mẹ là thương binh được hưởng chính sách miễn giảm học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Cụ thể, em sẽ được giảm 70% học phí. Để được giảm học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận bố/mẹ là thương binh và bản sao thẻ thương binh của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt giảm học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư định hướng ứng dụng",
+    "output": "Chương trình đào tạo kỹ sư định hướng ứng dụng là chương trình đào tạo chú trọng thực hành, giúp sinh viên có kỹ năng nghề nghiệp vững vàng và đáp ứng nhu cầu của doanh nghiệp. Sinh viên theo học chương trình đào tạo kỹ sư định hướng ứng dụng sẽ được thực tập tại các doanh nghiệp, tham gia các dự án thực tế và được đào tạo bởi các giảng viên có kinh nghiệm thực tiễn phong phú. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư định hướng ứng dụng trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm tổng kết môn học",
+    "output": "Điểm tổng kết môn học được tính dựa trên công thức: Điểm tổng kết = (Điểm quá trình x Tỷ lệ điểm quá trình) + (Điểm thi kết thúc học phần x Tỷ lệ điểm thi kết thúc học phần). Tỷ lệ điểm quá trình và điểm thi kết thúc học phần sẽ tùy thuộc vào từng môn học và được quy định trong kế hoạch giảng dạy của môn học đó."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên tham gia các hoạt động nghiên cứu khoa học không?",
+    "output": "Trường khuyến khích sinh viên tham gia các hoạt động nghiên cứu khoa học thông qua các chương trình như: \n* **Chương trình sinh viên nghiên cứu khoa học:** Hỗ trợ sinh viên thực hiện các đề tài nghiên cứu khoa học cấp trường, cấp bộ hoặc cấp quốc gia. \n* **Hội thảo, seminar khoa học:** Giúp sinh viên cập nhật kiến thức mới, trao đổi kinh nghiệm nghiên cứu. \n* **Các câu lạc bộ nghiên cứu khoa học:** Tạo môi trường cho sinh viên trao đổi, học hỏi và thực hiện các dự án nghiên cứu khoa học."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội khó khăn",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số ở vùng có điều kiện kinh tế - xã hội khó khăn được giảm 70% học phí theo quy định của Nghị định 81/2021/NĐ-CP. Để được giảm học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận thuộc khu vực khó khăn do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt giảm học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo tiến sĩ định hướng ứng dụng",
+    "output": "Chương trình đào tạo tiến sĩ định hướng ứng dụng là chương trình đào tạo nhằm đào tạo ra những tiến sĩ có khả năng nghiên cứu khoa học và ứng dụng kết quả nghiên cứu vào thực tiễn sản xuất, kinh doanh. Sinh viên theo học chương trình đào tạo tiến sĩ định hướng ứng dụng sẽ được tham gia các dự án nghiên cứu thực tế, hợp tác với các doanh nghiệp và được hướng dẫn bởi các giảng viên có kinh nghiệm thực tiễn phong phú. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo tiến sĩ định hướng ứng dụng trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm thi",
+    "output": "Điểm thi là điểm đánh giá kết quả học tập của sinh viên trong kỳ thi kết thúc học phần. Điểm thi được tính theo thang điểm 10 hoặc thang điểm chữ cái (A, B, C, D, F). Sinh viên cần đạt điểm thi tối thiểu theo quy định của từng môn học để được tính điểm tổng kết môn học và xét lên lớp, xét tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tìm kiếm việc làm không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Việc làm với các hoạt động hỗ trợ sinh viên về kỹ năng tìm kiếm việc làm như: \n* **Tổ chức các buổi hướng nghiệp, tư vấn việc làm.** \n* **Hỗ trợ sinh viên hoàn thiện hồ sơ xin việc.** \n* **Cung cấp thông tin về thị trường lao động, kỹ năng viết CV, kỹ năng phỏng vấn,...** \n* **Kết nối sinh viên với các doanh nghiệp thông qua các chương trình tuyển dụng, ngày hội việc làm.**"
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số thuộc hộ cận nghèo",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số thuộc hộ cận nghèo được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ cận nghèo do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo song bằng",
+    "output": "Chương trình đào tạo song bằng là chương trình hợp tác đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình đào tạo song bằng sẽ được học tập một phần chương trình tại trường và một phần chương trình tại trường đối tác nước ngoài. Sau khi hoàn thành chương trình học, sinh viên sẽ được cấp bằng tốt nghiệp của cả hai trường. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo song bằng trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm tích lũy",
+    "output": "Điểm tích lũy là điểm được tính bằng cách nhân điểm chữ cái của từng môn học với số tín chỉ của môn học đó. Điểm tích lũy được sử dụng để tính điểm trung bình tích lũy học kỳ và điểm trung bình tích lũy toàn khóa. Điểm trung bình tích lũy là một trong những điều kiện để xét học bổng, xét lên lớp và xét tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng nghiên cứu khoa học không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng nghiên cứu khoa học như: \n* **Chương trình sinh viên nghiên cứu khoa học:** Hỗ trợ sinh viên thực hiện các đề tài nghiên cứu khoa học. \n* **Các câu lạc bộ nghiên cứu khoa học:** Tạo môi trường cho sinh viên trao đổi, học hỏi và thực hiện các dự án nghiên cứu khoa học. \n* **Hội thảo, seminar khoa học:** Giúp sinh viên cập nhật kiến thức mới, trao đổi kinh nghiệm nghiên cứu. \n* **Khóa đào tạo kỹ năng nghiên cứu khoa học:** Trang bị cho sinh viên các kiến thức và kỹ năng cần thiết để thực hiện nghiên cứu khoa học."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo được giảm 70% học phí theo quy định của Nghị định 81/2021/NĐ-CP. Để được giảm học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt giảm học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình chất lượng cao",
+    "output": "Chương trình chất lượng cao là chương trình đào tạo được thiết kế với mục tiêu đào tạo ra những cử nhân có trình độ chuyên môn cao, kỹ năng thực hành tốt và khả năng sáng tạo, đáp ứng nhu cầu của thị trường lao động. Sinh viên theo học chương trình chất lượng cao sẽ được học tập với giảng viên giỏi, chuyên gia đầu ngành; sử dụng cơ sở vật chất hiện đại; có cơ hội thực tập, làm việc tại các doanh nghiệp lớn; và có cơ hội học bổng du học. Em có thể tìm hiểu thông tin chi tiết về chương trình chất lượng cao trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm trung bình tích lũy",
+    "output": "Điểm trung bình tích lũy là điểm được tính bằng cách chia tổng điểm tích lũy cho tổng số tín chỉ đã tích lũy. Điểm trung bình tích lũy được sử dụng để xét học bổng, xét lên lớp và xét tốt nghiệp. Em cần chú ý duy trì điểm trung bình tích lũy đạt yêu cầu để đảm bảo tiến độ học tập và có cơ hội nhận học bổng."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng khởi nghiệp không?",
+    "output": "Trường có Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo với các hoạt động hỗ trợ sinh viên khởi nghiệp như: \n* **Tổ chức các khóa đào tạo, hội thảo về khởi nghiệp.** \n* **Cung cấp không gian làm việc chung, hỗ trợ kết nối với các nhà đầu tư, cố vấn khởi nghiệp.** \n* **Tổ chức các cuộc thi khởi nghiệp để sinh viên có cơ hội thể hiện ý tưởng và nhận hỗ trợ.** \nEm có thể liên hệ với Trung tâm Hỗ trợ Khởi nghiệp và Sáng tạo để được tư vấn và hỗ trợ khởi nghiệp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình liên kết đào tạo với nước ngoài",
+    "output": "Chương trình liên kết đào tạo với nước ngoài là chương trình hợp tác đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình liên kết đào tạo với nước ngoài sẽ được học tập một phần hoặc toàn bộ chương trình tại trường đối tác nước ngoài và nhận bằng cấp của cả hai trường. Em có thể tìm hiểu thông tin chi tiết về các chương trình liên kết đào tạo với nước ngoài trên website của trường hoặc liên hệ với phòng Hợp tác Quốc tế để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về học phần",
+    "output": "Học phần là đơn vị cơ bản của chương trình đào tạo, bao gồm các nội dung kiến thức và kỹ năng cần thiết cho một môn học. Sinh viên cần đăng ký học phần và hoàn thành yêu cầu của học phần đó để được tính điểm và tích lũy tín chỉ."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng sống không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng sống như: \n* **Khóa học kỹ năng sống:** Giúp sinh viên rèn luyện các kỹ năng mềm như kỹ năng giao tiếp, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian, kỹ năng giải quyết vấn đề,... \n* **Hoạt động ngoại khóa:** Các câu lạc bộ, đội, nhóm hoạt động ngoại khóa giúp sinh viên rèn luyện kỹ năng sống thông qua các hoạt động thực tế. \n* **Tư vấn tâm lý:** Trung tâm Tư vấn và Hỗ trợ sinh viên hỗ trợ sinh viên về các vấn đề tâm lý, giúp sinh viên có cuộc sống tinh thần lành mạnh."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con Anh hùng Lao động trong thời kỳ kháng chiến",
+    "output": "Chào em, sinh viên là con của Anh hùng Lao động trong thời kỳ kháng chiến được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng Lao động của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư theo chuẩn quốc tế",
+    "output": "Chương trình đào tạo kỹ sư theo chuẩn quốc tế là chương trình đào tạo được thiết kế theo các tiêu chuẩn quốc tế về nội dung, phương pháp giảng dạy và đánh giá kết quả học tập. Sinh viên tốt nghiệp chương trình đào tạo kỹ sư theo chuẩn quốc tế sẽ có cơ hội làm việc tại các công ty, tập đoàn đa quốc gia hoặc tiếp tục học tập ở bậc cao hơn tại các trường đại học danh tiếng trên thế giới. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư theo chuẩn quốc tế trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về tín chỉ",
+    "output": "Tín chỉ là đơn vị đo lường khối lượng học tập của sinh viên. Mỗi học phần sẽ có số tín chỉ tương ứng với khối lượng kiến thức và kỹ năng mà sinh viên cần đạt được. Sinh viên cần tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo để được xét lên lớp và xét tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tin học văn phòng không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học tin học văn phòng như Microsoft Word, Excel, PowerPoint,... dành cho sinh viên. Trung tâm Tin học cũng tổ chức các kỳ thi chứng chỉ tin học văn phòng quốc tế như MOS. Em có thể đăng ký học tại Trung tâm Tin học để nâng cao kỹ năng tin học văn phòng của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số không có nguồn nuôi dưỡng thuộc đối tượng hưởng trợ cấp xã hội hàng tháng",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số không có nguồn nuôi dưỡng thuộc đối tượng hưởng trợ cấp xã hội hàng tháng được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí và quyết định về việc trợ cấp xã hội của Chủ tịch Ủy ban nhân dân cấp huyện. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo theo hình thức trực tuyến",
+    "output": "Chương trình đào tạo theo hình thức trực tuyến là chương trình đào tạo sử dụng công nghệ thông tin và truyền thông để truyền tải kiến thức đến người học. Sinh viên theo học chương trình đào tạo theo hình thức trực tuyến có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo theo hình thức trực tuyến trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thực tập",
+    "output": "Thực tập là hoạt động học tập bắt buộc của sinh viên nhằm giúp sinh viên áp dụng kiến thức đã học vào thực tế, rèn luyện kỹ năng nghề nghiệp và định hướng nghề nghiệp. Sinh viên cần thực hiện chương trình thực tập theo quy định của từng ngành học và được đánh giá kết quả thực tập. Em có thể tham khảo quy định chi tiết về thực tập trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng lập trình không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học lập trình cơ bản và nâng cao dành cho sinh viên. Trung tâm Tin học cũng tổ chức các cuộc thi lập trình để sinh viên có cơ hội thể hiện tài năng và học hỏi kinh nghiệm. Em có thể đăng ký học tại Trung tâm Tin học hoặc tham gia các câu lạc bộ lập trình để nâng cao kỹ năng lập trình của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo văn bằng 2 trực tuyến",
+    "output": "Chương trình đào tạo văn bằng 2 trực tuyến là chương trình đào tạo dành cho những người đã có bằng đại học và muốn học thêm một ngành học khác theo hình thức trực tuyến. Sinh viên theo học chương trình đào tạo văn bằng 2 trực tuyến có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo văn bằng 2 trực tuyến trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về khóa luận tốt nghiệp",
+    "output": "Khóa luận tốt nghiệp là sản phẩm học tập tổng hợp kiến thức và kỹ năng mà sinh viên đã tích lũy được trong quá trình học tập tại trường. Sinh viên cần thực hiện khóa luận tốt nghiệp theo quy định của từng ngành học và bảo vệ khóa luận tốt nghiệp trước hội đồng chấm khóa luận. Em có thể tham khảo quy định chi tiết về khóa luận tốt nghiệp trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng thiết kế đồ họa không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học thiết kế đồ họa cơ bản và nâng cao dành cho sinh viên. Trung tâm Tin học cũng tổ chức các cuộc thi thiết kế đồ họa để sinh viên có cơ hội thể hiện tài năng và học hỏi kinh nghiệm. Em có thể đăng ký học tại Trung tâm Tin học hoặc tham gia các câu lạc bộ thiết kế đồ họa để nâng cao kỹ năng thiết kế đồ họa của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của Anh hùng Lực lượng vũ trang nhân dân",
+    "output": "Chào em, sinh viên là con của Anh hùng Lực lượng vũ trang nhân dân được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng Lực lượng vũ trang nhân dân của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo thạc sĩ trực tuyến",
+    "output": "Chương trình đào tạo thạc sĩ trực tuyến là chương trình đào tạo dành cho những người đã có bằng đại học và muốn học tiếp lên thạc sĩ theo hình thức trực tuyến. Sinh viên theo học chương trình đào tạo thạc sĩ trực tuyến có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo thạc sĩ trực tuyến trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về học phần tự chọn",
+    "output": "Học phần tự chọn là những học phần mà sinh viên được tự do lựa chọn để học tập, nhằm bổ sung kiến thức và kỹ năng cho bản thân. Số tín chỉ học phần tự chọn tối đa mà sinh viên được đăng ký sẽ tùy thuộc vào từng ngành học. Em có thể tham khảo danh sách học phần tự chọn và quy định về học phần tự chọn trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tiếng Anh không?",
+    "output": "Trường có Trung tâm Ngoại ngữ với các khóa học tiếng Anh từ cơ bản đến nâng cao dành cho sinh viên. Trung tâm Ngoại ngữ cũng tổ chức các kỳ thi chứng chỉ tiếng Anh quốc tế như TOEIC, IELTS, TOEFL,... Em có thể đăng ký học tại Trung tâm Ngoại ngữ hoặc tham gia các câu lạc bộ tiếng Anh để nâng cao kỹ năng tiếng Anh của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của thương binh",
+    "output": "Chào em, sinh viên là con của thương binh được giảm 70% học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được giảm học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ thương binh của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt giảm học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo tiến sĩ trực tuyến",
+    "output": "Chương trình đào tạo tiến sĩ trực tuyến là chương trình đào tạo dành cho những người đã có bằng thạc sĩ và muốn học tiếp lên tiến sĩ theo hình thức trực tuyến. Sinh viên theo học chương trình đào tạo tiến sĩ trực tuyến có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo tiến sĩ trực tuyến trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về học phần bắt buộc",
+    "output": "Học phần bắt buộc là những học phần mà sinh viên phải học và đạt yêu cầu để được xét lên lớp và xét tốt nghiệp. Học phần bắt buộc là những học phần nền tảng, cung cấp kiến thức và kỹ năng cơ bản cho sinh viên. Em có thể tham khảo danh sách học phần bắt buộc trong chương trình đào tạo của ngành học."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng thuyết trình không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng thuyết trình như: \n* **Khóa học kỹ năng thuyết trình:** Giúp sinh viên nắm vững các kỹ năng cần thiết để thuyết trình hiệu quả, từ việc chuẩn bị nội dung, thiết kế slide đến kỹ năng trình bày, xử lý tình huống. \n* **Câu lạc bộ kỹ năng mềm:** Tạo môi trường cho sinh viên rèn luyện kỹ năng thuyết trình thông qua các hoạt động thực tế. \n* **Các cuộc thi hùng biện, thuyết trình:** Giúp sinh viên tự tin thể hiện khả năng thuyết trình và học hỏi kinh nghiệm từ các bạn sinh viên khác."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của bệnh binh",
+    "output": "Chào em, sinh viên là con của bệnh binh được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ bệnh binh của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư định hướng nghiên cứu",
+    "output": "Chương trình đào tạo kỹ sư định hướng nghiên cứu là chương trình đào tạo nhằm đào tạo ra những kỹ sư có khả năng nghiên cứu khoa học và ứng dụng kết quả nghiên cứu vào thực tiễn. Sinh viên theo học chương trình đào tạo kỹ sư định hướng nghiên cứu sẽ được tham gia các dự án nghiên cứu khoa học, học tập với các giảng viên có trình độ chuyên môn cao và có cơ hội học bổng du học. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư định hướng nghiên cứu trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm đánh giá",
+    "output": "Điểm đánh giá là điểm được sử dụng để đánh giá kết quả học tập của sinh viên trong từng học phần. Điểm đánh giá có thể là điểm chữ cái hoặc điểm số, tùy thuộc vào quy định của từng môn học. Điểm đánh giá được sử dụng để tính điểm tích lũy và xét lên lớp, xét tốt nghiệp."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng làm việc nhóm không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng làm việc nhóm như: \n* **Khóa học kỹ năng làm việc nhóm:** Giúp sinh viên nắm vững các kỹ năng cần thiết để làm việc nhóm hiệu quả, từ việc phân công công việc, giao tiếp, phối hợp đến giải quyết mâu thuẫn. \n* **Hoạt động ngoại khóa:** Các câu lạc bộ, đội, nhóm hoạt động ngoại khóa giúp sinh viên rèn luyện kỹ năng làm việc nhóm thông qua các hoạt động thực tế. \n* **Dự án nhóm trong các môn học:** Giúp sinh viên thực hành kỹ năng làm việc nhóm và áp dụng kiến thức đã học vào thực tế."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động kháng chiến nhiễm chất độc hóa học",
+    "output": "Chào em, sinh viên là con của người hoạt động kháng chiến bị nhiễm chất độc hóa học được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy tờ chứng minh bố/mẹ bị nhiễm chất độc hóa học. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư chất lượng cao định hướng ứng dụng",
+    "output": "Chương trình đào tạo kỹ sư chất lượng cao định hướng ứng dụng là chương trình đào tạo kết hợp giữa chương trình đào tạo kỹ sư chất lượng cao và chương trình đào tạo kỹ sư định hướng ứng dụng. Sinh viên theo học chương trình đào tạo này sẽ được trang bị kiến thức chuyên môn sâu rộng, kỹ năng thực hành thành thạo và khả năng ứng dụng kiến thức vào thực tế. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư chất lượng cao định hướng ứng dụng trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm rèn luyện",
+    "output": "Điểm rèn luyện được đánh giá dựa trên các tiêu chí như: \n* **Ý thức chấp hành nội quy, quy chế của nhà trường.** \n* **Tham gia các hoạt động ngoại khóa, hoạt động đoàn thể.** \n* **Ý thức học tập, rèn luyện.** \n* **Phẩm chất đạo đức, lối sống.** \nĐiểm rèn luyện được xếp loại từ Xuất sắc đến Kém. Điểm rèn luyện là một trong những điều kiện để xét học bổng, xét tốt nghiệp và đánh giá xếp loại sinh viên."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng giao tiếp không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng giao tiếp như: \n* **Khóa học kỹ năng giao tiếp:** Giúp sinh viên nắm vững các kỹ năng cần thiết để giao tiếp hiệu quả, từ việc lắng nghe, sử dụng ngôn ngữ cơ thể đến kỹ năng thuyết trình, đàm phán. \n* **Câu lạc bộ kỹ năng mềm:** Tạo môi trường cho sinh viên rèn luyện kỹ năng giao tiếp thông qua các hoạt động thực tế. \n* **Các hoạt động ngoại khóa:** Các chương trình văn hóa, văn nghệ, thể thao,... giúp sinh viên mở rộng mối quan hệ và rèn luyện kỹ năng giao tiếp."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số thuộc hộ nghèo",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số thuộc hộ nghèo được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ nghèo do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo liên thông trực tuyến",
+    "output": "Chương trình đào tạo liên thông trực tuyến là chương trình đào tạo dành cho những người đã tốt nghiệp cao đẳng, trung cấp chuyên nghiệp và muốn học tiếp lên đại học theo hình thức trực tuyến. Sinh viên theo học chương trình đào tạo liên thông trực tuyến sẽ được miễn giảm một số môn học đã học ở chương trình đào tạo trước đó và có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo liên thông trực tuyến trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thi học kỳ",
+    "output": "Thi học kỳ là kỳ thi đánh giá kết quả học tập của sinh viên trong một học kỳ. Sinh viên cần tham gia thi kết thúc học phần của tất cả các môn học đã đăng ký trong học kỳ để được xét lên lớp và xét tốt nghiệp. Thời gian thi học kỳ được quy định trong lịch thi học kỳ do phòng Đào tạo công bố."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng quản lý thời gian không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng quản lý thời gian như: \n* **Khóa học kỹ năng quản lý thời gian:** Giúp sinh viên nắm vững các phương pháp quản lý thời gian hiệu quả, lập kế hoạch học tập, làm việc và cân bằng cuộc sống. \n* **Tư vấn học tập:** Giảng viên, cố vấn học tập sẽ hỗ trợ sinh viên lập kế hoạch học tập phù hợp và sử dụng thời gian hiệu quả. \n* **Ứng dụng quản lý thời gian:** Trường cung cấp các ứng dụng quản lý thời gian để sinh viên có thể theo dõi tiến độ học tập và công việc của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số rất ít người",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) được miễn học phí hoàn toàn và hỗ trợ học tập theo quy định của Nghị định 57/2017/NĐ-CP. Để được miễn học phí và hỗ trợ học tập, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí và hỗ trợ học tập trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo văn bằng 2 tại chức",
+    "output": "Chương trình đào tạo văn bằng 2 tại chức là chương trình đào tạo dành cho những người đã đi làm và muốn học thêm một ngành học khác. Sinh viên theo học chương trình đào tạo văn bằng 2 tại chức thường học tập vào buổi tối hoặc cuối tuần. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo văn bằng 2 tại chức trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về điểm chuyên cần",
+    "output": "Điểm chuyên cần được tính dựa trên số buổi học mà sinh viên tham gia trên tổng số buổi học của môn học đó. Sinh viên vắng mặt quá 20% số buổi học của một môn học sẽ bị cấm thi kết thúc học phần môn học đó. Em cần chú ý tham gia đầy đủ các buổi học để đảm bảo điểm chuyên cần và không bị ảnh hưởng đến kết quả học tập."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng giải quyết vấn đề không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng giải quyết vấn đề như: \n* **Khóa học kỹ năng giải quyết vấn đề:** Giúp sinh viên nắm vững các bước giải quyết vấn đề, từ việc xác định vấn đề, phân tích nguyên nhân đến đề xuất giải pháp và đánh giá hiệu quả. \n* **Hoạt động ngoại khóa:** Các câu lạc bộ, đội, nhóm hoạt động ngoại khóa giúp sinh viên rèn luyện kỹ năng giải quyết vấn đề thông qua các hoạt động thực tế. \n* **Tư vấn tâm lý:** Trung tâm Tư vấn và Hỗ trợ sinh viên hỗ trợ sinh viên giải quyết các vấn đề cá nhân, giúp sinh viên vượt qua khó khăn và phát triển bản thân."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người có công với cách mạng",
+    "output": "Chào em, sinh viên là con của người có công với cách mạng được hưởng chính sách miễn giảm học phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Cụ thể: \n* **Miễn học phí hoàn toàn:** Con liệt sĩ, con thương binh, con bệnh binh, con người hoạt động kháng chiến bị nhiễm chất độc hóa học. \n* **Giảm 70% học phí:** Con của người hoạt động cách mạng trước 01/01/1945, con của người hoạt động cách mạng từ 01/01/1945 đến trước ngày khởi nghĩa tháng Tám năm 1945, con của Anh hùng lực lượng vũ trang nhân dân, con của Anh hùng Lao động trong thời kỳ kháng chiến. \nĐể được miễn giảm học phí, em cần chuẩn bị hồ sơ theo quy định và nộp tại phòng Chính trị & Công tác sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo thạc sĩ tại chức",
+    "output": "Chương trình đào tạo thạc sĩ tại chức là chương trình đào tạo dành cho những người đã đi làm và muốn học tiếp lên thạc sĩ. Sinh viên theo học chương trình đào tạo thạc sĩ tại chức thường học tập vào buổi tối hoặc cuối tuần. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo thạc sĩ tại chức trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về đăng ký học phần",
+    "output": "Đăng ký học phần là hoạt động bắt buộc của sinh viên trước mỗi học kỳ. Sinh viên cần đăng ký học phần theo quy định của từng ngành học và thời gian đăng ký học phần do phòng Đào tạo công bố. Em có thể tham khảo quy định chi tiết về đăng ký học phần trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng viết CV và phỏng vấn xin việc không?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Việc làm với các hoạt động hỗ trợ sinh viên về kỹ năng viết CV và phỏng vấn xin việc như: \n* **Khóa học kỹ năng viết CV và phỏng vấn:** Giúp sinh viên nắm vững các kỹ năng cần thiết để viết CV ấn tượng và trả lời phỏng vấn tự tin. \n* **Tư vấn viết CV và phỏng vấn:** Chuyên viên của Trung tâm sẽ hỗ trợ sinh viên hoàn thiện CV và luyện tập kỹ năng phỏng vấn. \n* **Ngày hội việc làm:** Sinh viên có cơ hội gặp gỡ trực tiếp với nhà tuyển dụng và thực hành kỹ năng phỏng vấn."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động kháng chiến từ ngày 01/01/1945 đến trước ngày khởi nghĩa tháng Tám năm 1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng từ ngày 01/01/1945 đến trước ngày khởi nghĩa tháng Tám năm 1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo cử nhân trực tuyến",
+    "output": "Chương trình đào tạo cử nhân trực tuyến là chương trình đào tạo dành cho những người muốn học đại học theo hình thức trực tuyến. Sinh viên theo học chương trình đào tạo cử nhân trực tuyến có thể học tập mọi lúc, mọi nơi mà không cần đến trường thường xuyên. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo cử nhân trực tuyến trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về bảo hiểm y tế",
+    "output": "Bảo hiểm y tế là một trong những chính sách an sinh xã hội quan trọng, giúp sinh viên được chăm sóc sức khỏe với chi phí hợp lý. Sinh viên cần tham gia bảo hiểm y tế theo quy định của nhà trường. Em có thể tham khảo thông tin chi tiết về bảo hiểm y tế tại phòng Công tác sinh viên hoặc các cơ sở y tế."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng làm việc độc lập không?",
+    "output": "Trường có các hoạt động hỗ trợ sinh viên về kỹ năng làm việc độc lập như: \n* **Giao bài tập cá nhân:** Giảng viên thường giao bài tập cá nhân để sinh viên rèn luyện khả năng tự học, tự nghiên cứu và hoàn thành công việc một cách độc lập. \n* **Khóa luận tốt nghiệp:** Sinh viên cần thực hiện khóa luận tốt nghiệp một cách độc lập dưới sự hướng dẫn của giảng viên hướng dẫn. \n* **Các hoạt động nghiên cứu khoa học:** Sinh viên có thể tham gia các đề tài nghiên cứu khoa học để rèn luyện khả năng làm việc độc lập và sáng tạo."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là người dân tộc thiểu số thuộc diện hộ nghèo",
+    "output": "Chào em, sinh viên là người dân tộc thiểu số thuộc hộ nghèo được miễn học phí hoàn toàn theo quy định của Nghị định 81/2021/NĐ-CP. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, bản sao sổ hộ khẩu hoặc giấy xác nhận tạm trú, giấy xác nhận hộ nghèo do chính quyền địa phương cấp. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình liên kết đào tạo với doanh nghiệp",
+    "output": "Chương trình liên kết đào tạo với doanh nghiệp là chương trình hợp tác đào tạo giữa trường và các doanh nghiệp. Sinh viên theo học chương trình liên kết đào tạo với doanh nghiệp sẽ được học tập lý thuyết tại trường và thực hành tại doanh nghiệp. Sinh viên tốt nghiệp chương trình liên kết đào tạo với doanh nghiệp sẽ có cơ hội việc làm cao tại doanh nghiệp đối tác. Em có thể tìm hiểu thông tin chi tiết về các chương trình liên kết đào tạo với doanh nghiệp trên website của trường hoặc liên hệ với phòng Quan hệ doanh nghiệp để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về nghỉ học",
+    "output": "Sinh viên được phép nghỉ học có phép trong các trường hợp sau: \n* **Ốm đau, tai nạn:** Sinh viên cần nộp giấy chứng nhận của cơ sở y tế có thẩm quyền. \n* **Lý do đột xuất:** Sinh viên cần nộp đơn xin nghỉ phép và giấy tờ chứng minh lý do nghỉ phép. \nSinh viên vắng mặt không phép quá 20% số buổi học của một môn học sẽ bị cấm thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tiếng Nhật không?",
+    "output": "Trường có Trung tâm Ngoại ngữ với các khóa học tiếng Nhật từ cơ bản đến nâng cao dành cho sinh viên. Trung tâm Ngoại ngữ cũng tổ chức các kỳ thi chứng chỉ tiếng Nhật quốc tế như JLPT. Em có thể đăng ký học tại Trung tâm Ngoại ngữ hoặc tham gia các câu lạc bộ tiếng Nhật để nâng cao kỹ năng tiếng Nhật của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945",
+    "output": "Chào em, sinh viên là con của người hoạt động cách mạng trước ngày 01/01/1945 được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh và giấy xác nhận của cơ quan quản lý đối tượng người có công. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo thạc sĩ liên kết quốc tế",
+    "output": "Chương trình đào tạo thạc sĩ liên kết quốc tế là chương trình hợp tác đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình đào tạo thạc sĩ liên kết quốc tế sẽ được học tập một phần hoặc toàn bộ chương trình tại trường đối tác nước ngoài và nhận bằng cấp của cả hai trường. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo thạc sĩ liên kết quốc tế trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thi lại",
+    "output": "Sinh viên được thi lại tối đa 2 lần đối với mỗi môn học. Nếu sau 2 lần thi lại vẫn không đạt, sinh viên sẽ phải học lại môn học đó. Em có thể tham khảo quy định chi tiết về thi lại trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tin học ứng dụng không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học tin học ứng dụng như thiết kế web, quản trị mạng, an toàn thông tin,... dành cho sinh viên. Trung tâm Tin học cũng tổ chức các kỳ thi chứng chỉ tin học ứng dụng quốc tế như CCNA, MCSA,... Em có thể đăng ký học tại Trung tâm Tin học hoặc tham gia các câu lạc bộ tin học ứng dụng để nâng cao kỹ năng tin học ứng dụng của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của Anh hùng Lao động",
+    "output": "Chào em, sinh viên là con của Anh hùng Lao động được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy chứng nhận Anh hùng Lao động của bố/mẹ. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo tiến sĩ liên kết quốc tế",
+    "output": "Chương trình đào tạo tiến sĩ liên kết quốc tế là chương trình hợp tác đào tạo giữa trường và các trường đại học đối tác nước ngoài. Sinh viên theo học chương trình đào tạo tiến sĩ liên kết quốc tế sẽ được học tập một phần hoặc toàn bộ chương trình tại trường đối tác nước ngoài và nhận bằng cấp của cả hai trường. Em có thể tìm hiểu thông tin chi tiết về các chương trình đào tạo tiến sĩ liên kết quốc tế trên website của trường hoặc liên hệ với phòng Sau đại học để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thi hết môn",
+    "output": "Thi hết môn là kỳ thi dành cho sinh viên chưa hoàn thành yêu cầu của một hoặc một số môn học trong học kỳ chính thức. Sinh viên cần đăng ký thi hết môn và đóng lệ phí thi theo quy định của nhà trường. Thời gian thi hết môn thường được tổ chức sau khi kết thúc học kỳ chính thức. Em có thể tham khảo quy định chi tiết về thi hết môn trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tiếng Trung không?",
+    "output": "Trường có Trung tâm Ngoại ngữ với các khóa học tiếng Trung từ cơ bản đến nâng cao dành cho sinh viên. Trung tâm Ngoại ngữ cũng tổ chức các kỳ thi chứng chỉ tiếng Trung quốc tế như HSK. Em có thể đăng ký học tại Trung tâm Ngoại ngữ hoặc tham gia các câu lạc bộ tiếng Trung để nâng cao kỹ năng tiếng Trung của mình."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em muốn tìm hiểu về chương trình học bổng dành cho sinh viên là con của người hoạt động kháng chiến bị nhiễm chất độc hóa học",
+    "output": "Chào em, sinh viên là con của người hoạt động kháng chiến bị nhiễm chất độc hóa học được miễn học phí hoàn toàn theo quy định của Pháp lệnh ưu đãi người có công với cách mạng. Để được miễn học phí, em cần chuẩn bị hồ sơ gồm: đơn đề nghị miễn giảm học phí, bản sao giấy khai sinh, giấy xác nhận của cơ quan quản lý đối tượng người có công và giấy tờ chứng minh bố/mẹ bị nhiễm chất độc hóa học. Em nộp hồ sơ tại phòng Chính trị & Công tác sinh viên để được xét duyệt miễn học phí trong suốt quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo cử nhân chất lượng cao",
+    "output": "Chương trình đào tạo cử nhân chất lượng cao là chương trình đào tạo được thiết kế với mục tiêu đào tạo ra những cử nhân có trình độ chuyên môn cao, kỹ năng thực hành tốt và khả năng sáng tạo, đáp ứng nhu cầu của thị trường lao động. Sinh viên theo học chương trình đào tạo cử nhân chất lượng cao sẽ được học tập với giảng viên giỏi, chuyên gia đầu ngành; sử dụng cơ sở vật chất hiện đại; có cơ hội thực tập, làm việc tại các doanh nghiệp lớn; và có cơ hội học bổng du học. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo cử nhân chất lượng cao trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thực tập tốt nghiệp",
+    "output": "Thực tập tốt nghiệp là hoạt động học tập bắt buộc của sinh viên năm cuối nhằm giúp sinh viên áp dụng kiến thức đã học vào thực tế, rèn luyện kỹ năng nghề nghiệp và định hướng nghề nghiệp. Sinh viên cần thực hiện chương trình thực tập tốt nghiệp theo quy định của từng ngành học và được đánh giá kết quả thực tập tốt nghiệp. Em có thể tham khảo quy định chi tiết về thực tập tốt nghiệp trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng tiếng Pháp không?",
+    "output": "Trường có Trung tâm Ngoại ngữ với các khóa học tiếng Pháp từ cơ bản đến nâng cao dành cho sinh viên. Trung tâm Ngoại ngữ cũng tổ chức các kỳ thi chứng chỉ tiếng Pháp quốc tế như DELF, DALF. Em có thể đăng ký học tại Trung tâm Ngoại ngữ hoặc tham gia các câu lạc bộ tiếng Pháp để nâng cao kỹ năng tiếng Pháp của mình."
+  },
+  {
+    "input": "Em muốn hỏi về chương trình đào tạo kỹ sư định hướng quốc tế",
+    "output": "Chương trình đào tạo kỹ sư định hướng quốc tế là chương trình đào tạo được thiết kế nhằm đào tạo ra những kỹ sư có trình độ chuyên môn cao, kỹ năng thực hành tốt và khả năng làm việc trong môi trường quốc tế. Sinh viên theo học chương trình đào tạo kỹ sư định hướng quốc tế sẽ được học tập với giảng viên nước ngoài, sử dụng giáo trình nước ngoài và có cơ hội thực tập, làm việc tại các doanh nghiệp nước ngoài. Em có thể tìm hiểu thông tin chi tiết về chương trình đào tạo kỹ sư định hướng quốc tế trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp cụ thể hơn."
+  },
+  {
+    "input": "Em là sinh viên năm 2, em muốn hỏi về quy định về thi tốt nghiệp",
+    "output": "Thi tốt nghiệp là kỳ thi cuối cùng của chương trình đào tạo, đánh giá tổng hợp kiến thức và kỹ năng mà sinh viên đã tích lũy được trong suốt quá trình học tập tại trường. Sinh viên cần hoàn thành khóa luận tốt nghiệp và tham gia thi tốt nghiệp theo quy định của từng ngành học. Em có thể tham khảo quy định chi tiết về thi tốt nghiệp trong quy chế đào tạo của trường."
+  },
+  {
+    "input": "Em muốn biết trường có hỗ trợ sinh viên về kỹ năng làm việc với máy tính không?",
+    "output": "Trường có Trung tâm Tin học với các khóa học tin học văn phòng, lập trình, thiết kế đồ họa,... dành cho sinh viên. Trung tâm Tin học cũng tổ chức các kỳ thi chứng chỉ tin học quốc tế như MOS, IC3,... Em có thể đăng ký học tại Trung tâm Tin học hoặc tham gia các câu lạc bộ tin học để nâng cao kỹ năng làm việc với máy tính."
+  },
+  {
+    "input": "Cho em hỏi về Olympic các môn học cấp trường?",
+    "output": "Olympic các môn học cấp trường được tổ chức cho tất cả các môn học trong trường, theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt. Việc tổ chức thi diễn ra trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Thế Olympic cấp quốc gia thì sao?",
+    "output": "Olympic cấp quốc gia thì sẽ do Bộ môn tuyển chọn, đề cử sinh viên tham gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Em muốn tham gia Olympic cấp trường thì cần điều kiện gì?",
+    "output": "Để tham gia Olympic cấp trường, em cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Điểm của kỳ thi Olympic được tính như thế nào?",
+    "output": "Điểm thi Olympic môn học sẽ được chấm theo thang điểm 10 và làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic sẽ được những quyền lợi gì?",
+    "output": "Sinh viên đạt giải Olympic sẽ được nhận Giấy khen và phần thưởng của Hiệu trưởng, được cộng điểm rèn luyện, được điều chỉnh điểm quá trình hoặc điểm thi kết thúc học phần môn học tương ứng."
+  },
+  {
+    "input": "Nếu em được chọn vào đội tuyển Olympic quốc gia thì sao?",
+    "output": "Nếu em được chọn vào đội tuyển Olympic quốc gia, em sẽ được điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia, cụ thể là điểm quá trình và điểm thi giữa kỳ (nếu có) sẽ được 10.0 điểm. Điểm thi kết thúc học phần sẽ được công nhận theo mức giải đạt được."
+  },
+  {
+    "input": "Quy trình điều chỉnh điểm môn học như thế nào?",
+    "output": "Em cần làm đơn đề nghị điều chỉnh điểm môn học sau khi có kết quả thi 10 ngày và nộp cho Bộ môn phụ trách môn thi Olympic. Bộ môn sẽ tổng hợp đơn và gửi báo cáo lên Nhà trường. Sau khi có Quyết định điều chỉnh điểm môn học được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên sẽ thông báo đến em, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm."
+  },
+  {
+    "input": "Ngoài sinh viên, giảng viên tham gia bồi dưỡng Olympic có được hưởng quyền lợi gì không?",
+    "output": "Giảng viên tham gia bồi dưỡng Olympic sẽ được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và được thanh toán theo Quy chế chi tiêu nội bộ của trường. Ngoài ra, giảng viên còn có thể được khen thưởng và xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Em muốn biết quy định về bồi dưỡng và lựa chọn sinh viên dự thi Olympic các môn học cấp Quốc gia?",
+    "output": "Vào đầu năm học, các Bộ môn sẽ lập kế hoạch thi và kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia, sau đó trình Hiệu trưởng phê duyệt. Bộ môn sẽ bố trí giảng viên và thông báo cho sinh viên về kế hoạch tổ chức bồi dưỡng. Cuối đợt bồi dưỡng, Bộ môn sẽ lựa chọn sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia và gửi danh sách về phòng Chính trị và Công tác sinh viên để trình Hiệu trưởng ra quyết định."
+  },
+  {
+    "input": "Trường mình có hỗ trợ gì cho đội tuyển đi thi Olympic cấp Quốc gia không?",
+    "output": "Có chứ. Mỗi Bộ môn sẽ cử ít nhất 01 giảng viên phụ trách đội tuyển môn học, phòng Chính trị và Công tác sinh viên sẽ cử 01 cán bộ phụ trách toàn đoàn (nếu cần). Cán bộ phụ trách sẽ chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan để đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Em muốn biết chi tiết hơn về việc chuyển điểm Olympic môn Tin học?",
+    "output": "Đối với Olympic Tin học cấp Quốc gia, em có thể lựa chọn 3 trong số các học phần sau để chuyển điểm: Nhập môn lập trình, Tin học đại cương, Tin học cơ bản, Toán rời rạc, Cấu trúc dữ liệu và giải thuật, Nhập môn tư duy tính toán, Thuật toán ứng dụng, Lập trình Python, Ngôn ngữ lập trình (dành cho K61), Lập trình nâng cao (dành cho K62 trở về sau) và Tiếng Anh chuyên ngành (dành cho sinh viên dự thi ICPC)."
+  },
+  {
+    "input": "Vậy còn Olympic môn Tiếng Anh thì sao?",
+    "output": "Với Olympic Tiếng Anh cấp Quốc gia, em có thể lựa chọn 2 trong số các học phần sau để chuyển điểm: Kĩ năng Nghe 3, Kĩ năng Nói 3, Kĩ năng Đọc 3, Kĩ năng Viết 3, Kĩ năng Nghe nâng cao 2 (CTTT), Kĩ năng Nói nâng cao 2 (CTTT), Kĩ năng Đọc nâng cao 2 (CTTT) và Kĩ năng Viết nâng cao 2 (CTTT)."
+  },
+  {
+    "input": "Danh sách các môn được chuyển điểm Olympic cấp trường và cấp quốc gia có giống nhau không?",
+    "output": "Danh sách các môn được chuyển điểm Olympic cấp trường và cấp quốc gia không giống nhau. Em có thể tham khảo chi tiết tại Phụ lục 1 và Phụ lục 2 của Quy định về thi Olympic các môn học của trường Đại học Thủy lợi."
   }
 ]
