@@ -2949,5 +2949,277 @@
   {
     "input": "Tôi muốn biết thêm về năng lực tự chủ và trách nhiệm của sinh viên sau khi tốt nghiệp. Bạn có thể nói rõ hơn về điều này không?",
     "output": "Sau khi tốt nghiệp, sinh viên sẽ có khả năng tự chủ trong công việc, lập kế hoạch, quản lý và tổ chức thực hiện các hoạt động chuyên môn. Bạn cũng sẽ có khả năng tự học hỏi, nghiên cứu và chịu trách nhiệm về kết quả công việc của mình."
+  },
+  {
+    "input": "Em muốn ra trường làm công chức nhà nước, nên học ngành gì?",
+    "output": "Luật, Luật kinh tế, Kế toán, Kiểm toán là những lựa chọn phù hợp cho công chức." 
+  },
+  {
+    "input": "Học ngành Kỹ thuật cơ khí có vất vả không?",
+    "output": "Kỹ thuật cơ khí đòi hỏi sự chăm chỉ và khả năng tư duy logic, tuy nhiên cơ hội nghề nghiệp rất tốt."
+  },
+  {
+    "input": "Em thích du lịch, nên học ngành gì?", 
+    "output": "Quản trị dịch vụ du lịch và lữ hành là lựa chọn lý tưởng cho bạn." 
+  },
+  {
+    "input": "Ngành nào phù hợp cho con gái?", 
+    "output": "Không có ngành nào chỉ dành riêng cho con gái. Tất cả phụ thuộc vào sở thích và năng lực của bạn." 
+  },
+  {
+    "input": "Em muốn đi du học, trường có hỗ trợ không?", 
+    "output": "Trường có chương trình trao đổi sinh viên và hợp tác với nhiều trường quốc tế, hỗ trợ bạn du học."
+  },
+  {
+    "input": "Ra trường lương ngành nào cao?",
+    "output": "Công nghệ thông tin, Trí tuệ nhân tạo, An ninh mạng thường có mức lương khởi điểm cao."
+  }, 
+  {
+    "input": "Em muốn học ngành vừa có kỹ thuật vừa có kinh tế, nên chọn ngành nào?", 
+    "output": "Kinh tế xây dựng, Quản lý xây dựng kết hợp kiến thức kỹ thuật và kinh tế." 
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến ô tô, trường có ngành nào?",
+    "output": "Trường có ngành Kỹ thuật Ô tô, đào tạo kỹ sư thiết kế, chế tạo và vận hành ô tô."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực môi trường, nên học ngành gì?",
+    "output": "Kỹ thuật môi trường hoặc Tài nguyên nước & Môi trường là lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Luật ra trường làm gì?", 
+    "output": "Bạn có thể làm luật sư, thẩm phán, công chứng viên, hoặc pháp chế tại doanh nghiệp."
+  },
+  {
+    "input": "Học ngành nào ra trường dễ khởi nghiệp?",
+    "output": "Kinh tế số, Thương mại điện tử, Công nghệ thông tin là những ngành học phù hợp cho khởi nghiệp."
+  },
+  {
+    "input": "Em muốn học ngành có nhiều cơ hội làm việc quốc tế, nên chọn ngành nào?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Logistics & quản lý chuỗi cung ứng có nhiều cơ hội làm việc quốc tế." 
+  },
+  {
+    "input": "Em muốn học ngành vừa học về robot vừa học về điều khiển, trường có ngành nào?",
+    "output": "Kỹ thuật Robot và Điều khiển thông minh là ngành học kết hợp cả hai lĩnh vực này."
+  },
+  {
+    "input": "Em muốn thi chứng chỉ ngoại ngữ để được cộng điểm xét tuyển, nên thi chứng chỉ nào?",
+    "output": "Bạn có thể thi IELTS, TOEFL, TOEIC, HSK, TOPIK, JLPT, TestDaF, DELF tùy thuộc vào ngoại ngữ bạn muốn học."
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến tài chính, ngân hàng, nên chọn ngành nào?",
+    "output": "Tài chính – Ngân hàng là lựa chọn phù hợp cho bạn, hoặc bạn cũng có thể xem xét ngành Kế toán hay Kiểm toán." 
+  },
+  {
+    "input": "Ngành nào học nhiều Toán nhất?",
+    "output": "Hầu hết các ngành Kỹ thuật đều yêu cầu kiến thức Toán học vững chắc." 
+  },
+  {
+    "input": "Trường có đào tạo ngành Y Dược không?", 
+    "output": "Trường Đại học Thủy lợi không đào tạo các ngành Y Dược."
+  }, 
+  {
+    "input": "Học ngành Công nghệ thông tin có cần giỏi tiếng Anh không?",
+    "output": "Kỹ năng tiếng Anh tốt là một lợi thế lớn khi học ngành Công nghệ thông tin, giúp bạn tiếp cận kiến thức và cơ hội việc làm tốt hơn."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực giáo dục, nên học ngành gì?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, hoặc các ngành Kỹ thuật (để giảng dạy tại các trường Cao đẳng, Đại học) đều là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Em muốn làm việc trong ngành game, nên học ngành nào?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Thiết kế đồ họa là những ngành học có liên quan đến lĩnh vực game."
+  },
+  {
+    "input": "Em muốn học ngành nào ra trường lương cao mà không cần học Toán nhiều?",
+    "output": "Luật, Luật kinh tế, Quản trị kinh doanh có thể là những lựa chọn phù hợp." 
+  },
+  {
+    "input": "Em muốn vừa học về kỹ thuật vừa học về kinh doanh, nên chọn ngành nào?", 
+    "output": "Quản lý xây dựng hoặc Kinh tế xây dựng là những lựa chọn kết hợp cả kỹ thuật và kinh doanh."
+  },
+  {
+    "input": "Ngành nào có nhiều nữ sinh nhất?",
+    "output": "Ngôn ngữ Anh, Quản trị kinh doanh, Kế toán thường có tỷ lệ nữ sinh cao hơn."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực thời trang, nên học ngành gì?", 
+    "output": "Thiết kế thời trang, Quản trị kinh doanh thời trang là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Trường có đào tạo ngành báo chí không?",
+    "output": "Trường Đại học Thủy lợi không đào tạo ngành báo chí."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc tự do?",
+    "output": "Công nghệ thông tin, Thiết kế đồ họa, Ngôn ngữ Anh cho phép bạn làm việc tự do như freelancer." 
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tổ chức phi chính phủ?", 
+    "output": "Kỹ thuật môi trường, Tài nguyên nước & Môi trường, Luật, Ngôn ngữ Anh là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực giải trí?",
+    "output": "Quản trị dịch vụ du lịch & lữ hành, Ngôn ngữ Anh, Quan hệ công chúng là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kỹ thuật điện ra trường làm gì?",
+    "output": "Bạn có thể làm việc trong các nhà máy điện, công ty điện lực, hoặc các công ty sản xuất, lắp đặt thiết bị điện."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực marketing?",
+    "output": "Quản trị kinh doanh, Thương mại điện tử, Kinh tế số đều có liên quan đến marketing."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực nghiên cứu khoa học?",
+    "output": "Tất cả các ngành đều có cơ hội tham gia nghiên cứu khoa học, tuy nhiên các ngành Kỹ thuật và Công nghệ thông tin thường có nhiều cơ hội hơn."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực truyền thông?", 
+    "output": "Ngôn ngữ Anh, Quan hệ công chúng, Báo chí là những lựa chọn phù hợp. (Lưu ý: Trường Đại học Thủy lợi không đào tạo ngành Báo chí)"
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm giáo viên?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, hoặc các ngành Kỹ thuật (để giảng dạy tại các trường Cao đẳng, Đại học) là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong ngân hàng?", 
+    "output": "Tài chính – Ngân hàng, Kế toán, Kiểm toán là những lựa chọn phù hợp cho ngành ngân hàng."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty nước ngoài?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Công nghệ thông tin, Kỹ thuật phần mềm, Logistics & quản lý chuỗi cung ứng là những lựa chọn có nhiều cơ hội làm việc tại các công ty nước ngoài."
+  },
+  {
+    "input": "Em muốn học ngành có liên quan đến máy móc, thiết bị, nên chọn ngành nào?",
+    "output": "Kỹ thuật cơ khí, Kỹ thuật cơ điện tử, Kỹ thuật Ô tô là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kỹ thuật hóa học ra trường làm gì?",
+    "output": "Bạn có thể làm việc trong các nhà máy hóa chất, công ty sản xuất phân bón, dược phẩm, mỹ phẩm, v.v."
+  },
+  {
+    "input": "Học ngành Luật kinh tế có gì khác so với ngành Luật?",
+    "output": "Ngành Luật kinh tế tập trung vào các vấn đề pháp lý liên quan đến hoạt động kinh doanh, thương mại, đầu tư, tài chính."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty khởi nghiệp?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Kinh tế số, Thương mại điện tử là những lựa chọn phù hợp cho các công ty khởi nghiệp."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực nông nghiệp?",
+    "output": "Công nghệ sinh học, Kỹ thuật môi trường, Tài nguyên nước & Môi trường có thể áp dụng vào lĩnh vực nông nghiệp."
+  },
+  {
+    "input": "Trường có chương trình đào tạo kỹ sư chất lượng cao không?",
+    "output": "Có, trường Đại học Thủy lợi có chương trình đào tạo kỹ sư chất lượng cao theo chuẩn quốc tế cho một số ngành học."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tổ chức quốc tế?", 
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật, Luật kinh tế, Quan hệ quốc tế là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kiểm toán có gì khác so với ngành Kế toán?", 
+    "output": "Kiểm toán tập trung vào việc kiểm tra, đánh giá tính chính xác và trung thực của báo cáo tài chính, trong khi Kế toán tập trung vào việc ghi chép, xử lý và cung cấp thông tin tài chính."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực bảo hiểm?",
+    "output": "Tài chính – Ngân hàng, Kế toán, Kiểm toán, Luật kinh tế là những lựa chọn phù hợp cho ngành bảo hiểm."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong các cơ quan quản lý nhà nước?",
+    "output": "Luật, Luật kinh tế, Kế toán, Kiểm toán, Quản trị kinh doanh là những lựa chọn phù hợp cho các cơ quan quản lý nhà nước."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực xây dựng?",
+    "output": "Kỹ thuật xây dựng, Quản lý xây dựng, Kinh tế xây dựng là những lựa chọn trực tiếp liên quan đến lĩnh vực xây dựng."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực năng lượng?",
+    "output": "Kỹ thuật điện, Kỹ thuật cơ khí, Kỹ thuật hóa học, Kỹ thuật môi trường là những lựa chọn phù hợp cho lĩnh vực năng lượng."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty tư vấn?",
+    "output": "Kế toán, Kiểm toán, Luật, Luật kinh tế, Quản trị kinh doanh, Logistics & quản lý chuỗi cung ứng là những lựa chọn phù hợp cho các công ty tư vấn."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực công nghệ cao?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo, An ninh mạng, Kỹ thuật điện tử - viễn thông, Kỹ thuật Robot & Điều khiển thông minh là những lựa chọn phù hợp cho lĩnh vực công nghệ cao."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tập đoàn đa quốc gia?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Công nghệ thông tin, Kỹ thuật phần mềm, Quản trị kinh doanh, Tài chính – Ngân hàng là những lựa chọn có nhiều cơ hội làm việc tại các tập đoàn đa quốc gia." 
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực logistics?",
+    "output": "Logistics và quản lý chuỗi cung ứng là lựa chọn phù hợp nhất cho lĩnh vực logistics."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực bất động sản?",
+    "output": "Kinh tế xây dựng, Quản lý xây dựng, Luật kinh tế là những lựa chọn phù hợp cho lĩnh vực bất động sản."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực y tế?",
+    "output": "Trường Đại học Thủy lợi không đào tạo các ngành Y tế. Bạn có thể tìm kiếm thông tin tuyển sinh của các trường đại học Y Dược."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực giáo dục mầm non?",
+    "output": "Trường Đại học Thủy lợi không đào tạo ngành Giáo dục mầm non. Bạn có thể tìm kiếm thông tin tuyển sinh của các trường đại học Sư phạm." 
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực truyền hình?",
+    "output": "Ngôn ngữ Anh, Quan hệ công chúng, Báo chí, Truyền thông đa phương tiện là những lựa chọn phù hợp. (Lưu ý: Trường Đại học Thủy lợi không đào tạo ngành Báo chí và Truyền thông đa phương tiện)"
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm tiếp viên hàng không?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Quản trị dịch vụ du lịch & lữ hành là những lựa chọn phù hợp cho nghề tiếp viên hàng không." 
+  },
+  {
+    "input": "Em đang tìm hiểu về trường Đại học Thủy lợi, cho em hỏi trường mình mạnh về những ngành nào?",
+    "output": "Trường Đại học Thủy lợi nổi tiếng với các ngành kỹ thuật, đặc biệt là Kỹ thuật xây dựng, Kỹ thuật tài nguyên nước, và Kỹ thuật môi trường. Ngoài ra, trường cũng có nhiều ngành đào tạo khác thuộc các lĩnh vực kinh tế, luật, ngôn ngữ, v.v."
+  },
+  {
+    "input": "Em nghe nói trường mình có chương trình đào tạo tiên tiến, cụ thể là những chương trình nào vậy ạ?",
+    "output": "Trường có chương trình tiên tiến ngành Kỹ thuật xây dựng hợp tác với Đại học Arkansas (Hoa Kỳ) và chương trình tiên tiến ngành Kỹ thuật tài nguyên nước hợp tác với Đại học Bang Colorado (Hoa Kỳ)." 
+  },
+  {
+    "input": "Em muốn học ngành Công nghệ thông tin, cho em hỏi cơ sở vật chất và trang thiết bị phục vụ cho ngành này như thế nào ạ?",
+    "output": "Trường có hệ thống phòng máy tính hiện đại, phòng thí nghiệm chuyên dụng, và thư viện điện tử với nhiều tài liệu học tập phong phú." 
+  },
+  {
+    "input": "Em ở tỉnh xa, cho em hỏi trường có ký túc xá cho sinh viên không ạ?",
+    "output": "Trường có ký túc xá dành cho sinh viên với đầy đủ tiện nghi và môi trường sống an toàn, văn minh." 
+  }, 
+  {
+    "input": "Em muốn tìm hiểu về cơ hội việc làm sau khi tốt nghiệp, trường có hỗ trợ gì cho sinh viên không ạ?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Khởi nghiệp, nơi cung cấp dịch vụ tư vấn, đào tạo, hỗ trợ về vốn và kết nối với các doanh nghiệp cho sinh viên."
+  },
+  {
+    "input": "Em muốn tham gia các chương trình trao đổi sinh viên quốc tế, trường mình có chương trình nào không ạ?",
+    "output": "Trường có ký kết hợp tác với nhiều trường đại học trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên. Em có thể liên hệ với Phòng Quan hệ Quốc tế để biết thêm thông tin."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật xây dựng, cho em hỏi chương trình đào tạo của ngành này như thế nào ạ?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật xây dựng cung cấp cho em kiến thức về thiết kế, thi công, quản lý các công trình xây dựng dân dụng và công nghiệp." 
+  },
+  {
+    "input": "Em quan tâm đến học bổng, cho em hỏi trường mình có những loại học bổng nào ạ?",
+    "output": "Trường có nhiều loại học bổng dành cho sinh viên, bao gồm học bổng khuyến khích học tập, học bổng tài năng, học bổng cho sinh viên có hoàn cảnh khó khăn, học bổng doanh nghiệp, v.v."
+  },
+  {
+    "input": "Em muốn học ngành Luật kinh tế, cho em hỏi đội ngũ giảng viên của ngành này như thế nào ạ?",
+    "output": "Ngành Luật kinh tế có đội ngũ giảng viên là các chuyên gia hàng đầu trong lĩnh vực luật và kinh tế, với nhiều kinh nghiệm thực tiễn và nghiên cứu khoa học."
+  },
+  {
+    "input": "Em muốn học ngành Ngôn ngữ Anh, cho em hỏi trường có tổ chức các kỳ thi lấy chứng chỉ tiếng Anh quốc tế không ạ?",
+    "output": "Trường có tổ chức các kỳ thi lấy chứng chỉ tiếng Anh quốc tế như IELTS, TOEFL, TOEIC để phục vụ nhu cầu của sinh viên." 
+  }, 
+  {
+    "input": "Em muốn học lên Thạc sĩ sau khi tốt nghiệp, trường mình có chương trình đào tạo Thạc sĩ không ạ?",
+    "output": "Có, trường có đào tạo Thạc sĩ cho nhiều ngành học thuộc các lĩnh vực kỹ thuật, kinh tế, luật, ngôn ngữ, v.v."
+  },
+  {
+    "input": "Em muốn tìm hiểu về lịch sử và truyền thống của trường, trường mình thành lập từ khi nào và đã đạt được những thành tựu gì ạ?", 
+    "output": "Trường Đại học Thủy lợi được thành lập năm 1959 và là một trong những trường đại học kỹ thuật hàng đầu Việt Nam. Trường đã đạt được nhiều thành tựu trong đào tạo, nghiên cứu khoa học và hợp tác quốc tế."
   }
   ]
