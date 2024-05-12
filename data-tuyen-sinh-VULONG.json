@@ -1,0 +1,162 @@
+[
+  {
+    "input": "Em chào anh/chị, cho em hỏi là sinh viên hệ đại học cần tích luỹ bao nhiêu tín chỉ môn Giáo dục thể chất ạ?",
+    "output": "Sinh viên hệ đại học cần tích lũy tối thiểu 4 tín chỉ môn Giáo dục thể chất em nhé!"
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi môn bơi có phải là môn học bắt buộc không ạ?",
+    "output": "Hiện tại môn bơi không còn là môn bắt buộc đối với sinh viên trường mình em nhé."
+  },
+  {
+    "input": "Em chào anh/chị, em là sinh viên liên thông, cho em hỏi em cần tích luỹ bao nhiêu tín chỉ môn Giáo dục thể chất ạ?",
+    "output": "Sinh viên liên thông từ cao đẳng lên đại học cần tích lũy tối thiểu 2 tín chỉ môn Giáo dục thể chất em nhé!"
+  },
+  {
+    "input": "Cho em hỏi mục đích của việc cho sinh viên theo học các học phần GDTC chuyên sâu là gì ạ?",
+    "output": "Việc cho sinh viên theo học các học phần GDTC chuyên sâu nhằm đáp ứng sở thích, nguyện vọng và năng khiếu của sinh viên." 
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi đăng ký học các môn GDTC chuyên sâu vào thời gian nào ạ?",
+    "output": "Em có thể đăng ký học các môn GDTC chuyên sâu ngay từ kỳ học đầu tiên của năm nhất."
+  },
+  {
+    "input": "Em muốn đăng ký học các môn GDTC chuyên sâu thì phải làm như thế nào ạ?",
+    "output": "Em có thể đăng ký tự nguyện với bộ môn GDTC, thông qua giảng viên dạy môn học GDTC."
+  },
+  {
+    "input": "Làm thế nào để được tuyển chọn vào các học phần GDTC chuyên sâu ạ?",
+    "output": "Em có thể được tuyển chọn vào các học phần GDTC chuyên sâu dựa vào kết quả học tập của bộ môn GDTC, cũng như đáp ứng được thể lực, thể hình và các kĩ năng bộ môn GDTC chuyên sâu yêu cầu."
+  },
+  {
+    "input": "Cho em hỏi trường mình có tổ chức thi trực tuyến không ạ?", 
+    "output": "Có em nhé. Thi trực tuyến sẽ áp dụng với các học phần giảng dạy theo hình thức trực tuyến và được bộ môn quản lý học phần đề xuất với nhà trường."
+  }, 
+  {
+    "input": "Thế nào là đánh giá ý thức tham gia học tập của sinh viên ạ?",
+    "output": "Khi đánh giá ý thức tham gia học tập của sinh viên, nhà trường sẽ xem xét các tiêu chí sau: Ý thức và thái độ trong học tập, ý thức và thái độ tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, hoạt động nghiên cứu khoa học, ý thức và thái độ tham gia các kỳ thi, cuộc thi, tinh thần vượt khó, phấn đấu vươn lên trong học tập và kết quả học tập." 
+  },
+  {
+"input": "Điểm rèn luyện của sinh viên được đánh giá như thế nào ạ?",
+    "output": "Điểm rèn luyện của sinh viên được đánh giá bằng thang điểm 100. Đánh giá bao gồm các mức điểm đạt được trên các mặt như ý thức tham gia học tập, ý thức chấp hành nội quy, ý thức tham gia các hoạt động chính trị, xã hội, văn nghệ, thể thao, ý thức công dân, và kết quả tham gia các hoạt động cán bộ lớp, các đoàn thể, tổ chức khác trong trường."
+  },
+  {
+    "input": "Khi xem xét điểm rèn luyện của sinh viên, trường sẽ đánh giá những mặt nào ạ?",
+    "output": "Đánh giá điểm rèn luyện của sinh viên bao gồm các mặt như: Ý thức tham gia học tập, ý thức chấp hành nội quy, ý thức tham gia các hoạt động chính trị, xã hội, văn nghệ, thể thao, ý thức công dân, và kết quả tham gia các hoạt động cán bộ lớp, các đoàn thể, tổ chức khác trong trường."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi nếu em bị khiển trách thì điểm rèn luyện bị ảnh hưởng như thế nào ạ?",
+    "output": "Nếu em bị lập biên bản khiển trách bởi CBCT thì điểm rèn luyện của em sẽ bị trừ 1 điểm."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi nếu em bị cảnh cáo thì điểm rèn luyện bị trừ bao nhiêu điểm ạ?",
+    "output": "Nếu em bị lập biên bản cảnh cáo bởi CBCT thì điểm rèn luyện của em sẽ bị trừ 2 điểm."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi nếu em bị đình chỉ thi thì điểm rèn luyện bị trừ bao nhiêu điểm ạ?",
+    "output": "Nếu em bị lập biên bản đình chỉ thi bởi CBCT thì điểm rèn luyện của em sẽ bị trừ 3 điểm."
+  },
+  {
+    "input": "Điểm rèn luyện về ý thức chấp hành nội quy được đánh giá dựa vào những yếu tố nào ạ?",
+    "output": "Điểm đánh giá này được xác định dựa trên ý thức của em trong việc tuân thủ các nội quy, quy chế và các quy định áp dụng trong trường."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi điểm tối đa khi chấp hành tốt nội quy nhà trường là bao nhiêu ạ?", 
+    "output": "Điểm tối đa em có thể đạt được khi chấp hành tốt nội quy nhà trường là 25 điểm."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi nếu em vắng mặt không lý do trong các buổi sinh hoạt lớp thì điểm rèn luyện bị trừ bao nhiêu ạ?",
+    "output": "Nếu em vắng mặt không có lý do chính đáng trong các buổi sinh hoạt lớp hàng tháng thì điểm rèn luyện của em sẽ bị trừ 2 điểm mỗi lần vắng." 
+  },
+  {
+    "input": "Học bổng KKHT có những mức nào và giá trị ra sao ạ?",
+    "output": "Học bổng KKHT có 3 mức: Khá, Giỏi và Xuất sắc. Giá trị của mỗi mức lần lượt là 100%, 110%, và 120% mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ."
+  },
+  {
+    "input": "Đối tượng nào được xét cấp học bổng KKHT ạ?",
+    "output": "Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học, liên thông cao đẳng lên đại học hình thức chính quy tại trường Đại học Thủy lợi sẽ được xét cấp học bổng KKHT em nhé."
+  },
+  {
+    "input": "Em muốn hỏi tiêu chuẩn để xét cấp học bổng loại Khá là gì ạ?",
+    "output": "Để đạt học bổng loại Khá, em cần có điểm trung bình học tập và điểm rèn luyện đều đạt loại khá trở lên trong kỳ xét học bổng KKHT."
+  },
+  {
+    "input": "Cho em hỏi cách tính điểm xét học bổng KKHT như thế nào?",
+    "output": "Điểm xét học bổng KKHT được tính bằng cách cộng điểm trung bình học tập của em với điểm rèn luyện (chia cho 100) và làm tròn đến 2 chữ số thập phân."
+  },
+  {
+    "input": "Em muốn biết điểm trung bình học tập xét học bổng KKHT được tính như thế nào?",
+    "output": "Điểm trung bình học tập của em được tính dựa trên kết quả tổng kết của các môn học lần đầu em đăng ký trong học kỳ, không bao gồm các môn như Giáo dục thể chất, Giáo dục quốc phòng, chương trình đào tạo thứ 2 và các môn bảo lưu."
+  },
+  {
+    "input": "Em thắc mắc khi nào thì sinh viên không được xét cấp học bổng KKHT?",
+    "output": "Em sẽ không được xét cấp học bổng KKHT nếu bị kỷ luật từ mức khiển trách trở lên trong kỳ xét hoặc học quá thời gian thiết kế của chương trình đào tạo chuẩn."
+  },
+  {
+    "input": "Cho em hỏi học bổng KKHT được xếp hạng và cấp phát như thế nào?",
+    "output": "Học bổng KKHT được chia thành ba mức: Xuất sắc, Giỏi, Khá. Trong mỗi mức, danh sách sinh viên được sắp xếp từ cao xuống thấp dựa trên điểm xét học bổng và số tín chỉ của các em. Học bổng sẽ được cấp theo thứ tự từ Xuất sắc, Giỏi đến Khá cho đến khi hết quỹ."
+  },
+  {
+    "input": "Em muốn biết môn học nào không được tính vào điểm trung bình học tập khi xét học bổng KKHT?",
+    "output": "Các môn như Giáo dục thể chất, Giáo dục quốc phòng, chương trình đào tạo thứ 2 và các môn bảo lưu không được tính vào điểm trung bình học tập của em khi xét học bổng KKHT." 
+  },
+  {
+    "input": "Em muốn hỏi ai được hưởng chế độ học bổng chính sách?",
+    "output": "Sinh viên theo chế độ cử tuyển đang học tại trường Đại học Thủy lợi như em sẽ được áp dụng chế độ học bổng chính sách." 
+  },
+  {
+    "input": "Cho em hỏi mức học bổng chính sách là bao nhiêu và được tính như thế nào?", 
+    "output": "Mức học bổng chính sách là 80% lương cơ sở, tính theo tháng."
+  },
+  {
+    "input": "Em muốn biết sinh viên nhận học bổng chính sách mấy lần và vào thời gian nào?",
+    "output": "Em sẽ nhận học bổng chính sách hai lần trong năm, mỗi lần cấp cho 6 tháng. Lần đầu tiên vào tháng 10 và lần thứ hai vào tháng 3 hàng năm."
+  },
+  {
+    "input": "Em thắc mắc trường hợp nào không được áp dụng học bổng chính sách?",
+    "output": "Học bổng chính sách không áp dụng cho sinh viên học văn bằng hai, đào tạo theo địa chỉ, hình thức đào tạo từ xa, liên kết đào tạo và vừa làm vừa học." 
+  },
+  {
+    "input": "Em muốn hỏi học bổng chính sách được chi trả như thế nào cho sinh viên cử tuyển?",
+    "output": "Học bổng chính sách sẽ được chuyển khoản vào tài khoản của em hai lần trong năm, mỗi lần cấp cho 6 tháng, vào tháng 10 và tháng 3 hàng năm."
+  },
+  {
+    "input": "Thầy/cô ơi, ai có quyền quyết định hình thức kỷ luật nếu cán bộ, giảng viên vi phạm quy chế thi ạ?",
+    "output": "Quyết định về hình thức kỷ luật sẽ do Hiệu trưởng đưa ra, dựa trên Biên bản của cán bộ thanh tra hoặc đoàn kiểm tra theo quy định em nhé."
+  },
+  {
+    "input": "Thưa thầy/cô, trong trường hợp nào cán bộ, giảng viên sẽ bị cảnh cáo ạ?",
+    "output": "Cán bộ, giảng viên sẽ bị cảnh cáo nếu ra đề thi sai hoặc trực tiếp giải bài và hướng dẫn sinh viên/học viên trong giờ thi em ạ."
+  },
+  {
+    "input": "Em muốn hỏi, khi nào cán bộ, giảng viên có thể bị hạ bậc lương, hạ ngạch, hoặc buộc thôi việc ạ?",
+    "output": "Nếu cán bộ, giảng viên làm lộ đề thi, mua bán đề thi, đưa đề ra ngoài hoặc đưa bài giải từ ngoài vào phòng thi trực tuyến trong lúc thi, sửa bài của sinh viên, hoặc chữa điểm sai quy định thì có thể bị hạ bậc lương, hạ ngạch, hoặc buộc thôi việc em nhé."
+  },
+  {
+    "input": "Thưa thầy/cô, nếu em không đủ điều kiện dự thi mà không làm đơn hoãn thi thì có được vào thi không ạ?",
+    "output": "Nếu em không đủ điều kiện dự thi mà không làm đơn hoãn thi thì sẽ không được vào thi đâu em ạ."
+  },
+  {
+    "input": "Em có việc bận đột xuất không thể tham gia thi, vậy em cần làm gì ạ?",
+    "output": "Nếu em có lý do chính đáng như ốm đau, cách ly y tế hoặc có hoàn cảnh đặc biệt thì cần làm đơn xin hoãn thi và nộp về Phòng Khảo thí và ĐBCL trước buổi thi em nhé." 
+  },
+  {
+    "input": "Thầy/cô ơi, nếu em bỏ thi không lý do thì sẽ bị sao ạ?",
+    "output": "Nếu em bỏ thi không lý do hoặc không được thi thì sẽ nhận điểm Không (điểm 0.0) em ạ."
+  },
+  {
+    "input": "Em muốn hỏi, nếu vi phạm quy chế thi một lần thì em sẽ bị kỷ luật như thế nào ạ?",
+    "output": "Nếu em vi phạm quy chế thi một lần, ví dụ như trao đổi bài với bạn, gây mất trật tự trong phòng thi trực tuyến, hoặc không nộp bài đúng thời gian quy định thì sẽ bị khiển trách." 
+  },
+  {
+    "input": "Thưa thầy/cô, nếu em vi phạm quy chế thi hai lần thì sao ạ?",
+    "output": "Nếu em đã bị khiển trách một lần mà vẫn tiếp tục vi phạm quy định trong giờ thi thì sẽ bị cảnh cáo em ạ."
+  },
+  {
+    "input": "Em muốn biết khi nào thì sinh viên sẽ bị đình chỉ thi ạ?", 
+    "output": "Em sẽ bị đình chỉ thi nếu đã bị cảnh cáo một lần mà vẫn tiếp tục vi phạm quy định trong giờ thi hoặc có hành vi vi phạm khác như sử dụng điện thoại di động, chuyển đề thi ra ngoài, hoặc nhận bài giải từ ngoài. Em sẽ phải ra khỏi phòng thi ngay và nhận điểm 0 cho bài thi đó." 
+  },
+  {
+    "input": "Thầy/cô cho em hỏi, nếu em đi thi hộ hoặc nhờ người khác thi hộ hai lần thì sẽ bị kỷ luật như thế nào ạ?",
+    "output": "Nếu em vi phạm lần thứ hai khi đi thi hộ hoặc nhờ người khác thi hộ, sau khi CBCT lập biên bản và gửi về Phòng Chính trị và CTSV làm các thủ tục theo trình tự để trình Hiệu trưởng quyết định thì em sẽ bị buộc thôi học."
+  }
+]
