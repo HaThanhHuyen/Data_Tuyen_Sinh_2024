@@ -1539,46 +1539,1617 @@
     {
         "input": "Trường có hỗ trợ sinh viên thực tập tại các công ty công nghệ không?",
         "output": "Trường có mối quan hệ hợp tác với nhiều công ty công nghệ và thường xuyên giới thiệu cơ hội thực tập cho sinh viên. Bạn có thể theo dõi thông báo từ phòng công tác sinh viên hoặc liên hệ trực tiếp với khoa, bộ môn của mình."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em muốn hỏi về số lượng chỗ ở trong Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về số lượng chỗ ở hiện tại của Ký túc xá em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép sinh viên nấu ăn không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Ban quản lý Ký túc xá để biết về quy định nấu ăn trong Ký túc xá em nhé, vì mỗi khu nội trú sẽ có những quy định riêng."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em muốn hỏi về số lượng chỗ ở trong Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về số lượng chỗ ở hiện tại của Ký túc xá em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép sinh viên nấu ăn không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Ban quản lý Ký túc xá để biết về quy định nấu ăn trong Ký túc xá em nhé, vì mỗi khu nội trú sẽ có những quy định riêng."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có mạng internet không ạ?",
+        "output": "Ký túc xá có cung cấp mạng internet cho sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về việc đăng ký sử dụng internet nhé."
+    },
+    {
+        "input": "Ký túc xá có an ninh tốt không ạ?",
+        "output": "Ký túc xá có hệ thống an ninh đảm bảo, có camera giám sát và bảo vệ 24/7. Em có thể yên tâm về vấn đề an ninh khi ở trong Ký túc xá."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em muốn hỏi về số lượng chỗ ở trong Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về số lượng chỗ ở hiện tại của Ký túc xá em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép sinh viên nấu ăn không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Ban quản lý Ký túc xá để biết về quy định nấu ăn trong Ký túc xá em nhé, vì mỗi khu nội trú sẽ có những quy định riêng."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có mạng internet không ạ?",
+        "output": "Ký túc xá có cung cấp mạng internet cho sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về việc đăng ký sử dụng internet nhé."
+    },
+    {
+        "input": "Ký túc xá có an ninh tốt không ạ?",
+        "output": "Ký túc xá có hệ thống an ninh đảm bảo, có camera giám sát và bảo vệ 24/7. Em có thể yên tâm về vấn đề an ninh khi ở trong Ký túc xá."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có khu vực giặt đồ không ạ?",
+        "output": "Ký túc xá có khu vực giặt đồ và phơi đồ riêng dành cho sinh viên. Em có thể yên tâm về vấn đề này nhé."
+    },
+    {
+        "input": "Em có thể ở Ký túc xá trong bao lâu ạ?",
+        "output": "Thông thường sinh viên có thể ở Ký túc xá trong suốt quá trình học tập tại trường, trừ trường hợp vi phạm nội quy Ký túc xá."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em muốn hỏi về số lượng chỗ ở trong Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về số lượng chỗ ở hiện tại của Ký túc xá em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép sinh viên nấu ăn không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Ban quản lý Ký túc xá để biết về quy định nấu ăn trong Ký túc xá em nhé, vì mỗi khu nội trú sẽ có những quy định riêng."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có mạng internet không ạ?",
+        "output": "Ký túc xá có cung cấp mạng internet cho sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về việc đăng ký sử dụng internet nhé."
+    },
+    {
+        "input": "Ký túc xá có an ninh tốt không ạ?",
+        "output": "Ký túc xá có hệ thống an ninh đảm bảo, có camera giám sát và bảo vệ 24/7. Em có thể yên tâm về vấn đề an ninh khi ở trong Ký túc xá."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có khu vực giặt đồ không ạ?",
+        "output": "Ký túc xá có khu vực giặt đồ và phơi đồ riêng dành cho sinh viên. Em có thể yên tâm về vấn đề này nhé."
+    },
+    {
+        "input": "Em có thể ở Ký túc xá trong bao lâu ạ?",
+        "output": "Thông thường sinh viên có thể ở Ký túc xá trong suốt quá trình học tập tại trường, trừ trường hợp vi phạm nội quy Ký túc xá."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục trả phòng Ký túc xá khi em ra trường ạ?",
+        "output": "Em có thể liên hệ với Ban quản lý Ký túc xá để được hướng dẫn cụ thể về thủ tục trả phòng khi ra trường em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về các hoạt động ngoại khóa dành cho sinh viên ở Ký túc xá ạ?",
+        "output": "Ban quản lý Ký túc xá thường xuyên tổ chức các hoạt động ngoại khóa, văn hóa, thể thao dành cho sinh viên. Em có thể theo dõi thông báo của Ban quản lý Ký túc xá để tham gia các hoạt động này nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên ở ngoại trú có cần phải đăng ký tạm trú không ạ?",
+        "output": "Chào em, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) em nhé."
+    },
+    {
+        "input": "Em là sinh viên ở ngoại trú, em muốn hỏi về thời hạn báo địa chỉ nơi ở cho trường ạ?",
+        "output": "Chào em, tất cả sinh viên ngoại trú phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú trong thời hạn 30 ngày, kể từ ngày nhập học. Khi có sự thay đổi về nơi cư trú, em phải báo địa chỉ cư trú mới của mình với nhà trường trong thời hạn 20 ngày em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi nếu sinh viên ngoại trú vi phạm quy chế thì sẽ bị xử lý như thế nào ạ?",
+        "output": "Sinh viên ngoại trú nếu vi phạm quy chế sẽ bị xử lý kỷ luật theo Quy chế học sinh, sinh viên trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành, mức độ xử lý bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm, buộc thôi học hoặc các hình thức xử lý khác."
+    },
+    {
+        "input": "Anh/chị ơi, em muốn biết về trách nhiệm của lớp trưởng trong việc quản lý sinh viên ngoại trú ạ?",
+        "output": "Lớp trưởng có trách nhiệm lưu giữ \"Sổ theo dõi sinh viên ngoại trú\" trong toàn khóa học và cập nhật thông tin địa chỉ ngoại trú của sinh viên trong lớp vào sổ theo dõi. Vào tuần thứ 5 đầu mỗi học kỳ, lớp trưởng cần báo cáo tình hình sinh viên ngoại trú cho Khoa."
+    },
+    {
+        "input": "Anh/chị cho em hỏi trường có hỗ trợ tìm nhà trọ cho sinh viên ngoại trú không ạ?",
+        "output": "Chào em, hiện tại trường chưa có chương trình hỗ trợ tìm nhà trọ cho sinh viên. Tuy nhiên, em có thể tham khảo thông tin trên các trang web, group tìm nhà trọ uy tín, hoặc liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được tư vấn thêm."
+    },
+    {
+        "input": "Em muốn hỏi về trách nhiệm của sinh viên ngoại trú đối với địa phương nơi em cư trú ạ?",
+        "output": "Sinh viên ngoại trú phải thực hiện nghĩa vụ công dân theo quy định của Pháp luật, chấp hành các quy định về đảm bảo an ninh, trật tự, an toàn xã hội; tích cực tham gia các hoạt động văn hoá, văn nghệ, thể dục, thể thao, phòng chống ma tuý, phòng chống tội phạm, các tệ nạn xã hội, bảo vệ môi trường nơi cư trú và các hoạt động khác do địa phương tổ chức em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về quy định của trường đối với việc sinh viên ngoại trú đi về muộn ạ.",
+        "output": "Chào em, trường không có quy định cụ thể về giờ giấc đi về của sinh viên ngoại trú. Tuy nhiên, em nên lưu ý đảm bảo an toàn cho bản thân, tránh đi về quá muộn, nhất là các bạn nữ."
+    },
+    {
+        "input": "Ngoài việc đăng ký ngoại trú với lớp trưởng, em có cần phải làm thủ tục gì khác với nhà trường không ạ?",
+        "output": "Không em nhé, thủ tục đăng ký ngoại trú chỉ cần báo cáo thông tin với lớp trưởng trong thời hạn quy định là được."
+    },
+    {
+        "input": "Em có hộ khẩu thường trú tại Hà Nội, nhưng hiện tại em đang ở cùng người thân ở tỉnh khác. Vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em không ở trong Ký túc xá của trường thì vẫn cần phải đăng ký ngoại trú và báo cáo địa chỉ nơi ở hiện tại cho trường em nhé."
+    },
+    {
+        "input": "Em nghe nói nhà trường có tổ chức kiểm tra nơi ở của sinh viên ngoại trú, điều này có đúng không ạ?",
+        "output": "Đúng rồi em, nhà trường sẽ phối hợp với địa phương để tiến hành kiểm tra nơi ở của sinh viên ngoại trú nhằm đảm bảo an ninh trật tự và an toàn cho sinh viên."
+    },
+    {
+        "input": "Em muốn xin cấp lại “Sổ theo dõi sinh viên ngoại trú” thì cần làm như thế nào ạ?",
+        "output": "Em liên hệ với phòng Công tác Chính trị & Quản lý sinh viên để được hướng dẫn thủ tục cấp lại \"Sổ theo dõi sinh viên ngoại trú\" em nhé."
+    },
+    {
+        "input": "Cho em hỏi trường có quy định gì về việc sinh viên ngoại trú được phép ở cùng người khác giới không ạ?",
+        "output": "Trường không có quy định cấm sinh viên ngoại trú ở cùng người khác giới. Tuy nhiên, em nên lưu ý an toàn, chọn nơi ở phù hợp và tuân thủ các quy định của địa phương nơi cư trú."
+    },
+    {
+        "input": "Em muốn hỏi về việc thay đổi địa chỉ ngoại trú giữa học kỳ, thủ tục như thế nào ạ?",
+        "output": "Khi thay đổi địa chỉ ngoại trú, em cần báo cáo lại cho lớp trưởng để cập nhật vào \"Sổ theo dõi sinh viên ngoại trú\" trong vòng 20 ngày kể từ ngày thay đổi em nhé."
+    },
+    {
+        "input": "Ngoài lớp trưởng, em có thể báo cáo thông tin ngoại trú cho ai khác được không ạ?",
+        "output": "Theo quy định, em cần báo cáo thông tin ngoại trú cho lớp trưởng, sau đó lớp trưởng sẽ tổng hợp và báo cáo lên Khoa và phòng Công tác Chính trị & Quản lý sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi thông tin về Ký túc xá của trường, anh/chị có thể cung cấp cho em được không?",
+        "output": "Chào em, thông tin về Ký túc xá trường mình em có thể tham khảo ở website của trường hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để biết thêm chi tiết em nhé."
+    },
+    {
+        "input": "Em ở Ký túc xá của trường, vậy em có cần đăng ký ngoại trú không ạ?",
+        "output": "Nếu em đã ở trong Ký túc xá của trường thì không cần đăng ký ngoại trú em nhé."
+    },
+    {
+        "input": "Em muốn hỏi, nếu em ở trọ cùng bạn, mà bạn em đã đăng ký ngoại trú rồi, thì em có cần đăng ký nữa không?",
+        "output": "Mỗi sinh viên đều cần đăng ký ngoại trú riêng em nhé. Việc bạn cùng phòng đã đăng ký không ảnh hưởng đến việc đăng ký của em."
+    },
+    {
+        "input": "Em là sinh viên năm nhất, em có thể đăng ký ở Ký túc xá của trường không ạ?",
+        "output": "Chào em, sinh viên năm nhất được ưu tiên đăng ký ở Ký túc xá. Em có thể tìm hiểu thông tin và thủ tục đăng ký trên website của trường, hoặc liên hệ với Ban quản lý Ký túc xá để được hỗ trợ nhé."
+    },
+    {
+        "input": "Em muốn hỏi về chi phí ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Chào em, chi phí ở Ký túc xá sẽ phụ thuộc vào loại phòng và số lượng người ở cùng. Em có thể liên hệ với Ban quản lý Ký túc xá để được biết chi tiết về mức phí và các khoản phí khác nhé."
+    },
+    {
+        "input": "Em muốn hỏi về giờ giấc đóng/mở cửa Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về giờ giấc đóng/mở cửa của Ký túc xá em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục đăng ký ở Ký túc xá của trường như thế nào ạ?",
+        "output": "Em có thể tìm hiểu thông tin về thủ tục đăng ký ở Ký túc xá trên website của trường, hoặc liên hệ trực tiếp với Ban quản lý Ký túc xá để được hướng dẫn cụ thể em nhé."
+    },
+    {
+        "input": "Ngoài Ký túc xá, trường có khu nội trú nào khác dành cho sinh viên không ạ?",
+        "output": "Hiện tại trường chỉ có Ký túc xá là khu nội trú dành cho sinh viên em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được ở Ký túc xá của trường ạ?",
+        "output": "Điều kiện để được ở Ký túc xá em có thể tham khảo trên website của trường, hoặc liên hệ trực tiếp Ban quản lý Ký túc xá để biết thêm chi tiết em nhé. "
+    },
+    {
+        "input": "Trong Ký túc xá có những tiện ích gì ạ?",
+        "output": "Ký túc xá được trang bị đầy đủ tiện ích phục vụ sinh hoạt của sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để tìm hiểu thêm về các tiện ích cụ thể nhé."
+    },
+    {
+        "input": "Em muốn hỏi về số lượng chỗ ở trong Ký túc xá ạ?",
+        "output": "Em vui lòng liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về số lượng chỗ ở hiện tại của Ký túc xá em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép sinh viên nấu ăn không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Ban quản lý Ký túc xá để biết về quy định nấu ăn trong Ký túc xá em nhé, vì mỗi khu nội trú sẽ có những quy định riêng."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có mạng internet không ạ?",
+        "output": "Ký túc xá có cung cấp mạng internet cho sinh viên. Em có thể liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về việc đăng ký sử dụng internet nhé."
+    },
+    {
+        "input": "Ký túc xá có an ninh tốt không ạ?",
+        "output": "Ký túc xá có hệ thống an ninh đảm bảo, có camera giám sát và bảo vệ 24/7. Em có thể yên tâm về vấn đề an ninh khi ở trong Ký túc xá."
+    },
+    {
+        "input": "Em muốn hỏi Ký túc xá có khu vực giặt đồ không ạ?",
+        "output": "Ký túc xá có khu vực giặt đồ và phơi đồ riêng dành cho sinh viên. Em có thể yên tâm về vấn đề này nhé."
+    },
+    {
+        "input": "Em có thể ở Ký túc xá trong bao lâu ạ?",
+        "output": "Thông thường sinh viên có thể ở Ký túc xá trong suốt quá trình học tập tại trường, trừ trường hợp vi phạm nội quy Ký túc xá."
+    },
+    {
+        "input": "Em muốn hỏi về thủ tục trả phòng Ký túc xá khi em ra trường ạ?",
+        "output": "Em có thể liên hệ với Ban quản lý Ký túc xá để được hướng dẫn cụ thể về thủ tục trả phòng khi ra trường em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về các hoạt động ngoại khóa dành cho sinh viên ở Ký túc xá ạ?",
+        "output": "Ban quản lý Ký túc xá thường xuyên tổ chức các hoạt động ngoại khóa, văn hóa, thể thao dành cho sinh viên. Em có thể theo dõi thông báo của Ban quản lý Ký túc xá để tham gia các hoạt động này nhé."
+    },
+    {
+        "input": "Em muốn hỏi trong Ký túc xá có căng tin không ạ?",
+        "output": "Trong Ký túc xá có căng tin phục vụ nhu cầu ăn uống của sinh viên em nhé."
+    },
+    {
+        "input": "Ký túc xá có cho phép người thân, bạn bè đến thăm không ạ?",
+        "output": "Ký túc xá có quy định về việc tiếp khách, người thân, bạn bè đến thăm. Em có thể liên hệ với Ban quản lý Ký túc xá để biết thêm chi tiết về quy định này nhé."
+    },
+    {
+        "input": "Em chào anh/chị, cho em hỏi sinh viên trường mình có cần phải đạt chuẩn đầu ra công nghệ thông tin không ạ?",
+        "output": "Chào em, đúng rồi, sinh viên Đại học Thuỷ Lợi cần phải đạt chuẩn đầu ra công nghệ thông tin trước khi tốt nghiệp, trừ sinh viên nhóm ngành Máy tính và Công nghệ thông tin em nhé."
+    },
+    {
+        "input": "Em muốn biết sinh viên cần đáp ứng yêu cầu gì để đạt chuẩn đầu ra công nghệ thông tin ạ?",
+        "output": "Có 2 cách để em đạt chuẩn đầu ra công nghệ thông tin: một là đạt yêu cầu tối thiểu kỳ thi sát hạch do trường tổ chức, hai là đủ điều kiện miễn thi em nhé."
+    },
+    {
+        "input": "Anh/chị ơi, điều kiện để được miễn thi chuẩn đầu ra CNTT là gì ạ?",
+        "output": "Em có thể được miễn thi nếu có bằng tốt nghiệp trung cấp, cao đẳng, đại học nhóm ngành Máy tính và Công nghệ thông tin hoặc có chứng chỉ tin học tương đương như IC3, MOS (2/3 module Word, Excel, Powerpoint), ICDL (2/3 module Word, Excel, Powerpoint)."
+    },
+    {
+        "input": "Em có chứng chỉ MOS, vậy em có được miễn thi chuẩn đầu ra CNTT và được công nhận điểm học phần Tin học cơ bản luôn không ạ?",
+        "output": "Chính xác rồi em. Nếu em có chứng chỉ MOS, em sẽ được miễn thi chuẩn đầu ra CNTT và được công nhận 10 điểm cho học phần Tin học cơ bản."
+    },
+    {
+        "input": "Nếu em đã học và thi Tin học cơ bản rồi, sau đó mới nộp chứng chỉ MOS thì có được cải thiện điểm không ạ?",
+        "output": "Được em nhé. Trường hợp này em vẫn có thể sử dụng chứng chỉ MOS để cải thiện điểm học phần Tin học cơ bản."
+    },
+    {
+        "input": "Em cần làm gì để được miễn thi và công nhận điểm ạ?",
+        "output": "Em cần làm đơn đề nghị (kèm theo minh chứng) nộp về Phòng Đào tạo. Phòng Đào tạo sẽ phối hợp với Khoa Công nghệ thông tin kiểm tra minh chứng và trình Ban giám hiệu xem xét, quyết định công nhận cho em."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về kỳ thi sát hạch Chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản do trường tổ chức, anh/chị có thể cung cấp thông tin cho em được không?",
+        "output": "Thông tin về kỳ thi sát hạch em có thể tham khảo Thông tư số 03/2014/TT-BTTTT ngày 11/03/2014 của Bộ Thông tin và Truyền thông, hoặc liên hệ Phòng Đào tạo hoặc Khoa Công nghệ thông tin để biết thêm chi tiết về lịch thi, nội dung ôn tập em nhé."
+    },
+    {
+        "input": "Điểm chuẩn đầu ra CNTT có ảnh hưởng đến điểm tốt nghiệp của em không anh/chị?",
+        "output": "Nếu em đạt chuẩn đầu ra CNTT bằng cách thi sát hạch, điểm thi từ 5.0 trở lên sẽ được quy đổi ra thang điểm 10 và được tính là điểm học phần Tin học cơ bản. Điểm này sẽ được tính vào điểm trung bình tích luỹ và ảnh hưởng đến điểm tốt nghiệp của em."
+    },
+    {
+        "input": "Em nghe nói sinh viên có chứng chỉ quốc tế về tin học cũng được miễn thi chuẩn đầu ra CNTT, điều này có đúng không ạ?",
+        "output": "Đúng rồi em. Quy định miễn thi hiện tại áp dụng cho các chứng chỉ tin học như IC3, MOS, ICDL. Nếu em có chứng chỉ quốc tế khác, em có thể liên hệ với Phòng Đào tạo để được hướng dẫn cụ thể hơn."
+    },
+    {
+        "input": "Ngoài những điều kiện được miễn thi đã nêu trong quy định, trường hợp của em có được xem xét đặc biệt không ạ?",
+        "output": "Nếu em có trường hợp đặc biệt, em có thể làm đơn trình bày và gửi về Phòng Đào tạo. Trường sẽ xem xét và giải quyết dựa trên quy định hiện hành và tình hình thực tế em nhé."
+    },
+    {
+        "input": "Em muốn biết thêm thông tin về chuẩn đầu ra CNTT, em có thể liên hệ với ai ạ?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo, Khoa Công nghệ thông tin hoặc cố vấn học tập của lớp để được giải đáp thắc mắc về chuẩn đầu ra CNTT em nhé."
+    },
+    {
+        "input": "Quy định về chuẩn đầu ra CNTT này được áp dụng từ khi nào ạ?",
+        "output": "Quy định này được áp dụng cho sinh viên đại học hệ chính quy và vừa làm vừa học tuyển sinh từ năm học 2021-2022 trở về sau em nhé."
+    },
+    {
+        "input": "Em là sinh viên khóa trước 2021, vậy em có cần phải đạt chuẩn đầu ra CNTT không ạ?",
+        "output": "Nếu em là sinh viên khóa trước 2021 thì quy định này không áp dụng cho em. Em có thể hỏi thêm cố vấn học tập của lớp để biết rõ hơn về quy định của khóa mình nhé."
+    },
+    {
+        "input": "Em học ngành Kỹ thuật Môi trường, vậy em có phải thi chuẩn đầu ra CNTT không ạ?",
+        "output": "Đúng rồi em. Quy định về chuẩn đầu ra CNTT áp dụng cho tất cả sinh viên đại học hệ chính quy và vừa làm vừa học tuyển sinh từ năm học 2021-2022 trở về sau, ngoại trừ sinh viên nhóm ngành Máy tính và Công nghệ thông tin."
+    },
+    {
+        "input": "Nếu em không đạt chuẩn đầu ra CNTT thì có được tốt nghiệp không ạ?",
+        "output": "Chuẩn đầu ra CNTT là một trong những điều kiện để xét tốt nghiệp. Nếu em không đạt thì sẽ không đủ điều kiện tốt nghiệp. Do đó em cần cố gắng đáp ứng yêu cầu để đủ điều kiện tốt nghiệp nhé."
+    },
+    {
+        "input": "Em có thể xem chi tiết quy định về chuẩn đầu ra CNTT ở đâu ạ?",
+        "output": "Em có thể xem chi tiết Quy định về Chuẩn đầu ra Công nghệ thông tin (ban hành kèm theo Quyết định số 411/QĐ-ĐHTL ngày 06/04/2022 của Hiệu trưởng Trường Đại học Thủy lợi) trên website của trường hoặc liên hệ với Phòng Đào tạo để được cung cấp tài liệu em nhé."
+    },
+    {
+        "input": "Cho em hỏi, chứng chỉ MOS của em hết hạn rồi thì có được công nhận để miễn thi chuẩn đầu ra CNTT không?",
+        "output": "Theo quy định hiện tại, trường chưa có hướng dẫn cụ thể về việc chứng chỉ hết hạn. Em nên liên hệ với Phòng Đào tạo để được tư vấn và hướng dẫn cụ thể hơn cho trường hợp của em nhé."
+    },
+    {
+        "input": "Em có chứng chỉ tin học A, B, C,...  liệu có được công nhận để miễn thi chuẩn đầu ra CNTT không?",
+        "output": "Hiện tại, Quy định miễn thi chỉ áp dụng cho các chứng chỉ tin học IC3, MOS, ICDL. Để biết chứng chỉ của em có được chấp nhận hay không, em vui lòng liên hệ Phòng Đào tạo, cung cấp thông tin về chứng chỉ để được kiểm tra và có câu trả lời chính xác nhé."
+    },
+    {
+        "input": "Trường hợp em đăng ký thi chứng chỉ MOS ngay trong thời gian học đại học thì có được miễn thi chuẩn đầu ra CNTT luôn không ạ?",
+        "output": "Hoàn toàn được em nhé. Miễn là em có chứng chỉ MOS hợp lệ trước khi kết thúc chương trình học thì em sẽ được miễn thi chuẩn đầu ra CNTT."
+    },
+    {
+        "input": "Em muốn ôn thi chuẩn đầu ra CNTT, trường có tổ chức lớp ôn tập không ạ?",
+        "output": "Hiện tại, trường chưa có thông báo về việc tổ chức lớp ôn thi chuẩn đầu ra CNTT. Em có thể theo dõi thông báo từ Phòng Đào tạo, Khoa Công nghệ thông tin, hoặc tự ôn tập theo tài liệu hướng dẫn thi của Bộ Thông tin và Truyền thông em nhé." 
+    },
+    {
+        "input": "Em có thể thi chuẩn đầu ra CNTT nhiều lần không ạ?",
+        "output": "Em có thể tham gia thi chuẩn đầu ra CNTT nhiều lần cho đến khi đạt yêu cầu. Thông tin về số lần thi, lệ phí thi,... em có thể liên hệ Phòng Đào tạo để được hướng dẫn cụ thể."
+    },
+    {
+        "input": "Em đã tốt nghiệp Cao đẳng ngành Công nghệ thông tin, vậy em có cần thi chuẩn đầu ra CNTT khi học liên thông lên Đại học tại trường không ạ?",
+        "output": "Em đã tốt nghiệp Cao đẳng ngành Công nghệ thông tin nên em thuộc diện được miễn thi chuẩn đầu ra CNTT khi học liên thông lên Đại học tại trường. Em nhớ mang theo bằng tốt nghiệp Cao đẳng khi làm thủ tục nhập học để được miễn thi nhé."
+    },
+    {
+        "input": "Em có bằng cử nhân ngành Công nghệ thông tin của trường khác, vậy em có được miễn thi chuẩn đầu ra CNTT khi học văn bằng 2 tại trường không ạ?",
+        "output": "Đúng rồi em. Em có bằng cử nhân ngành Công nghệ thông tin nên em được miễn thi chuẩn đầu ra CNTT khi học văn bằng 2 tại trường.  Em nhớ mang theo bằng tốt nghiệp khi làm thủ tục nhập học để được miễn thi."
+    },
+    {
+        "input": "Nếu em không đủ điều kiện miễn thi chuẩn đầu ra CNTT, điểm thi của em thấp hơn 5.0 thì em có được thi lại không ạ? ",
+        "output": "Như đã nói ở trên, em có thể thi chuẩn đầu ra CNTT nhiều lần cho đến khi đạt yêu cầu, tức là đạt điểm từ 5.0 trở lên. Em nên ôn tập kỹ hơn và đăng ký thi lại ở kỳ thi tiếp theo nhé."
+    },
+    {
+        "input": "Em có chứng chỉ MOS nhưng bị mất, em có thể sử dụng bản photo để làm thủ tục miễn thi chuẩn đầu ra CNTT được không ạ?",
+        "output": "Em nên liên hệ trực tiếp với Phòng Đào tạo để hỏi về trường hợp cụ thể của em. Trường hợp bản photo có công chứng hoặc xác nhận của cơ quan có thẩm quyền có thể được chấp nhận. Tuy nhiên, tốt nhất em nên cố gắng tìm lại bản gốc chứng chỉ MOS của mình em nhé."
+    },
+    {
+        "input": "Em muốn biết thêm thông tin chi tiết về lệ phí thi, thời gian và địa điểm thi chuẩn đầu ra CNTT, em có thể theo dõi ở đâu ạ?",
+        "output": "Em có thể theo dõi thông báo trên website của trường, fanpage của trường, hoặc liên hệ Phòng Đào tạo, Khoa Công nghệ thông tin để được cập nhật thông tin mới nhất về lệ phí, thời gian và địa điểm thi chuẩn đầu ra CNTT em nhé."
+    },
+    {
+        "input": "Em nghe nói hình thức thi chuẩn đầu ra CNTT là thi trắc nghiệm online, điều này có đúng không ạ?",
+        "output": "Đúng rồi em. Kỳ thi sát hạch Chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản được tổ chức theo hình thức thi trắc nghiệm online trên máy tính. Em nên làm quen với hình thức thi này để có sự chuẩn bị tốt nhất."
+    },
+    {
+        "input": "Trong quá trình thi chuẩn đầu ra CNTT, nếu em gặp sự cố về kỹ thuật thì phải làm sao ạ?",
+        "output": "Nếu gặp sự cố về kỹ thuật trong quá trình thi, em hãy bình tĩnh báo ngay cho cán bộ coi thi để được hỗ trợ kịp thời.  Em yên tâm, cán bộ coi thi sẽ hướng dẫn và hỗ trợ em để đảm bảo quyền lợi cho em trong kỳ thi."
+    },
+    {
+        "input": "Em có chứng chỉ IC3, vậy em có được miễn học phần Tin học cơ bản không ạ?",
+        "output": "Nếu em có chứng chỉ IC3, em sẽ được miễn thi chuẩn đầu ra CNTT và được công nhận 10 điểm cho học phần Tin học cơ bản. Như vậy, đồng nghĩa với việc em được miễn học phần Tin học cơ bản."
+    },
+    {
+        "input": "Ngoài chứng chỉ IC3, MOS, ICDL, em có chứng chỉ quốc tế khác về tin học có được công nhận để miễn thi chuẩn đầu ra CNTT không ạ?",
+        "output": "Hiện tại, trường mới chỉ công nhận 3 chứng chỉ là IC3, MOS, ICDL. Tuy nhiên, nếu em có chứng chỉ quốc tế khác, em có thể liên hệ với Phòng Đào tạo để được xem xét và tư vấn cụ thể hơn. Trường luôn sẵn sàng hỗ trợ sinh viên trong khả năng có thể."
+    },
+    {
+        "input": "Em muốn tìm hiểu kỹ hơn về nội dung thi chuẩn đầu ra CNTT, anh/chị có thể cung cấp thông tin cho em được không?",
+        "output": "Em có thể tham khảo Thông tư số 03/2014/TT-BTTTT ngày 11/03/2014 của Bộ Thông tin và Truyền thông. Thông tư này quy định chi tiết về nội dung, hình thức, thang điểm thi chuẩn đầu ra CNTT. Ngoài ra, em có thể liên hệ Phòng Đào tạo, Khoa Công nghệ thông tin để được giải đáp thêm về nội dung thi."
+    },
+    {
+        "input": "Nếu em học văn bằng 2, ngành học của em trùng với ngành đã tốt nghiệp đại học, vậy em có được miễn học phần Tin học cơ bản và miễn thi chuẩn đầu ra CNTT không?",
+        "output": "Điều này còn phụ thuộc vào ngành học cụ thể của em. Nếu ngành học của em thuộc nhóm ngành Máy tính và Công nghệ thông tin thì em được miễn học phần Tin học cơ bản và miễn thi chuẩn đầu ra CNTT. Ngược lại, em cần tuân theo quy định chung về chuẩn đầu ra CNTT."
+    },
+    {
+        "input": "Em đã đạt chứng chỉ MOS 3 module, vậy điểm học phần Tin học cơ bản của em được công nhận là bao nhiêu ạ?",
+        "output": "Dù em có chứng chỉ MOS 2 module hay 3 module thì em đều được công nhận 10 điểm cho học phần Tin học cơ bản và được miễn thi chuẩn đầu ra CNTT. "
+    },
+    {
+        "input": "Em có thể sử dụng chứng chỉ MOS của bạn em để nộp cho trường được không?",
+        "output": "Không được em nhé. Việc sử dụng chứng chỉ của người khác là hành vi gian lận, vi phạm quy chế của nhà trường. Em cần sử dụng chứng chỉ của chính mình để được công nhận."
+    },
+    {
+        "input": "Em muốn xin giấy xác nhận đã đạt chuẩn đầu ra CNTT để xin việc, em phải làm như thế nào ạ?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo để yêu cầu cấp giấy xác nhận đã đạt chuẩn đầu ra CNTT. Em cần cung cấp thông tin cá nhân và các giấy tờ liên quan để Phòng Đào tạo xác minh và cấp giấy xác nhận cho em."
+    },
+    {
+        "input": "Em muốn thay đổi hình thức xét chuẩn đầu ra CNTT từ miễn thi sang thi sát hạch, trường hợp của em có được chấp nhận không ạ?",
+        "output": "Trường hợp của em khá đặc biệt. Em nên liên hệ với Phòng Đào tạo để trình bày nguyện vọng và lý do muốn thay đổi hình thức xét chuẩn đầu ra CNTT. Phòng Đào tạo sẽ xem xét và giải quyết dựa trên quy định hiện hành và tình hình thực tế."
+    },
+    {
+        "input": "Em có chứng chỉ MOS được cấp từ năm 2015, vậy chứng chỉ này có còn hiệu lực để được miễn thi chuẩn đầu ra CNTT không ạ?",
+        "output": "Hiện tại, trường chưa có quy định cụ thể về thời hạn hiệu lực của chứng chỉ MOS. Tuy nhiên, chứng chỉ của em đã được cấp khá lâu, em nên liên hệ với Phòng Đào tạo để được tư vấn và hướng dẫn cụ thể hơn cho trường hợp của em."
+    },
+    {
+        "input": "Em muốn biết kết quả thi chuẩn đầu ra CNTT của mình, em có thể kiểm tra ở đâu ạ?",
+        "output": "Sau khi thi xong, kết quả thi chuẩn đầu ra CNTT sẽ được công bố trên website của trường, fanpage của trường, hoặc em có thể liên hệ Phòng Đào tạo, Khoa Công nghệ thông tin để tra cứu kết quả. "
+    },
+    {
+        "input": "Em có ý kiến đóng góp về quy định chuẩn đầu ra CNTT, em có thể liên hệ với ai ạ?",
+        "output": "Mọi ý kiến đóng góp về quy định chuẩn đầu ra CNTT, em có thể gửi về Phòng Đào tạo, Khoa Công nghệ thông tin hoặc Ban Giám hiệu nhà trường. Trường luôn hoan nghênh và ghi nhận ý kiến đóng góp của sinh viên để hoàn thiện quy định ngày càng tốt hơn."
+    },
+    {
+        "input": "Em chào anh/chị, em muốn hỏi về chương trình tiên tiến của trường, cho em hỏi chương trình này áp dụng cho sinh viên năm mấy ạ?",
+        "output": "Chào em, Quy định về trình độ tiếng Anh này được áp dụng cho sinh viên Chương trình tiên tiến, trình độ đại học hệ chính quy của Trường Đại học Thủy lợi em nhé."
+    },
+    {
+        "input": "Em muốn hỏi về điều kiện để được miễn học môn tiếng Anh ở năm nhất chương trình tiên tiến thì cần những gì ạ?",
+        "output": "Để được miễn học môn Tiếng Anh ở năm nhất chương trình tiên tiến, em cần có chứng chỉ tiếng Anh quốc tế còn thời hạn sử dụng tính đến ngày nhập học. Nếu đạt IELTS từ 5.5 trở lên hoặc tương đương thì em sẽ được miễn tất cả các học phần môn tiếng Anh. Còn nếu đạt từ 4.5 đến dưới 5.5 IELTS hoặc tương đương thì em sẽ được miễn một số học phần em nhé."
+    },
+    {
+        "input": "Anh/chị ơi, nếu em có chứng chỉ TOEIC thì có được miễn học tiếng Anh không ạ? Và quy đổi điểm như thế nào?",
+        "output": "Có em nhé. Nếu em có chứng chỉ TOEIC thì vẫn được miễn học Tiếng Anh. Em có thể tham khảo bảng quy đổi điểm từ các chứng chỉ quốc tế sang điểm tiếng Anh tương đương (thang điểm 10) trong Quy định về trình độ tiếng Anh đối với sinh viên Chương trình tiên tiến của trường mình."
+    },
+    {
+        "input": "Em muốn biết yêu cầu về trình độ tiếng Anh đối với sinh viên chương trình tiên tiến sau khi kết thúc năm 2 là gì ạ?",
+        "output": "Sau khi kết thúc năm học thứ hai, sinh viên Chương trình tiên tiến phải đạt trình độ tiếng Anh IELTS từ 5.5 hoặc tương đương trở lên em nhé."
+    },
+    {
+        "input": "Nếu em không đạt yêu cầu về trình độ tiếng Anh sau năm 1 và năm 2 thì sẽ như thế nào?",
+        "output": "Yêu cầu về trình độ tiếng Anh sau năm 1 và 2 cùng với các điều kiện quy định tại khoản 1 Điều 11 của Quy chế đào tạo trình độ đại học sẽ là căn cứ để nhà trường xét cảnh báo kết quả học tập của sinh viên chương trình tiên tiến em nhé."
+    },
+    {
+        "input": "Anh/chị cho em hỏi, chứng chỉ tiếng Anh quốc tế của em hết hạn sau khi nhập học thì có được chấp nhận không ạ?",
+        "output": "Chứng chỉ tiếng Anh quốc tế của em phải còn thời hạn sử dụng tính đến ngày nhập học thì mới được chấp nhận để xét miễn học tiếng Anh em nhé."
+    },
+    {
+        "input": "Em có chứng chỉ tiếng Anh quốc tế nhưng không phải IELTS/TOEFL/TOEIC/Cambridge, vậy có được chấp nhận không ạ?",
+        "output": " Quy định hiện tại của trường chỉ áp dụng cho 4 loại chứng chỉ tiếng Anh quốc tế là IELTS, TOEFL, TOEIC, Cambridge. Em có thể liên hệ với phòng đào tạo của trường để được tư vấn cụ thể hơn nhé."
+    },
+    {
+        "input": "Trường có tổ chức thi chứng chỉ tiếng Anh quốc tế nào không ạ?",
+        "output": "Trường sẽ tổ chức các đợt kiểm tra trình độ tiếng Anh (IELTS/TOEFL nội bộ) cho sinh viên chương trình tiên tiến trong mỗi năm học em nhé."
+    },
+    {
+        "input": "Quy định về trình độ tiếng Anh này có áp dụng cho sinh viên chương trình đại trà không ạ?",
+        "output": "Không em nhé, quy định này chỉ áp dụng cho sinh viên chương trình tiên tiến thôi."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về chương trình tiên tiến của trường thì có thể liên hệ ở đâu ạ?",
+        "output": "Em có thể liên hệ với Trung tâm Đào tạo quốc tế hoặc phòng Đào tạo của trường để tìm hiểu thêm về chương trình tiên tiến nhé."
+    },
+    {
+        "input": "Em muốn hỏi là chứng chỉ tiếng Anh quốc tế còn hiệu lực trong bao lâu ạ?",
+        "output": "Thông thường, chứng chỉ tiếng Anh quốc tế có hiệu lực trong vòng 2 năm. Tuy nhiên, mỗi loại chứng chỉ có quy định riêng. Em nên kiểm tra kỹ thông tin trên chứng chỉ của mình hoặc liên hệ với đơn vị cấp chứng chỉ để biết chính xác thời hạn hiệu lực nhé."
+    },
+    {
+        "input": "Nếu em không có chứng chỉ tiếng Anh quốc tế thì em có thể tham gia chương trình tiên tiến không ạ?",
+        "output": "Em vẫn có thể tham gia chương trình tiên tiến nhé. Khi đó, em sẽ được nhà trường phân lớp học tiếng Anh ở năm thứ nhất dựa trên kết quả môn tiếng Anh của kỳ thi Trung học phổ thông."
+    },
+    {
+        "input": "Em muốn hỏi về điểm IELTS tối thiểu để được chuyển tiếp vào năm 2 chương trình tiên tiến là bao nhiêu ạ?",
+        "output": "Để được xem xét chuyển tiếp vào năm 2 chương trình tiên tiến, em cần đạt IELTS từ 5.5 trở lên hoặc chứng chỉ tương đương em nhé."
+    },
+    {
+        "input": "Quy định này có thay đổi gì so với năm trước không ạ?",
+        "output": "Quy định này được áp dụng cho sinh viên chương trình tiên tiến tuyển sinh và đào tạo từ năm học 2021-2022. Để biết rõ hơn về những thay đổi so với năm trước, em có thể liên hệ với phòng Đào tạo của trường nhé."
+    },
+    {
+        "input": "Em nghe nói sinh viên chương trình tiên tiến phải học bằng tiếng Anh, điều này có đúng không ạ?",
+        "output": "Đúng rồi em. Sinh viên chương trình tiên tiến sẽ được học tập với giáo trình quốc tế và giảng dạy bằng tiếng Anh. Chính vì vậy, yêu cầu về trình độ tiếng Anh đầu vào cũng như trong quá trình học tập là rất quan trọng."
+    },
+    {
+        "input": "Em muốn biết là ngoài chứng chỉ tiếng Anh quốc tế, em có cần thêm điều kiện gì để vào chương trình tiên tiến không ạ?",
+        "output": "Ngoài chứng chỉ tiếng Anh quốc tế, em cần đáp ứng các điều kiện tuyển sinh chung của trường và của chương trình tiên tiến. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ với phòng Đào tạo để được tư vấn cụ thể hơn."
+    },
+    {
+        "input": "Em có chứng chỉ IELTS 4.5, vậy em được miễn những học phần tiếng Anh nào ạ?",
+        "output": "Việc miễn học phần nào sẽ phụ thuộc vào chương trình đào tạo cụ thể của em. Em cần liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế để được tư vấn chính xác về những học phần được miễn dựa trên chứng chỉ IELTS 4.5 của em nhé."
+    },
+    {
+        "input": "Nếu em đạt IELTS 5.5 ngay từ khi nhập học, em có được học vượt lớp luôn không ạ?",
+        "output": " Việc học vượt lớp không chỉ dựa trên chứng chỉ tiếng Anh, mà còn phụ thuộc vào nhiều yếu tố khác như kết quả học tập, năng lực của em. Em cần trao đổi với phòng Đào tạo để được hướng dẫn cụ thể về quy trình học vượt lớp."
+    },
+    {
+        "input": "Em muốn biết thêm về hình thức kiểm tra trình độ tiếng Anh (IELTS/TOEFL nội bộ) của trường?",
+        "output": " Em có thể liên hệ với phòng Khảo thí và Đảm bảo chất lượng hoặc Trung tâm Đào tạo quốc tế để biết thêm chi tiết về hình thức, thời gian, địa điểm tổ chức kiểm tra trình độ tiếng Anh nội bộ của trường nhé."
+    },
+    {
+        "input": "Chương trình tiên tiến có những ngành học nào ạ?",
+        "output": "Trường Đại học Thủy lợi có nhiều chương trình tiên tiến thuộc các ngành học khác nhau. Em có thể truy cập website của trường, xem mục tuyển sinh để biết thông tin chi tiết về các chương trình tiên tiến đang được đào tạo, cũng như yêu cầu tuyển sinh của từng chương trình."
+    },
+    {
+        "input": "Học phí của chương trình tiên tiến có cao hơn chương trình đại trà không ạ?",
+        "output": "Đúng rồi em, học phí của chương trình tiên tiến thường cao hơn so với chương trình đại trà.  Em có thể tham khảo mức học phí cụ thể của từng chương trình trên website của trường hoặc liên hệ với phòng Tài chính để biết thêm thông tin chi tiết nhé."
+    },
+    {
+        "input": "Ngoài việc học bằng tiếng Anh, chương trình tiên tiến còn có điểm gì khác biệt so với chương trình đại trà ạ?",
+        "output": "Chương trình tiên tiến thường có giáo trình quốc tế, phương pháp giảng dạy hiện đại, chú trọng thực hành và kỹ năng mềm, cơ hội giao lưu quốc tế, bằng cấp được công nhận rộng rãi.  Em có thể tìm hiểu thêm về những điểm khác biệt này trên website của trường hoặc trong các buổi giới thiệu về chương trình tiên tiến."
+    },
+    {
+        "input": "Em có thể chuyển từ chương trình đại trà sang chương trình tiên tiến được không ạ?",
+        "output": "Việc chuyển đổi chương trình học có thể được xem xét dựa trên kết quả học tập của em và quy định của nhà trường. Em nên liên hệ với phòng Đào tạo để tìm hiểu về quy định chuyển đổi và thủ tục cần thiết nhé."
+    },
+    {
+        "input": "Em muốn hỏi là ngoài IELTS và TOEFL, trường có chấp nhận chứng chỉ Duolingo English Test không ạ?",
+        "output": "Hiện tại, Quy định về trình độ tiếng Anh của trường mới chỉ đề cập đến IELTS, TOEFL, TOEIC và Cambridge. Việc chấp nhận chứng chỉ Duolingo English Test hay không cần được xem xét và quyết định bởi nhà trường. Em nên liên hệ với phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế để được tư vấn cụ thể hơn."
+    },
+    {
+        "input": "Em tốt nghiệp trường THPT chuyên, vậy em có được ưu tiên gì khi xét tuyển vào chương trình tiên tiến không ạ?",
+        "output": " Việc ưu tiên xét tuyển cho học sinh trường THPT chuyên sẽ phụ thuộc vào quy định của trường và chương trình tiên tiến cụ thể. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ với phòng Đào tạo để biết thêm thông tin nhé."
+    },
+    {
+        "input": "Sinh viên chương trình tiên tiến có được tham gia các hoạt động ngoại khóa, câu lạc bộ như sinh viên chương trình đại trà không ạ?",
+        "output": "Tất nhiên rồi em. Sinh viên chương trình tiên tiến vẫn có thể tham gia đầy đủ các hoạt động ngoại khóa, câu lạc bộ của trường như sinh viên chương trình đại trà.  Đây là cơ hội tốt để em trau dồi kỹ năng mềm, mở rộng mạng lưới quan hệ và hòa nhập với môi trường đại học."
+    },
+    {
+        "input": "Em nghe nói chương trình tiên tiến có nhiều sinh viên quốc tế, vậy em có cơ hội giao lưu với họ không ạ?",
+        "output": " Chính xác. Chương trình tiên tiến thường thu hút nhiều sinh viên quốc tế. Em sẽ có cơ hội học tập, giao lưu, trao đổi văn hóa với họ trong các lớp học, hoạt động ngoại khóa hay các sự kiện của trường. Đây là môi trường lý tưởng để nâng cao khả năng tiếng Anh và hiểu biết về văn hóa thế giới."
+    },
+    {
+        "input": "Sau khi tốt nghiệp chương trình tiên tiến, em có cơ hội làm việc ở nước ngoài không ạ?",
+        "output": "Bằng cấp của chương trình tiên tiến thường được công nhận rộng rãi, mở ra nhiều cơ hội việc làm trong và ngoài nước.  Việc có cơ hội làm việc ở nước ngoài hay không còn phụ thuộc vào năng lực, kinh nghiệm của em và nhu cầu của thị trường lao động. "
+    },
+    {
+        "input": "Em có thể tìm hiểu thêm thông tin về chương trình tiên tiến ở đâu ạ?",
+        "output": "Em có thể tìm hiểu thông tin về chương trình tiên tiến thông qua nhiều kênh: Website của trường Đại học Thủy lợi, fanpage chính thức của trường, các buổi giới thiệu chương trình, liên hệ trực tiếp với phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế."
+    },
+    {
+        "input": "Em muốn đăng ký thi chứng chỉ tiếng Anh quốc tế, anh/chị có thể cho em biết một số địa chỉ uy tín được không ạ?",
+        "output": "Em có thể tham khảo một số địa chỉ thi chứng chỉ tiếng Anh quốc tế uy tín như IDP, Hội đồng Anh (British Council) hoặc các trung tâm ngoại ngữ được cấp phép.  Em nên tìm hiểu kỹ thông tin về lịch thi, lệ phí, địa điểm thi trước khi đăng ký nhé."
+    },
+    {
+        "input": "Em có thể sử dụng kết quả thi tiếng Anh của kỳ thi tốt nghiệp THPT để xét tuyển vào chương trình tiên tiến được không ạ?",
+        "output": "Theo quy định hiện tại, việc xét tuyển vào chương trình tiên tiến của trường Đại học Thủy lợi dựa trên chứng chỉ tiếng Anh quốc tế. Kết quả thi tiếng Anh của kỳ thi tốt nghiệp THPT chỉ được sử dụng để xếp lớp tiếng Anh trong trường hợp em chưa có chứng chỉ quốc tế."
+    },
+    {
+        "input": "Em muốn tham gia chương trình trao đổi sinh viên quốc tế, vậy yêu cầu về trình độ tiếng Anh là gì ạ?",
+        "output": "Yêu cầu về trình độ tiếng Anh đối với chương trình trao đổi sinh viên quốc tế sẽ tùy thuộc vào quy định của trường đối tác và chương trình trao đổi cụ thể. Em cần tìm hiểu kỹ thông tin và chuẩn bị đầy đủ chứng chỉ tiếng Anh theo yêu cầu nhé."
+    },
+    {
+        "input": "Chương trình tiên tiến có những khó khăn gì ạ?",
+        "output": "Chương trình tiên tiến có thể có những khó khăn như: Áp lực học tập cao hơn, môi trường học tập quốc tế đòi hỏi sự thích nghi, chi phí học tập cao. Tuy nhiên, những khó khăn này cũng chính là động lực để em rèn luyện bản thân, phát triển toàn diện hơn."
+    },
+    {
+        "input": "Sau khi tốt nghiệp chương trình tiên tiến, em có được cấp bằng gì ạ?",
+        "output": "Sau khi tốt nghiệp chương trình tiên tiến, em sẽ được cấp bằng cử nhân chính quy của trường Đại học Thủy lợi. Bằng cấp này được công nhận rộng rãi trong và ngoài nước."
+    },
+    {
+        "input": "Em nên chuẩn bị gì trước khi nhập học chương trình tiên tiến ạ?",
+        "output": "Em nên chuẩn bị tâm lý sẵn sàng cho môi trường học tập mới, trau dồi kỹ năng tiếng Anh, tìm hiểu về chương trình học, các hoạt động ngoại khóa, cơ hội việc làm, cũng như chuẩn bị tài chính cho việc học tập."
+    },
+    {
+        "input": "Em muốn tìm kiếm học bổng cho chương trình tiên tiến, anh/chị có thể gợi ý cho em một số nguồn thông tin được không?",
+        "output": "Em có thể tìm kiếm thông tin học bổng từ các nguồn sau: Website của trường Đại học Thủy lợi, Trung tâm Hỗ trợ Sinh viên, các tổ chức phi chính phủ, các doanh nghiệp, đại sứ quán các nước. Em nên theo dõi thường xuyên để cập nhật thông tin học bổng mới nhất nhé."
+    },
+    {
+        "input": "Em có thể làm thêm để trang trải chi phí học tập trong quá trình học chương trình tiên tiến được không ạ?",
+        "output": "Em hoàn toàn có thể làm thêm để hỗ trợ chi phí học tập. Tuy nhiên, em cần cân nhắc giữa việc học và việc làm để đảm bảo sức khỏe và kết quả học tập.  Em có thể tìm kiếm các công việc bán thời gian, công việc online phù hợp với thời gian biểu của mình."
+    },
+    {
+        "input": "Em muốn rèn luyện kỹ năng tiếng Anh trước khi nhập học chương trình tiên tiến, anh/chị có thể gợi ý cho em một số phương pháp hiệu quả được không?",
+        "output": "Có rất nhiều phương pháp rèn luyện tiếng Anh hiệu quả như: Tham gia các khóa học tiếng Anh, luyện nghe nói với người bản ngữ, đọc sách báo tiếng Anh, xem phim tiếng Anh, sử dụng các ứng dụng học tiếng Anh. Điều quan trọng là em cần kiên trì luyện tập mỗi ngày."
+    },
+    {
+        "input": "Em có thể liên hệ với ai để được tư vấn thêm về chương trình tiên tiến ạ?",
+        "output": "Em có thể liên hệ với phòng Đào tạo, Trung tâm Đào tạo quốc tế, hoặc Ban Tuyển sinh của trường Đại học Thủy lợi để được tư vấn trực tiếp về chương trình tiên tiến."
+    },
+    {
+        "input": "Em muốn biết thêm về cơ hội nghề nghiệp sau khi tốt nghiệp chương trình tiên tiến, anh/chị có thể chia sẻ một số thông tin được không?",
+        "output": "Sinh viên tốt nghiệp chương trình tiên tiến có thể làm việc trong các lĩnh vực liên quan đến ngành học, tại các công ty, tập đoàn trong và ngoài nước, các tổ chức phi chính phủ, các cơ quan nhà nước. Em nên tham gia các ngày hội việc làm, hội thảo chuyên ngành để tìm hiểu thêm về cơ hội nghề nghiệp."
+    },
+    {
+        "input": "Ngoài những điều kiện đã nêu trong Quy định, còn có tiêu chí nào khác để xét tuyển vào chương trình tiên tiến không ạ?",
+        "output": "Tùy theo chương trình tiên tiến cụ thể, có thể có thêm một số tiêu chí xét tuyển bổ sung, ví dụ như: thư giới thiệu, bài luận cá nhân, phỏng vấn,... Em nên xem kỹ thông tin tuyển sinh của từng chương trình trên website hoặc liên hệ trực tiếp với phòng Đào tạo để nắm rõ hơn nhé."
+    },
+    {
+        "input": "Nếu em không đủ điều kiện tiếng Anh để vào chương trình tiên tiến ngay từ đầu, em có thể học dự bị tiếng Anh ở trường được không ạ?",
+        "output": "Trường Đại học Thủy lợi có tổ chức các khóa học dự bị tiếng Anh cho sinh viên chưa đủ điều kiện đầu vào. Em có thể liên hệ với Trung tâm Đào tạo quốc tế để tìm hiểu về chương trình học và lịch khai giảng."
+    },
+    {
+        "input": "Học bổng cho chương trình tiên tiến thường có giá trị bao nhiêu ạ?",
+        "output": "Giá trị học bổng cho chương trình tiên tiến rất đa dạng, tùy thuộc vào loại học bổng, nhà tài trợ và thành tích học tập của sinh viên. Có những học bổng hỗ trợ một phần học phí, có những học bổng toàn phần chi trả toàn bộ học phí và sinh hoạt phí."
+    },
+    {
+        "input": "Em muốn tìm hiểu về chương trình thực tập cho sinh viên chương trình tiên tiến, anh/chị có thể cung cấp thông tin được không?",
+        "output": "Trường Đại học Thủy lợi có hợp tác với nhiều doanh nghiệp, tổ chức để tạo điều kiện thực tập cho sinh viên, bao gồm cả sinh viên chương trình tiên tiến. Em có thể tìm hiểu thông tin về các chương trình thực tập thông qua phòng Quan hệ Doanh nghiệp, website của trường, hoặc liên hệ trực tiếp với các doanh nghiệp, tổ chức mà em quan tâm."
+    },
+    {
+        "input": "Em muốn biết thêm về môi trường học tập và sinh hoạt của sinh viên chương trình tiên tiến, anh/chị có thể chia sẻ một số thông tin được không?",
+        "output": "Sinh viên chương trình tiên tiến được học tập trong môi trường năng động, hiện đại, với cơ sở vật chất, trang thiết bị tiên tiến. Bên cạnh đó, trường cũng tổ chức nhiều hoạt động ngoại khóa, câu lạc bộ để sinh viên phát triển kỹ năng mềm và giao lưu, kết nối với bạn bè quốc tế."
+    },
+    {
+        "input": "Chương trình tiên tiến có những ưu điểm gì so với chương trình đại trà ạ?",
+        "output": "Một số ưu điểm của chương trình tiên tiến so với đại trà là: Giáo trình học tập cập nhật, hiện đại, tiếp cận tiêu chuẩn quốc tế; Môi trường học tập năng động, sáng tạo, thúc đẩy tư duy phản biện; Cơ hội tiếp xúc với giảng viên nước ngoài, chuyên gia đầu ngành; Nâng cao khả năng tiếng Anh và kỹ năng mềm; Mở rộng mạng lưới quan hệ quốc tế; Bằng cấp được công nhận rộng rãi, tăng khả năng cạnh tranh trên thị trường lao động."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các cựu sinh viên chương trình tiên tiến, anh/chị có thể chia sẻ một số thông tin được không?",
+        "output": "Trường Đại học Thủy lợi có mạng lưới cựu sinh viên rộng khắp, trong đó có nhiều cựu sinh viên chương trình tiên tiến đang làm việc tại các vị trí quan trọng trong và ngoài nước.  Em có thể tham gia các sự kiện kết nối cựu sinh viên, tìm kiếm thông tin trên website của trường, hoặc liên hệ với phòng Công tác Sinh viên để kết nối với các anh chị cựu sinh viên."
+    },
+    {
+        "input": "Em có thể thay đổi ngành học sau khi đã trúng tuyển chương trình tiên tiến được không ạ?",
+        "output": "Việc thay đổi ngành học sau khi trúng tuyển cần tuân theo quy định của trường. Em nên liên hệ với phòng Đào tạo để được tư vấn về thủ tục và điều kiện thay đổi ngành học."
+    },
+    {
+        "input": "Em muốn tham quan trường Đại học Thủy lợi, anh/chị có thể cho em biết thông tin về địa chỉ và thời gian tham quan được không ạ?",
+        "output": "Trường Đại học Thủy lợi có hai cơ sở: Cơ sở 1 tại 175 Tây Sơn, Đống Đa, Hà Nội và Cơ sở 2 tại  Liêm Tuyền, Phúc Thọ, Hà Nội. Em có thể tham quan trường vào các ngày trong tuần, giờ hành chính.  Em nên liên hệ trước với phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+    },
+    {
+        "input": "Em muốn biết thêm về các câu lạc bộ, đội nhóm dành cho sinh viên chương trình tiên tiến, anh/chị có thể giới thiệu cho em một số câu lạc bộ tiêu biểu được không ạ?",
+        "output": "Trường Đại học Thủy lợi có rất nhiều câu lạc bộ, đội nhóm năng động, sáng tạo. Một số câu lạc bộ tiêu biểu dành cho sinh viên chương trình tiên tiến như: Câu lạc bộ tiếng Anh, Câu lạc bộ Kỹ năng mềm, Câu lạc bộ khởi nghiệp, Đội tuyển Olympic các môn học,... Em có thể tìm hiểu thêm thông tin về các câu lạc bộ thông qua website của trường, fanpage của các câu lạc bộ, hoặc tham gia các ngày hội giới thiệu câu lạc bộ."
+    },
+    {
+        "input": "Em muốn biết thêm về cơ sở vật chất của trường dành cho chương trình tiên tiến, anh/chị có thể giới thiệu một chút được không?",
+        "output": "Sinh viên chương trình tiên tiến sẽ được học tập tại các giảng đường hiện đại, phòng máy tính cấu hình cao, thư viện với nguồn tài liệu phong phú, trung tâm thực hành với trang thiết bị tiên tiến.  Trường cũng có ký túc xá với đầy đủ tiện nghi cho sinh viên ở xa."
+    },
+    {
+        "input": "Em muốn theo học chương trình tiên tiến nhưng còn băn khoăn về khả năng tài chính, trường có chính sách hỗ trợ nào cho sinh viên không ạ?",
+        "output": "Trường Đại học Thủy lợi có nhiều chính sách hỗ trợ sinh viên, bao gồm: học bổng, vay vốn học tập, hỗ trợ việc làm thêm,... Em có thể tìm hiểu thông tin chi tiết tại phòng Công tác Sinh viên hoặc trên website của trường."
+    },
+    {
+        "input": "Em muốn biết về định hướng phát triển của chương trình tiên tiến trong thời gian tới, anh/chị có thể chia sẻ một số thông tin được không?",
+        "output": "Trường Đại học Thủy lợi đang nỗ lực nâng cao chất lượng đào tạo của chương trình tiên tiến, hướng tới mục tiêu quốc tế hóa giáo dục, tăng cường hợp tác quốc tế, mở rộng chương trình đào tạo, thu hút giảng viên nước ngoài, nâng cao năng lực tiếng Anh cho sinh viên, tạo điều kiện cho sinh viên tham gia các chương trình trao đổi sinh viên quốc tế."
+    },
+    {
+        "input": "Em có lời khuyên nào dành cho các bạn muốn theo học chương trình tiên tiến không ạ?",
+        "output": "Hãy tìm hiểu kỹ thông tin về chương trình, chuẩn bị tâm lý vững vàng, trau dồi kỹ năng tiếng Anh, chủ động tham gia các hoạt động học tập và ngoại khóa, không ngừng nỗ lực để đạt được mục tiêu của bản thân."
+    },
+    {
+        "input": "Em muốn gửi lời cảm ơn đến anh/chị vì đã cung cấp những thông tin hữu ích về chương trình tiên tiến.",
+        "output": "Không có gì đâu em. Chúc em lựa chọn được chương trình học phù hợp và gặt hái nhiều thành công trong tương lai!"
+    },
+    {
+        "input": "Em muốn biết chương trình tiên tiến có tổ chức các hoạt động giao lưu văn hóa quốc tế không ạ?",
+        "output": "Có chứ em! Chương trình tiên tiến thường xuyên tổ chức các hoạt động giao lưu văn hóa quốc tế như ngày hội văn hóa, tọa đàm, hội thảo với sự tham gia của sinh viên và giảng viên quốc tế. Đây là cơ hội tuyệt vời để em trải nghiệm sự đa dạng văn hóa và mở rộng kiến thức."
+    },
+    {
+        "input": "Em nghe nói trường có câu lạc bộ tiếng Anh rất sôi nổi, anh/chị có thể chia sẻ thêm thông tin được không?",
+        "output": "Câu lạc bộ tiếng Anh của trường Đại học Thủy lợi là một trong những câu lạc bộ hoạt động rất sôi nổi với nhiều hoạt động hấp dẫn như sinh hoạt câu lạc bộ, các buổi giao lưu, trao đổi với người bản ngữ, các cuộc thi hùng biện, thuyết trình,... Đây là môi trường lý tưởng để em nâng cao khả năng tiếng Anh và tự tin giao tiếp."
+    },
+    {
+        "input": "Em muốn biết thêm về chính sách hỗ trợ sinh viên khởi nghiệp của trường, anh/chị có thể chia sẻ thêm thông tin được không?",
+        "output": "Trường Đại học Thủy lợi có Trung tâm Hỗ trợ Sinh viên và Khởi nghiệp, nơi cung cấp các dịch vụ tư vấn, hỗ trợ sinh viên khởi nghiệp, kết nối với các doanh nghiệp, tổ chức, tìm kiếm nguồn vốn,... Em có thể liên hệ với Trung tâm để được tư vấn và hỗ trợ cụ thể."
+    },
+    {
+        "input": "Em muốn tìm hiểu về các chương trình học bổng trao đổi sinh viên quốc tế, anh/chị có thể cung cấp một số thông tin được không?",
+        "output": "Trường Đại học Thủy lợi có hợp tác với nhiều trường đại học trên thế giới để triển khai các chương trình trao đổi sinh viên quốc tế. Em có thể tìm hiểu thông tin về các chương trình trao đổi, điều kiện tham gia, học bổng,...  tại Trung tâm Hợp tác Quốc tế của trường hoặc trên website."
+    },
+    {
+        "input": "Ngoài những thông tin anh/chị đã chia sẻ, em còn muốn tìm hiểu thêm về chương trình tiên tiến, em có thể liên hệ với ai?",
+        "output": "Em có thể liên hệ trực tiếp với Ban Tuyển sinh, phòng Đào tạo, Trung tâm Đào tạo Quốc tế của trường Đại học Thủy lợi qua số điện thoại hoặc email được công bố trên website của trường.  Chúc em sớm trở thành sinh viên của trường!"
     }
-
-      
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-       
-      
-      
-      
-      
-      
-      
-      
-    
-      
-
-      
-      
-      
-      
-    
-      
   ]
