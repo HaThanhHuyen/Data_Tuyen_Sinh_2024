@@ -2076,5 +2076,1150 @@
       {
         "input": "Học phần đồ án môn học của ngành An ninh mạng có nội dung gì?", 
         "output": "Học phần đồ án môn học giúp sinh viên vận dụng kiến thức về Mạng truyền thông dữ liệu và An ninh mạng để đảm bảo hoạt động truyền tải của hệ thống mạng và bảo mật thông tin."
-      } 
+      },
+  {
+    "input": "Tôi muốn hỏi về chuẩn đầu ra của ngành Tài chính doanh nghiệp là gì?",
+    "output": "Chuẩn đầu ra của ngành Tài chính doanh nghiệp bao gồm kiến thức về tài chính - ngân hàng, kỹ năng thẩm định tài chính dự án, phân tích tình hình tài chính doanh nghiệp, lập kế hoạch tài chính, phân tích chứng khoán và định giá tài sản, cùng các kỹ năng mềm như giải quyết vấn đề, giao tiếp, làm việc nhóm và sử dụng tiếng Anh."
+  },
+  {
+    "input": "Chương trình đào tạo ngành Tài chính doanh nghiệp kéo dài bao lâu và bao gồm những gì?",
+    "output": "Chương trình đào tạo ngành Tài chính doanh nghiệp kéo dài 4 năm với 130 tín chỉ, bao gồm các khối kiến thức giáo dục đại cương, cơ sở ngành, kiến thức ngành và kiến thức chuyên ngành về tài chính doanh nghiệp."
+  },
+  {
+    "input": "Sau khi tốt nghiệp ngành Tài chính doanh nghiệp, tôi có thể làm những công việc gì?",
+    "output": "Bạn có thể làm chuyên viên tài chính ở các cơ quan nhà nước, tổ chức tài chính, doanh nghiệp, hoặc làm nghiên cứu viên, giảng viên về tài chính."
+  },
+  {
+    "input": "Tôi muốn biết thêm về chương trình đào tạo ngành Thương mại điện tử, bạn có thể cung cấp thông tin không?",
+    "output": "Chương trình đào tạo ngành Thương mại điện tử tập trung vào các kiến thức về kinh doanh, công nghệ thông tin, marketing số, quản trị website, logistics điện tử, pháp luật thương mại điện tử và các xu hướng công nghệ mới."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có những môn học tự chọn nào?",
+    "output": "Bạn có thể chọn các môn học như Quản trị nguồn nhân lực, Quản trị tài chính doanh nghiệp, Kỹ năng đàm phán, Khởi nghiệp, Hành vi người tiêu dùng trực tuyến, Những xu hướng công nghệ mới trong thương mại điện tử, Quản trị rủi ro, Quản lý chất lượng và Quản trị chuỗi cung ứng."
+  },
+  {
+    "input": "tôi quan tâm đến ngành Quản trị dịch vụ du lịch và lữ hành, bạn có thể cho tôi biết chuẩn đầu ra của ngành này là gì không?",
+    "output": "Chào bạn, chuẩn đầu ra của ngành bao gồm kiến thức về kinh tế du lịch, quản trị dịch vụ lưu trú, quản trị kinh doanh du lịch và lữ hành, marketing du lịch, thiết kế và điều hành tour, hướng dẫn du lịch, cùng các kỹ năng mềm và năng lực ngoại ngữ."
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, chương trình đào tạo có những điểm gì nổi bật?",
+    "output": "Chương trình đào tạo ngành Kinh tế xây dựng trang bị kiến thức về kinh tế xây dựng, quản lý dự án, định giá, marketing xây dựng, vật liệu xây dựng, kết cấu công trình, thi công và thiết kế, cùng các kiến thức tự chọn như quy hoạch đô thị, định giá bất động sản và quản lý tài chính trong xây dựng." 
+  },
+  {
+    "input": "Ngành Kinh tế số học những gì?",
+    "output": "Ngành Kinh tế số trang bị kiến thức về kinh tế học số, tư duy thiết kế và đổi mới, cơ sở hạ tầng số, công nghệ web, hệ thống thông tin quản lý, phân tích dữ liệu, lập trình và cơ sở dữ liệu." 
+  },
+  {
+    "input": "Tôi muốn theo học ngành Kế toán, trường có những môn học tự chọn nào?",
+    "output": "Bạn có thể chọn các môn học như Kế toán doanh nghiệp thương mại và dịch vụ, Kế toán hành chính sự nghiệp, Kế toán xuất nhập khẩu, Hợp nhất báo cáo tài chính, Tín dụng và thanh toán, Kiểm toán nội bộ, Thị trường chứng khoán, Định mức - Đơn giá - Dự toán, Khởi nghiệp và Kế toán doanh nghiệp xây dựng."
+  },
+  {
+    "input": "Tôi muốn hỏi về chương trình đào tạo của ngành Quản trị kinh doanh?", 
+    "output": "Chương trình đào tạo ngành Quản trị kinh doanh cung cấp kiến thức nền tảng về quản lý, marketing, tài chính, nguồn nhân lực, logistics và chuỗi cung ứng, cùng các kiến thức chuyên sâu về quản trị marketing hoặc quản trị kinh doanh quốc tế."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng học những gì?",
+    "output": "Ngành Logistics và quản lý chuỗi cung ứng trang bị kiến thức về kinh tế, quản trị logistics, quản trị chuỗi cung ứng, kinh doanh dịch vụ logistics, quản trị cảng biển, định mức kinh tế - kỹ thuật, nghiệp vụ hải quan, giao dịch và đàm phán, pháp luật, hàng hóa và thương hiệu, nghiệp vụ vận tải và giao nhận, chiến lược kinh doanh và quản trị vận tải đa phương thức."
+  },
+  
+  {
+    "input": "Ngành Kinh tế có những chuyên ngành nào?",
+    "output": "Ngành Kinh tế có 4 chuyên ngành: Kinh tế tài nguyên thiên nhiên, Kinh tế phát triển, Kinh tế quốc tế và Kinh tế đầu tư."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về ma trận quan hệ giữa chuẩn đầu ra và chương trình đào tạo của ngành Quản trị kinh doanh.",
+    "output": "Ma trận này thể hiện mối liên hệ giữa 17 chuẩn đầu ra của chương trình với các học phần cụ thể, đảm bảo sinh viên đạt được đầy đủ kiến thức, kỹ năng và phẩm chất cần thiết sau khi tốt nghiệp."
+  },
+  {
+    "input": "Học phần 'Kinh tế lượng' trong ngành Thương mại điện tử có nội dung gì?",
+    "output": "Học phần này cung cấp kiến thức và kỹ năng cơ bản về kinh tế lượng, bao gồm mô hình hồi quy, ước lượng và kiểm định giả thiết, các khuyết tật đa cộng tuyến, tự tương quan, phương sai sai số thay đổi." 
+  }, 
+  {
+    "input": "Tôi muốn biết học phần 'Kỹ năng mềm và tinh thần khởi nghiệp' được tổ chức ở học kỳ nào?",
+    "output": "Học phần 'Kỹ năng mềm và tinh thần khởi nghiệp' được tổ chức ở học kỳ 2." 
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có bao nhiêu tín chỉ tự chọn?",
+    "output": "Ngành Quản trị dịch vụ du lịch và lữ hành có 12 tín chỉ tự chọn, cho phép sinh viên lựa chọn các học phần phù hợp với định hướng nghề nghiệp của mình."
+  },
+  {
+    "input": "Tôi có thể học vượt trong chương trình đào tạo ngành Logistics và quản lý chuỗi cung ứng không?",
+    "output": "Có, bạn có thể học vượt nếu đáp ứng đủ điều kiện theo quy chế đào tạo của trường và được khoa chấp nhận."
+  }, 
+  {
+    "input": "Điểm trung bình tích lũy như thế nào thì được xếp loại giỏi trong ngành Kinh tế?",
+    "output": "Điểm trung bình tích lũy từ 3,20 đến 3,59 sẽ được xếp loại giỏi trong ngành Kinh tế."
+  },
+  {
+    "input": "Ngành Tài chính doanh nghiệp có những môn học nào liên quan đến chứng khoán?", 
+    "output": "Ngành Tài chính doanh nghiệp có các môn học liên quan đến chứng khoán như 'Thị trường chứng khoán', 'Phân tích và đầu tư chứng khoán', và 'Chứng khoán phái sinh'."
+  },
+  {
+    "input": "Tôi muốn khởi nghiệp trong lĩnh vực thương mại điện tử, ngành học nào phù hợp?",
+    "output": "Ngành Thương mại điện tử sẽ trang bị cho bạn kiến thức và kỹ năng cần thiết về kinh doanh trực tuyến, marketing số, quản lý website, thanh toán điện tử, và các khía cạnh khác của thương mại điện tử."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có yêu cầu về ngoại ngữ không?",
+    "output": "Có, sinh viên tốt nghiệp ngành Quản trị dịch vụ du lịch và lữ hành cần đạt trình độ tiếng Anh bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam hoặc tương đương." 
+  },
+  {
+    "input": "Cho tôi biết một số học phần tự chọn của ngành Kinh tế xây dựng?",
+    "output": "Một số học phần tự chọn của ngành Kinh tế xây dựng bao gồm 'Quy hoạch đô thị', 'Định giá bất động sản', 'Lập và thẩm định dự án đầu tư', 'Kinh tế thủy lợi', 'Pháp luật kinh tế', 'Quản lý tài chính trong xây dựng', 'Tự động hóa trong quản lý xây dựng', 'Hợp đồng và đấu thầu xây dựng', 'Phát triển kỹ năng quản trị', 'Giám sát chất lượng công trình' và 'Kiểm toán căn bản'."
+  }, 
+  {
+    "input": "Sinh viên ngành Kinh tế số có cơ hội thực tập ở đâu?",
+    "output": "Sinh viên ngành Kinh tế số có cơ hội thực tập tại các doanh nghiệp công nghệ, công ty thương mại điện tử, các tổ chức tài chính ứng dụng công nghệ, và các cơ quan quản lý nhà nước liên quan đến kinh tế số."
+  }, 
+  {
+    "input": "Ngành Kế toán có cấp bằng loại xuất sắc không? Điều kiện là gì?", 
+    "output": "Có, ngành Kế toán có cấp bằng loại xuất sắc cho sinh viên có điểm trung bình tích lũy từ 3,60 đến 4,00 và đáp ứng các yêu cầu khác về học phần và kỷ luật." 
+  },
+  {
+    "input": "Tôi muốn học chuyên ngành Quản trị Marketing, chương trình có những môn học gì?",
+    "output": "Chuyên ngành Quản trị Marketing bao gồm các môn học như 'Hành vi người tiêu dùng', 'Quản trị bán hàng', 'Quản trị kênh phân phối', 'Marketing số', 'Quản trị truyền thông marketing' và 'Quản trị thương hiệu'."
+  },
+  {
+    "input": "Thời gian tối đa để hoàn thành chương trình đào tạo ngành Logistics và quản lý chuỗi cung ứng là bao lâu?",
+    "output": "Thời gian tối đa để hoàn thành chương trình đào tạo ngành Logistics và quản lý chuỗi cung ứng là 8 năm."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có yêu cầu về kỹ năng lập trình không?",
+    "output": "Có, sinh viên ngành Thương mại điện tử cần trang bị kiến thức lập trình cơ bản qua học phần 'Nhập môn lập trình' và có thể lựa chọn các học phần nâng cao như 'Công nghệ Web'."
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực khách sạn, ngành Quản trị dịch vụ du lịch và lữ hành có phù hợp không?",
+    "output": "Hoàn toàn phù hợp. Ngành này cung cấp kiến thức về quản trị dịch vụ lưu trú, công nghệ phục vụ khách sạn - nhà hàng, cùng các kỹ năng mềm cần thiết cho công việc trong ngành khách sạn."
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, điểm chuẩn trúng tuyển thường như thế nào?",
+    "output": "Điểm chuẩn trúng tuyển ngành Kinh tế xây dựng thay đổi theo từng năm và phương thức xét tuyển. Bạn có thể tham khảo điểm chuẩn các năm trước trên website tuyển sinh của trường."
+  },
+  {
+    "input": "Ngành Kinh tế số có liên quan gì đến trí tuệ nhân tạo (AI) không?",
+    "output": "Chắc chắn rồi. Ngành Kinh tế số trang bị kiến thức về AI và ứng dụng của AI trong kinh doanh, cũng như các môn học liên quan đến phân tích dữ liệu lớn, học máy, v.v."
+  },
+  {
+    "input": "Tôi muốn trở thành kiểm toán viên, ngành Kế toán có đào tạo về kiểm toán không?", 
+    "output": "Chương trình đào tạo ngành Kế toán có các học phần chuyên sâu về kiểm toán như 'Kiểm toán căn bản', 'Kiểm toán nội bộ' và 'Kiểm toán báo cáo tài chính'."
+  },
+  {
+    "input": "Ngành Quản trị kinh doanh có những cơ hội nghề nghiệp nào sau khi tốt nghiệp?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong nhiều lĩnh vực như quản lý, marketing, tài chính, nhân sự, kinh doanh quốc tế, khởi nghiệp, v.v., tại các doanh nghiệp, tổ chức trong và ngoài nước."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có học phần nào về thương mại điện tử không?",
+    "output": "Có, chương trình có học phần 'Logistics điện tử' cung cấp kiến thức về ứng dụng công nghệ thông tin trong quản lý chuỗi cung ứng và thương mại điện tử."
+  },
+  {
+    "input": "Ngành Kinh tế có tổ chức các hoạt động ngoại khóa cho sinh viên không?",
+    "output": "Có, khoa Kinh tế và Quản lý thường xuyên tổ chức các hoạt động ngoại khóa, hội thảo, cuộc thi học thuật và các chương trình giao lưu với doanh nghiệp để giúp sinh viên phát triển kỹ năng mềm và mở rộng mạng lưới quan hệ." 
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phần 'Định giá tài sản' trong ngành Tài chính doanh nghiệp.",
+    "output": "Học phần này cung cấp kiến thức về tổng quan thẩm định giá, các phương pháp định giá tài sản như máy móc thiết bị, bất động sản và doanh nghiệp." 
+  },
+  {
+    "input": "Ngành Thương mại điện tử có môn học nào về marketing không?",
+    "output": "Có, chương trình có các học phần về marketing như 'Marketing căn bản', 'Marketing số' và 'Thực hành quảng cáo điện tử'." 
+  },
+  {
+    "input": "Tôi muốn du học sau khi tốt nghiệp ngành Quản trị dịch vụ du lịch và lữ hành, ngành này có phù hợp không?",
+    "output": "Chương trình đào tạo với chuẩn đầu ra về kiến thức và kỹ năng, đặc biệt là năng lực ngoại ngữ, sẽ là nền tảng vững chắc cho bạn khi du học ngành quản trị du lịch và khách sạn." 
+  },
+  {
+    "input": "Ngành Kinh tế xây dựng có đào tạo về phần mềm chuyên ngành không?", 
+    "output": "Chương trình đào tạo có học phần 'Tin học ứng dụng trong Kinh tế xây dựng' giúp sinh viên làm quen với các phần mềm chuyên ngành phục vụ công việc."
+  },
+  {
+    "input": "Sinh viên ngành Kinh tế số có thể tham gia các dự án nghiên cứu khoa học không?",
+    "output": "Có, sinh viên ngành Kinh tế số có cơ hội tham gia các dự án nghiên cứu khoa học liên quan đến kinh tế số, công nghệ thông tin, chuyển đổi số, v.v."
+  }, 
+  {
+    "input": "Ngành Kế toán có những học phần nào liên quan đến thuế?",
+    "output": "Ngành Kế toán có học phần 'Kế toán thuế' trang bị kiến thức về luật thuế và các nghiệp vụ kế toán thuế."
+  },
+  {
+    "input": "Tôi muốn học chuyên ngành Quản trị kinh doanh quốc tế, chương trình có những điểm gì đặc biệt?",
+    "output": "Chuyên ngành Quản trị kinh doanh quốc tế cung cấp kiến thức chuyên sâu về môi trường kinh doanh quốc tế, các lĩnh vực chính trong kinh doanh quốc tế, quản trị các nguồn lực phục vụ kinh doanh quốc tế, tổ chức và vận hành các hoạt động kinh doanh quốc tế." 
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có yêu cầu về chứng chỉ tin học không?",
+    "output": "Có, sinh viên tốt nghiệp cần đạt chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản theo quy định của trường."
+  },
+  {
+    "input": "Ngành Tài chính doanh nghiệp có học phần nào giúp sinh viên rèn luyện kỹ năng phân tích tài chính không?",
+    "output": "Có, ngành Tài chính doanh nghiệp có học phần 'Phân tích tài chính' giúp sinh viên hiểu rõ về báo cáo tài chính và phát triển khả năng đánh giá tình hình tài chính của doanh nghiệp."
+  },
+  {
+    "input": "Tôi muốn học ngành Thương mại điện tử, trường có hỗ trợ sinh viên thực tập và tìm kiếm việc làm không?",
+    "output": "Trường Đại học Thuỷ lợi có phòng Quan hệ doanh nghiệp hỗ trợ sinh viên tìm kiếm cơ hội thực tập và việc làm sau khi tốt nghiệp."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có đào tạo về hướng dẫn viên du lịch không?",
+    "output": "Chương trình có học phần 'Hướng dẫn du lịch' trang bị kiến thức và kỹ năng cần thiết cho công việc hướng dẫn viên du lịch."
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, chương trình có học phần nào về quản lý dự án không?",
+    "output": "Có, chương trình có học phần 'Quản lý dự án' và 'Quản lý dự án xây dựng' cung cấp kiến thức về quy trình, phương pháp và kỹ thuật quản lý dự án trong lĩnh vực xây dựng."
+  },
+  {
+    "input": "Ngành Kinh tế số có những cơ hội nghề nghiệp nào trong tương lai?",
+    "output": "Với sự phát triển mạnh mẽ của kinh tế số, sinh viên tốt nghiệp có nhiều cơ hội nghề nghiệp trong các lĩnh vực như thương mại điện tử, công nghệ tài chính, phân tích dữ liệu, marketing số, quản lý hệ thống thông tin, v.v."
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực kế toán doanh nghiệp, ngành Kế toán có phù hợp không?",
+    "output": "Ngành Kế toán trang bị cho bạn kiến thức và kỹ năng cần thiết về kế toán tài chính, kế toán quản trị, hệ thống thông tin kế toán, phân tích báo cáo tài chính, v.v., giúp bạn đáp ứng yêu cầu công việc trong lĩnh vực kế toán doanh nghiệp." 
+  },
+  {
+    "input": "Ngành Quản trị kinh doanh có những môn học nào giúp sinh viên phát triển kỹ năng lãnh đạo?",
+    "output": "Chương trình có các học phần như 'Quản trị học', 'Phát triển kỹ năng quản trị', 'Quản trị doanh nghiệp' và 'Văn hóa doanh nghiệp' giúp sinh viên rèn luyện kỹ năng lãnh đạo, quản lý và làm việc nhóm." 
+  },
+  {
+    "input": "Tôi quan tâm đến lĩnh vực vận tải và giao nhận, ngành Logistics và quản lý chuỗi cung ứng có phù hợp không?",
+    "output": "Ngành Logistics và quản lý chuỗi cung ứng có các học phần chuyên sâu về vận tải, giao nhận, kho bãi, hải quan và các hoạt động khác trong chuỗi cung ứng, giúp bạn trang bị kiến thức và kỹ năng cần thiết cho công việc trong lĩnh vực này."
+  },
+  {
+    "input": "Ngành Kinh tế có những học bổng nào dành cho sinh viên?",
+    "output": "Sinh viên ngành Kinh tế có cơ hội nhận các loại học bổng như học bổng khuyến khích học tập, học bổng tài năng, học bổng doanh nghiệp, và các học bổng khác theo quy định của trường."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phần 'Thẩm định tài chính dự án' trong ngành Tài chính doanh nghiệp?",
+    "output": "Học phần này trang bị kiến thức về cách thức thiết lập và thẩm định dự án đầu tư, phân tích dòng tiền, đánh giá rủi ro và lựa chọn phương án đầu tư."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có đào tạo về thiết kế website không?",
+    "output": "Có, chương trình có học phần 'Đồ họa Web' và 'Quản trị website thương mại điện tử' cung cấp kiến thức về thiết kế, quản lý và vận hành website."
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực lữ hành, ngành Quản trị dịch vụ du lịch và lữ hành có phù hợp không?",
+    "output": "Ngành này cung cấp kiến thức về quản trị kinh doanh du lịch và lữ hành, thiết kế và điều hành tour, kinh doanh du lịch trực tuyến, v.v., giúp bạn đáp ứng yêu cầu công việc trong lĩnh vực lữ hành."
+  },
+  {
+    "input": "Ngành Kinh tế xây dựng có yêu cầu về kỹ năng sử dụng phần mềm thiết kế không?",
+    "output": "Chương trình có học phần 'Đồ họa kỹ thuật' giúp sinh viên làm quen với các phần mềm thiết kế cơ bản, tuy nhiên, để làm việc chuyên sâu trong lĩnh vực thiết kế, bạn cần trau dồi thêm kỹ năng sử dụng các phần mềm chuyên dụng khác." 
+  },
+  {
+    "input": "Sinh viên ngành Kinh tế số có cơ hội đi thực tập ở nước ngoài không?",
+    "output": "Trường Đại học Thuỷ lợi có các chương trình hợp tác với nhiều trường đại học và doanh nghiệp nước ngoài, tạo điều kiện cho sinh viên có cơ hội thực tập và trao đổi học thuật ở nước ngoài."
+  },
+  {
+    "input": "Ngành Kế toán có những học phần nào liên quan đến chứng khoán?",
+    "output": "Ngành Kế toán có học phần tự chọn 'Thị trường chứng khoán' cung cấp kiến thức về hoạt động và cơ chế của thị trường chứng khoán."
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực xuất nhập khẩu, chuyên ngành Quản trị kinh doanh quốc tế có phù hợp không?",
+    "output": "Chuyên ngành Quản trị kinh doanh quốc tế có các học phần như 'Giao dịch thương mại quốc tế', 'Nghiệp vụ kinh doanh xuất nhập khẩu', 'Thanh toán quốc tế' và 'Logistics quốc tế', trang bị kiến thức và kỹ năng cần thiết cho công việc trong lĩnh vực xuất nhập khẩu."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có tổ chức các chuyến tham quan thực tế cho sinh viên không?", 
+    "output": "Có, chương trình thường xuyên tổ chức các chuyến tham quan thực tế tại các cảng biển, kho bãi, trung tâm logistics và các doanh nghiệp trong ngành để sinh viên tiếp cận thực tế và mở rộng kiến thức." 
+  },
+  {
+    "input": "Ngành Tài chính doanh nghiệp có đào tạo về khởi nghiệp không?",
+    "output": "Chương trình đào tạo có học phần 'Khởi nghiệp' trang bị kiến thức và kỹ năng cần thiết để sinh viên có thể khởi nghiệp trong lĩnh vực tài chính và kinh doanh."
+  },
+  {
+    "input": "Tôi muốn học ngành Thương mại điện tử, ngành này có yêu cầu về năng lực ngoại ngữ không?",
+    "output": "Có, sinh viên tốt nghiệp ngành Thương mại điện tử cần đạt trình độ tiếng Anh bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam hoặc tương đương, và chương trình có học phần 'Tiếng Anh thương mại điện tử' để hỗ trợ sinh viên đạt chuẩn đầu ra."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có học phần nào về văn hóa không?",
+    "output": "Chương trình có học phần 'Đại cương văn hóa Việt Nam' và 'Văn hóa doanh nghiệp du lịch' giúp sinh viên hiểu biết về văn hóa Việt Nam và ứng dụng văn hóa trong kinh doanh du lịch." 
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, cơ hội việc làm sau khi tốt nghiệp như thế nào?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc tại các công ty xây dựng, công ty tư vấn thiết kế, cơ quan quản lý nhà nước về xây dựng, ngân hàng, công ty bất động sản, hoặc khởi nghiệp trong lĩnh vực xây dựng."
+  },
+  {
+    "input": "Ngành Kinh tế số có những môn học nào liên quan đến marketing?",
+    "output": "Chương trình có học phần 'Marketing số' trang bị kiến thức về các kênh và chiến lược marketing trong môi trường số."
+  },
+  {
+    "input": "Tôi muốn làm việc trong ngành kiểm toán, trường có liên kết với các công ty kiểm toán lớn không?",
+    "output": "Trường Đại học Thuỷ lợi có mối quan hệ hợp tác với nhiều công ty kiểm toán lớn, tạo điều kiện cho sinh viên thực tập và tìm kiếm cơ hội việc làm sau khi tốt nghiệp." 
+  }, 
+  {
+    "input": "Ngành Quản trị kinh doanh có đào tạo về quản trị rủi ro không?",
+    "output": "Có, chương trình có học phần 'Quản trị rủi ro' cung cấp kiến thức về nhận diện, đánh giá, kiểm soát và tài trợ rủi ro trong kinh doanh."
+  },
+  {
+    "input": "Tôi quan tâm đến lĩnh vực xuất nhập khẩu, ngành Logistics và quản lý chuỗi cung ứng có học phần nào về nghiệp vụ hải quan không?", 
+    "output": "Chương trình có học phần 'Nghiệp vụ Hải quan' trang bị kiến thức về các thủ tục, quy định và nghiệp vụ liên quan đến hoạt động xuất nhập khẩu."
+  },
+  {
+    "input": "Ngành Kinh tế có chương trình đào tạo bằng tiếng Anh không?",
+    "output": "Hiện tại, chương trình đào tạo ngành Kinh tế chủ yếu bằng tiếng Việt. Tuy nhiên, một số học phần chuyên ngành có thể được giảng dạy bằng tiếng Anh hoặc có tài liệu tham khảo bằng tiếng Anh." 
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phần 'Phân tích và đầu tư chứng khoán' trong ngành Tài chính doanh nghiệp.",
+    "output": "Học phần này trang bị kiến thức về phân tích, định giá và đầu tư vào các loại chứng khoán như cổ phiếu, trái phiếu và các tài sản phái sinh."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có môn học nào về quản lý chuỗi cung ứng không?", 
+    "output": "Có, chương trình có học phần 'Quản trị chuỗi cung ứng' cung cấp kiến thức về thiết kế, hoạch định, vận hành và kiểm soát chuỗi cung ứng."
+  }, 
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực du lịch sinh thái, ngành Quản trị dịch vụ du lịch và lữ hành có phù hợp không?", 
+    "output": "Ngành này có học phần tự chọn 'Du lịch sinh thái' cung cấp kiến thức về quản lý và phát triển du lịch sinh thái bền vững."
+  },
+  {
+    "input": "Ngành Kinh tế xây dựng có đào tạo về định giá bất động sản không?",
+    "output": "Chương trình có học phần tự chọn 'Định giá bất động sản' giúp sinh viên nắm vững kiến thức và kỹ năng định giá bất động sản."
+  },
+  {
+    "input": "Sinh viên ngành Kinh tế số có cơ hội tham gia các cuộc thi về khởi nghiệp không?", 
+    "output": "Khoa Kinh tế và Quản lý thường xuyên tổ chức các cuộc thi khởi nghiệp, tạo sân chơi cho sinh viên các ngành, trong đó có Kinh tế số, thể hiện ý tưởng và phát triển dự án khởi nghiệp."
+  },
+  {
+    "input": "Ngành Kế toán có học phần nào về kế toán quốc tế không?",
+    "output": "Có, chương trình có học phần 'Kế toán quốc tế' cung cấp kiến thức về các chuẩn mực kế toán quốc tế và các vấn đề liên quan đến kế toán trong môi trường kinh doanh quốc tế." 
+  },
+  {
+    "input": "Tôi muốn học chuyên ngành Quản trị Marketing, chương trình có đào tạo về nghiên cứu thị trường không?",
+    "output": "Chương trình có học phần 'Nguyên lý thống kê' và 'Marketing căn bản' cung cấp kiến thức cơ bản về nghiên cứu thị trường, và học phần 'Hành vi người tiêu dùng' đi sâu vào phân tích hành vi và nhu cầu của khách hàng."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có những học phần nào liên quan đến pháp luật?",
+    "output": "Chương trình có các học phần liên quan đến pháp luật như 'Pháp luật kinh tế', 'Pháp luật về Logistics' và 'Nghiệp vụ Hải quan'." 
+  },
+  {
+    "input": "Tôi muốn học ngành Tài chính doanh nghiệp, chương trình có đào tạo về quản trị dòng tiền không?",
+    "output": "Có, ngành Tài chính doanh nghiệp có học phần tự chọn 'Quản trị dòng tiền' giúp sinh viên hiểu rõ bản chất của dòng tiền, các phương pháp lập dự toán ngân sách, quản trị chi phí và phân tích rủi ro trong quản trị dòng tiền."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có môn học nào về an toàn thông tin không?",
+    "output": "Có, chương trình có học phần 'An toàn và bảo mật thông tin' trang bị kiến thức về các nguyên lý và kỹ thuật bảo mật thông tin trong môi trường mạng."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có yêu cầu về kỹ năng tin học không?",
+    "output": "Có, sinh viên tốt nghiệp cần đạt chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản theo quy định của trường."
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, chương trình có học phần nào về vật liệu xây dựng không?",
+    "output": "Có, chương trình có học phần 'Vật liệu xây dựng' cung cấp kiến thức về các loại vật liệu xây dựng, tính chất, ứng dụng và phương pháp sản xuất."
+  },
+  {
+    "input": "Ngành Kinh tế số có những môn học nào liên quan đến thương mại điện tử không?",
+    "output": "Chương trình có các học phần 'Thương mại điện tử căn bản', 'Tác nghiệp thương mại điện tử', 'Quản trị Website Thương mại điện tử' và 'Thương mại di động', cung cấp kiến thức toàn diện về thương mại điện tử."
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực kế toán công, ngành Kế toán có phù hợp không?",
+    "output": "Ngành Kế toán có học phần tự chọn 'Kế toán hành chính sự nghiệp' trang bị kiến thức về kế toán trong các cơ quan nhà nước và tổ chức phi lợi nhuận."
+  }, 
+  {
+    "input": "Ngành Quản trị kinh doanh có những môn học nào giúp sinh viên phát triển kỹ năng giao tiếp?",
+    "output": "Chương trình có các học phần như 'Kỹ năng mềm và tinh thần khởi nghiệp', 'Kỹ năng đàm phán' và 'Văn hóa doanh nghiệp' giúp sinh viên rèn luyện kỹ năng giao tiếp, thuyết trình và làm việc nhóm."
+  },
+  {
+    "input": "Tôi quan tâm đến lĩnh vực logistics quốc tế, ngành Logistics và quản lý chuỗi cung ứng có phù hợp không?", 
+    "output": "Chương trình có các học phần 'Logistics quốc tế' và 'Nghiệp vụ vận tải và giao nhận hàng hóa quốc tế' cung cấp kiến thức và kỹ năng về quản lý chuỗi cung ứng và logistics trong môi trường quốc tế."
+  },
+  {
+    "input": "Ngành Kinh tế có chương trình trao đổi sinh viên với các trường đại học nước ngoài không?",
+    "output": "Có, trường Đại học Thuỷ lợi có các chương trình trao đổi sinh viên với nhiều trường đại học đối tác trên thế giới, tạo điều kiện cho sinh viên học tập và trải nghiệm môi trường quốc tế."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phần 'Mua bán và sáp nhập' trong ngành Tài chính doanh nghiệp.",
+    "output": "Học phần này cung cấp kiến thức về các chiến lược, quy trình và vấn đề liên quan đến hoạt động mua bán và sáp nhập (M&A) doanh nghiệp."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có môn học nào về quản trị dự án không?",
+    "output": "Có, chương trình có học phần 'Chiến lược, kế hoạch và dự án thương mại điện tử' cung cấp kiến thức về quản lý dự án trong lĩnh vực thương mại điện tử." 
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực quản trị khách sạn, ngành Quản trị dịch vụ du lịch và lữ hành có những học phần nào hỗ trợ?",
+    "output": "Chương trình có các học phần như 'Quản trị dịch vụ lưu trú', 'Công nghệ phục vụ khách sạn - nhà hàng' và 'Văn hóa doanh nghiệp du lịch' cung cấp kiến thức và kỹ năng cần thiết cho công việc quản lý khách sạn."
+  }, 
+  {
+    "input": "Ngành Kinh tế xây dựng có yêu cầu về kỹ năng vẽ kỹ thuật không?", 
+    "output": "Chương trình có học phần 'Đồ họa kỹ thuật' giúp sinh viên nắm vững kỹ năng vẽ kỹ thuật cơ bản."
+  },
+  {
+    "input": "Sinh viên ngành Kinh tế số có cơ hội tham gia các chương trình thực tập tại các công ty công nghệ lớn không?",
+    "output": "Trường Đại học Thuỷ lợi có mối quan hệ hợp tác với nhiều công ty công nghệ lớn, tạo điều kiện cho sinh viên ngành Kinh tế số thực tập và học hỏi kinh nghiệm thực tế." 
+  },
+  {
+    "input": "Ngành Kế toán có những học phần nào liên quan đến kế toán doanh nghiệp xây dựng?", 
+    "output": "Ngành Kế toán có học phần tự chọn 'Kế toán doanh nghiệp xây dựng' cung cấp kiến thức chuyên sâu về kế toán trong lĩnh vực xây dựng."
+  },
+  {
+    "input": "Tôi muốn học chuyên ngành Quản trị kinh doanh quốc tế, chương trình có đào tạo về thanh toán quốc tế không?",
+    "output": "Chương trình có học phần 'Thanh toán quốc tế' trang bị kiến thức về các phương thức, phương tiện và quy trình thanh toán trong thương mại quốc tế."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có những học phần nào liên quan đến quản trị rủi ro không?",
+    "output": "Chương trình có học phần tự chọn 'Quản trị rủi ro' và học phần 'An toàn và vệ sinh lao động trong logistics' cung cấp kiến thức về quản lý rủi ro trong chuỗi cung ứng và logistics."
+  },
+  {
+    "input": "Tôi muốn học ngành Tài chính doanh nghiệp, trường có những giảng viên nào có uy tín trong ngành?",
+    "output": "Khoa Kinh tế và Quản lý có đội ngũ giảng viên có trình độ chuyên môn cao, giàu kinh nghiệm thực tiễn và uy tín trong ngành tài chính." 
+  },
+  {
+    "input": "Ngành Thương mại điện tử có những môn học nào về quản lý bán hàng?",
+    "output": "Chương trình có học phần 'Tác nghiệp thương mại điện tử' bao gồm các nội dung liên quan đến quản lý bán hàng trực tuyến, xử lý đơn hàng, chăm sóc khách hàng, v.v."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành có tổ chức các hoạt động thực hành, trải nghiệm cho sinh viên không?",
+    "output": "Có, chương trình thường xuyên tổ chức các hoạt động thực hành như khảo sát, thiết kế tour du lịch, tham gia các sự kiện du lịch, v.v., giúp sinh viên áp dụng kiến thức vào thực tế."
+  },
+  {
+    "input": "Tôi muốn học ngành Kinh tế xây dựng, chương trình có học phần nào về kinh tế thủy lợi không?",
+    "output": "Có, chương trình có học phần tự chọn 'Kinh tế thủy lợi' cung cấp kiến thức về quản lý và sử dụng tài nguyên nước trong xây dựng."
+  },
+  {
+    "input": "Ngành Kinh tế số có những môn học nào liên quan đến phân tích dữ liệu?",
+    "output": "Chương trình có các học phần 'Nhập môn Phân tích dữ liệu', 'Cơ sở dữ liệu' và 'Quản lý dữ liệu lớn' trang bị kiến thức và kỹ năng về phân tích dữ liệu." 
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực kế toán ngân hàng, ngành Kế toán có phù hợp không?",
+    "output": "Ngành Kế toán cung cấp kiến thức và kỹ năng kế toán tổng quát, bạn có thể ứng tuyển vào các vị trí kế toán tại ngân hàng và trau dồi thêm kiến thức chuyên sâu về kế toán ngân hàng sau khi đi làm."
+  }, 
+  {
+    "input": "Ngành Quản trị kinh doanh có đào tạo về quản trị chiến lược không?", 
+    "output": "Có, chương trình có học phần 'Quản trị chiến lược' cung cấp kiến thức về hoạch định, triển khai, đánh giá và kiểm soát chiến lược kinh doanh."
+  },
+  {
+    "input": "Tôi quan tâm đến lĩnh vực logistics xanh, ngành Logistics và quản lý chuỗi cung ứng có học phần nào liên quan không?",
+    "output": "Chương trình có học phần tự chọn 'Phát triển hệ thống logistics' đề cập đến các vấn đề về logistics xanh và phát triển bền vững."
+  },
+  {
+    "input": "Ngành Kinh tế có tổ chức các chương trình tư vấn hướng nghiệp cho sinh viên không?",
+    "output": "Có, khoa Kinh tế và Quản lý thường xuyên tổ chức các chương trình tư vấn hướng nghiệp, giúp sinh viên định hướng nghề nghiệp và phát triển kỹ năng cần thiết."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về học phần 'Quản trị rủi ro tài chính' trong ngành Tài chính doanh nghiệp?", 
+    "output": "Học phần này cung cấp kiến thức về các loại hình rủi ro tài chính, các chỉ số đo lường và phương pháp quản trị rủi ro phổ biến, cũng như các thông lệ quốc tế trong quản trị rủi ro tài chính."
+  },
+  {
+    "input": "Ngành Thương mại điện tử có môn học nào về thanh toán điện tử không?",
+    "output": "Có, chương trình có học phần 'Thanh toán điện tử' trang bị kiến thức về các phương thức, công nghệ và quy trình thanh toán điện tử." 
+  },
+  {
+    "input": "Tôi muốn làm việc trong lĩnh vực tổ chức sự kiện, ngành Quản trị dịch vụ du lịch và lữ hành có phù hợp không?",
+    "output": "Ngành này có học phần tự chọn 'Quản trị sự kiện' cung cấp kiến thức và kỹ năng về tổ chức và quản lý các sự kiện."
+  },
+  {
+    "input": "Ngành Kinh tế xây dựng có yêu cầu về kỹ năng sử dụng các phần mềm thống kê không?", 
+    "output": "Chương trình có học phần 'Nguyên lý thống kê' và 'Kinh tế lượng' giúp sinh viên làm quen với các phần mềm thống kê cơ bản." 
+  },
+  {
+    "input": "Sinh viên ngành Kinh tế số có cơ hội nhận học bổng du học không?",
+    "output": "Sinh viên ngành Kinh tế số có thể ứng tuyển các học bổng du học của chính phủ, các tổ chức quốc tế và các trường đại học đối tác."
+  },
+  {
+    "input": "Ngành Kế toán có những học phần nào liên quan đến kiểm toán báo cáo tài chính?",
+    "output": "Ngành Kế toán có học phần 'Kiểm toán báo cáo tài chính' cung cấp kiến thức và kỹ năng về quy trình, phương pháp và kỹ thuật kiểm toán báo cáo tài chính."
+  },
+  {
+    "input": "Tôi muốn học chuyên ngành Quản trị Marketing, chương trình có đào tạo về marketing du lịch không?",
+    "output": "Chương trình không có học phần riêng về marketing du lịch, tuy nhiên, kiến thức và kỹ năng về marketing được trang bị trong chương trình có thể áp dụng cho nhiều lĩnh vực, bao gồm cả du lịch."
+  },
+  {
+    "input": "Ngành Logistics và quản lý chuỗi cung ứng có những học phần nào liên quan đến quản trị kho bãi?",
+    "output": "Chương trình có học phần 'Kinh doanh kho và bao bì trong logistics' cung cấp kiến thức về quản lý kho bãi, bao bì và các hoạt động liên quan."
+  },
+  {
+    "input": "Tôi muốn biết về chương trình đào tạo của ngành Kỹ thuật Robot và Điều khiển Thông minh?",
+    "output": "Chương trình đào tạo Kỹ thuật Robot và Điều khiển Thông minh của trường Đại học Thủy Lợi cung cấp cho sinh viên kiến thức nền tảng và chuyên sâu về kỹ thuật Robot, kỹ thuật điều khiển, trí tuệ nhân tạo và các lĩnh vực liên quan."
+  },
+  {
+    "input": "Ngành Kỹ thuật Robot và Điều khiển Thông minh học những môn gì?",
+    "output": "Sinh viên sẽ được học các môn học như: Nhập môn về kỹ thuật Robot và Điều khiển Thông minh, Lý thuyết mạch, Kỹ thuật điện tử, Cơ học cơ sở, Nguyên lý máy, Kỹ thuật đo lường, Kỹ thuật điều khiển tự động, Điện tử công suất, Vi xử lý, Cấu trúc dữ liệu và giải thuật, Cảm biến dùng cho Robot, Thiết kế Robot bằng phần mềm, Lập trình nâng cao, Trí tuệ nhân tạo, Hệ thống nhúng, Động lực học hệ nhiều vật, Tương tác người máy, Điều khiển chuyển động Robot, Học máy, Xử lý ảnh, Hệ thống Robot thông minh, Lập trình PLC, Robot di động, Robot công nghiệp, Giải thuật cho Robot thông minh, v.v..."
+  },
+  {
+    "input": "Vậy sau khi tốt nghiệp, em có thể làm những công việc gì?",
+    "output": "Tốt nghiệp ngành Kỹ thuật Robot và Điều khiển Thông minh, bạn có thể đảm nhiệm các vị trí như: Kỹ sư thiết kế, lập trình và vận hành Robot, Chuyên viên tư vấn và kinh doanh trong lĩnh vực Robot và tự động hóa, Nghiên cứu viên hoặc giảng viên về Robot và trí tuệ nhân tạo."
+  },
+  {
+    "input": "Yêu cầu về trình độ tiếng Anh và tin học khi tốt nghiệp như thế nào?",
+    "output": "Sinh viên cần đạt trình độ tiếng Anh tương đương bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam và sử dụng thành thạo các phần mềm chuyên dụng về kỹ thuật Robot và điều khiển thông minh, tin học văn phòng, cùng các ngôn ngữ lập trình."
+  },
+  {
+    "input": "Chương trình đào tạo Kỹ thuật Điều khiển và Tự động hóa khác gì so với ngành Kỹ thuật Robot?",
+    "output": "Kỹ thuật Điều khiển và Tự động hóa tập trung vào việc thiết kế, vận hành và bảo trì các hệ thống tự động trong công nghiệp, trong khi Kỹ thuật Robot tập trung vào việc nghiên cứu, thiết kế và ứng dụng Robot."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về ngành Kỹ thuật Điện - Điện tử, bạn có thể giới thiệu sơ qua được không?",
+    "output": "Ngành Kỹ thuật Điện - Điện tử đào tạo kỹ sư có khả năng thiết kế, lắp đặt, vận hành và bảo trì các hệ thống điện và điện tử trong các lĩnh vực công nghiệp và dân dụng."
+  },
+  {
+    "input": "Sinh viên ngành Kỹ thuật Điện - Điện tử có cơ hội thực tập ở đâu?",
+    "output": "Sinh viên có cơ hội thực tập tại các nhà máy, xí nghiệp, công ty điện lực và các doanh nghiệp hoạt động trong lĩnh vực điện - điện tử."
+  },
+  {
+    "input": "Ngành Điện tử - Viễn thông có những chuyên ngành nào?",
+    "output": "Ngành Điện tử - Viễn thông có các chuyên ngành như: Mạng viễn thông, Mạng máy tính, Mạng truyền thông di động, Truyền thông quang, Hệ thống viễn thông, Hệ thống nhúng và IoT, v.v..."
+  },
+  {
+    "input": "Vị trí việc làm sau khi tốt nghiệp ngành Điện tử - Viễn thông là gì?",
+    "output": "Bạn có thể làm việc tại các công ty viễn thông, công ty công nghệ thông tin, các doanh nghiệp sản xuất và kinh doanh thiết bị điện tử - viễn thông, hoặc các cơ quan nghiên cứu và phát triển."
+  }, 
+  {
+    "input": "Tôi muốn biết về các học phần tự chọn của ngành Kỹ thuật Điều khiển và Tự động hóa?",
+    "output": "Ngành Kỹ thuật Điều khiển và Tự động hóa cung cấp nhiều học phần tự chọn để sinh viên lựa chọn theo sở thích và định hướng nghề nghiệp, ví dụ như: Sử dụng máy tính trong phân tích hệ thống điều khiển, Khởi nghiệp, Vi điều khiển trong đo lường điều khiển và tự động hóa, Hệ thống truyền thông công nghiệp, Hệ thống tuyến tính II, Hệ thống truyền động thủy lực và khí nén, Ngôn ngữ lập trình, Vật liệu điện tử và quang tử nano, v.v..." 
+  },
+  {
+    "input": "Ngành Kỹ thuật Điều khiển và Tự động hóa có những chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật Điều khiển và Tự động hóa có 2 chuyên ngành chính là: Kỹ thuật Điều khiển và Tự động hóa, Hệ thống nhúng và IoT."
+  },
+  {
+    "input": "Tôi muốn biết thêm về chuyên ngành Hệ thống nhúng và IoT?",
+    "output": "Chuyên ngành Hệ thống nhúng và IoT trang bị cho sinh viên kiến thức và kỹ năng để thiết kế, phát triển và ứng dụng các hệ thống nhúng và IoT trong các lĩnh vực như: tự động hóa công nghiệp, điện tử tiêu dùng, y tế, giao thông, v.v..."
+  },
+  {
+    "input": "Điều kiện để tốt nghiệp các ngành thuộc khoa Điện - Điện tử là gì?",
+    "output": "Để tốt nghiệp, sinh viên cần hoàn thành đủ số tín chỉ theo chương trình đào tạo, đạt các yêu cầu về điểm số và hoàn thành đồ án tốt nghiệp."
+  },
+  {
+    "input": "Trường có hỗ trợ sinh viên thực tập và tìm kiếm việc làm sau khi tốt nghiệp không?",
+    "output": "Trường Đại học Thủy Lợi có các chương trình hỗ trợ sinh viên thực tập tại các doanh nghiệp và tìm kiếm việc làm sau khi tốt nghiệp."
+  },
+  {
+    "input": "Điểm chuẩn trúng tuyển của các ngành khoa Điện - Điện tử có cao không?",
+    "output": "Điểm chuẩn trúng tuyển của các ngành khoa Điện - Điện tử thay đổi theo từng năm và phụ thuộc vào nhiều yếu tố như: số lượng thí sinh đăng ký, mức độ cạnh tranh, v.v..."
+  },
+  {
+    "input": "Em muốn theo học ngành Kỹ thuật Robot và Điều khiển Thông minh, em cần có những tố chất gì?",
+    "output": "Để theo học ngành này, bạn nên có niềm đam mê với công nghệ, khả năng tư duy logic, sáng tạo và khả năng học tập tốt các môn khoa học tự nhiên." 
+  },
+  {
+    "input": "Các ngành thuộc khoa Điện - Điện tử có cơ hội du học không?",
+    "output": "Trường Đại học Thủy Lợi có các chương trình hợp tác với các trường đại học nước ngoài, tạo điều kiện cho sinh viên có cơ hội du học." 
+  },
+  {
+    "input": "Em muốn biết thêm về các hoạt động ngoại khóa của khoa?",
+    "output": "Khoa Điện - Điện tử thường xuyên tổ chức các hoạt động ngoại khóa như: hội thảo chuyên đề, cuộc thi học thuật, các câu lạc bộ khoa học kỹ thuật, v.v..." 
+  },
+  {
+    "input": "Em thấy chương trình đào tạo ngành Kỹ thuật Điều khiển và Tự động hóa có vẻ thú vị, em có thể hỏi thêm về chương trình này không?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Điều khiển và Tự động hóa trang bị cho sinh viên kiến thức và kỹ năng để thiết kế, xây dựng và vận hành các hệ thống điều khiển tự động trong nhiều lĩnh vực khác nhau, bao gồm sản xuất, năng lượng và robot."
+  },
+  {
+    "input": "Ngành Kỹ thuật Điều khiển và Tự động hóa có những chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật Điều khiển và Tự động hóa tại trường Đại học Thủy lợi đào tạo 2 chuyên ngành chính:\n\n*   **Chuyên ngành Kỹ thuật Điều khiển và Tự động hóa:** Tập trung vào thiết kế và vận hành các hệ thống điều khiển tự động trong các ngành công nghiệp như sản xuất, năng lượng và robot.\n*   **Chuyên ngành Hệ thống nhúng và IoT:** Tập trung vào thiết kế và phát triển các hệ thống nhúng và các ứng dụng Internet of Things (IoT)."
+  },
+  {
+    "input": "Vậy sau khi học ngành này thì em có thể làm những công việc gì?",
+    "output": "Tùy thuộc vào chuyên ngành mà bạn lựa chọn, bạn có thể đảm nhiệm các vị trí như:\n\n*   **Kỹ sư điều khiển:** Thiết kế, phát triển và vận hành các hệ thống điều khiển tự động.\n*   **Kỹ sư tự động hóa:** Tự động hóa các quy trình sản xuất và công nghiệp.\n*   **Kỹ sư hệ thống nhúng:** Thiết kế và phát triển các hệ thống nhúng cho các thiết bị điện tử.\n*   **Kỹ sư IoT:** Phát triển các ứng dụng IoT cho các lĩnh vực khác nhau."
+  },
+  {
+    "input": "Thời gian đào tạo của ngành là bao lâu?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Điều khiển và Tự động hóa kéo dài 4,5 năm, được chia thành 9 học kỳ."
+  },
+  {
+    "input": "Em muốn biết thêm về chuẩn đầu ra của chương trình đào tạo?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa sẽ đạt được các chuẩn đầu ra sau:\n\n*   Kiến thức về giáo dục đại cương, kiến thức cơ sở ngành và kiến thức chuyên ngành về kỹ thuật điều khiển và tự động hóa.\n*   Kỹ năng nghề nghiệp, bao gồm khả năng giải quyết vấn đề, thiết kế, lập trình và vận hành các hệ thống điều khiển tự động.\n*   Kỹ năng tin học và ngoại ngữ (tiếng Anh) thành thạo.\n*   Kỹ năng mềm, bao gồm kỹ năng giao tiếp, làm việc nhóm và tư duy sáng tạo.\n*   Năng lực tự chủ và trách nhiệm, phẩm chất đạo đức tốt."
+  },
+  {
+    "input": "Cho em hỏi về ngành kỹ thuật điện tử viễn thông?",
+    "output": "Ngành Kỹ thuật Điện tử Viễn thông là một ngành học nghiên cứu về các nguyên lý, thiết kế, phát triển và ứng dụng của các hệ thống điện tử và viễn thông."
+  },
+  {
+    "input": "Ngành kỹ thuật điện tử viễn thông có những chuyên ngành nào?",
+    "output": "Ngành Kỹ thuật Điện tử Viễn thông tại trường Đại học Thủy lợi có 3 chuyên ngành chính là:\n\n*   **Chuyên ngành Hệ thống điện:** Tập trung vào thiết kế, vận hành và quản lý các hệ thống điện, bao gồm lưới điện, trạm biến áp và nhà máy điện.\n*   **Chuyên ngành Điện công nghiệp và dân dụng:** Tập trung vào thiết kế, lắp đặt và bảo trì các hệ thống điện trong các tòa nhà, nhà máy và các công trình công nghiệp.\n*   **Chuyên ngành Năng lượng tái tạo:** Tập trung vào khai thác và ứng dụng các nguồn năng lượng tái tạo, chẳng hạn như năng lượng mặt trời, năng lượng gió và năng lượng sinh khối."
+  },
+  {
+    "input": "Sau khi tốt nghiệp ngành Kỹ thuật Điện tử Viễn thông thì em có thể làm những công việc gì?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật Điện tử Viễn thông có thể đảm nhiệm nhiều vị trí công việc khác nhau, tùy thuộc vào chuyên ngành mà bạn lựa chọn. Một số vị trí phổ biến bao gồm:\n\n*   **Kỹ sư điện tử:** Thiết kế, phát triển và thử nghiệm các mạch điện tử và thiết bị điện tử.\n*   **Kỹ sư viễn thông:** Thiết kế, triển khai và quản lý các hệ thống viễn thông, chẳng hạn như mạng di động, mạng cáp quang và mạng vệ tinh.\n*   **Kỹ sư hệ thống nhúng:** Thiết kế và phát triển các hệ thống nhúng cho các thiết bị điện tử.\n*   **Kỹ sư IoT:** Phát triển các ứng dụng IoT cho các lĩnh vực khác nhau.\n*   **Kỹ sư năng lượng tái tạo:** Thiết kế, lắp đặt và vận hành các hệ thống năng lượng tái tạo."
+  },
+  {
+    "input": "Thời gian đào tạo của ngành Kỹ thuật Điện tử Viễn thông kéo dài bao lâu?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Điện tử Viễn thông kéo dài 4,5 năm, được chia thành 9 học kỳ."
+  },
+  {
+    "input": "Em muốn biết thêm về chuẩn đầu ra của chương trình đào tạo?",
+    "output": "Sinh viên tốt nghiệp ngành Kỹ thuật Điện tử Viễn thông sẽ đạt được các chuẩn đầu ra sau:\n\n*   Kiến thức về giáo dục đại cương, kiến thức cơ sở ngành và kiến thức chuyên ngành về kỹ thuật điện tử viễn thông.\n*   Kỹ năng nghề nghiệp, bao gồm khả năng thiết kế, phát triển, vận hành và bảo trì các hệ thống điện tử và viễn thông.\n*   Kỹ năng tin học và ngoại ngữ (tiếng Anh) thành thạo.\n*   Kỹ năng mềm, bao gồm kỹ năng giao tiếp, làm việc nhóm và tư duy sáng tạo.\n*   Năng lực tự chủ và trách nhiệm, phẩm chất đạo đức tốt."
+  },
+  {
+    "input": "Em thấy chương trình đào tạo ngành Kỹ thuật Điện tử Viễn thông có môn học về hệ thống nhúng và IoT, em có thể hỏi thêm về chuyên ngành này không?",
+    "output": "Chuyên ngành Hệ thống nhúng và IoT thuộc ngành Kỹ thuật Điều khiển và Tự động hóa, tập trung vào thiết kế và phát triển các hệ thống nhúng và các ứng dụng Internet of Things (IoT). Chương trình đào tạo cung cấp cho sinh viên kiến thức và kỹ năng để xây dựng các thiết bị thông minh và kết nối chúng với internet."
+  },
+  {
+    "input": "Vậy sau khi học chuyên ngành Kỹ thuật Điện tử Viễn thông thì em có thể làm những công việc gì?",
+    "output": "Sinh viên tốt nghiệp chuyên ngành Hệ thống nhúng và IoT có thể đảm nhiệm các vị trí như:\n\n*   **Kỹ sư hệ thống nhúng:** Thiết kế và phát triển các hệ thống nhúng cho các thiết bị điện tử, chẳng hạn như điện thoại thông minh, máy tính bảng và thiết bị đeo thông minh.\n*   **Kỹ sư IoT:** Phát triển các ứng dụng IoT cho các lĩnh vực khác nhau, chẳng hạn như nhà thông minh, thành phố thông minh và công nghiệp 4.0.\n*   **Nhà nghiên cứu:** Thực hiện nghiên cứu về hệ thống nhúng và IoT." 
+  },
+  {
+    "input": "Ngành Kỹ thuật Điện tử Viễn thông có yêu cầu đầu vào như thế nào?",
+    "output": "Chuyên ngành Hệ thống nhúng và IoT thuộc ngành Kỹ thuật Điều khiển và Tự động hóa, do đó yêu cầu đầu vào tương tự như ngành Kỹ thuật Điều khiển và Tự động hóa. Sinh viên cần tốt nghiệp THPT hoặc tương đương và đạt ngưỡng đảm bảo chất lượng đầu vào của Bộ Giáo dục và Đào tạo và của trường Đại học Thủy lợi." 
+  },
+  {
+    "input": "Thời gian đào tạo của chuyên ngành là bao lâu?",
+    "output": "Chuyên ngành Hệ thống nhúng và IoT thuộc ngành Kỹ thuật Điều khiển và Tự động hóa, do đó thời gian đào tạo cũng kéo dài 4,5 năm, được chia thành 9 học kỳ." 
+  },
+  {
+    "input": "Em muốn biết thêm về chuẩn đầu ra của chương trình đào tạo?",
+    "output": "Sinh viên tốt nghiệp chuyên ngành Hệ thống nhúng và IoT sẽ đạt được các chuẩn đầu ra sau:\n\n*   Kiến thức về giáo dục đại cương, kiến thức cơ sở ngành, kiến thức chuyên ngành về kỹ thuật điều khiển và tự động hóa, và kiến thức chuyên sâu về hệ thống nhúng và IoT.\n*   Kỹ năng nghề nghiệp, bao gồm khả năng thiết kế, phát triển, lập trình và triển khai các hệ thống nhúng và các ứng dụng IoT.\n*   Kỹ năng tin học và ngoại ngữ (tiếng Anh) thành thạo.\n*   Kỹ năng mềm, bao gồm kỹ năng giao tiếp, làm việc nhóm và tư duy sáng tạo.\n*   Năng lực tự chủ và trách nhiệm, phẩm chất đạo đức tốt." 
+  },
+  {
+    "input": "Chào bạn, cho mình hỏi ngành Kỹ thuật Hóa học đào tạo những gì vậy?",
+    "output": "Ngành Kỹ thuật Hóa học trang bị cho bạn kiến thức về các quá trình hóa học, thiết kế và vận hành nhà máy hóa chất, cũng như kỹ năng phân tích và giải quyết vấn đề trong lĩnh vực hóa học."
+  },
+  {
+    "input": "Ngành này ra trường thì làm công việc gì?",
+    "output": "Sinh viên tốt nghiệp có thể làm việc trong các nhà máy hóa chất, công ty xử lý môi trường, phòng thí nghiệm, hoặc các viện nghiên cứu." 
+  },
+  {
+    "input": "Vậy còn ngành Công nghệ Kỹ thuật Hóa học thì sao?",
+    "output": "Ngành Công nghệ Kỹ thuật Hóa học tập trung vào ứng dụng công nghệ vào sản xuất hóa chất, tự động hóa và tối ưu hóa quy trình."
+  },
+  {
+    "input": "Nghe nói ngành này học khó lắm, có đúng không?",
+    "output": "Ngành này yêu cầu kiến thức nền tảng về Toán, Lý, Hóa vững chắc. Tuy nhiên, với sự chăm chỉ và phương pháp học tập phù hợp, bạn hoàn toàn có thể thành công."
+  },
+  {
+    "input": "Mình muốn học ngành liên quan đến môi trường thì nên chọn ngành nào?",
+    "output": "Bạn có thể chọn ngành Kỹ thuật Môi trường, ngành này đào tạo về quản lý, xử lý ô nhiễm và bảo vệ môi trường."
+  }, 
+  {
+    "input": "Khoa có chương trình đào tạo bằng tiếng Anh không?",
+    "output": "Có, khoa Hóa và Môi trường có chương trình đào tạo bằng tiếng Anh cho một số ngành học."
+  },
+  {
+    "input": "Học phí của các ngành là bao nhiêu?",
+    "output": "Học phí có thể thay đổi theo từng năm, bạn nên tham khảo thông tin mới nhất trên website của trường."
+  },
+  {
+    "input": "Em muốn xét tuyển thẳng vào khoa, cần những điều kiện gì?",
+    "output": "Điều kiện xét tuyển thẳng phụ thuộc vào từng ngành và từng năm, bạn nên xem kỹ thông báo tuyển sinh trên website của trường."
+  },
+  {
+    "input": "Khoa có các hoạt động ngoại khóa gì cho sinh viên?",
+    "output": "Khoa thường xuyên tổ chức các hoạt động ngoại khóa như hội thảo, tham quan doanh nghiệp, câu lạc bộ học thuật, giúp sinh viên phát triển kỹ năng mềm và mở rộng kiến thức." 
+  },
+  {
+    "input": "Cơ hội việc làm của sinh viên tốt nghiệp ngành Hóa và Môi trường như thế nào?",
+    "output": "Cơ hội việc làm khá rộng mở, đặc biệt trong bối cảnh các vấn đề môi trường ngày càng được quan tâm. Sinh viên có thể làm việc trong các công ty sản xuất, xử lý nước thải, quản lý chất thải, tư vấn môi trường..."
+  },
+  {
+    "input": "Ngành nào của khoa có điểm chuẩn đầu vào cao nhất?",
+    "output": "Điểm chuẩn thay đổi theo từng năm, tuy nhiên các ngành Kỹ thuật Hóa học và Công nghệ Kỹ thuật Hóa học thường có điểm chuẩn cao hơn các ngành khác."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về chương trình đào tạo, em có thể liên hệ ai?",
+    "output": "Em có thể liên hệ phòng đào tạo của khoa Hóa và Môi trường hoặc tham khảo thông tin chi tiết trên website của trường." 
+  },
+  {
+    "input": "Khoa có chương trình học bổng nào cho sinh viên không?",
+    "output": "Có, khoa có nhiều chương trình học bổng dành cho sinh viên có thành tích học tập tốt, sinh viên có hoàn cảnh khó khăn..."
+  },
+  {
+    "input": "Sinh viên khoa Hóa và Môi trường có cơ hội thực tập ở đâu?",
+    "output": "Khoa có liên kết với nhiều doanh nghiệp, nhà máy, viện nghiên cứu để tạo điều kiện cho sinh viên thực tập và trải nghiệm thực tế."
+  },
+  {
+    "input": "Môi trường học tập ở khoa như thế nào?",
+    "output": "Môi trường học tập năng động, hiện đại với các phòng thí nghiệm, thư viện và trang thiết bị đầy đủ." 
+  },
+  {
+    "input": "Ngoài kiến thức chuyên ngành, em còn được học những gì?",
+    "output": "Chương trình đào tạo còn trang bị cho em các kỹ năng mềm như làm việc nhóm, kỹ năng giao tiếp, kỹ năng quản lý thời gian..."
+  },
+  {
+    "input": "Em muốn theo học chương trình thạc sĩ, khoa có những ngành nào?",
+    "output": "Khoa có các chương trình đào tạo thạc sĩ về Kỹ thuật Hóa học, Công nghệ Kỹ thuật Hóa học, Kỹ thuật Môi trường..."
+  },
+  {
+    "input": "Khoa có ký túc xá cho sinh viên không?",
+    "output": "Trường có ký túc xá dành cho sinh viên, em có thể đăng ký ở trong trường hoặc tìm kiếm các khu nhà trọ gần trường."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, em cần chuẩn bị những gì?",
+    "output": "Em nên chuẩn bị tâm lý sẵn sàng cho môi trường học tập mới, tham gia các buổi định hướng của trường và tìm hiểu trước chương trình học."
+  },
+  {
+    "input": "Nếu em gặp khó khăn trong học tập, em có thể nhờ ai giúp đỡ?",
+    "output": "Em có thể hỏi thầy cô, bạn bè hoặc liên hệ với phòng công tác sinh viên để được hỗ trợ."
+  },
+  {
+    "input": "Khoa có tổ chức các hoạt động giao lưu với sinh viên quốc tế không?",
+    "output": "Có, khoa thường xuyên tổ chức các hoạt động giao lưu văn hóa, học thuật với sinh viên quốc tế."
+  },
+  {
+    "input": "Tỷ lệ sinh viên ra trường có việc làm của khoa là bao nhiêu?",
+    "output": "Tỷ lệ sinh viên có việc làm sau khi tốt nghiệp khá cao, đặc biệt là đối với các ngành hot như Kỹ thuật Hóa học, Kỹ thuật Môi trường." 
+  },
+  {
+    "input": "Em có thể tham gia nghiên cứu khoa học khi còn là sinh viên không?",
+    "output": "Có, khoa khuyến khích sinh viên tham gia nghiên cứu khoa học thông qua các đề tài, dự án cùng với giảng viên." 
+  },
+  {
+    "input": "Ngành học nào của khoa phù hợp với nữ?",
+    "output": "Tất cả các ngành học của khoa đều phù hợp với cả nam và nữ, quan trọng là sở thích và năng lực của mỗi người." 
+  }, 
+  {
+    "input": "Em muốn học thêm ngoại ngữ, trường có hỗ trợ không?",
+    "output": "Trường có trung tâm ngoại ngữ cung cấp các khóa học tiếng Anh, tiếng Nhật, tiếng Trung..."
+  },
+  {
+    "input": "Em có thể tham gia các câu lạc bộ, đội nhóm nào ở khoa?",
+    "output": "Khoa có nhiều câu lạc bộ, đội nhóm như CLB Hóa học, CLB Môi trường, đội tình nguyện... Em có thể lựa chọn tham gia theo sở thích."
+  },
+  {
+    "input": "Chương trình đào tạo của khoa có gì đặc biệt?",
+    "output": "Chương trình đào tạo được cập nhật thường xuyên, gắn liền với thực tiễn và nhu cầu xã hội, chú trọng phát triển kỹ năng toàn diện cho sinh viên." 
+  },
+  {
+    "input": "Sau khi tốt nghiệp, em có thể học lên cao hơn ở đâu?",
+    "output": "Em có thể học lên thạc sĩ, tiến sĩ tại trường Đại học Thủy lợi hoặc các trường đại học khác trong và ngoài nước."
+  },
+  {
+    "input": "Khoa có hợp tác với các trường đại học nước ngoài không?",
+    "output": "Có, khoa có hợp tác với nhiều trường đại học uy tín trên thế giới trong lĩnh vực trao đổi sinh viên, nghiên cứu khoa học..."
+  },
+  {
+    "input": "Cơ sở vật chất của khoa như thế nào?",
+    "output": "Khoa có hệ thống phòng thí nghiệm hiện đại, thư viện với nhiều đầu sách, tài liệu tham khảo phong phú." 
+  },
+  {
+    "input": "Em có thể tham quan khoa trước khi đăng ký xét tuyển không?",
+    "output": "Em có thể liên hệ với khoa để đăng ký tham quan và tìm hiểu thêm thông tin." 
+  },
+  {
+    "input": "Ngoài học phí, em còn phải đóng những khoản phí nào khác?",
+    "output": "Em có thể phải đóng thêm một số khoản phí như phí ký túc xá, bảo hiểm y tế..." 
+  },
+  {
+    "input": "Em có thể chuyển ngành sau khi đã nhập học không?",
+    "output": "Việc chuyển ngành phụ thuộc vào quy định của trường và khoa, em cần tìm hiểu kỹ thông tin trước khi quyết định."
+  },
+  {
+    "input": "Thầy cô ở khoa có giỏi không?",
+    "output": "Giảng viên của khoa là những người có trình độ chuyên môn cao, giàu kinh nghiệm giảng dạy và nghiên cứu khoa học."
+  },
+  {
+    "input": "Em có thể học thêm các kỹ năng mềm ở đâu?",
+    "output": "Trường có trung tâm hỗ trợ sinh viên tổ chức các khóa học kỹ năng mềm, kỹ năng sống... giúp em phát triển toàn diện."
+  },
+  {
+    "input": "Khoa có các chương trình hỗ trợ sinh viên khởi nghiệp không?",
+    "output": "Có, khoa và trường có các chương trình hỗ trợ sinh viên khởi nghiệp như tư vấn, đào tạo, kết nối với các nhà đầu tư..."
+  },
+  {
+    "input": "Sinh viên khoa Hóa và Môi trường có năng động không?",
+    "output": "Sinh viên khoa rất năng động, tham gia nhiều hoạt động ngoại khóa, học thuật và tình nguyện."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về các cựu sinh viên của khoa, em có thể tìm ở đâu?",
+    "output": "Em có thể tìm kiếm thông tin về cựu sinh viên trên website của khoa, fanpage hoặc các nhóm cựu sinh viên trên mạng xã hội." 
+  },
+  {
+    "input": "Học ở khoa Hóa và Môi trường có áp lực không?",
+    "output": "Việc học ở bất kỳ ngành nào cũng có những áp lực riêng, tuy nhiên với sự cố gắng và phương pháp học tập phù hợp, em sẽ vượt qua được." 
+  },
+  {
+    "input": "Em có thể vừa học vừa làm thêm không?",
+    "output": "Có, em có thể tìm kiếm các công việc làm thêm phù hợp với thời gian học tập để trang trải chi phí sinh hoạt và tích lũy kinh nghiệm."
+  },
+  {
+    "input": "Khoa có tổ chức các chuyến đi thực tế, tham quan doanh nghiệp không?",
+    "output": "Có, khoa thường xuyên tổ chức các chuyến đi thực tế, tham quan doanh nghiệp giúp sinh viên tiếp cận với môi trường làm việc thực tế."
+  },
+  {
+    "input": "Em nên chọn ngành học theo sở thích hay theo xu hướng nghề nghiệp?",
+    "output": "Lựa chọn ngành học là quyết định quan trọng, em nên cân nhắc cả sở thích và xu hướng nghề nghiệp để đưa ra lựa chọn phù hợp nhất."
+  },
+  {
+    "input": "Em có thể học chuyển tiếp từ cao đẳng lên đại học ở khoa không?",
+    "output": "Có, khoa có chương trình đào tạo liên thông từ cao đẳng lên đại học cho một số ngành." 
+  },
+  {
+    "input": "Em có thể tham gia các cuộc thi học thuật nào?",
+    "output": "Em có thể tham gia các cuộc thi học thuật do khoa, trường, bộ hoặc các tổ chức khác tổ chức."
+  },
+  {
+    "input": "Sinh viên tốt nghiệp khoa Hóa và Môi trường có thể đi du học không?",
+    "output": "Có, sinh viên tốt nghiệp có thể apply học bổng du học tại các trường đại học trên thế giới." 
+  },
+  {
+    "input": "Cho em hỏi ngành Kỹ thuật Hóa học có bao nhiêu tín chỉ?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Hóa học có tổng cộng 148 tín chỉ."
+  },
+  {
+    "input": "Môn học nào là môn học bắt buộc của ngành Kỹ thuật Môi trường?",
+    "output": "Một số môn học bắt buộc của ngành Kỹ thuật Môi trường bao gồm: Quản lý môi trường, Xử lý nước thải, Ô nhiễm và xử lý chất thải rắn..."
+  },
+  {
+    "input": "Em muốn học ngành Công nghệ Sinh học, ngành này thuộc khoa nào?",
+    "output": "Ngành Công nghệ Sinh học thuộc khoa Công nghệ Sinh học - Thực phẩm - Môi trường."
+  },
+  {
+    "input": "Em thấy có môn học tên là 'Phát triển Kỹ năng', môn này học về gì?",
+    "output": "Môn 'Phát triển Kỹ năng' trang bị cho em các kỹ năng mềm như làm việc nhóm, thuyết trình, quản lý thời gian..."
+  },
+  {
+    "input": "Thời gian thực tập tốt nghiệp của ngành Công nghệ Kỹ thuật Hóa học là bao lâu?",
+    "output": "Thời gian thực tập tốt nghiệp thường kéo dài khoảng 10 tuần." 
+  },
+  {
+    "input": "Em muốn tìm hiểu về đề cương chi tiết của môn học, em có thể tìm ở đâu?",
+    "output": "Em có thể tìm đề cương chi tiết của môn học trên website của khoa hoặc liên hệ với giảng viên bộ môn."
+  },
+  {
+    "input": "Ngành nào của khoa có thời gian đào tạo dài nhất?",
+    "output": "Các chương trình đào tạo đại học chính quy của khoa thường có thời gian đào tạo là 4 năm." 
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2023 của ngành Kỹ thuật Môi trường là bao nhiêu?",
+    "output": "Điểm chuẩn thay đổi theo từng năm, em có thể tham khảo điểm chuẩn năm trước trên website của trường hoặc các trang thông tin tuyển sinh."
+  },
+  {
+    "input": "Em muốn biết học phí của ngành Công nghệ Sinh học là bao nhiêu?",
+    "output": "Em có thể tham khảo mức học phí mới nhất trên website của trường hoặc liên hệ phòng tài chính kế toán." 
+  },
+  {
+    "input": "Ngành nào của khoa có nhiều môn học thực hành nhất?",
+    "output": "Các ngành thuộc khối kỹ thuật như Kỹ thuật Hóa học, Công nghệ Kỹ thuật Hóa học, Kỹ thuật Môi trường thường có nhiều môn học thực hành."
+  },
+  {
+    "input": "Em học ngành Kỹ thuật Môi trường, em có thể lựa chọn chuyên ngành gì?",
+    "output": "Ngành Kỹ thuật Môi trường có các chuyên ngành như: Quản lý môi trường, Công nghệ xử lý nước thải, Xử lý chất thải rắn..."
+  },
+  {
+    "input": "Em thấy có môn 'Giáo dục quốc phòng', môn này học như thế nào?",
+    "output": "Môn Giáo dục quốc phòng thường được tổ chức học tập trung theo hình thức quân sự."
+  },
+  {
+    "input": "Em muốn biết lịch học của các môn, em có thể tìm ở đâu?",
+    "output": "Lịch học sẽ được thông báo trên website của khoa hoặc qua hệ thống thông tin sinh viên."
+  },
+  {
+    "input": "Ngành Kỹ thuật Hóa học có những môn học nào liên quan đến máy tính?",
+    "output": "Ngành Kỹ thuật Hóa học có một số môn học liên quan đến máy tính như Tin học đại cương, Mô phỏng quá trình hóa học..." 
+  },
+  {
+    "input": "Em muốn biết điều kiện để được học bổng khuyến khích học tập?",
+    "output": "Điều kiện nhận học bổng khuyến khích học tập thường dựa vào thành tích học tập của sinh viên, em có thể tham khảo thêm thông tin từ phòng công tác sinh viên."
+  },
+  {
+    "input": "Khoa có tổ chức các lớp học tiếng Anh bổ trợ không?",
+    "output": "Trường có trung tâm ngoại ngữ cung cấp các khóa học tiếng Anh bổ trợ cho sinh viên." 
+  },
+  {
+    "input": "Em muốn biết cơ hội việc làm của ngành Công nghệ Sinh học?",
+    "output": "Sinh viên tốt nghiệp ngành Công nghệ Sinh học có thể làm việc trong các lĩnh vực như công nghệ sinh học, công nghệ thực phẩm, dược phẩm, môi trường..."
+  },
+  {
+    "input": "Em có thể bảo lưu kết quả học tập không?",
+    "output": "Em có thể bảo lưu kết quả học tập theo quy định của trường, em cần liên hệ phòng đào tạo để được hướng dẫn cụ thể." 
+  },
+  {
+    "input": "Khoa có chương trình trao đổi sinh viên với nước ngoài không?",
+    "output": "Có, khoa có chương trình trao đổi sinh viên với nhiều trường đại học đối tác trên thế giới."
+  },
+  {
+    "input": "Em muốn biết thông tin về kỳ thi tốt nghiệp, em có thể tìm ở đâu?",
+    "output": "Thông tin về kỳ thi tốt nghiệp sẽ được thông báo trên website của trường và khoa."
+  },
+  {
+    "input": "Ngành Kỹ thuật Môi trường có những môn học nào liên quan đến luật?",
+    "output": "Ngành Kỹ thuật Môi trường có một số môn học liên quan đến luật như Pháp luật về bảo vệ môi trường, Luật Tài nguyên nước..." 
+  },
+  {
+    "input": "Khoa có những phòng thí nghiệm nào?",
+    "output": "Khoa có nhiều phòng thí nghiệm hiện đại phục vụ cho việc học tập và nghiên cứu của sinh viên như phòng thí nghiệm Hóa học, phòng thí nghiệm Môi trường, phòng thí nghiệm Công nghệ Sinh học..." 
+  },
+  {
+    "input": "Em có thể đăng ký học phần vượt không?",
+    "output": "Em có thể đăng ký học phần vượt theo quy định của trường, em cần liên hệ phòng đào tạo để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em muốn biết điểm rèn luyện có ảnh hưởng gì đến việc học không?",
+    "output": "Điểm rèn luyện là một trong những tiêu chí để xét học bổng, khen thưởng và đánh giá toàn diện sinh viên." 
+  },
+  {
+    "input": "Ngành Công nghệ Sinh học có những môn học nào liên quan đến thực phẩm?",
+    "output": "Ngành Công nghệ Sinh học có một số môn học liên quan đến thực phẩm như Vi sinh vật học thực phẩm, Công nghệ chế biến thực phẩm..."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về kiến thức đại cương mà sinh viên ngành Kỹ thuật Tài nguyên Nước được trang bị. Bạn có thể cho tôi biết cụ thể hơn được không?",
+    "output": "Sinh viên sẽ được trang bị kiến thức về lý luận chính trị, tư tưởng Hồ Chí Minh, pháp luật, an ninh quốc phòng để có thái độ chính trị đúng đắn, ý thức công dân và trách nhiệm cộng đồng. Kiến thức đại cương cũng là nền tảng để học các môn chuyên ngành sau này."
+  },
+  {
+    "input": "Tôi quan tâm đến kiến thức ngành và chuyên ngành của Kỹ thuật Tài nguyên Nước. Bạn có thể giải thích rõ hơn về nội dung này không?",
+    "output": "Kiến thức ngành và chuyên ngành sẽ trang bị cho bạn khả năng áp dụng các nguyên lý và kiến thức đã học vào thực tế. Ví dụ, bạn có thể đề xuất phương án quy hoạch hệ thống thủy lợi, đưa ra giải pháp phòng chống và giảm nhẹ thiên tai, thiết kế, thi công và quản lý khai thác các công trình thủy lợi..."
+  },
+  {
+    "input": "Kỹ năng nghề nghiệp là một trong những yếu tố quan trọng. Vậy sinh viên ngành Kỹ thuật Tài nguyên Nước sẽ được trang bị những kỹ năng nào?",
+    "output": "Sinh viên sẽ được rèn luyện kỹ năng tổng hợp, phân tích và xử lý thông tin, số liệu liên quan đến ngành. Bên cạnh đó, bạn cũng sẽ có khả năng phân tích, đánh giá và đề xuất giải pháp cho các vấn đề liên quan đến kỹ thuật tài nguyên nước, kỹ năng hoàn thành công việc phức tạp, kỹ năng lập luận và tư duy hệ thống."
+  },
+  {
+    "input": "Ngoài kiến thức chuyên môn, kỹ năng mềm cũng rất cần thiết. Chương trình đào tạo có chú trọng đến việc phát triển kỹ năng mềm cho sinh viên không?",
+    "output": "Chương trình rất chú trọng đến việc phát triển kỹ năng mềm cho sinh viên. Bạn sẽ được rèn luyện kỹ năng giao tiếp, làm việc nhóm, đàm phán, hợp tác, thuyết trình..."
+  },
+  {
+    "input": "Tôi muốn biết thêm về năng lực tự chủ và trách nhiệm của sinh viên sau khi tốt nghiệp. Bạn có thể nói rõ hơn về điều này không?",
+    "output": "Sau khi tốt nghiệp, sinh viên sẽ có khả năng tự chủ trong công việc, lập kế hoạch, quản lý và tổ chức thực hiện các hoạt động chuyên môn. Bạn cũng sẽ có khả năng tự học hỏi, nghiên cứu và chịu trách nhiệm về kết quả công việc của mình."
+  },
+  {
+    "input": "Em muốn ra trường làm công chức nhà nước, nên học ngành gì?",
+    "output": "Luật, Luật kinh tế, Kế toán, Kiểm toán là những lựa chọn phù hợp cho công chức." 
+  },
+  {
+    "input": "Học ngành Kỹ thuật cơ khí có vất vả không?",
+    "output": "Kỹ thuật cơ khí đòi hỏi sự chăm chỉ và khả năng tư duy logic, tuy nhiên cơ hội nghề nghiệp rất tốt."
+  },
+  {
+    "input": "Em thích du lịch, nên học ngành gì?", 
+    "output": "Quản trị dịch vụ du lịch và lữ hành là lựa chọn lý tưởng cho bạn." 
+  },
+  {
+    "input": "Ngành nào phù hợp cho con gái?", 
+    "output": "Không có ngành nào chỉ dành riêng cho con gái. Tất cả phụ thuộc vào sở thích và năng lực của bạn." 
+  },
+  {
+    "input": "Em muốn đi du học, trường có hỗ trợ không?", 
+    "output": "Trường có chương trình trao đổi sinh viên và hợp tác với nhiều trường quốc tế, hỗ trợ bạn du học."
+  },
+  {
+    "input": "Ra trường lương ngành nào cao?",
+    "output": "Công nghệ thông tin, Trí tuệ nhân tạo, An ninh mạng thường có mức lương khởi điểm cao."
+  }, 
+  {
+    "input": "Em muốn học ngành vừa có kỹ thuật vừa có kinh tế, nên chọn ngành nào?", 
+    "output": "Kinh tế xây dựng, Quản lý xây dựng kết hợp kiến thức kỹ thuật và kinh tế." 
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến ô tô, trường có ngành nào?",
+    "output": "Trường có ngành Kỹ thuật Ô tô, đào tạo kỹ sư thiết kế, chế tạo và vận hành ô tô."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực môi trường, nên học ngành gì?",
+    "output": "Kỹ thuật môi trường hoặc Tài nguyên nước & Môi trường là lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Luật ra trường làm gì?", 
+    "output": "Bạn có thể làm luật sư, thẩm phán, công chứng viên, hoặc pháp chế tại doanh nghiệp."
+  },
+  {
+    "input": "Học ngành nào ra trường dễ khởi nghiệp?",
+    "output": "Kinh tế số, Thương mại điện tử, Công nghệ thông tin là những ngành học phù hợp cho khởi nghiệp."
+  },
+  {
+    "input": "Em muốn học ngành có nhiều cơ hội làm việc quốc tế, nên chọn ngành nào?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Logistics & quản lý chuỗi cung ứng có nhiều cơ hội làm việc quốc tế." 
+  },
+  {
+    "input": "Em muốn học ngành vừa học về robot vừa học về điều khiển, trường có ngành nào?",
+    "output": "Kỹ thuật Robot và Điều khiển thông minh là ngành học kết hợp cả hai lĩnh vực này."
+  },
+  {
+    "input": "Em muốn thi chứng chỉ ngoại ngữ để được cộng điểm xét tuyển, nên thi chứng chỉ nào?",
+    "output": "Bạn có thể thi IELTS, TOEFL, TOEIC, HSK, TOPIK, JLPT, TestDaF, DELF tùy thuộc vào ngoại ngữ bạn muốn học."
+  },
+  {
+    "input": "Em muốn học ngành liên quan đến tài chính, ngân hàng, nên chọn ngành nào?",
+    "output": "Tài chính – Ngân hàng là lựa chọn phù hợp cho bạn, hoặc bạn cũng có thể xem xét ngành Kế toán hay Kiểm toán." 
+  },
+  {
+    "input": "Ngành nào học nhiều Toán nhất?",
+    "output": "Hầu hết các ngành Kỹ thuật đều yêu cầu kiến thức Toán học vững chắc." 
+  },
+  {
+    "input": "Trường có đào tạo ngành Y Dược không?", 
+    "output": "Trường Đại học Thủy lợi không đào tạo các ngành Y Dược."
+  }, 
+  {
+    "input": "Học ngành Công nghệ thông tin có cần giỏi tiếng Anh không?",
+    "output": "Kỹ năng tiếng Anh tốt là một lợi thế lớn khi học ngành Công nghệ thông tin, giúp bạn tiếp cận kiến thức và cơ hội việc làm tốt hơn."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực giáo dục, nên học ngành gì?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, hoặc các ngành Kỹ thuật (để giảng dạy tại các trường Cao đẳng, Đại học) đều là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Em muốn làm việc trong ngành game, nên học ngành nào?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Thiết kế đồ họa là những ngành học có liên quan đến lĩnh vực game."
+  },
+  {
+    "input": "Em muốn học ngành nào ra trường lương cao mà không cần học Toán nhiều?",
+    "output": "Luật, Luật kinh tế, Quản trị kinh doanh có thể là những lựa chọn phù hợp." 
+  },
+  {
+    "input": "Em muốn vừa học về kỹ thuật vừa học về kinh doanh, nên chọn ngành nào?", 
+    "output": "Quản lý xây dựng hoặc Kinh tế xây dựng là những lựa chọn kết hợp cả kỹ thuật và kinh doanh."
+  },
+  {
+    "input": "Ngành nào có nhiều nữ sinh nhất?",
+    "output": "Ngôn ngữ Anh, Quản trị kinh doanh, Kế toán thường có tỷ lệ nữ sinh cao hơn."
+  },
+  {
+    "input": "Em muốn làm việc trong lĩnh vực thời trang, nên học ngành gì?", 
+    "output": "Thiết kế thời trang, Quản trị kinh doanh thời trang là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Trường có đào tạo ngành báo chí không?",
+    "output": "Trường Đại học Thủy lợi không đào tạo ngành báo chí."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc tự do?",
+    "output": "Công nghệ thông tin, Thiết kế đồ họa, Ngôn ngữ Anh cho phép bạn làm việc tự do như freelancer." 
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tổ chức phi chính phủ?", 
+    "output": "Kỹ thuật môi trường, Tài nguyên nước & Môi trường, Luật, Ngôn ngữ Anh là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực giải trí?",
+    "output": "Quản trị dịch vụ du lịch & lữ hành, Ngôn ngữ Anh, Quan hệ công chúng là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kỹ thuật điện ra trường làm gì?",
+    "output": "Bạn có thể làm việc trong các nhà máy điện, công ty điện lực, hoặc các công ty sản xuất, lắp đặt thiết bị điện."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực marketing?",
+    "output": "Quản trị kinh doanh, Thương mại điện tử, Kinh tế số đều có liên quan đến marketing."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực nghiên cứu khoa học?",
+    "output": "Tất cả các ngành đều có cơ hội tham gia nghiên cứu khoa học, tuy nhiên các ngành Kỹ thuật và Công nghệ thông tin thường có nhiều cơ hội hơn."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực truyền thông?", 
+    "output": "Ngôn ngữ Anh, Quan hệ công chúng, Báo chí là những lựa chọn phù hợp. (Lưu ý: Trường Đại học Thủy lợi không đào tạo ngành Báo chí)"
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm giáo viên?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, hoặc các ngành Kỹ thuật (để giảng dạy tại các trường Cao đẳng, Đại học) là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong ngân hàng?", 
+    "output": "Tài chính – Ngân hàng, Kế toán, Kiểm toán là những lựa chọn phù hợp cho ngành ngân hàng."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty nước ngoài?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Công nghệ thông tin, Kỹ thuật phần mềm, Logistics & quản lý chuỗi cung ứng là những lựa chọn có nhiều cơ hội làm việc tại các công ty nước ngoài."
+  },
+  {
+    "input": "Em muốn học ngành có liên quan đến máy móc, thiết bị, nên chọn ngành nào?",
+    "output": "Kỹ thuật cơ khí, Kỹ thuật cơ điện tử, Kỹ thuật Ô tô là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kỹ thuật hóa học ra trường làm gì?",
+    "output": "Bạn có thể làm việc trong các nhà máy hóa chất, công ty sản xuất phân bón, dược phẩm, mỹ phẩm, v.v."
+  },
+  {
+    "input": "Học ngành Luật kinh tế có gì khác so với ngành Luật?",
+    "output": "Ngành Luật kinh tế tập trung vào các vấn đề pháp lý liên quan đến hoạt động kinh doanh, thương mại, đầu tư, tài chính."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty khởi nghiệp?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Kinh tế số, Thương mại điện tử là những lựa chọn phù hợp cho các công ty khởi nghiệp."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực nông nghiệp?",
+    "output": "Công nghệ sinh học, Kỹ thuật môi trường, Tài nguyên nước & Môi trường có thể áp dụng vào lĩnh vực nông nghiệp."
+  },
+  {
+    "input": "Trường có chương trình đào tạo kỹ sư chất lượng cao không?",
+    "output": "Có, trường Đại học Thủy lợi có chương trình đào tạo kỹ sư chất lượng cao theo chuẩn quốc tế cho một số ngành học."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tổ chức quốc tế?", 
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật, Luật kinh tế, Quan hệ quốc tế là những lựa chọn phù hợp."
+  },
+  {
+    "input": "Học ngành Kiểm toán có gì khác so với ngành Kế toán?", 
+    "output": "Kiểm toán tập trung vào việc kiểm tra, đánh giá tính chính xác và trung thực của báo cáo tài chính, trong khi Kế toán tập trung vào việc ghi chép, xử lý và cung cấp thông tin tài chính."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực bảo hiểm?",
+    "output": "Tài chính – Ngân hàng, Kế toán, Kiểm toán, Luật kinh tế là những lựa chọn phù hợp cho ngành bảo hiểm."
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong các cơ quan quản lý nhà nước?",
+    "output": "Luật, Luật kinh tế, Kế toán, Kiểm toán, Quản trị kinh doanh là những lựa chọn phù hợp cho các cơ quan quản lý nhà nước."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực xây dựng?",
+    "output": "Kỹ thuật xây dựng, Quản lý xây dựng, Kinh tế xây dựng là những lựa chọn trực tiếp liên quan đến lĩnh vực xây dựng."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực năng lượng?",
+    "output": "Kỹ thuật điện, Kỹ thuật cơ khí, Kỹ thuật hóa học, Kỹ thuật môi trường là những lựa chọn phù hợp cho lĩnh vực năng lượng."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các công ty tư vấn?",
+    "output": "Kế toán, Kiểm toán, Luật, Luật kinh tế, Quản trị kinh doanh, Logistics & quản lý chuỗi cung ứng là những lựa chọn phù hợp cho các công ty tư vấn."
+  }, 
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực công nghệ cao?",
+    "output": "Công nghệ thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo, An ninh mạng, Kỹ thuật điện tử - viễn thông, Kỹ thuật Robot & Điều khiển thông minh là những lựa chọn phù hợp cho lĩnh vực công nghệ cao."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong các tập đoàn đa quốc gia?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Công nghệ thông tin, Kỹ thuật phần mềm, Quản trị kinh doanh, Tài chính – Ngân hàng là những lựa chọn có nhiều cơ hội làm việc tại các tập đoàn đa quốc gia." 
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực logistics?",
+    "output": "Logistics và quản lý chuỗi cung ứng là lựa chọn phù hợp nhất cho lĩnh vực logistics."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực bất động sản?",
+    "output": "Kinh tế xây dựng, Quản lý xây dựng, Luật kinh tế là những lựa chọn phù hợp cho lĩnh vực bất động sản."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực y tế?",
+    "output": "Trường Đại học Thủy lợi không đào tạo các ngành Y tế. Bạn có thể tìm kiếm thông tin tuyển sinh của các trường đại học Y Dược."
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm việc trong lĩnh vực giáo dục mầm non?",
+    "output": "Trường Đại học Thủy lợi không đào tạo ngành Giáo dục mầm non. Bạn có thể tìm kiếm thông tin tuyển sinh của các trường đại học Sư phạm." 
+  },
+  {
+    "input": "Học ngành nào để sau này làm việc trong lĩnh vực truyền hình?",
+    "output": "Ngôn ngữ Anh, Quan hệ công chúng, Báo chí, Truyền thông đa phương tiện là những lựa chọn phù hợp. (Lưu ý: Trường Đại học Thủy lợi không đào tạo ngành Báo chí và Truyền thông đa phương tiện)"
+  },
+  {
+    "input": "Em muốn học ngành nào để sau này làm tiếp viên hàng không?",
+    "output": "Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Quản trị dịch vụ du lịch & lữ hành là những lựa chọn phù hợp cho nghề tiếp viên hàng không." 
+  },
+  {
+    "input": "Em đang tìm hiểu về trường Đại học Thủy lợi, cho em hỏi trường mình mạnh về những ngành nào?",
+    "output": "Trường Đại học Thủy lợi nổi tiếng với các ngành kỹ thuật, đặc biệt là Kỹ thuật xây dựng, Kỹ thuật tài nguyên nước, và Kỹ thuật môi trường. Ngoài ra, trường cũng có nhiều ngành đào tạo khác thuộc các lĩnh vực kinh tế, luật, ngôn ngữ, v.v."
+  },
+  {
+    "input": "Em nghe nói trường mình có chương trình đào tạo tiên tiến, cụ thể là những chương trình nào vậy ạ?",
+    "output": "Trường có chương trình tiên tiến ngành Kỹ thuật xây dựng hợp tác với Đại học Arkansas (Hoa Kỳ) và chương trình tiên tiến ngành Kỹ thuật tài nguyên nước hợp tác với Đại học Bang Colorado (Hoa Kỳ)." 
+  },
+  {
+    "input": "Em muốn học ngành Công nghệ thông tin, cho em hỏi cơ sở vật chất và trang thiết bị phục vụ cho ngành này như thế nào ạ?",
+    "output": "Trường có hệ thống phòng máy tính hiện đại, phòng thí nghiệm chuyên dụng, và thư viện điện tử với nhiều tài liệu học tập phong phú." 
+  },
+  {
+    "input": "Em ở tỉnh xa, cho em hỏi trường có ký túc xá cho sinh viên không ạ?",
+    "output": "Trường có ký túc xá dành cho sinh viên với đầy đủ tiện nghi và môi trường sống an toàn, văn minh." 
+  }, 
+  {
+    "input": "Em muốn tìm hiểu về cơ hội việc làm sau khi tốt nghiệp, trường có hỗ trợ gì cho sinh viên không ạ?",
+    "output": "Trường có Trung tâm Hỗ trợ sinh viên và Khởi nghiệp, nơi cung cấp dịch vụ tư vấn, đào tạo, hỗ trợ về vốn và kết nối với các doanh nghiệp cho sinh viên."
+  },
+  {
+    "input": "Em muốn tham gia các chương trình trao đổi sinh viên quốc tế, trường mình có chương trình nào không ạ?",
+    "output": "Trường có ký kết hợp tác với nhiều trường đại học trên thế giới và thường xuyên tổ chức các chương trình trao đổi sinh viên. Em có thể liên hệ với Phòng Quan hệ Quốc tế để biết thêm thông tin."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật xây dựng, cho em hỏi chương trình đào tạo của ngành này như thế nào ạ?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật xây dựng cung cấp cho em kiến thức về thiết kế, thi công, quản lý các công trình xây dựng dân dụng và công nghiệp." 
+  },
+  {
+    "input": "Em quan tâm đến học bổng, cho em hỏi trường mình có những loại học bổng nào ạ?",
+    "output": "Trường có nhiều loại học bổng dành cho sinh viên, bao gồm học bổng khuyến khích học tập, học bổng tài năng, học bổng cho sinh viên có hoàn cảnh khó khăn, học bổng doanh nghiệp, v.v."
+  },
+  {
+    "input": "Em muốn học ngành Luật kinh tế, cho em hỏi đội ngũ giảng viên của ngành này như thế nào ạ?",
+    "output": "Ngành Luật kinh tế có đội ngũ giảng viên là các chuyên gia hàng đầu trong lĩnh vực luật và kinh tế, với nhiều kinh nghiệm thực tiễn và nghiên cứu khoa học."
+  },
+  {
+    "input": "Em muốn học ngành Ngôn ngữ Anh, cho em hỏi trường có tổ chức các kỳ thi lấy chứng chỉ tiếng Anh quốc tế không ạ?",
+    "output": "Trường có tổ chức các kỳ thi lấy chứng chỉ tiếng Anh quốc tế như IELTS, TOEFL, TOEIC để phục vụ nhu cầu của sinh viên." 
+  }, 
+  {
+    "input": "Em muốn học lên Thạc sĩ sau khi tốt nghiệp, trường mình có chương trình đào tạo Thạc sĩ không ạ?",
+    "output": "Có, trường có đào tạo Thạc sĩ cho nhiều ngành học thuộc các lĩnh vực kỹ thuật, kinh tế, luật, ngôn ngữ, v.v."
+  },
+  {
+    "input": "Em muốn tìm hiểu về lịch sử và truyền thống của trường, trường mình thành lập từ khi nào và đã đạt được những thành tựu gì ạ?", 
+    "output": "Trường Đại học Thủy lợi được thành lập năm 1959 và là một trong những trường đại học kỹ thuật hàng đầu Việt Nam. Trường đã đạt được nhiều thành tựu trong đào tạo, nghiên cứu khoa học và hợp tác quốc tế."
+  }
   ]
