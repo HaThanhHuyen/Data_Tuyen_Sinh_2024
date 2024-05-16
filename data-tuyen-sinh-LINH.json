@@ -1,7 +1,7 @@
 [
     {
-      "input": "Em muốn hỏi về điểm chuẩn của ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
-      "output": "Điểm chuẩn ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00 bạn nhé!"
+      "input": "Em muốn hỏi về điểm chuẩn năm 2024 của ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn năm 2024 ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00 bạn nhé!"
     },
     {
       "input": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là bao nhiêu vậy?",
@@ -12,8 +12,8 @@
       "output": "Ngành Công nghệ thông tin xét tuyển dựa trên các tổ hợp A00, A01, D01, và D07. Bạn có thể lựa chọn tổ hợp phù hợp nhất với mình để đăng ký."
     },
     {
-      "input": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
-      "output": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00. Đây là một ngành học khá hot nên điểm chuẩn cũng tương đối cao."
+      "input": "Điểm chuẩn năm 2024 ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn năm 2024 ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00. Đây là một ngành học khá hot nên điểm chuẩn cũng tương đối cao."
     },
     {
       "input": "Cho em hỏi cách tính điểm xét tuyển như thế nào ạ?",
@@ -3221,5 +3221,165 @@
   {
     "input": "Em muốn tìm hiểu về lịch sử và truyền thống của trường, trường mình thành lập từ khi nào và đã đạt được những thành tựu gì ạ?", 
     "output": "Trường Đại học Thủy lợi được thành lập năm 1959 và là một trong những trường đại học kỹ thuật hàng đầu Việt Nam. Trường đã đạt được nhiều thành tựu trong đào tạo, nghiên cứu khoa học và hợp tác quốc tế."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Xây dựng công trình giao thông năm nay là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Xây dựng công trình giao thông là 18.00 điểm em nhé. Điểm chuẩn chính thức sẽ được trường công bố sau khi kỳ thi tốt nghiệp THPT kết thúc."
+  },
+  {
+    "input": "Ngành Quản lý xây dựng lấy bao nhiêu điểm?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản lý xây dựng là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Ô tô là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Ô tô là 20.00 điểm. Điểm chuẩn chính thức sẽ được trường công bố sau khi kỳ thi tốt nghiệp THPT kết thúc."
+  },
+  {
+    "input": "Em muốn học ngành Luật, điểm chuẩn ngành này là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật là 21.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Ngôn ngữ Trung Quốc là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Trung Quốc là 21.00 điểm."
+  },
+  {
+    "input": "Ngành Kỹ thuật cơ khí lấy bao nhiêu điểm?",
+    "output": "Ngưỡng đảm bảo chất lượng của nhóm ngành Kỹ thuật cơ khí (gồm ngành Kỹ thuật cơ khí và Công nghệ chế tạo máy) là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn chương trình tiên tiến ngành Kỹ thuật tài nguyên nước là bao nhiêu?", 
+    "output": "Ngưỡng đảm bảo chất lượng của chương trình tiên tiến ngành Kỹ thuật tài nguyên nước là 18.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kỹ thuật xây dựng công trình thủy là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng công trình thủy là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật xây dựng dân dụng và công nghiệp là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn của ngành Công nghệ kỹ thuật xây dựng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ kỹ thuật xây dựng là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn hỏi điểm chuẩn của ngành Kỹ thuật tài nguyên nước là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật cấp thoát nước là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cấp thoát nước là 18.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024ngành Xây dựng và quản lý hạ tầng đô thị là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng) là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Tài nguyên nước và môi trường (Thủy văn học) là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài nguyên nước và môi trường (Thủy văn học) là 18.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Công nghệ sinh học là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ sinh học là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Kỹ thuật môi trường là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật môi trường là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật hóa học là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật hóa học là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn của ngành Công nghệ thông tin là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ Thông tin là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Hệ thống thông tin là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Hệ thống thông tin là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật phần mềm là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật phần mềm là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Trí tuệ nhân tạo và khoa học dữ liệu là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Trí tuệ nhân tạo và khoa học dữ liệu là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành An ninh mạng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành An ninh mạng là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kỹ thuật cơ điện tử là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cơ điện tử là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật điện là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện là 20.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kỹ thuật điều khiển và tự động hóa là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điều khiển và tự động hóa là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kỹ thuật điện tử - viễn thông là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện tử - viễn thông là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kinh tế là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị kinh doanh là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kế toán là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kế toán là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Kinh tế xây dựng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế xây dựng là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Logistics và quản lý chuỗi cung ứng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Logistics và quản lý chuỗi cung ứng là 21.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Quản trị dịch vụ du lịch và lữ hành là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị dịch vụ du lịch và lữ hành là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Thương mại điện tử là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Thương mại điện tử là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Tài chính – Ngân hàng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài chính – Ngân hàng là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kiểm toán là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kiểm toán là 21.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn năm 2024ngành Kinh tế số là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế số là 21.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Luật kinh tế là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật kinh tế là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn của ngành Ngôn ngữ Anh là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Anh là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn năm 2024 chương trình tiên tiến ngành Kỹ thuật xây dựng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của chương trình tiên tiến ngành Kỹ thuật xây dựng là 18.00 điểm em nhé."
   }
   ]
