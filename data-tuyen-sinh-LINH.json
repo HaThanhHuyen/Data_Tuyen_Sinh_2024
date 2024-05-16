@@ -3221,5 +3221,165 @@
   {
     "input": "Em muốn tìm hiểu về lịch sử và truyền thống của trường, trường mình thành lập từ khi nào và đã đạt được những thành tựu gì ạ?", 
     "output": "Trường Đại học Thủy lợi được thành lập năm 1959 và là một trong những trường đại học kỹ thuật hàng đầu Việt Nam. Trường đã đạt được nhiều thành tựu trong đào tạo, nghiên cứu khoa học và hợp tác quốc tế."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng dân dụng và công nghiệp năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng dân dụng và công nghiệp năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ kỹ thuật xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ kỹ thuật xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng công trình giao thông năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng công trình giao thông năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản lý xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản lý xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật tài nguyên nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật tài nguyên nước năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật cấp thoát nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật cấp thoát nước năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Xây dựng và quản lý hạ tầng đô thị năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Xây dựng và quản lý hạ tầng đô thị năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Tài nguyên nước và môi trường năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Tài nguyên nước và môi trường năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ sinh học năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ sinh học năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật môi trường năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật môi trường năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật hóa học năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật hóa học năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ thông tin năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ thông tin năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Hệ thống thông tin năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Hệ thống thông tin năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật phần mềm năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật phần mềm năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Trí tuệ nhân tạo và khoa học dữ liệu năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Trí tuệ nhân tạo và khoa học dữ liệu năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn An ninh mạng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn An ninh mạng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí, Công nghệ chế tạo máy) năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí, Công nghệ chế tạo máy) năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật Ô tô năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật Ô tô năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật cơ điện tử năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật cơ điện tử năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điện năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điện năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điều khiển và tự động hóa năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điều khiển và tự động hóa năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điện tử - viễn thông năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điện tử - viễn thông năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật Robot và Điều khiển thông minh năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản trị kinh doanh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản trị kinh doanh năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kế toán năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kế toán năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế xây dựng năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Logistics và quản lý chuỗi cung ứng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Logistics và quản lý chuỗi cung ứng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản trị dịch vụ du lịch và lữ hành năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản trị dịch vụ du lịch và lữ hành năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Thương mại điện tử năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Thương mại điện tử năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Tài chính – Ngân hàng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Tài chính – Ngân hàng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kiểm toán năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kiểm toán năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế số năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế số năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Luật năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Luật năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Luật kinh tế năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Luật kinh tế năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Ngôn ngữ Anh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Ngôn ngữ Anh năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Ngôn ngữ Trung Quốc năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Ngôn ngữ Trung Quốc năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 là 18.00."
   }
   ]
