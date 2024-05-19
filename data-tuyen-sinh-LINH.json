@@ -4241,5 +4241,277 @@
   {
     "input": "Em muốn hỏi chỉ tiêu ngành Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm nay là bao nhiêu?",
     "output": "Ngành Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 có 30 chỉ tiêu."
-  }
+  },
+  {
+    "input": "Mã tổ hợp A00 là những môn gì?",
+    "output": "Mã tổ hợp A00 gồm 3 môn: Toán, Vật lý, Hóa học."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp D01 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp D01 gồm 3 môn: Toán, Ngữ văn, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp A01 là những môn gì?",
+    "output": "Tổ hợp A01 gồm 3 môn: Toán, Vật lý, Tiếng Anh."
+  },
+  {
+    "input": "Mã tổ hợp D07 gồm những môn nào?",
+    "output": "Mã tổ hợp D07 gồm 3 môn: Toán, Hóa học, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp A02 là những môn gì?",
+    "output": "Tổ hợp A02 gồm 3 môn: Toán, Vật lý, Sinh học."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp B00 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp B00 gồm 3 môn: Toán, Hóa học, Sinh học."
+  },
+  {
+    "input": "Mã tổ hợp D08 là những môn gì?",
+    "output": "Mã tổ hợp D08 gồm 3 môn: Toán, Sinh học, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp C00 là những môn gì?",
+    "output": "Tổ hợp C00 gồm 3 môn: Ngữ văn, Lịch sử, Địa lý."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp C02 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp C02 gồm 3 môn: Toán, Ngữ văn, Hóa học."
+  },
+  {
+    "input": "Mã tổ hợp D04 là những môn gì?",
+    "output": "Mã tổ hợp D04 gồm 3 môn: Toán, Ngữ văn, Tiếng Trung."
+  },
+  {
+    "input": "Tổ hợp D09 là những môn gì?",
+    "output": "Tổ hợp D09 gồm 3 môn: Toán, Tiếng Anh, Lịch sử."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp D10 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp D10 gồm 3 môn: Toán, Tiếng Anh, Địa lý."
+  },
+  {
+    "input": "Tổ hợp K00 là gì ạ?",
+    "output": "Tổ hợp K00 dùng để xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy."
+  },
+  {
+    "input": "Em muốn xét tuyển thẳng vào trường, cần những điều kiện gì ạ?",
+    "output": "Để xét tuyển thẳng, em cần đạt giải Nhất, Nhì, hoặc Ba trong kỳ thi học sinh giỏi quốc gia, quốc tế hoặc thi khoa học kỹ thuật quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức. Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển và em đã tốt nghiệp THPT nhé."
+  },
+  {
+    "input": "Em đạt giải Nhì quốc gia môn Toán, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhì quốc gia môn Toán, em có thể xét tuyển thẳng vào tất cả các ngành của trường."
+  },
+  {
+    "input": "Em có giải Nhất Vật lý cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Kỹ thuật Robot và Điều khiển thông minh, có được không ạ?",
+    "output": "Được em nhé. Giải Nhất Vật lý cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Kỹ thuật Robot và Điều khiển thông minh."
+  },
+  {
+    "input": "Em đạt giải Ba quốc gia môn Tiếng Anh, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Ba quốc gia môn Tiếng Anh, em có thể xét tuyển thẳng vào tất cả các ngành của trường."
+  },
+  {
+    "input": "Em có giải Nhì Hóa học cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Công nghệ Sinh học, có được không ạ?",
+    "output": "Được em nhé. Giải Nhì Hóa học cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Công nghệ Sinh học."
+  },
+  {
+    "input": "Em đạt giải Nhất quốc gia môn Sinh học, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhất quốc gia môn Sinh học, em có thể xét tuyển thẳng vào các ngành Kỹ thuật môi trường, Kỹ thuật hóa học và Công nghệ sinh học."
+  },
+  {
+    "input": "Em có giải Ba Tin học cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Hệ thống thông tin, có được không ạ?",
+    "output": "Được em nhé. Giải Ba Tin học cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Hệ thống thông tin."
+  },
+  {
+    "input": "Em đạt giải Khuyến khích quốc gia môn Ngữ văn, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Khuyến khích quốc gia môn Ngữ văn, em có thể xét tuyển thẳng vào các ngành Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật và Luật Kinh tế."
+  },
+  {
+    "input": "Em có giải Nhất Lịch sử cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Luật Kinh tế, có được không ạ?",
+    "output": "Được em nhé. Giải Nhất Lịch sử cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Luật Kinh tế."
+  },
+  {
+    "input": "Em đạt giải Nhì quốc gia môn Địa lý, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhì quốc gia môn Địa lý, em có thể xét tuyển thẳng vào các ngành Luật và Luật Kinh tế."
+  },
+  {
+    "input": "Em có giải Ba Tiếng Trung Quốc cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Ngôn ngữ Trung Quốc, có được không ạ?",
+    "output": "Được em nhé. Giải Ba Tiếng Trung Quốc cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Ngôn ngữ Trung Quốc."
+  },
+  {
+    "input": "Cho em hỏi trường mình có xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy không ạ?",
+    "output": "Có em nhé. Trường mình có xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy cho một số ngành."
+  },
+  {
+    "input": "Em muốn xét tuyển bằng kết quả kỳ thi đánh giá tư duy, trường mình nhận hồ sơ những ngành nào ạ?",
+    "output": "Trường mình nhận hồ sơ xét tuyển bằng kết quả kỳ thi đánh giá tư duy cho các ngành: Công nghệ sinh học (TLA119), Kỹ thuật môi trường (TLA109), Kỹ thuật hóa học (TLA118), Công nghệ thông tin (TLA106), Hệ thống thông tin (TLA116), Kỹ thuật phần mềm (TLA117), Trí tuệ nhân tạo và khoa học dữ liệu (TLA126), An ninh mạng (TLA127), Nhóm ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí và Công nghệ chế tạo máy) (TLA105), Kỹ thuật Ô tô (TLA123), Kỹ thuật cơ điện tử (TLA120), Kỹ thuật điện (TLA112), Kỹ thuật điều khiển và tự động hóa (TLA121), Kỹ thuật điện tử - viễn thông (TLA124), Kỹ thuật Robot và Điều khiển thông minh (TLA128), và Ngôn ngữ Anh (TLA203)."
+  },
+  {
+    "input": "Cho em hỏi thời gian đăng ký xét tuyển năm 2024 của trường là khi nào ạ?",
+    "output": "Thời gian đăng ký xét tuyển theo phương thức kết hợp kết quả học tập THPT và các điều kiện ưu tiên là từ 15/04/2024 đến 14/06/2024. Các phương thức còn lại thực hiện theo kế hoạch chung của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Em muốn đăng ký xét tuyển online thì phải làm như thế nào ạ?",
+    "output": "Em có thể đăng ký xét tuyển trực tuyến trên hệ thống của trường tại địa chỉ http://dkxtdh.tlu.edu.vn/ hoặc trên ứng dụng My TLU. Đối với các phương thức khác, em đăng ký trên cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo nhé."
+  },
+  {
+    "input": "Lệ phí đăng ký xét tuyển năm 2024 là bao nhiêu ạ?",
+    "output": "Lệ phí đăng ký xét tuyển là 50.000 đồng cho một hồ sơ, không phân biệt số lượng nguyện vọng em đăng ký."
+  },
+  {
+    "input": "Em muốn hỏi thêm thông tin về tuyển sinh thì liên hệ với ai ạ?",
+    "output": "Em có thể liên hệ với Phòng Đào tạo của trường, số điện thoại 02435631537 hoặc email tuyensinh@tlu.edu.vn nhé."
+  },
+  {
+    "input": "Phòng đào tạo trường mình ở đâu ạ?",
+    "output": "Phòng Đào tạo nằm ở phòng 134 nhà A4, số 175 Tây Sơn, quận Đống Đa, Hà Nội em nhé."
+  },
+  {
+    "input": "Ngoài số điện thoại và email, em có thể liên hệ với trường qua kênh nào khác không ạ?",
+    "output": "Em có thể xem thêm thông tin trên website của trường tại địa chỉ tlu.edu.vn hoặc fanpage https://www.facebook.com/daihocthuyloi1959."
+  },
+  {
+    "input": "Em muốn xét tuyển bằng kết quả thi tốt nghiệp THPT, trường có xét không ạ?",
+    "output": "Có em nhé. Trường có xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2024."
+  },
+  {
+    "input": "Em có chứng chỉ IELTS, khi xét tuyển bằng kết quả thi tốt nghiệp THPT có được quy đổi điểm không ạ?",
+    "output": "Có, khi xét tuyển bằng kết quả thi tốt nghiệp THPT, em có thể quy đổi chứng chỉ IELTS sang điểm thi môn Tiếng Anh trong tổ hợp xét tuyển theo quy định của trường."
+  },
+  {
+    "input": "Chứng chỉ IELTS 7.0 được quy đổi thành bao nhiêu điểm ạ?",
+    "output": "Chứng chỉ IELTS 7.0 được quy đổi thành 10 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết thêm thông tin về xét tuyển bằng kết quả thi tốt nghiệp THPT thì xem ở đâu ạ?",
+    "output": "Em có thể theo dõi hướng dẫn của Bộ GD&ĐT và website của trường để cập nhật thông tin mới nhất về xét tuyển bằng kết quả thi tốt nghiệp THPT nhé."
+  },
+  {
+    "input": "Ngoài chứng chỉ IELTS, trường còn quy đổi chứng chỉ nào khác không ạ?",
+    "output": "Trường còn quy đổi điểm cho các chứng chỉ tiếng Anh khác như TOEFL, TOEIC và chứng chỉ tiếng Trung HSK theo quy định."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn xét tuyển bằng kết quả thi tốt nghiệp THPT thì phải làm sao?",
+    "output": "Điểm chuẩn xét tuyển bằng kết quả thi tốt nghiệp THPT sẽ được trường công bố sau khi có kết quả thi chính thức em nhé. Em nhớ theo dõi website của trường thường xuyên."
+  },
+  {
+    "input": "Em có thể đăng ký xét tuyển bằng kết quả thi tốt nghiệp THPT ở đâu ạ?",
+    "output": "Em đăng ký xét tuyển bằng kết quả thi tốt nghiệp THPT trên cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo nhé."
+  },
+  {
+    "input": "Năm 2024 ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Năm 2024, ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi chỉ tiêu của ngành Quản trị kinh doanh ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu của ngành Quản trị kinh doanh ở phân hiệu miền Nam năm 2024 là 80 em nhé."
+  },
+  {
+    "input": "Ngành Công nghệ thông tin ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Công nghệ thông tin ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam năm 2024 tuyển 20 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Chỉ tiêu của ngành Ngôn ngữ Anh ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Ngôn ngữ Anh ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu."
+  },
+  {
+    "input": "Cho em hỏi ngành Kế toán ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kế toán ở phân hiệu miền Nam năm 2024 tuyển 70 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Năm 2024 ngành Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Năm 2024, Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam tuyển 60 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi chỉ tiêu của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam năm 2024 là 40 em nhé."
+  },
+  {
+    "input": "Ngành Quản lý xây dựng ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Quản lý xây dựng ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Chỉ tiêu của ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Cho em hỏi ngành Kinh tế xây dựng ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kinh tế xây dựng ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Thương mại điện tử ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Thương mại điện tử ở phân hiệu miền Nam năm 2024 tuyển 80 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam, mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam là TLS101 em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Quản trị kinh doanh ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Quản trị kinh doanh ở phân hiệu miền Nam là TLS402 em nhé."
+  },
+  {
+    "input": "Mã ngành Công nghệ thông tin ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã ngành Công nghệ thông tin ở phân hiệu miền Nam là TLS106 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam là TLS102 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh ngành Ngôn ngữ Anh ở phân hiệu miền Nam là gì vậy ạ?",
+    "output": "Mã tuyển sinh ngành Ngôn ngữ Anh ở phân hiệu miền Nam là TLS203 em nhé."
+  },
+  {
+    "input": "Cho em hỏi mã tuyển sinh của ngành Kế toán ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kế toán ở phân hiệu miền Nam là TLS403 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam là TLS407."
+  },
+  {
+    "input": "Em muốn học Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam, mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam là TLS104 em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam là TLS111 em nhé."
+  },
+  {
+    "input": "Mã ngành Quản lý xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã ngành Quản lý xây dựng ở phân hiệu miền Nam là TLS114 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam là TLS107 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam là gì vậy ạ?",
+    "output": "Mã tuyển sinh ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam là TLS126 em nhé."
+  },
+  {
+    "input": "Cho em hỏi mã tuyển sinh của ngành Kinh tế xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kinh tế xây dựng ở phân hiệu miền Nam là TLS404 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Thương mại điện tử ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Thương mại điện tử ở phân hiệu miền Nam là TLS405."
+  },
+  {
+    "input": "Em muốn hỏi tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là gì?",
+    "output": "Tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là 700."
+  },
   ]
