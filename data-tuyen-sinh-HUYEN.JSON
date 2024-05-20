@@ -3015,5 +3015,1349 @@
   {
     "input": "Danh sách các môn được chuyển điểm Olympic cấp trường và cấp quốc gia có giống nhau không?",
     "output": "Danh sách các môn được chuyển điểm Olympic cấp trường và cấp quốc gia không giống nhau. Em có thể tham khảo chi tiết tại Phụ lục 1 và Phụ lục 2 của Quy định về thi Olympic các môn học của trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành khi nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Ai ban hành Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Ai được áp dụng Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở cấp nào?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật và có nguyện vọng dự thi."
+  },
+  {
+    "input": "Sinh viên được cộng điểm rèn luyện như thế nào khi tham gia thi Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục của Quy định."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia được hưởng lợi ích gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Sinh viên được điều chỉnh điểm môn học như thế nào khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Bộ môn có trách nhiệm gì trong việc tổ chức thi Olympic môn học?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành khi nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Ai ban hành Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Ai được áp dụng Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở cấp nào?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên được cộng điểm rèn luyện như thế nào khi tham gia thi Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia được hưởng lợi ích gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Sinh viên được điều chỉnh điểm môn học như thế nào khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Bộ môn có trách nhiệm gì trong việc tổ chức thi Olympic môn học?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Có bao nhiêu giải thưởng cho mỗi môn thi Olympic cấp Trường?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Cơ cấu giải thưởng cho mỗi môn thi Olympic cấp Trường như thế nào?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic cần làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic cần làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành khi nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Ai ban hành Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Ai được áp dụng Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở cấp nào?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên được cộng điểm rèn luyện như thế nào khi tham gia thi Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên cần đáp ứng điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia được hưởng lợi ích gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Sinh viên được điều chỉnh điểm môn học như thế nào khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Bộ môn có trách nhiệm gì trong việc tổ chức thi Olympic môn học?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Có bao nhiêu giải thưởng cho mỗi môn thi Olympic cấp Trường?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Cơ cấu giải thưởng cho mỗi môn thi Olympic cấp Trường như thế nào?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Cho mình hỏi về quy định thi Olympic môn học của trường Đại học Thủy lợi được ban hành lúc nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Bạn có thể cho biết ai là người ban hành Quy định thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic môn học là gì nhỉ?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học áp dụng cho những ai?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học tổ chức ở đâu?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Muốn tham gia thi Olympic môn học cấp Trường, sinh viên cần đáp ứng những điều kiện gì?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được cộng điểm rèn luyện như thế nào?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được hưởng lợi ích gì về điểm môn học?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Để được tham gia thi Olympic cấp Quốc gia, sinh viên cần làm gì?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được hưởng những quyền lợi gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Cách thức điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic cấp Quốc gia như thế nào?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Bộ môn có vai trò gì trong việc tổ chức thi Olympic môn học?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học phải làm những gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng những quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Mỗi môn thi Olympic cấp Trường có bao nhiêu giải thưởng?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Có những giải thưởng nào trong kỳ thi Olympic cấp Trường?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng điểm quá trình như thế nào?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Bạn có thể cho mình biết thêm về quy định về bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia?",
+    "output": "Vào đầu năm học, Bộ môn lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Bộ môn bố trí giảng viên bồi dưỡng theo nội dung và khối lượng đã được Ban Giám hiệu phê duyệt, lập kế hoạch chi tiết giảng dạy gửi về phòng Chính trị và Công tác  sinh viên, phòng Đào tạo (để bố trí giảng đường) và phòng Hành chính – Tổng hợp (bộ phận Thanh tra)."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về kinh phí, phương tiện và các vấn đề liên quan khi tổ chức ngày thi Olympic cấp Quốc gia?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Trường, bạn có thể giúp tôi?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Trường được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Quốc gia.",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Quốc gia được lựa chọn 01, 02 hoặc 03 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhì được cộng 9.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Ba trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Ba được cộng 9 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 8.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành khi nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Ai là người ban hành Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi áp dụng cho ai?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở đâu?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Để tham gia thi Olympic môn học cấp Trường, sinh viên cần đáp ứng những điều kiện gì?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được cộng điểm rèn luyện như thế nào?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được hưởng lợi ích gì về điểm môn học?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Để được tham gia thi Olympic cấp Quốc gia, sinh viên cần làm gì?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được hưởng những quyền lợi gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Cách thức điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic cấp Quốc gia như thế nào?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Vai trò của Bộ môn trong việc tổ chức thi Olympic môn học là gì?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có những nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng những quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Mỗi môn thi Olympic cấp Trường có bao nhiêu giải thưởng?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Có những giải thưởng nào trong kỳ thi Olympic cấp Trường?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng điểm quá trình như thế nào?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Cho mình hỏi về quy định về bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia?",
+    "output": "Vào đầu năm học, Bộ môn lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Bộ môn bố trí giảng viên bồi dưỡng theo nội dung và khối lượng đã được Ban Giám hiệu phê duyệt, lập kế hoạch chi tiết giảng dạy gửi về phòng Chính trị và Công tác  sinh viên, phòng Đào tạo (để bố trí giảng đường) và phòng Hành chính – Tổng hợp (bộ phận Thanh tra)."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về kinh phí, phương tiện và các vấn đề liên quan khi tổ chức ngày thi Olympic cấp Quốc gia?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Bạn có thể chia sẻ thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Trường được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Cho mình hỏi thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Quốc gia.",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Quốc gia được lựa chọn 01, 02 hoặc 03 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhì được cộng 9.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Ba trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Ba được cộng 9 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 8.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Bạn có thể cho biết thêm về quy định về việc sử dụng điểm được điều chỉnh?",
+    "output": "Điểm được điều chỉnh có thể được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện, tuy nhiên, điều này phụ thuộc vào thời điểm sinh viên đề nghị điều chỉnh điểm."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành khi nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào ngày 10 tháng 5 năm 2023."
+  },
+  {
+    "input": "Ai là người ban hành Quy định về thi Olympic môn học của trường Đại học Thủy lợi?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định thi Olympic môn học của trường Đại học Thủy lợi có thay thế quyết định nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục đích của việc thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi áp dụng cho ai?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở đâu?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Để tham gia thi Olympic môn học cấp Trường, sinh viên cần đáp ứng những điều kiện gì?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được cộng điểm rèn luyện như thế nào?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường được hưởng lợi ích gì về điểm môn học?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Để được tham gia thi Olympic cấp Quốc gia, sinh viên cần làm gì?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ được hưởng những quyền lợi gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Cách thức điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic cấp Quốc gia như thế nào?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Vai trò của Bộ môn trong việc tổ chức thi Olympic môn học là gì?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có những nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng những quyền lợi gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Mỗi môn thi Olympic cấp Trường có bao nhiêu giải thưởng?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Có những giải thưởng nào trong kỳ thi Olympic cấp Trường?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng điểm quá trình như thế nào?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Cho mình hỏi về quy định về bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia?",
+    "output": "Vào đầu năm học, Bộ môn lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Bộ môn bố trí giảng viên bồi dưỡng theo nội dung và khối lượng đã được Ban Giám hiệu phê duyệt, lập kế hoạch chi tiết giảng dạy gửi về phòng Chính trị và Công tác  sinh viên, phòng Đào tạo (để bố trí giảng đường) và phòng Hành chính – Tổng hợp (bộ phận Thanh tra)."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về kinh phí, phương tiện và các vấn đề liên quan khi tổ chức ngày thi Olympic cấp Quốc gia?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Bạn có thể chia sẻ thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Trường được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Cho mình hỏi thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Quốc gia.",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Quốc gia được lựa chọn 01, 02 hoặc 03 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhì được cộng 9.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Ba trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Ba được cộng 9 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 8.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Bạn có thể cho biết thêm về quy định về việc sử dụng điểm được điều chỉnh?",
+    "output": "Điểm được điều chỉnh có thể được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện, tuy nhiên, điều này phụ thuộc vào thời điểm sinh viên đề nghị điều chỉnh điểm."
+  },
+  {
+    "input": "Ngoài việc cộng điểm, sinh viên đạt giải Olympic còn được hưởng lợi ích gì khác?",
+    "output": "Ngoài việc cộng điểm rèn luyện và điều chỉnh điểm môn học, sinh viên đạt giải Olympic còn được tặng Giấy khen và phần thưởng của Hiệu trưởng."
+  },
+  {
+    "input": "Bạn có thể cho tôi biết thêm về cách thức tính điểm thi Olympic?",
+    "output": "Điểm thi Olympic môn học chấm theo thang điểm 10 và được làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định cụ thể về việc điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic, bạn có thể chia sẻ?",
+    "output": "Bạn có thể xem xét Điều 10 của Quy định để tìm hiểu chi tiết về quy định về điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành vào năm nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào năm 2023."
+  },
+  {
+    "input": "Ai là người đứng đầu trong việc ban hành Quy định về thi Olympic môn học?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học này có thay thế quyết định cũ nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục tiêu chính của việc tổ chức thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Đối tượng áp dụng của Quy định về thi Olympic môn học là ai?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở những cấp độ nào?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Để tham gia thi Olympic môn học cấp Trường, sinh viên cần đáp ứng những điều kiện gì?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện như thế nào?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường có được điều chỉnh điểm môn học không?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Để được tham gia thi Olympic cấp Quốc gia, sinh viên phải đáp ứng những yêu cầu gì?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia sẽ nhận được những phần thưởng gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Làm sao để sinh viên được điều chỉnh điểm môn học khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Vai trò của Bộ môn trong việc tổ chức thi Olympic môn học là gì?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Ngoài việc lên lớp, giảng viên giảng dạy Olympic môn học còn có nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng lợi ích gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Mỗi môn thi Olympic cấp Trường có bao nhiêu giải thưởng tối đa?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Có những giải thưởng nào được trao trong kỳ thi Olympic cấp Trường?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng điểm quá trình như thế nào?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về kinh phí, phương tiện và các vấn đề liên quan khi tổ chức ngày thi Olympic cấp Quốc gia?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Bạn có thể chia sẻ thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Trường được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Cho mình hỏi thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Quốc gia.",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Quốc gia được lựa chọn 01, 02 hoặc 03 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhì được cộng 9.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Ba trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Ba được cộng 9 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 8.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Bạn có thể cho biết thêm về quy định về việc sử dụng điểm được điều chỉnh?",
+    "output": "Điểm được điều chỉnh có thể được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện, tuy nhiên, điều này phụ thuộc vào thời điểm sinh viên đề nghị điều chỉnh điểm."
+  },
+  {
+    "input": "Ngoài việc cộng điểm, sinh viên đạt giải Olympic còn được hưởng lợi ích gì khác?",
+    "output": "Ngoài việc cộng điểm rèn luyện và điều chỉnh điểm môn học, sinh viên đạt giải Olympic còn được tặng Giấy khen và phần thưởng của Hiệu trưởng."
+  },
+  {
+    "input": "Bạn có thể cho tôi biết thêm về cách thức tính điểm thi Olympic?",
+    "output": "Điểm thi Olympic môn học chấm theo thang điểm 10 và được làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định cụ thể về việc điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic, bạn có thể chia sẻ?",
+    "output": "Bạn có thể xem xét Điều 10 của Quy định để tìm hiểu chi tiết về quy định về điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic."
+  },
+  {
+    "input": "Nếu sinh viên tham gia thi Olympic cấp Quốc gia nhưng không đạt giải, họ có được cộng điểm môn học không?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Làm thế nào để giảng viên được tính giờ giảng dạy Olympic môn học?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ. Họ được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế."
+  },
+  {
+    "input": "Giảng viên được khen thưởng như thế nào khi tham gia giảng dạy Olympic môn học?",
+    "output": "Giảng viên được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay đổi gì so với quy định cũ?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Có trường hợp nào đặc biệt trong việc phân loại giải thưởng cho sinh viên thi Olympic cấp Trường không?",
+    "output": "Trong những trường hợp đặc biệt, phòng Chính trị và Công tác sinh viên cùng Bộ môn trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học trong trường hợp nào?",
+    "output": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia được bảo lưu quyền điều chỉnh điểm môn học."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi được ban hành vào năm nào?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ban hành vào năm 2023."
+  },
+  {
+    "input": "Ai là người đứng đầu trong việc ban hành Quy định về thi Olympic môn học?",
+    "output": "Quyết định ban hành Quy định về thi Olympic các môn học của trường Đại học Thủy lợi được ký bởi Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học này có thay thế quyết định cũ nào không?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Mục tiêu chính của việc tổ chức thi Olympic các môn học là gì?",
+    "output": "Thi Olympic các môn học nhằm động viên, khuyến khích sinh viên phát huy năng lực sáng tạo, thúc đẩy việc cải tiến và nâng cao chất lượng học tập, đồng thời phát hiện và bồi dưỡng những tài năng trong lĩnh vực học thuật."
+  },
+  {
+    "input": "Đối tượng áp dụng của Quy định về thi Olympic môn học là ai?",
+    "output": "Quy định này áp dụng cho cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Olympic môn học được tổ chức ở những cấp độ nào?",
+    "output": "Olympic môn học được tổ chức ở cả cấp Trường và cấp Quốc gia."
+  },
+  {
+    "input": "Để tham gia thi Olympic môn học cấp Trường, sinh viên cần đáp ứng những điều kiện gì?",
+    "output": "Sinh viên cần có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật, có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường sẽ được cộng điểm rèn luyện như thế nào?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Trường sẽ được cộng điểm rèn luyện theo quy định của nhà trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Trường có được điều chỉnh điểm môn học không?",
+    "output": "Sinh viên đạt giải Olympic cấp Trường được điều chỉnh điểm quá trình của môn học tương ứng với môn thi Olympic theo quy định trong phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Để được tham gia thi Olympic cấp Quốc gia, sinh viên phải đáp ứng những yêu cầu gì?",
+    "output": "Sinh viên cần tham gia đầy đủ chương trình bồi dưỡng của môn học, được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia sẽ nhận được những phần thưởng gì?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia được tặng Giấy khen, cộng điểm rèn luyện và được điều chỉnh điểm môn học theo quy định."
+  },
+  {
+    "input": "Làm sao để sinh viên được điều chỉnh điểm môn học khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Sinh viên được điều chỉnh điểm môn học tương ứng với môn thi Olympic cấp Quốc gia theo quy định trong Điều 10 của Quy định."
+  },
+  {
+    "input": "Vai trò của Bộ môn trong việc tổ chức thi Olympic môn học là gì?",
+    "output": "Bộ môn có trách nhiệm lập kế hoạch thi, bồi dưỡng sinh viên, ra đề thi, tổ chức thi, chấm thi và đề xuất giải thưởng cho sinh viên."
+  },
+  {
+    "input": "Ngoài việc lên lớp, giảng viên giảng dạy Olympic môn học còn có nhiệm vụ gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ thực hiện theo đúng lịch trình và yêu cầu của Bộ môn, yêu cầu đại diện sinh viên ghi sổ theo dõi học tập và ký xác nhận sau mỗi buổi lên lớp."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học được hưởng lợi ích gì?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính giờ giảng dạy, được thanh toán theo quy chế chi tiêu nội bộ của trường, được khen thưởng và được xem xét tính thành tích thay thế sáng kiến."
+  },
+  {
+    "input": "Mỗi môn thi Olympic cấp Trường có bao nhiêu giải thưởng tối đa?",
+    "output": "Tổng số giải của mỗi môn thi Olympic cấp Trường không vượt quá 40% tổng số sinh viên dự thi."
+  },
+  {
+    "input": "Có những giải thưởng nào được trao trong kỳ thi Olympic cấp Trường?",
+    "output": "Cơ cấu giải thưởng bao gồm: Giải Nhất, Giải Nhì, Giải Ba và Giải Khuyến khích, đảm bảo hợp lý và được xác định dựa trên điểm thi của sinh viên."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì và giải Ba trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Nhì và giải Ba được cộng 9.5 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Trường được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 9 điểm quá trình của môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng điểm quá trình như thế nào?",
+    "output": "Sinh viên dự thi Olympic môn Tiếng Anh vòng chung kết được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng bao nhiêu điểm quá trình?",
+    "output": "Sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh vòng thi sân khấu hóa được cộng 10 điểm quá trình cho điểm môn học tương ứng với môn thi."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia được cộng 10 điểm quá trình và 7.5 điểm thi kết thúc học phần môn học tương ứng với môn thi cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học sau khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần làm đơn đề nghị điều chỉnh điểm môn học và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày sau khi có kết quả thi."
+  },
+  {
+    "input": "Sinh viên muốn điều chỉnh điểm môn học đã học trước khi thi Olympic phải làm gì?",
+    "output": "Sinh viên cần nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên?",
+    "output": "Phòng Chính trị và Công tác sinh viên chịu trách nhiệm về việc điều chỉnh điểm môn học cho sinh viên sau khi Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Bộ môn có thể tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học không?",
+    "output": "Bộ môn có thể đề nghị tính giờ giảng dạy của giảng viên giảng dạy Olympic môn học vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường."
+  },
+  {
+    "input": "Cho mình hỏi về quy định về bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia?",
+    "output": "Vào đầu năm học, Bộ môn lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Bộ môn bố trí giảng viên bồi dưỡng theo nội dung và khối lượng đã được Ban Giám hiệu phê duyệt, lập kế hoạch chi tiết giảng dạy gửi về phòng Chính trị và Công tác  sinh viên, phòng Đào tạo (để bố trí giảng đường) và phòng Hành chính – Tổng hợp (bộ phận Thanh tra)."
+  },
+  {
+    "input": "Ai chịu trách nhiệm về kinh phí, phương tiện và các vấn đề liên quan khi tổ chức ngày thi Olympic cấp Quốc gia?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao."
+  },
+  {
+    "input": "Bạn có thể chia sẻ thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Trường?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Trường được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Cho mình hỏi thêm về các môn học được chuyển điểm khi sinh viên đạt giải Olympic cấp Quốc gia.",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic môn học cấp Quốc gia được lựa chọn 01, 02 hoặc 03 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhất trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhất được cộng 10 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Nhì trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Nhì được cộng 9.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Ba trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Ba được cộng 9 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Sinh viên đạt giải Khuyến khích trong kỳ thi Olympic cấp Quốc gia được cộng bao nhiêu điểm môn học?",
+    "output": "Sinh viên đạt giải Khuyến khích được cộng 8.5 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Bạn có thể cho biết thêm về quy định về việc sử dụng điểm được điều chỉnh?",
+    "output": "Điểm được điều chỉnh có thể được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện, tuy nhiên, điều này phụ thuộc vào thời điểm sinh viên đề nghị điều chỉnh điểm."
+  },
+  {
+    "input": "Ngoài việc cộng điểm, sinh viên đạt giải Olympic còn được hưởng lợi ích gì khác?",
+    "output": "Ngoài việc cộng điểm rèn luyện và điều chỉnh điểm môn học, sinh viên đạt giải Olympic còn được tặng Giấy khen và phần thưởng của Hiệu trưởng."
+  },
+  {
+    "input": "Bạn có thể cho tôi biết thêm về cách thức tính điểm thi Olympic?",
+    "output": "Điểm thi Olympic môn học chấm theo thang điểm 10 và được làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu về quy định cụ thể về việc điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic, bạn có thể chia sẻ?",
+    "output": "Bạn có thể xem xét Điều 10 của Quy định để tìm hiểu chi tiết về quy định về điều chỉnh điểm môn học cho sinh viên tham gia thi Olympic."
+  },
+  {
+    "input": "Nếu sinh viên tham gia thi Olympic cấp Quốc gia nhưng không đạt giải, họ có được cộng điểm môn học không?",
+    "output": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia nhưng không đạt giải được cộng 8 điểm cho điểm thi kết thúc học phần môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Làm thế nào để giảng viên được tính giờ giảng dạy Olympic môn học?",
+    "output": "Giảng viên giảng dạy Olympic môn học được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ. Họ được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế."
+  },
+  {
+    "input": "Giảng viên được khen thưởng như thế nào khi tham gia giảng dạy Olympic môn học?",
+    "output": "Giảng viên được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi có thay đổi gì so với quy định cũ?",
+    "output": "Quy định về thi Olympic môn học của trường Đại học Thủy lợi thay thế Quyết định số 850/QĐ-ĐHTL ngày 02/5/2013 của Hiệu trưởng trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Có trường hợp nào đặc biệt trong việc phân loại giải thưởng cho sinh viên thi Olympic cấp Trường không?",
+    "output": "Trong những trường hợp đặc biệt, phòng Chính trị và Công tác sinh viên cùng Bộ môn trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học trong trường hợp nào?",
+    "output": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia được bảo lưu quyền điều chỉnh điểm môn học."
+  },
+  {
+    "input": "Quy định về thi Olympic môn học có ghi rõ về việc sử dụng điểm được điều chỉnh để xét học bổng không?",
+    "output": "Điểm được điều chỉnh có thể được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện, tuy nhiên, điều này phụ thuộc vào thời điểm sinh viên đề nghị điều chỉnh điểm. Quy định không nêu rõ chi tiết về việc xét học bổng."
+  },
+  {
+    "input": "Ngoài điểm quá trình, sinh viên đạt giải Olympic cấp Trường còn có thể được điều chỉnh điểm nào khác?",
+    "output": "Ngoài điểm quá trình, sinh viên dự thi Olympic môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh (vòng thi sân khấu hóa) và môn Tiếng Anh (vòng chung kết) được lựa chọn điều chỉnh điểm môn học tương ứng tại phụ lục 1 như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm."
+  },
+  {
+    "input": "Sinh viên được phép chọn điều chỉnh điểm quá trình cho bao nhiêu môn học khi đạt giải Olympic cấp Trường?",
+    "output": "Sinh viên được lựa chọn 01 học phần môn học để chuyển điểm đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng. Đối với các môn thi khác, sinh viên được lựa chọn 01 hoặc 02 học phần môn học để chuyển điểm, cụ thể xem tại phụ lục 1 và phụ lục 2 của Quy định."
+  },
+  {
+    "input": "Học phí của trường Đại học Thuỷ lợi năm nay là bao nhiêu?",
+    "output": "Học phí của trường Đại học Thuỷ lợi được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ tại Nghị định số 81/2021/NĐ-CP ngày 27/8/2021.  Học phí được thông báo công khai trước mỗi năm học và nhằm khuyến khích sinh viên thực hiện kế hoạch học tập đúng thời hạn quy định. Bạn có thể tham khảo thông tin chi tiết về học phí trên website của trường hoặc liên hệ trực tiếp với phòng Tài chính - Kế toán để được tư vấn cụ thể."
+  },
+  {
+    "input": "Em muốn biết điều kiện miễn giảm học phí ở trường?",
+    "output": "Trường Đại học Thuỷ lợi có chính sách miễn giảm học phí cho một số đối tượng sinh viên theo quy định.  Bạn có thể xem chi tiết về đối tượng và điều kiện miễn giảm học phí trong Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em muốn xin học bổng, trường có hỗ trợ gì không?",
+    "output": "Trường Đại học Thuỷ lợi có các chính sách hỗ trợ học tập dành cho sinh viên như: hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội.  Để biết thêm thông tin chi tiết về chính sách hỗ trợ, bạn có thể tham khảo Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em là sinh viên dân tộc thiểu số, em có được hỗ trợ gì không?",
+    "output": "Trường Đại học Thuỷ lợi có chính sách hỗ trợ chi phí học tập dành cho sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước đang học đại học chính quy tại Trường Đại học Thủy lợi. Bạn có thể tham khảo chi tiết về chính sách hỗ trợ chi phí học tập tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em muốn biết về các loại học bổng dành cho sinh viên?",
+    "output": "Trường Đại học Thuỷ lợi có các chính sách hỗ trợ học tập dành cho sinh viên như: hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội.  Để biết thêm thông tin chi tiết về chính sách hỗ trợ, bạn có thể tham khảo Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em muốn hỏi về chính sách hỗ trợ học tập dành cho sinh viên dân tộc thiểu số?",
+    "output": "Trường Đại học Thuỷ lợi có chính sách hỗ trợ chi phí học tập dành cho sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước đang học đại học chính quy tại Trường Đại học Thủy lợi. Ngoài ra, Trường còn hỗ trợ học tập dành cho sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thủy lợi. Bạn có thể tham khảo chi tiết về chính sách hỗ trợ chi phí học tập và hỗ trợ học tập tại Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em muốn biết về trợ cấp xã hội dành cho sinh viên?",
+    "output": "Trường Đại học Thuỷ lợi có chính sách trợ cấp xã hội dành cho sinh viên thuộc một trong các đối tượng sau: sinh viên là người dân tộc ít người ở vùng cao, sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa, sinh viên là người tàn tật theo quy định của Chính phủ tại Nghị định số 81/CP ngày 23 tháng 11 năm 1995, sinh viên có hoàn cảnh đặc biệt khó khăn về kinh tế, vượt khó học tập.  Để biết thêm thông tin chi tiết về chính sách trợ cấp xã hội, bạn có thể tham khảo Quy định về học phí, miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập và trợ cấp xã hội đối với sinh viên Trường Đại học Thuỷ lợi được ban hành kèm theo Quyết định số 1563/QĐ-ĐHTL ngày 25 tháng 10 năm 2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em muốn biết về học phí của trường năm 2023?",
+    "output": "Dựa theo lộ trình tăng học phí từ những năm trước, Đại học Thủy Lợi dự kiến sẽ tăng mức học phí trong khoảng từ 11.000.000 đến 13.000.000 VNĐ/năm. Mức học phí này là tăng thêm khoảng 10% so với năm học trước,"
+  },
+  {
+    "input": "Học phí của ngành Kỹ thuật phần mềm năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Kỹ thuật phần mềm năm học 2023-2024 là 385.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là 390.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí bao nhiêu?",
+    "output": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí 480.000 đồng/kỳ."
+  },
+  {
+    "input": "Năm học 2023-2024, học phí của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Năm học 2023-2024, học phí ngành Quản trị kinh doanh là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình tiên tiến năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình tiên tiến năm học 2023-2024 là 420.000 đồng/tín chỉ cho các môn học Lý luận chính trị, Giáo dục thể chất, Giáo dục quốc phòng, Tiếng Anh nâng cao và 1.000.000 đồng/tín chỉ cho các môn học bằng tiếng Anh và môn tiếng Anh."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là 630.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là 9.375.000 đồng/kỳ hoặc 600.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là 10.125.000 đồng/kỳ hoặc 675.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là 375.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là 310.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là 580.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là 505.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của ngành Kỹ thuật phần mềm năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Kỹ thuật phần mềm năm học 2023-2024 là 385.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là 390.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí bao nhiêu?",
+    "output": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí 480.000 đồng/kỳ."
+  },
+  {
+    "input": "Năm học 2023-2024, học phí của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Năm học 2023-2024, học phí ngành Quản trị kinh doanh là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình tiên tiến năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình tiên tiến năm học 2023-2024 là 420.000 đồng/tín chỉ cho các môn học Lý luận chính trị, Giáo dục thể chất, Giáo dục quốc phòng, Tiếng Anh nâng cao và 1.000.000 đồng/tín chỉ cho các môn học bằng tiếng Anh và môn tiếng Anh."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là 630.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là 9.375.000 đồng/kỳ hoặc 600.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là 10.125.000 đồng/kỳ hoặc 675.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là 375.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là 310.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là 580.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là 505.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của ngành Khoa học sự sống năm 2023-2024 là bao nhiêu?",
+    "output": "Học phí của ngành Khoa học sự sống năm 2023-2024 là 390.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Sinh viên liên thông lên Đại học ngành Công nghệ thông tin đóng học phí bao nhiêu?",
+    "output": "Sinh viên liên thông lên Đại học ngành Công nghệ thông tin đóng học phí 425.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí của ngành Luật kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của ngành Luật kinh tế năm học 2023-2024 là 335.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Kỹ thuật năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Kỹ thuật năm học 2023-2024 là 540.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Công nghệ sinh học là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Công nghệ sinh học là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của ngành Kỹ thuật phần mềm năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Kỹ thuật phần mềm năm học 2023-2024 là 385.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí ngành Thủy văn học cho sinh viên chính quy năm học 2023-2024 là 390.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí bao nhiêu?",
+    "output": "Sinh viên liên thông lên Đại học ngành Kỹ thuật phải đóng học phí 480.000 đồng/kỳ."
+  },
+  {
+    "input": "Năm học 2023-2024, học phí của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Năm học 2023-2024, học phí ngành Quản trị kinh doanh là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình tiên tiến năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình tiên tiến năm học 2023-2024 là 420.000 đồng/tín chỉ cho các môn học Lý luận chính trị, Giáo dục thể chất, Giáo dục quốc phòng, Tiếng Anh nâng cao và 1.000.000 đồng/tín chỉ cho các môn học bằng tiếng Anh và môn tiếng Anh."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường là 630.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Học phí cho chương trình đào tạo Cao học ngành Quản trị kinh doanh là 9.375.000 đồng/kỳ hoặc 600.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường là 10.125.000 đồng/kỳ hoặc 675.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Logistics & quản lý chuỗi cung ứng năm học 2023-2024 là 375.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Thương mại điện tử năm học 2023-2024 là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Ngôn ngữ Trung Quốc năm học 2023-2024 là 310.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học vừa làm vừa học tại cơ sở của trường năm học 2023-2024 là 580.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là 505.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Thủy văn học là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của ngành Khoa học sự sống năm 2023-2024 là bao nhiêu?",
+    "output": "Học phí của ngành Khoa học sự sống năm 2023-2024 là 390.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Sinh viên liên thông lên Đại học ngành Công nghệ thông tin đóng học phí bao nhiêu?",
+    "output": "Sinh viên liên thông lên Đại học ngành Công nghệ thông tin đóng học phí 425.000 đồng/kỳ."
+  },
+  {
+    "input": "Học phí của ngành Luật kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của ngành Luật kinh tế năm học 2023-2024 là 335.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Kỹ thuật năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Kỹ thuật năm học 2023-2024 là 540.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Công nghệ sinh học là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Công nghệ sinh học là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Đại học chính quy ngành Kinh tế xây dựng năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Đại học chính quy ngành Kinh tế xây dựng năm học 2023-2024 là 375.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Quản lý kinh tế năm học 2023-2024 là 9.000.000 đồng/kỳ hoặc 600.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Quản lý kinh tế là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Quản lý kinh tế là 15.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Khoa học môi trường năm học 2023-2024 là 505.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Môi trường đất và nước là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Môi trường đất và nước là 16.000.000 đồng/năm."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Cao học ngành Công nghệ thông tin năm học 2023-2024 là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Cao học ngành Công nghệ thông tin năm học 2023-2024 là 540.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Kỹ thuật là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Kỹ thuật là 18.000.000 đồng/năm."
   }
 ]
