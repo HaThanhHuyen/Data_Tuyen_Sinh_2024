@@ -4359,5 +4359,861 @@
   {
     "input": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Kỹ thuật là bao nhiêu?",
     "output": "Học phí của chương trình đào tạo Nghiên cứu sinh ngành Kỹ thuật là 18.000.000 đồng/năm."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, cho em hỏi trường mình có những hình thức khen thưởng nào ạ?",
+    "output": "Trường mình có các hình thức khen thưởng cho sinh viên như sau: Biểu dương, tặng Giấy khen của Hiệu trưởng kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Em muốn biết tiêu chuẩn để được nhận Giấy khen sinh viên Giỏi cuối năm là gì?",
+    "output": "Để nhận được Giấy khen sinh viên Giỏi cuối năm, em cần đạt kết quả học tập loại Giỏi trở lên và xếp loại rèn luyện từ Tốt trở lên của hai học kỳ trong năm học đó. Đồng thời, em cần đảm bảo các tiêu chuẩn chung như tích cực rèn luyện, chấp hành tốt nội quy, tham gia hoạt động của trường lớp."
+  },
+  {
+    "input": "Sinh viên có thể bị kỷ luật với những hình thức nào ạ?",
+    "output": "Sinh viên có thể bị kỷ luật với các hình thức sau: Khiển trách, Cảnh cáo, Đình chỉ học tập có thời hạn, Buộc thôi học."
+  },
+  {
+    "input": "Nếu sinh viên uống rượu bia trong giờ học thì sẽ bị xử lý như thế nào thưa thầy/cô?",
+    "output": "Theo quy định của trường, sinh viên uống rượu bia trong giờ học sẽ bị xử lý kỷ luật. Hình thức kỷ luật sẽ phụ thuộc vào số lần vi phạm và có thể bao gồm khiển trách, cảnh cáo, đình chỉ học tập 1 năm hoặc buộc thôi học."
+  },
+  {
+    "input": "Em muốn hỏi về quy trình xét khen thưởng sinh viên Giỏi toàn khóa học như thế nào ạ?",
+    "output": "Để được xét khen thưởng sinh viên Giỏi toàn khóa, em cần đáp ứng các tiêu chuẩn: Đã được khen thưởng ít nhất 1 lần trong khóa học, không bị kỷ luật từ khiển trách trở lên, kết quả học tập toàn khóa đạt loại Giỏi trở lên, xếp loại rèn luyện toàn khóa từ Tốt trở lên. Về quy trình xét, lớp sẽ lập danh sách, khoa xét duyệt rồi gửi lên Hội đồng khen thưởng trường, sau đó Hiệu trưởng sẽ công nhận danh hiệu."
+  },
+  {
+    "input": "Nếu em muốn được công nhận là \"Sinh viên có nhiều đóng góp trong hoạt động phong trào\" thì cần những điều kiện gì ạ?",
+    "output": "Để được công nhận danh hiệu \"Sinh viên có nhiều đóng góp trong hoạt động phong trào\", em cần đáp ứng một số điều kiện. Đối với khen thưởng cuối năm học, em cần được phân công quản lý lớp, các tổ chức Đoàn, Hội trong 2 học kỳ chính của năm học, đồng thời lãnh đạo, quản lý tốt (có xác nhận của Khoa, Đoàn) và có kết quả học tập đạt Trung bình khá, rèn luyện đạt Khá trở lên. Đối với khen thưởng toàn khóa, em cần tham gia quản lý lớp, các tổ chức Đoàn, Hội ít nhất 2 năm, trong đó có năm cuối khóa, đạt kết quả học tập Trung bình khá và rèn luyện Khá trở lên toàn khóa."
+  },
+  {
+    "input": "Em nghe nói sinh viên bị kỷ luật sẽ bị ghi vào học bạ, vậy sau bao lâu thì quyết định kỷ luật đó hết hiệu lực ạ?",
+    "output": "Em yên tâm, trường hợp bị khiển trách, nếu trong vòng 3 tháng sau đó em không tái phạm, quyết định kỷ luật sẽ hết hiệu lực. Trường hợp bị cảnh cáo, thời gian này là 6 tháng. Còn với hình thức kỷ luật là đình chỉ học tập có thời hạn, sau khi hết thời hạn đình chỉ, em cần bổ sung một số giấy tờ xác nhận để được xem xét tiếp nhận học tập."
+  },
+  {
+    "input": "Cho em hỏi, tiêu chuẩn để lớp em được công nhận là \"Tập thể lớp Tiên tiến\" trong năm học này là gì ạ?",
+    "output": "Để được công nhận là \"Tập thể lớp Tiên tiến\", lớp mình cần đạt những tiêu chuẩn sau: Ít nhất 25% sinh viên đạt danh hiệu \"Sinh viên Khá\" trở lên (trong đó có dưới 15% sinh viên bị cảnh báo học tập), có cá nhân đạt danh hiệu \"Sinh viên Giỏi\", có sinh viên tham gia Olympic cấp trường, nghiên cứu khoa học cấp khoa trở lên hoặc có thành tích đặc biệt, không có sinh viên bị xếp loại rèn luyện yếu kém và lớp mình phải đạt các tiêu chuẩn chung như: đoàn kết, tham gia hoạt động phong trào tốt,... "
+  },
+  {
+    "input": "Thầy/cô cho em hỏi, nếu sinh viên vi phạm quy định về nộp học phí thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Sinh viên cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định mà không có lý do chính đáng sẽ bị nhà trường xem xét mức độ và có các hình thức xử lý từ nhắc nhở, khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Nếu sinh viên bị đình chỉ học tập có thời hạn vì vi phạm kỷ luật, khi nào thì được đi học lại ạ?",
+    "output": "Khi hết thời hạn bị đình chỉ học tập, em cần nộp cho trường chứng nhận của địa phương về việc chấp hành tốt nghĩa vụ công dân và chứng nhận của cơ quan có thẩm quyền về việc đã chấp hành xong hình phạt (nếu có). Nhà trường sẽ xem xét và tiếp nhận em vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Nếu em bị bắt gặp hút thuốc trong ký túc xá thì có bị kỷ luật không ạ?",
+    "output": "Theo quy định, hút thuốc lá trong ký túc xá là vi phạm nội quy. Hình thức kỷ luật sẽ phụ thuộc vào số lần vi phạm. Từ lần thứ 3 trở lên, em có thể bị xử lý từ khiển trách đến cảnh cáo."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên gian lận trong thi cử thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Gian lận trong thi cử là hành vi vi phạm nghiêm trọng. Tùy theo mức độ vi phạm và quy chế đào tạo của trường, em có thể bị hủy kết quả bài thi, đình chỉ thi hoặc bị kỷ luật với các hình thức nặng hơn."
+  },
+  {
+    "input": "Sinh viên có được phép ở trong ký túc xá của trường khác không ạ?",
+    "output": "Theo quy định, sinh viên trường Đại học Thủy Lợi không được phép ở trong ký túc xá của trường khác. Nếu vi phạm, em có thể bị xử lý kỷ luật theo nội quy của trường."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn của trường mình như thế nào ạ?",
+    "output": "Trường mình có nhiều chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn như: học bổng, vay vốn học tập, miễn giảm học phí,... Em có thể liên hệ với phòng Công tác sinh viên hoặc xem thông tin chi tiết trên website của trường để biết thêm chi tiết."
+  },
+  {
+    "input": "Nếu sinh viên tham gia đánh nhau thì sẽ bị kỷ luật như thế nào ạ?",
+    "output": "Tham gia đánh nhau là hành vi vi phạm rất nghiêm trọng. Tùy vào mức độ, em có thể bị xử lý kỷ luật từ cảnh cáo đến buộc thôi học. Trường hợp nghiêm trọng có thể bị  giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Em muốn biết danh hiệu \"Tập thể lớp Xuất sắc tiêu biểu\" được trao cho lớp nào ạ?",
+    "output": "Danh hiệu \"Tập thể lớp Xuất sắc tiêu biểu\" sẽ được trao cho 1 lớp trong số các lớp đạt danh hiệu \"Tập thể lớp Xuất sắc\" có thành tích nổi bật nhất, ví dụ như có sinh viên đạt danh hiệu \"Sinh viên Xuất sắc\", có sinh viên đạt giải Olympic cấp Quốc gia hoặc giải nghiên cứu khoa học cấp Quốc gia."
+  },
+  {
+    "input": "Hồ sơ xét khen thưởng sinh viên cuối năm học gồm những gì thưa thầy/cô?",
+    "output": "Hồ sơ xét khen thưởng sinh viên cuối năm học sẽ bao gồm: Biên bản họp xét khen thưởng của Khoa, bản đề nghị khen thưởng của Khoa, báo cáo thành tích của cá nhân sinh viên và tập thể lớp đề nghị khen thưởng."
+  },
+  {
+    "input": "Sinh viên có trách nhiệm gì khi bị lập biên bản vi phạm kỷ luật ạ?",
+    "output": "Khi bị lập biên bản vi phạm kỷ luật, sinh viên có trách nhiệm làm bản tự kiểm điểm, nhận rõ hành vi vi phạm của bản thân và đề xuất hình thức kỷ luật. Việc này thể hiện thái độ nghiêm túc và tinh thần cầu thị của sinh viên."
+  },
+  {
+    "input": "Hình thức kỷ luật Cảnh cáo sẽ được áp dụng trong những trường hợp nào ạ?",
+    "output": "Hình thức kỷ luật Cảnh cáo sẽ được áp dụng trong hai trường hợp chính: Thứ nhất, sinh viên đã bị khiển trách nhưng tái phạm. Thứ hai, sinh viên vi phạm ở mức độ nhẹ nhưng mang tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng."
+  },
+  {
+    "input": "Việc khen thưởng và kỷ luật sinh viên ở trường mình được thực hiện dựa trên những nguyên tắc nào ạ?",
+    "output": "Việc khen thưởng và kỷ luật sinh viên ở trường ta được thực hiện dựa trên các nguyên tắc: Chính xác, công khai, dân chủ, công bằng, kịp thời và đúng quy trình trên cơ sở đánh giá đúng trách nhiệm của sinh viên."
+  },
+  {
+    "input": "Em muốn hỏi là điểm trung bình học tập để xét khen thưởng được tính như thế nào ạ?",
+    "output": "Điểm trung bình chung học tập của mỗi học kỳ trong năm học xét khen thưởng được tính dựa trên kết quả tổng kết học phần các môn học lần đầu em đăng ký học trong học kỳ đó (bao gồm cả kỳ chính, kỳ song song và kỳ hè tổ chức trong kỳ chính). Điểm này không bao gồm các môn học Giáo dục thể chất, Giáo dục quốc phòng, văn bằng 2 và các môn học được bảo lưu."
+  },
+  {
+    "input": "Nếu sinh viên bị buộc thôi học thì có được học lại hoặc chuyển trường không ạ?",
+    "output": "Theo quy định của Bộ Giáo dục và Đào tạo, sinh viên bị buộc thôi học sẽ không được học lại hoặc chuyển trường. Đây là hình thức kỷ luật nặng nhất, vì vậy em cần nghiêm túc chấp hành nội quy, quy chế của trường để tránh trường hợp đáng tiếc xảy ra."
+  },
+  {
+    "input": "Ngoài các hình thức kỷ luật đã nêu trong Quy định, nhà trường còn có hình thức xử lý nào khác đối với sinh viên vi phạm không ạ?",
+    "output": "Ngoài các hình thức kỷ luật chính thức, tùy theo mức độ vi phạm, nhà trường có thể xem xét áp dụng các hình thức xử lý khác như: nhắc nhở, phê bình, trừ điểm rèn luyện. Những hình thức này sẽ được áp dụng linh hoạt nhằm giáo dục, răn đe sinh viên."
+  },
+  {
+    "input": "Em muốn biết thêm thông tin về việc xét khen thưởng cho sinh viên hệ vừa làm vừa học thì có thể tìm hiểu ở đâu ạ?",
+    "output": "Em có thể tìm hiểu thêm thông tin về việc xét khen thưởng cho sinh viên hệ vừa làm vừa học trong Quy chế học viên các trường đại học, cao đẳng và TCCN hình thức vừa làm vừa học ban hành kèm theo Thông tư số 09/2010/TT-BGDĐT ngày 10/3/2010 của Bộ trưởng Bộ Giáo dục và Đào tạo. Ngoài ra, em cũng có thể liên hệ với phòng Công tác sinh viên hoặc xem thông tin trên website của trường để biết thêm chi tiết."
+  },
+  {
+    "input": "Hội đồng kỷ luật sinh viên của trường có vai trò như thế nào trong việc xử lý kỷ luật sinh viên ạ?",
+    "output": "Hội đồng kỷ luật sinh viên có vai trò rất quan trọng trong việc xử lý kỷ luật sinh viên. Hội đồng sẽ xem xét hồ sơ, chứng cứ vi phạm, bản tự kiểm điểm của sinh viên,  biên bản của lớp và khoa. Từ đó, Hội đồng sẽ họp xét và đề xuất hình thức kỷ luật với Hiệu trưởng."
+  },
+  {
+    "input": "Trong quá trình xét khen thưởng, nếu cá nhân hoặc tập thể lớp có thành tích đặc biệt xuất sắc thì có được xem xét đặc cách không ạ?",
+    "output": "Trong quá trình xét khen thưởng, nếu cá nhân hoặc tập thể lớp có thành tích đặc biệt xuất sắc, vượt trội so với tiêu chuẩn chung thì sẽ được Hội đồng khen thưởng xem xét và đề nghị Hiệu trưởng khen thưởng đặc cách."
+  },
+  {
+    "input": "Em muốn hỏi là sinh viên có quyền khiếu nại gì khi cho rằng quyết định kỷ luật của nhà trường đối với mình là không đúng?",
+    "output": "Sinh viên có quyền khiếu nại lên Hiệu trưởng nếu cho rằng quyết định kỷ luật của nhà trường đối với mình là không đúng. Khiếu nại phải được lập thành văn bản và gửi đến Hiệu trưởng trong vòng 15 ngày kể từ ngày nhận được quyết định kỷ luật."
+  },
+  {
+    "input": "Trường mình có khen thưởng cho những sinh viên tham gia hoạt động tình nguyện không ạ?",
+    "output": "Có em, trường mình luôn khuyến khích và có hình thức khen thưởng cho sinh viên tích cực tham gia hoạt động tình nguyện, đóng góp cho cộng đồng. Em có thể xem chi tiết các hoạt động tình nguyện và tiêu chuẩn khen thưởng tại Phòng Công tác sinh viên hoặc trên website của trường nhé."
+  },
+  {
+    "input": "Nếu sinh viên bị kỷ luật ở bên ngoài nhà trường thì có bị ảnh hưởng đến kết quả học tập và rèn luyện tại trường không?",
+    "output": "Nếu sinh viên vi phạm pháp luật, bị xử lý kỷ luật ở bên ngoài nhà trường và có quyết định của cơ quan có thẩm quyền, nhà trường sẽ xem xét mức độ vi phạm để có hình thức xử lý kỷ luật phù hợp theo quy định. Việc này có thể ảnh hưởng đến kết quả học tập và rèn luyện của sinh viên tại trường."
+  },
+  {
+    "input": "Nếu sinh viên muốn xin ý kiến đóng góp của giáo viên chủ nhiệm về việc bản thân muốn được xét khen thưởng thì cần làm gì ạ?",
+    "output": "Em nên chủ động gặp trực tiếp giáo viên chủ nhiệm để báo cáo về thành tích học tập, rèn luyện cũng như các hoạt động em đã tham gia. Đồng thời, em có thể xin ý kiến góp ý của giáo viên để hoàn thiện hồ sơ xét khen thưởng của mình."
+  },
+  {
+    "input": "Thời gian xem xét khiếu nại của sinh viên về quyết định kỷ luật là bao lâu ạ?",
+    "output": "Sau khi nhận được khiếu nại của sinh viên về quyết định kỷ luật, Hiệu trưởng sẽ xem xét và có ý kiến trả lời bằng văn bản trong thời hạn 15 ngày, kể từ ngày nhận được đơn khiếu nại."
+  },
+  {
+    "input": "Sinh viên có được quyền tham gia đóng góp ý kiến vào việc xây dựng và sửa đổi Quy định khen thưởng và kỷ luật của trường không ạ?",
+    "output": "Hoàn toàn được em nhé. Sinh viên có quyền tham gia đóng góp ý kiến vào việc xây dựng và sửa đổi Quy định khen thưởng và kỷ luật của trường.  Em có thể gửi ý kiến của mình đến Phòng Công tác sinh viên, Đoàn Thanh niên hoặc Hội Sinh viên để tổng hợp và trình lên Ban Giám hiệu xem xét."
+  },
+  {
+    "input": "Ngoài những nội dung vi phạm được liệt kê trong Quy định, những hành vi nào khác có thể bị xem xét kỷ luật không ạ?",
+    "output": "Ngoài những nội dung đã được liệt kê cụ thể trong Quy định, những hành vi khác của sinh viên nếu được xác định là vi phạm nội quy, quy chế của nhà trường, gây ảnh hưởng xấu đến môi trường giáo dục cũng sẽ bị xem xét và xử lý kỷ luật tùy theo mức độ."
+  },
+  {
+    "input": "Nếu sinh viên có hành vi vi phạm nhưng đã tốt nghiệp thì nhà trường có xem xét kỷ luật nữa không?",
+    "output": "Trường hợp sinh viên có hành vi vi phạm trong thời gian còn là sinh viên của trường nhưng chưa bị phát hiện và xử lý kỷ luật, sau khi đã tốt nghiệp mà nhà trường phát hiện ra thì tùy theo tính chất, mức độ của hành vi vi phạm, Hội đồng kỷ luật xem xét đề xuất hình thức xử lý phù hợp; trường hợp cần thiết, nhà trường có thể đề nghị cơ quan quản lý nhà nước có thẩm quyền xem xét xử lý."
+  },
+  {
+    "input": "Quy định này có áp dụng cho cả sinh viên các hệ đào tạo khác như văn bằng 2, liên thông, ... không ạ?",
+    "output": "Đúng vậy em. Quy định này áp dụng cho tất cả sinh viên đang theo học các hệ đào tạo chính quy (đại học, liên thông, cao đẳng) và hệ vừa làm vừa học của trường Đại học Thủy Lợi."
+  },
+  {
+    "input": "Em muốn xem lại Quy định khen thưởng, kỷ luật sinh viên của trường thì có thể tìm ở đâu ạ?",
+    "output": "Em có thể tìm đọc Quy định khen thưởng, kỷ luật sinh viên của trường trên website của trường, mục Quy định - Chính sách. Hoặc em có thể đến Phòng Công tác sinh viên để được xem bản giấy của Quy định nhé."
+  },
+  {
+    "input": "Trong quá trình xét kỷ luật, sinh viên có được mời người bảo vệ quyền lợi của mình tham gia hay không?",
+    "output": "Trong quá trình xét kỷ luật, để đảm bảo tính khách quan, công bằng, sinh viên có quyền mời người làm chứng hoặc người bảo vệ quyền lợi cho mình tham gia. Người này cần có đơn tự nguyện tham gia và không can thiệp vào quyết định của Hội đồng kỷ luật."
+  },
+  {
+    "input": "Nếu sinh viên vi phạm kỷ luật nhiều lần trong cùng một học kỳ thì có được xem xét giảm nhẹ hình thức kỷ luật không?",
+    "output": "Việc xem xét hình thức kỷ luật phụ thuộc vào tính chất, mức độ, hậu quả của mỗi hành vi vi phạm. Ngay cả khi vi phạm nhiều lần trong cùng một học kỳ nhưng nếu các hành vi vi phạm ở mức độ nhẹ và sinh viên có thái độ ăn năn hối cải thì vẫn có thể được xem xét giảm nhẹ hình thức kỷ luật."
+  },
+  {
+    "input": "Hội đồng khen thưởng của trường được thành lập như thế nào ạ?",
+    "output": "Hội đồng khen thưởng sinh viên của trường được thành lập theo Quy định và do Hiệu trưởng ra quyết định. Hội đồng gồm các thành viên là đại diện lãnh đạo các phòng ban liên quan, đại diện Đoàn Thanh niên, Hội Sinh viên và các Khoa."
+  },
+  {
+    "input": "Ngoài việc bị kỷ luật, sinh viên vi phạm còn phải chịu những trách nhiệm nào khác không?",
+    "output": "Ngoài việc bị kỷ luật theo Quy định, tùy vào mức độ và tính chất của hành vi vi phạm, sinh viên có thể phải chịu những trách nhiệm khác như bồi thường thiệt hại (nếu gây thiệt hại về tài sản), chịu trách nhiệm trước pháp luật (nếu vi phạm pháp luật),... "
+  },
+  {
+    "input": "Nếu sinh viên có ý kiến khác với quyết định của Hiệu trưởng về việc khiếu nại quyết định kỷ luật thì có thể làm gì tiếp theo ạ?",
+    "output": "Nếu sinh viên đã khiếu nại và nhận được quyết định của Hiệu trưởng nhưng vẫn còn ý kiến khác, em có quyền gửi đơn khiếu nại đến Bộ Giáo dục và Đào tạo hoặc khởi kiện ra tòa án có thẩm quyền theo quy định của pháp luật."
+  },
+  {
+    "input": "Quyết định khen thưởng của trường có giá trị trong thời gian bao lâu?",
+    "output": "Quyết định khen thưởng của trường có giá trị vô thời hạn, ghi nhận thành tích của sinh viên trong quá trình học tập tại trường."
+  },
+  {
+    "input": "Trường hợp sinh viên vi phạm kỷ luật nhưng có nhiều đóng góp cho trường, lớp thì có được xem xét giảm nhẹ hình thức kỷ luật không?",
+    "output": "Việc xem xét hình thức kỷ luật sẽ dựa trên nguyên tắc công bằng, khách quan, đánh giá toàn diện các mặt. Trường hợp sinh viên vi phạm kỷ luật nhưng có nhiều đóng góp cho trường, lớp thì Hội đồng kỷ luật sẽ xem xét các đóng góp đó như một tình tiết giảm nhẹ khi quyết định hình thức kỷ luật."
+  },
+  {
+    "input": "Em muốn tìm hiểu kỹ hơn về các chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn của trường, em nên liên hệ với ai ạ?",
+    "output": "Em có thể liên hệ trực tiếp với Phòng Công tác sinh viên hoặc xem thông tin trên website của trường. Ngoài ra, em cũng có thể liên hệ với giáo viên chủ nhiệm, cố vấn học tập hoặc đại diện Đoàn - Hội của lớp, khoa để được hướng dẫn cụ thể hơn nhé."
+  },
+  {
+    "input": "Quy định về khen thưởng, kỷ luật sinh viên có được điều chỉnh, bổ sung không ạ? Và được thực hiện như thế nào?",
+    "output": "Có em. Quy định về khen thưởng, kỷ luật sinh viên có thể được điều chỉnh, bổ sung cho phù hợp với tình hình thực tế và quy định mới của Bộ Giáo dục và Đào tạo. Việc sửa đổi, bổ sung phải được thực hiện công khai, minh bạch, có sự tham gia góp ý của các bên liên quan, đặc biệt là sinh viên, và được ban hành theo quy định."
+  },
+  {
+    "input": "Em muốn tham gia đóng góp ý kiến cho việc sửa đổi Quy định khen thưởng, kỷ luật sinh viên thì có thể gửi ý kiến của mình qua đâu ạ?",
+    "output": "Trường mình rất hoan nghênh tinh thần đóng góp ý kiến của sinh viên. Em có thể gửi ý kiến đóng góp của mình qua các kênh sau: hộp thư góp ý của Phòng Công tác sinh viên, email của Đoàn Thanh niên - Hội Sinh viên, hoặc trực tiếp gửi ý kiến cho giáo viên chủ nhiệm, cố vấn học tập để tổng hợp và trình lên trường."
+  },
+  {
+    "input": "Nếu sinh viên có hành vi vi phạm nghiêm trọng đến mức phải xử lý kỷ luật nhưng đang trong quá trình điều trị bệnh hiểm nghèo thì nhà trường có xem xét đặc biệt gì không?",
+    "output": "Trong trường hợp này, nhà trường sẽ xem xét cụ thể tình hình sức khỏe, hoàn cảnh của sinh viên và căn cứ theo quy định của pháp luật để đưa ra hình thức xử lý phù hợp, đảm bảo tính nhân văn và giáo dục."
+  },
+  {
+    "input": "Việc thông báo quyết định khen thưởng, kỷ luật cho sinh viên được thực hiện như thế nào?",
+    "output": "Quyết định khen thưởng, kỷ luật của Hiệu trưởng sẽ được thông báo công khai tại bảng tin của trường, khoa và gửi trực tiếp đến sinh viên (đối với hình thức kỷ luật từ khiển trách trở lên). Việc này đảm bảo tính công khai, minh bạch trong công tác khen thưởng, kỷ luật của nhà trường."
+  },
+  {
+    "input": "Ngoài việc bị ghi vào hồ sơ, quyết định kỷ luật có ảnh hưởng gì đến việc xét tốt nghiệp của sinh viên không ạ?",
+    "output": "Hình thức kỷ luật cảnh cáo trở lên sẽ được ghi vào hồ sơ và có thể ảnh hưởng đến việc xét tốt nghiệp của sinh viên. Cụ thể, sinh viên có thể bị hạn chế một số quyền lợi như: không được công nhận danh hiệu tốt nghiệp loại giỏi, không được xét tuyển thẳng lên bậc học cao hơn,... "
+  },
+  {
+    "input": "Nếu phát hiện hành vi vi phạm của bạn cùng lớp, em có trách nhiệm gì không ạ?",
+    "output": "Là một sinh viên trường Đại học Thủy Lợi, em có trách nhiệm xây dựng môi trường học tập lành mạnh, tích cực. Nếu phát hiện bạn cùng lớp có hành vi vi phạm, em nên góp ý trực tiếp hoặc báo cáo sự việc cho giáo viên chủ nhiệm, cố vấn học tập hoặc Ban cán sự lớp để có biện pháp xử lý kịp thời, giúp bạn sửa chữa lỗi lầm."
+  },
+  {
+    "input": "Em có ý tưởng tổ chức hoạt động ngoại khóa rất hay và muốn xin ý kiến của Phòng Công tác sinh viên, em nên làm như thế nào?",
+    "output": "Rất tuyệt vời khi em có ý tưởng tổ chức hoạt động ngoại khóa. Em hãy chuẩn bị một kế hoạch chi tiết về hoạt động đó, sau đó liên hệ với Phòng Công tác sinh viên để đặt lịch hẹn và trình bày ý tưởng. Phòng Công tác sinh viên luôn sẵn sàng hỗ trợ và đồng hành cùng các em trong các hoạt động ý nghĩa."
+  },
+  {
+    "input": "Ngoài website và Phòng Công tác sinh viên, em có thể tra cứu Quy định khen thưởng, kỷ luật ở đâu nữa ạ?",
+    "output": "Ngoài website và Phòng Công tác sinh viên, em có thể tìm đọc Quy định này tại thư viện trường, bảng tin của khoa, hoặc hỏi trực tiếp giáo viên chủ nhiệm, cố vấn học tập của mình."
+  },
+  {
+    "input": "Nếu em muốn tham gia góp ý cho các hoạt động của trường nói chung chứ không riêng gì Quy định khen thưởng, kỷ luật thì có được không ạ?",
+    "output": "Hoàn toàn được em nhé! Nhà trường luôn khuyến khích sinh viên tham gia đóng góp ý kiến để xây dựng trường học ngày càng tốt hơn. Em có thể gửi ý kiến của mình về mọi vấn đề của nhà trường đến các kênh như: Hòm thư góp ý của trường, email của Đoàn Thanh niên - Hội Sinh viên, hoặc trực tiếp trao đổi với giáo viên chủ nhiệm, cố vấn học tập."
+  },
+  {
+    "input": "Nếu em muốn được tư vấn kỹ hơn về Quy chế học vụ của trường, em có thể liên hệ với ai ạ?",
+    "output": "Để được tư vấn kỹ hơn về Quy chế học vụ, em có thể liên hệ trực tiếp Phòng Đào tạo của trường hoặc liên hệ với giáo viên cố vấn học tập của mình để được giải đáp cụ thể nhất."
+  },
+  {
+    "input": "Trường mình có quy định gì về việc sinh viên sử dụng mạng xã hội không ạ?",
+    "output": "Nhà trường khuyến khích sinh viên sử dụng mạng xã hội một cách lành mạnh, có trách nhiệm và tuân thủ pháp luật. Sinh viên cần lưu ý không đăng tải thông tin sai sự thật, không chia sẻ nội dung vi phạm thuần phong mỹ tục, văn hóa Việt Nam. Việc sử dụng mạng xã hội cần góp phần xây dựng hình ảnh đẹp cho bản thân và nhà trường."
+  },
+  {
+    "input": "Nếu em muốn in ấn tài liệu ở trường thì có thể đến đâu ạ?",
+    "output": "Trường mình có các điểm photocopy và in ấn tài liệu ở các khu vực như: gần thư viện, gần các dãy nhà học và ký túc xá. Em có thể dễ dàng tìm thấy và sử dụng dịch vụ."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chương trình thực tập của trường dành cho sinh viên, em nên liên hệ ở đâu ạ?",
+    "output": "Em có thể liên hệ với Phòng Quan hệ quốc tế và Hỗ trợ sinh viên của trường hoặc theo dõi thông tin trên website, fanpage của trường để cập nhật thông tin mới nhất về chương trình thực tập dành cho sinh viên nhé."
+  },
+  {
+    "input": "Ngoài những hoạt động do trường tổ chức, em có thể tham gia các hoạt động ngoại khóa do các tổ chức bên ngoài không ạ?",
+    "output": "Hoàn toàn được em nhé. Nhà trường khuyến khích sinh viên tham gia các hoạt động ngoại khóa bổ ích do các tổ chức uy tín bên ngoài tổ chức. Tuy nhiên, em cần lưu ý lựa chọn những hoạt động phù hợp, đảm bảo an toàn và thông báo cho gia đình, nhà trường biết để được hỗ trợ khi cần thiết."
+  },
+  {
+    "input": "Trường mình có chính sách hỗ trợ gì cho sinh viên sau khi tốt nghiệp không ạ?",
+    "output": "Trường có Trung tâm hỗ trợ sinh viên và cựu sinh viên, hỗ trợ sinh viên tìm kiếm việc làm, giới thiệu việc làm, định hướng nghề nghiệp.  Ngoài ra, nhà trường còn tổ chức các chương trình kết nối doanh nghiệp, ngày hội việc làm, giúp sinh viên tiếp cận với các nhà tuyển dụng tiềm năng."
+  },
+  {
+    "input": "Em muốn đóng góp ý kiến về việc cải thiện chất lượng bữa ăn tại căng tin trường, em có thể làm điều đó như thế nào ạ?",
+    "output": "Em có thể viết ý kiến của mình vào sổ góp ý của căng tin, hoặc gửi email trực tiếp đến Ban quản lý căng tin. Ngoài ra, em cũng có thể phản ánh ý kiến của mình đến Ban quản lý ký túc xá hoặc Phòng Công tác sinh viên để được hỗ trợ."
+  },
+  {
+    "input": "Em muốn đăng ký học lớp kỹ năng mềm do trường tổ chức, em phải làm như thế nào?",
+    "output": "Thông tin về các lớp kỹ năng mềm do trường tổ chức thường được đăng tải trên website, fanpage của trường, bảng tin khoa và các nhóm thông tin sinh viên trên mạng xã hội. Em hãy theo dõi và đăng ký theo hướng dẫn khi có lớp học mới nhé.  Ngoài ra, em cũng có thể liên hệ với Phòng Công tác sinh viên để được tư vấn và hỗ trợ đăng ký."
+  },
+  {
+    "input": "Trường mình có câu lạc bộ tiếng Anh nào cho sinh viên tham gia không ạ?",
+    "output": "Có em, trường mình có Câu lạc bộ tiếng Anh (English Club). Đây là nơi sinh viên có thể giao lưu, học hỏi, nâng cao trình độ tiếng Anh thông qua các hoạt động bổ ích như câu lạc bộ tranh biện, workshop về kỹ năng mềm, các buổi giao lưu với người nước ngoài,... "
+  },
+  {
+    "input": "Em muốn tổ chức một buổi quyên góp sách vở cũ cho trẻ em vùng cao, em có thể liên hệ với bộ phận nào của trường để được hỗ trợ?",
+    "output": "Ý tưởng của em thật tuyệt vời! Em có thể liên hệ với Đoàn Thanh niên - Hội Sinh viên trường hoặc Phòng Công tác sinh viên để trình bày kế hoạch và xin hỗ trợ tổ chức hoạt động ý nghĩa này nhé."
+  },
+  {
+    "input": "Em muốn xin giấy giới thiệu của trường để đi thực tập, em cần chuẩn bị những giấy tờ gì và đến đâu để làm thủ tục ạ?",
+    "output": "Để xin giấy giới thiệu thực tập, em cần chuẩn bị đơn xin giấy giới thiệu, giấy giới thiệu của đơn vị tiếp nhận thực tập (nếu có) và các giấy tờ khác theo yêu cầu của trường. Em có thể đến Phòng Quan hệ quốc tế và Hỗ trợ sinh viên để được hướng dẫn cụ thể và nhận giấy giới thiệu."
+  },
+  {
+    "input": "Em muốn tìm hiểu về chính sách học bổng của trường dành cho sinh viên có thành tích học tập tốt, em nên tham khảo thông tin ở đâu ạ?",
+    "output": "Em có thể tìm hiểu thông tin về chính sách học bổng trên website của trường, mục Học bổng - Hỗ trợ. Ngoài ra, em cũng có thể liên hệ với Phòng Công tác sinh viên hoặc xem thông báo trên bảng tin của khoa để cập nhật thông tin mới nhất về các chương trình học bổng."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên đi học muộn thì sẽ bị xử lý kỷ luật như thế nào ạ?",
+    "output": "Theo quy định, đi học muộn sẽ bị xử lý từ khiển trách đến buộc thôi học tùy theo mức độ và số lần vi phạm. Cụ thể, nếu em đi muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép, nhà trường sẽ xem xét mức độ nghiêm trọng để đưa ra hình thức kỷ luật phù hợp. "
+  },
+  {
+    "input": "Em nghe nói nếu vi phạm nhiều lần sẽ bị kỷ luật nặng hơn, vậy cụ thể số lần vi phạm được tính như thế nào ạ?",
+    "output": "Số lần vi phạm được tính trong toàn bộ khóa học của em, không phân biệt năm học hay học kỳ. Ví dụ, nếu em bị kỷ luật khiển trách vì đi học muộn ở học kỳ 1 năm nhất, và tiếp tục đi học muộn trong học kỳ 2 năm hai thì đó đã được tính là 2 lần vi phạm."
+  },
+  {
+    "input": "Hình thức kỷ luật nặng nhất đối với sinh viên là gì ạ? Và trong trường hợp nào sẽ bị áp dụng hình thức kỷ luật đó?",
+    "output": "Hình thức kỷ luật nặng nhất là buộc thôi học. Hình thức này được áp dụng cho sinh viên đang bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến nhà trường và xã hội; vi phạm pháp luật bị xử phạt tù giam. Ví dụ như tổ chức đánh bạc, buôn bán ma túy, trộm cắp tài sản,... "
+  },
+  {
+    "input": "Em muốn hỏi về việc gian lận trong thi cử. Nếu bị phát hiện thì sinh viên sẽ bị xử lý như thế nào ạ?",
+    "output": "Gian lận thi cử là hành vi bị nghiêm cấm. Tùy theo mức độ vi phạm và quy chế đào tạo, em có thể bị hủy kết quả bài thi, bị kỷ luật từ khiển trách, cảnh cáo, đình chỉ thi hoặc thậm chí là buộc thôi học."
+  },
+  {
+    "input": "Nếu sinh viên uống rượu bia trong ký túc xá thì có bị kỷ luật không ạ?",
+    "output": "Uống rượu bia trong ký túc xá là vi phạm nội quy. Tùy theo mức độ và tần suất vi phạm, sinh viên có thể bị xử lý kỷ luật từ nhắc nhở, khiển trách, cảnh cáo đến buộc thôi học. Nếu gây rối trật tự, ảnh hưởng đến người khác, sinh viên còn có thể bị xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Em nghe nói đánh nhau cũng là hành vi vi phạm kỷ luật. Vậy đánh nhau trong và ngoài trường có bị xử lý khác nhau không ạ?",
+    "output": "Đánh nhau, dù trong hay ngoài trường đều là hành vi vi phạm kỷ luật và pháp luật.  Mức độ xử lý kỷ luật của nhà trường sẽ dựa trên mức độ nghiêm trọng của vụ việc, hậu quả gây ra và thái độ của sinh viên vi phạm. Nếu vụ việc nghiêm trọng, vượt quá thẩm quyền xử lý của nhà trường, sinh viên có thể bị xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Nếu sinh viên bị phát hiện sử dụng ma túy thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Sử dụng ma túy là hành vi vi phạm pháp luật và bị nghiêm cấm trong môi trường giáo dục. Sinh viên bị phát hiện sử dụng ma túy sẽ bị xử lý theo quy định của pháp luật và có thể bị buộc thôi học."
+  },
+  {
+    "input": "Việc tham gia các hoạt động trái phép, gây rối an ninh trật tự có bị xử lý kỷ luật không ạ?",
+    "output": "Chắc chắn rồi em. Sinh viên tham gia các hoạt động trái phép, gây rối an ninh trật tự, chống đối người thi hành công vụ,... sẽ bị xử lý kỷ luật rất nghiêm khắc, từ đình chỉ học tập có thời hạn đến buộc thôi học, đồng thời bị xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Em muốn hỏi, nếu sinh viên bị phát hiện mang tài liệu vào phòng thi thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Mang tài liệu vào phòng thi là hành vi gian lận thi cử nghiêm trọng. Theo quy chế đào tạo và thi của trường, sinh viên vi phạm có thể bị hủy kết quả bài thi, bị cấm thi trong một hoặc nhiều kỳ thi tiếp theo, hoặc thậm chí là bị buộc thôi học, tùy theo mức độ và tính chất của hành vi vi phạm."
+  },
+  {
+    "input": "Nếu em bị bạn cùng phòng lấy cắp tài sản, em nên làm gì? Nhà trường có quy định gì về việc xử lý các trường hợp trộm cắp tài sản trong ký túc xá không ạ?",
+    "output": "Trong trường hợp này, em cần bình tĩnh và thực hiện các bước sau: báo ngay cho Ban quản lý ký túc xá, trình báo cơ quan công an gần nhất, đồng thời thông báo cho gia đình. Nhà trường có quy định nghiêm cấm và xử lý nghiêm các hành vi trộm cắp tài sản trong ký túc xá. Tùy theo mức độ và giá trị tài sản, sinh viên vi phạm có thể bị xử lý kỷ luật từ cảnh cáo đến buộc thôi học và bị xử lý theo quy định của pháp luật."
+  },
+  {
+    "input": "Nếu sinh viên có mâu thuẫn cá nhân với nhau, ví dụ như cãi vã, xích mích, thì có bị xem là vi phạm kỷ luật không?",
+    "output": "Mâu thuẫn, cãi vã, xích mích giữa sinh viên là điều không ai mong muốn. Tuy nhiên, nếu chỉ dừng lại ở mức độ lời nói, không có hành vi xúc phạm, xâm hại đến người khác thì chưa bị xem là vi phạm kỷ luật.  Tuy nhiên, nhà trường khuyến khích sinh viên nên giải quyết mâu thuẫn bằng cách thức hòa bình, văn minh, tôn trọng lẫn nhau. Nếu cần thiết, sinh viên có thể đề nghị sự hỗ trợ từ giáo viên chủ nhiệm hoặc Ban cán sự lớp."
+  },
+  {
+    "input": "Em có quen một người bạn học trường khác, bạn ấy muốn ở nhờ phòng em trong ký túc xá vài hôm. Như vậy có được không ạ?",
+    "output": "Theo quy định của ký túc xá trường Đại học Thủy lợi, sinh viên không được tự ý cho người ngoài vào ở cùng phòng, kể cả người quen biết. Việc này nhằm đảm bảo an ninh trật tự và môi trường sống an toàn cho sinh viên. Nếu muốn cho bạn ở nhờ, em cần xin phép Ban quản lý ký túc xá và làm đầy đủ thủ tục theo quy định."
+  },
+  {
+    "input": "Nếu sinh viên đăng tải thông tin sai sự thật về trường trên mạng xã hội thì có bị xử lý kỷ luật không?",
+    "output": "Việc đăng tải thông tin sai sự thật về trường trên mạng xã hội có thể bị xem là hành vi gây ảnh hưởng đến uy tín, danh dự của nhà trường. Tùy theo mức độ nghiêm trọng, sinh viên có thể bị xử lý kỷ luật từ khiển trách, cảnh cáo đến buộc thôi học. Bên cạnh đó, sinh viên còn có thể phải chịu trách nhiệm trước pháp luật về hành vi của mình."
+  },
+  {
+    "input": "Nếu em chứng kiến bạn cùng lớp bị người khác bạo lực học đường thì em nên làm gì?",
+    "output": "Bạo lực học đường là hành vi vi phạm pháp luật và bị lên án mạnh mẽ. Nếu chứng kiến bạn cùng lớp bị bạo lực học đường, em cần can ngăn, báo ngay cho thầy cô, Ban giám hiệu nhà trường hoặc cơ quan công an nơi gần nhất để kịp thời ngăn chặn và xử lý vụ việc."
+  },
+  {
+    "input": "Việc sinh viên hút thuốc lá điện tử trong khuôn viên trường có bị cấm không ạ? Nếu vi phạm thì sẽ bị xử lý như thế nào?",
+    "output": "Hiện nay, việc hút thuốc lá điện tử trong khuôn viên trường cũng bị nghiêm cấm tương tự như thuốc lá truyền thống.  Sinh viên vi phạm có thể bị xử lý kỷ luật từ nhắc nhở, khiển trách đến cảnh cáo, tùy theo mức độ và tần suất vi phạm."
+  },
+  {
+    "input": "Em muốn tổ chức sinh nhật trong ký túc xá, em có cần phải xin phép Ban quản lý không ạ?",
+    "output": "Việc tổ chức sinh nhật trong ký túc xá có thể ảnh hưởng đến các bạn cùng phòng và những người xung quanh, vì vậy em nên thông báo trước với Ban quản lý ký túc xá để được xem xét và bố trí chỗ phù hợp (nếu cần thiết).  Điều này giúp đảm bảo trật tự, vệ sinh chung và không làm ảnh hưởng đến mọi người."
+  },
+  {
+    "input": "Em vô tình làm hỏng một số thiết bị trong phòng học, em nên làm gì ạ? ",
+    "output": "Trong trường hợp này, em hãy bình tĩnh và báo cáo ngay sự việc cho giáo viên đang dạy trên lớp hoặc cán bộ quản lý phòng học để được hướng dẫn xử lý. Tùy theo mức độ thiệt hại và thái độ của em, nhà trường sẽ xem xét và có hình thức xử lý phù hợp.  Việc thành thật nhận lỗi và có tinh thần hợp tác sẽ được xem xét giảm nhẹ."
+  },
+  {
+    "input": "Sinh viên có được phép sử dụng các thiết bị điện công suất lớn trong ký túc xá không ạ?",
+    "output": "Để đảm bảo an toàn về điện và phòng chống cháy nổ, ký túc xá thường có quy định hạn chế sử dụng các thiết bị điện công suất lớn như bếp điện, nồi cơm điện, ấm siêu tốc,... Em nên tuân thủ quy định của Ban quản lý ký túc xá để đảm bảo an toàn chung."
+  },
+  {
+    "input": "Nếu em muốn thay đổi ngành học, em cần làm những thủ tục gì ạ?",
+    "output": "Việc chuyển ngành học có những quy định cụ thể, em nên tìm hiểu kỹ Quy chế đào tạo của trường hoặc liên hệ trực tiếp Phòng Đào tạo để được hướng dẫn chi tiết về thủ tục, hồ sơ và điều kiện chuyển ngành."
+  },
+  {
+    "input": "Em muốn xin bảo lưu kết quả học tập, em cần chuẩn bị hồ sơ gì và nộp ở đâu ạ?",
+    "output": "Em cần tìm hiểu kỹ Quy chế đào tạo của trường về điều kiện, thời hạn bảo lưu kết quả học tập. Sau đó, em chuẩn bị đầy đủ hồ sơ theo quy định và nộp tại Phòng Đào tạo của trường để được xem xét."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi học phí ngành Kế toán bên cơ sở 2 là bao nhiêu ạ?",
+    "output": "Chào em, học phí ngành Kế toán tại cơ sở 2 năm học 2022-2023 là 280.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Anh/chị ơi cho em hỏi học phí ngành Ngôn ngữ Anh bên cơ sở 2 như thế nào ạ?",
+    "output": "Chào em, học phí ngành Ngôn ngữ Anh tại cơ sở 2 năm học 2022-2023 là 255.000 đồng/tín chỉ nhé."
+  },
+  {
+    "input": "Em muốn hỏi học phí ngành Công nghệ thông tin ở cơ sở 2, anh chị giúp em với ạ.",
+    "output": "Chào em, học phí ngành Công nghệ thông tin tại cơ sở 2 năm học 2022-2023 là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Cho em hỏi học phí ngành Kỹ thuật Xây dựng Công trình thủy bên mình cơ sở 2 với ạ?",
+    "output": "Chào em, học phí ngành Kỹ thuật Xây dựng Công trình thủy tại cơ sở 2 năm học 2022-2023 là 335.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Em muốn hỏi về ngành Kỹ thuật Tài nguyên nước, học phí cơ sở 2 là bao nhiêu vậy ạ?",
+    "output": "Học phí ngành Kỹ thuật Tài nguyên nước tại cơ sở 2 năm học 2022-2023 là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Anh chị cho em hỏi học phí ngành Kỹ thuật Cấp thoát nước ở cơ sở 2 với ạ?",
+    "output": "Học phí ngành Kỹ thuật Cấp thoát nước tại cơ sở 2 năm học 2022-2023 là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Em muốn biết học phí ngành Quản lý xây dựng tại cơ sở 2 năm nay, anh/chị hỗ trợ em với ạ.",
+    "output": "Năm nay, học phí ngành Quản lý xây dựng tại cơ sở 2 là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi học phí ngành Kỹ thuật XD công trình Giao thông bên cơ sở 2 năm nay là bao nhiêu ạ?",
+    "output": "Học phí ngành Kỹ thuật XD công trình Giao thông bên cơ sở 2 năm nay là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Em muốn tìm hiểu về học phí ngành Logistics và Quản lý chuỗi cung ứng ở cơ sở 2, anh/chị có thể cung cấp thông tin được không ạ?",
+    "output": "Chào em, học phí ngành Logistics và Quản lý chuỗi cung ứng tại cơ sở 2 năm học 2022-2023 là 280.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Ngành Thường mại điện tử học phí tại cơ sở 2 là bao nhiêu vậy anh chị?",
+    "output": "Học phí ngành Thường mại điện tử tại cơ sở 2 năm học 2022-2023 là 280.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Anh chị ơi, em muốn biết học phí của ngành Công nghệ kỹ thuật xây dựng tại cơ sở 2 là bao nhiêu ạ?",
+    "output": "Học phí ngành Công nghệ kỹ thuật xây dựng tại cơ sở 2 năm học 2022-2023 là 335.000 đồng/tín chỉ em nhé."
+  },
+  {
+    "input": "Em muốn hỏi về mức học phí trung bình một kỳ của các ngành ở cơ sở 2, anh/chị có thể cho em biết được không ạ?",
+    "output": "Mức học phí trung bình một kỳ của các ngành ở cơ sở 2 dao động từ khoảng 5.110.000 đồng đến 6.365.500 đồng, tùy thuộc vào số lượng tín chỉ của mỗi ngành em nhé."
+  },
+  {
+    "input": "Tổng số tiền em cần đóng cho cả khóa học ở cơ sở 2 là bao nhiêu vậy ạ?",
+    "output": "Tổng học phí của cả khóa học ở cơ sở 2 phụ thuộc vào ngành học và số tín chỉ của mỗi ngành em nhé. Em có thể tham khảo thêm thông tin chi tiết trên website của trường hoặc liên hệ phòng tuyển sinh để được tư vấn cụ thể hơn."
+  },
+  {
+    "input": "Ngoài học phí ra, em có phải đóng thêm khoản phí nào khác khi học tại cơ sở 2 không ạ?",
+    "output": "Ngoài học phí, em có thể phải đóng thêm một số khoản phí khác như phí nhập học, bảo hiểm y tế, phí ký túc xá (nếu ở ký túc xá)... Em nên liên hệ phòng tài chính hoặc phòng công tác sinh viên của trường để biết thêm chi tiết về các khoản phí này nhé."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi về các môn học nào được tổ chức thi Olympic cấp trường tại trường mình ạ?",
+    "output": "Chào em, tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt em nhé."
+  },
+  {
+    "input": "Em muốn biết điều kiện để sinh viên tham gia thi Olympic môn học cấp trường ở trường mình là gì ạ?",
+    "output": "Để tham gia thi Olympic môn học cấp trường, em cần đáp ứng 2 điều kiện sau: \n- Là sinh viên có ý thức tốt trong học tập, rèn luyện và không vi phạm kỷ luật trong kỳ đăng ký dự thi. \n- Có nguyện vọng và đăng ký dự thi theo kế hoạch của trường."
+  },
+  {
+    "input": "Anh/chị cho em hỏi sinh viên đạt giải Olympic cấp trường sẽ được cộng điểm rèn luyện như thế nào ạ?",
+    "output": "Sinh viên đạt giải Olympic cấp trường sẽ được cộng điểm rèn luyện theo quy định em nhé. Tuy nhiên, mức điểm cụ thể thì còn phụ thuộc vào từng loại giải và quy định của trường trong từng năm."
+  },
+  {
+    "input": "Em muốn hỏi về điều kiện để sinh viên được tham gia thi Olympic môn học cấp Quốc gia thì cần những gì ạ?",
+    "output": "Để tham gia thi Olympic môn học cấp Quốc gia, em cần đáp ứng đủ 2 điều kiện: \n- Tham gia học tập đầy đủ và đạt yêu cầu theo quy định của chương trình bồi dưỡng môn học dự thi do Bộ môn phụ trách. \n- Được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp Quốc gia được hưởng quyền lợi gì anh/chị nhỉ?",
+    "output": "Sinh viên đạt giải Olympic cấp Quốc gia sẽ nhận được những quyền lợi sau: \n- Được tặng Giấy khen và phần thưởng của Hiệu trưởng. \n- Được cộng điểm rèn luyện theo quy định. \n- Được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Em muốn hỏi về quy trình điều chỉnh điểm môn học cho sinh viên đạt giải Olympic được thực hiện như thế nào ạ?",
+    "output": "Quy trình điều chỉnh điểm môn học cho sinh viên đạt giải Olympic được thực hiện như sau: \n- Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (Phụ lục 3) trong vòng 10 ngày sau khi có kết quả thi và nộp cho Bộ môn phụ trách môn thi Olympic. \n- Bộ môn tổng hợp đơn của sinh viên, có ý kiến xác nhận và nộp báo cáo cho trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn). \n- Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn). \n- Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng Khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Môn nào trường mình tổ chức thi Olympic cấp trường vậy anh/chị?",
+    "output": "Tất cả các môn học đều có thể tổ chức thi Olympic cấp trường em nhé, nếu Bộ môn đề xuất và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Em muốn thi Olympic môn học cấp trường, cần điều kiện gì ạ?",
+    "output": "Em cần có ý thức học tập, rèn luyện tốt, không vi phạm kỷ luật và đăng ký dự thi theo kế hoạch của trường."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp trường có được cộng điểm rèn luyện không ạ?",
+    "output": "Có em nhé, mức điểm cụ thể phụ thuộc vào loại giải và quy định của trường."
+  },
+  {
+    "input": "Điều kiện để em được thi Olympic môn học cấp Quốc gia là gì ạ?",
+    "output": "Em cần học tập đầy đủ, đạt yêu cầu chương trình bồi dưỡng của Bộ môn và được Bộ môn, Ban Giám hiệu phê duyệt cho dự thi."
+  },
+  {
+    "input": "Anh/chị ơi, sinh viên đạt giải Olympic cấp Quốc gia được gì ạ?",
+    "output": "Sinh viên đạt giải sẽ được nhận Giấy khen, phần thưởng, cộng điểm rèn luyện và điều chỉnh điểm môn học theo quy định em nhé."
+  },
+  {
+    "input": "Điều chỉnh điểm môn học cho sinh viên đạt giải Olympic như thế nào ạ?",
+    "output": "Sinh viên nộp đơn lên Bộ môn trong 10 ngày sau khi có kết quả. Bộ môn xem xét, gửi báo cáo lên trường. Trường sẽ ra quyết định điều chỉnh và thông báo đến các bên liên quan."
+  },
+  {
+    "input": "Lịch thi Olympic các môn học cấp trường ở đâu vậy anh/chị?",
+    "output": "Đầu năm học, Trường sẽ thông báo các môn thi Olympic, thời gian và hình thức thi em nhé."
+  },
+  {
+    "input": "Hình thức thi Olympic cấp trường như thế nào ạ?",
+    "output": "Hình thức thi do Bộ môn quyết định và thông báo cho sinh viên, tương tự như thi kết thúc học phần nhưng đề thi sẽ khó hơn, mang tính phân loại cao hơn em nhé."
+  },
+  {
+    "input": "Sinh viên đạt giải Olympic cấp trường được cộng bao nhiêu điểm rèn luyện vậy anh/chị?",
+    "output": "Mức điểm cụ thể được quy định trong từng năm học, em có thể xem chi tiết trên website hoặc liên hệ phòng CTSV để biết thêm thông tin."
+  },
+  {
+    "input": "Sinh viên muốn tham gia đội tuyển Olympic cấp Quốc gia cần làm gì ạ?",
+    "output": "Em cần theo dõi thông báo của Bộ môn về việc tuyển sinh, tham gia đầy đủ các buổi bồi dưỡng và thể hiện tốt năng lực của mình em nhé."
+  },
+  {
+    "input": "Ngoài Giấy khen, phần thưởng, điểm rèn luyện, điều chỉnh điểm thì sinh viên đạt giải Olympic cấp Quốc gia còn được gì nữa không ạ?",
+    "output": "Ngoài ra, em còn có cơ hội được ưu tiên xét tuyển học bổng, các chương trình học tập, nghiên cứu trong và ngoài nước nữa đấy."
+  },
+  {
+    "input": "Nếu em được chọn vào đội tuyển Olympic quốc gia nhưng chưa học môn đó thì có được điều chỉnh điểm khi nào học không ạ?",
+    "output": "Được em nhé, em sẽ được bảo lưu quyền điều chỉnh điểm và được điều chỉnh khi em học môn đó."
+  },
+  {
+    "input": "Đăng ký thi Olympic cấp trường ở đâu ạ?",
+    "output": "Em theo dõi thông báo của Phòng CTSV và Bộ môn, sau đó đăng ký theo hướng dẫn em nhé."
+  },
+  {
+    "input": "Giải thưởng cho sinh viên đạt giải Olympic cấp trường là gì ạ?",
+    "output": "Sinh viên đạt giải sẽ được nhận Giấy khen, phần thưởng và những quyền lợi khác theo quy định của trường em nhé."
+  },
+  {
+    "input": "Em muốn tìm hiểu thông tin về cuộc thi Olympic cấp Quốc gia ở đâu ạ?",
+    "output": "Em có thể tìm hiểu thông tin từ Bộ môn, Phòng CTSV hoặc trên website của Bộ Giáo dục và Đào tạo em nhé."
+  },
+  {
+    "input": "Sinh viên năm nhất đã được tham gia đội tuyển Olympic cấp Quốc gia chưa ạ?",
+    "output": "Được em nhé, nếu em đáp ứng đủ điều kiện và được Bộ môn, Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Nếu em đạt giải Olympic cấp Quốc gia môn A nhưng muốn điều chỉnh điểm cho môn B có liên quan được không ạ?",
+    "output": "Được em nhé, nhưng môn A và môn B phải thuộc danh sách các môn được chuyển đổi điểm theo quy định của trường."
+  },
+  {
+    "input": "Em muốn xem danh sách các môn được chuyển đổi điểm ở đâu vậy anh/chị?",
+    "output": "Em xem thông tin trong Quy định về thi Olympic các môn học của trường hoặc liên hệ Phòng CTSV để được giải đáp nhé."
+  },
+  {
+    "input": "Cho em hỏi thời gian thi Olympic cấp trường thường diễn ra khi nào ạ?",
+    "output": "Thường thì sẽ diễn ra vào giữa hoặc cuối học kỳ 1 em nhé, em nhớ theo dõi thông báo cụ thể từ trường."
+  },
+  {
+    "input": "Ngoài điểm rèn luyện, điểm thi Olympic cấp trường có được cộng vào điểm học phần không ạ?",
+    "output": "Không em nhé, điểm thi Olympic chỉ được dùng để xét giải thưởng và cộng điểm rèn luyện thôi."
+  },
+  {
+    "input": "Trường mình có hỗ trợ kinh phí cho sinh viên đi thi Olympic cấp Quốc gia không ạ?",
+    "output": "Có em nhé. Trường sẽ hỗ trợ kinh phí cho các đội tuyển Olympic cấp Quốc gia dựa theo quy định hiện hành."
+  },
+  {
+    "input": "Giảng viên hướng dẫn đội tuyển Olympic có vai trò gì ạ?",
+    "output": "Giảng viên sẽ phụ trách bồi dưỡng kiến thức, kỹ năng cho đội tuyển, đồng thời hỗ trợ, động viên tinh thần cho các em trong suốt quá trình ôn luyện và thi đấu."
+  },
+  {
+    "input": "Sinh viên có phải đóng lệ phí thi Olympic cấp trường và cấp Quốc gia không ạ?",
+    "output": "Thông tin về lệ phí thi sẽ được thông báo cụ thể trong thông báo tổ chức thi của trường và của Bộ Giáo dục và Đào tạo em nhé."
+  },
+  {
+    "input": "Em muốn tham gia thi Olympic nhưng chưa tự tin lắm, trường mình có tổ chức lớp ôn tập gì không ạ?",
+    "output": "Bộ môn sẽ tổ chức các lớp bồi dưỡng cho sinh viên có nguyện vọng tham gia thi Olympic, em nhớ theo dõi thông báo và đăng ký tham gia nhé."
+  },
+  {
+    "input": "Nếu cùng đạt giải Nhất Olympic cấp trường với bạn, làm sao để biết ai được cộng điểm rèn luyện cao hơn ạ?",
+    "output": "Điểm rèn luyện sẽ được cộng dựa trên kết quả học tập, rèn luyện của em trong suốt học kỳ, không chỉ dựa vào giải thưởng Olympic em nhé."
+  },
+  {
+    "input": "Em bận việc đột xuất không thể tham gia thi Olympic cấp trường được, trường có tổ chức thi lại không ạ?",
+    "output": "Thông thường sẽ không tổ chức thi lại em nhé. Em nên sắp xếp thời gian tham gia đầy đủ."
+  },
+  {
+    "input": "Em có thể tham gia thi Olympic cấp Quốc gia ở nhiều môn học khác nhau được không ạ?",
+    "output": "Theo quy định chung thì được em nhé, nhưng em cần cân nhắc sức khỏe và khả năng để tập trung ôn luyện cho hiệu quả."
+  },
+  {
+    "input": "Ngoài giảng viên trong trường, đội tuyển Olympic có được mời giảng viên bên ngoài trường hướng dẫn không ạ?",
+    "output": "Việc này tùy thuộc vào quyết định của Bộ môn và Ban Giám hiệu trường em nhé."
+  },
+  {
+    "input": "Sau khi tốt nghiệp, bằng khen Olympic có giá trị sử dụng trong bao lâu ạ?",
+    "output": "Bằng khen Olympic có giá trị vô thời hạn em nhé."
+  },
+  {
+    "input": "Em muốn xin tài liệu ôn thi Olympic của các năm trước thì liên hệ ở đâu ạ?",
+    "output": "Em có thể liên hệ trực tiếp với Bộ môn phụ trách môn học đó để hỏi xin tài liệu em nhé."
+  },
+  {
+    "input": "Kết quả thi Olympic cấp trường có ảnh hưởng đến kết quả học tập của em không ạ?",
+    "output": "Kết quả thi Olympic cấp trường không ảnh hưởng trực tiếp đến điểm học phần của em. Tuy nhiên, nếu đạt giải, em sẽ được cộng điểm rèn luyện, từ đó có thể ảnh hưởng đến xếp loại học tập của em."
+  },
+  {
+    "input": "Nếu em không đạt giải Olympic cấp trường, liệu có ảnh hưởng đến việc tham gia thi Olympic cấp Quốc gia sau này không ạ?",
+    "output": "Không em nhé. Việc em có được tham gia đội tuyển thi Olympic cấp Quốc gia hay không phụ thuộc vào năng lực và sự thể hiện của em trong quá trình tuyển chọn và ôn luyện của Bộ môn."
+  },
+  {
+    "input": "Ngoài việc được cộng điểm, đạt giải Olympic có giúp ích gì cho hồ sơ xin việc sau này không ạ?",
+    "output": "Chắc chắn rồi em. Các giải thưởng Olympic là minh chứng cho năng lực, sự nỗ lực và tinh thần cầu tiến của em, giúp hồ sơ của em nổi bật hơn trong mắt nhà tuyển dụng."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về kinh nghiệm ôn thi Olympic, trường có tổ chức buổi chia sẻ nào không ạ?",
+    "output": "Một số Bộ môn và các CLB/Đội/Nhóm học thuật của trường có thể tổ chức các buổi chia sẻ kinh nghiệm ôn thi Olympic. Em hãy theo dõi thông báo từ trường, khoa, bộ môn và các CLB/Đội/Nhóm để nắm bắt thông tin nhé."
+  },
+  {
+    "input": "Ngoài thi Olympic các môn học, trường mình còn tổ chức cuộc thi nào khác dành cho sinh viên không anh/chị?",
+    "output": "Ngoài ra, trường còn tổ chức rất nhiều hoạt động ngoại khóa, cuộc thi học thuật, sáng tạo, khởi nghiệp... Em hãy theo dõi website, fanpage của trường, phòng CTSV để cập nhật thông tin nhé."
+  },
+  {
+    "input": "Em muốn đóng góp ý tưởng cho cuộc thi Olympic năm sau thì liên hệ ở đâu ạ?",
+    "output": "Em có thể gửi ý tưởng của mình về cho Bộ môn phụ trách môn học hoặc Phòng CTSV. Nhà trường luôn hoan nghênh và ghi nhận những ý tưởng sáng tạo của sinh viên."
+  },
+  {
+    "input": "Em nghe nói có quy định về số lần được tham gia thi Olympic, đúng không ạ?",
+    "output": "Điều này còn tùy thuộc vào quy định cụ thể của từng môn thi và của từng năm em nhé. Em nên xem kỹ thông báo tổ chức của trường hoặc hỏi trực tiếp Bộ môn phụ trách để nắm rõ hơn."
+  },
+  {
+    "input": "Em có thể tìm đề thi và đáp án của các kỳ thi Olympic các năm trước ở đâu ạ?",
+    "output": "Thông thường, trường và Bộ môn sẽ không công khai rộng rãi đề thi và đáp án của các năm trước. Tuy nhiên, em có thể liên hệ với các anh chị khóa trên hoặc tham khảo một số tài liệu ôn thi Olympic được xuất bản chính thức."
+  },
+  {
+    "input": "Tham gia thi Olympic có giúp em được miễn thi học phần tương ứng không ạ?",
+    "output": "Không em nhé. Kết quả thi Olympic không được sử dụng để miễn thi học phần. Em vẫn phải tham gia đầy đủ các môn học theo chương trình đào tạo."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên đạt giải Olympic trong việc phát triển nghiên cứu khoa học không ạ?",
+    "output": "Có chứ em. Sinh viên đạt giải Olympic thường sẽ được ưu tiên tham gia các đề tài nghiên cứu khoa học, các chương trình học bổng, được các thầy cô hướng dẫn tận tình hơn."
+  },
+  {
+    "input": "Ngoài các quyền lợi đã nêu, em có được ưu tiên gì khi xét tốt nghiệp nếu đạt giải Olympic không ạ?",
+    "output": "Theo quy định hiện hành, việc xét tốt nghiệp không có quy định ưu tiên cho sinh viên đạt giải Olympic. Tuy nhiên, thành tích này sẽ là một điểm cộng rất lớn trong hồ sơ của em khi xét tuyển học bổng, du học hoặc xin việc sau này."
+  },
+  {
+    "input": "Nếu em muốn tham gia tổ chức cuộc thi Olympic cấp trường thì phải làm thế nào ạ?",
+    "output": "Em có thể liên hệ với Bộ môn phụ trách hoặc Phòng CTSV để đăng ký tham gia Ban tổ chức hoặc tình nguyện viên cho cuộc thi. Đây là cơ hội để em học hỏi kinh nghiệm và đóng góp cho hoạt động của trường đấy."
+  },
+  {
+    "input": "Nếu trong quá trình thi Olympic cấp trường có vấn đề bất cập xảy ra, em phải phản ánh ở đâu ạ?",
+    "output": "Em có thể phản ánh trực tiếp với cán bộ coi thi, Ban tổ chức cuộc thi hoặc gửi email về hòm thư của Phòng CTSV để được hỗ trợ."
+  },
+  {
+    "input": "Em có ý tưởng muốn thành lập CLB ôn luyện thi Olympic, trường có hỗ trợ không ạ?",
+    "output": "Có em nhé. Em hãy chuẩn bị kế hoạch cụ thể, chi tiết và liên hệ với Phòng CTSV để được hướng dẫn thành lập CLB theo đúng quy định."
+  },
+  {
+    "input": "Trường có chính sách hỗ trợ gì cho sinh viên có hoàn cảnh khó khăn tham gia thi Olympic không ạ?",
+    "output": "Trường có các chính sách hỗ trợ học bổng, miễn giảm học phí... cho sinh viên có hoàn cảnh khó khăn. Em hãy liên hệ với Phòng Công tác sinh viên để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Em muốn tham khảo kinh nghiệm ôn thi Olympic từ các anh chị đi trước, trường có chương trình kết nối cựu sinh viên đạt giải không ạ?",
+    "output": "Hiện tại trường chưa có chương trình kết nối dành riêng cho cựu sinh viên đạt giải Olympic. Tuy nhiên, em có thể chủ động tìm kiếm thông tin và liên hệ với các anh chị qua các diễn đàn, nhóm cựu sinh viên của trường."
+  },
+  {
+    "input": "Ngoài các cuộc thi Olympic do Bộ GD&ĐT tổ chức, trường mình có tham gia cuộc thi Olympic nào khác không ạ?",
+    "output": "Có thể có em nhé. Một số Bộ môn của trường có thể tham gia các cuộc thi Olympic chuyên ngành do các trường đại học, tổ chức trong và ngoài nước tổ chức. Em hãy theo dõi thông tin từ Bộ môn mình quan tâm."
+  },
+  {
+    "input": "Em muốn đóng góp cho sự thành công của các kỳ thi Olympic do trường tổ chức, em có thể làm gì ạ?",
+    "output": "Bên cạnh việc trực tiếp tham gia thi đấu, em có thể tham gia tình nguyện viên hỗ trợ tổ chức, truyền thông cho cuộc thi. Hãy liên hệ với Phòng CTSV hoặc Bộ môn để đăng ký nhé."
+  },
+  {
+    "input": "Em muốn biết thêm về tiêu chí chấm điểm trong kỳ thi Olympic cấp trường, anh/chị cho em xin thông tin với ạ?",
+    "output": "Tiêu chí chấm điểm cụ thể sẽ do Bộ môn phụ trách môn thi xây dựng và công bố trong thông báo tổ chức thi em nhé. Em hãy theo dõi kỹ thông báo để nắm rõ."
+  },
+  {
+    "input": "Nếu em phát hiện thí sinh khác gian lận trong kỳ thi Olympic, em phải làm gì ạ?",
+    "output": "Em hãy báo cáo ngay lập tức cho cán bộ coi thi để xử lý kịp thời. Việc tố cáo gian lận cần dựa trên tinh thần khách quan, trung thực em nhé."
+  },
+  {
+    "input": "Trường có tổ chức tập huấn kỹ năng gì cho sinh viên trước khi tham gia thi Olympic cấp Quốc gia không ạ?",
+    "output": "Bên cạnh kiến thức chuyên môn, Bộ môn và Phòng CTSV thường tổ chức các buổi tập huấn kỹ năng mềm, kỹ năng thuyết trình, làm việc nhóm,... cho sinh viên trong đội tuyển Olympic quốc gia."
+  },
+  {
+    "input": "Thành tích đạt giải Olympic có được ghi nhận vào bằng tốt nghiệp của em không ạ?",
+    "output": "Hiện tại, theo quy định của Bộ GD&ĐT, thành tích đạt giải Olympic chưa được ghi nhận trực tiếp vào bằng tốt nghiệp. Tuy nhiên, em có thể bổ sung thông tin này vào CV xin việc hoặc học bổng sau này."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên muốn tổ chức các cuộc thi học thuật, kỹ năng khác không ạ?",
+    "output": "Có em nhé. Phòng CTSV luôn sẵn sàng hỗ trợ về mặt thủ tục, kinh phí, địa điểm,... cho các cuộc thi do sinh viên tổ chức. Em hãy liên hệ với phòng để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Em muốn tìm hiểu thông tin về các cuộc thi Olympic quốc tế, trường có kênh thông tin nào hỗ trợ không ạ?",
+    "output": "Em có thể theo dõi website của Bộ GD&ĐT, các trường đại học lớn hoặc các tổ chức giáo dục quốc tế để cập nhật thông tin về các cuộc thi Olympic quốc tế. Ngoài ra, em cũng có thể hỏi trực tiếp thầy cô trong Bộ môn chuyên ngành để được tư vấn thêm."
+  },
+  {
+    "input": "Anh/chị ơi, ngoài Giấy khen thì giải thưởng cho các loại giải Nhất, Nhì, Ba của kỳ thi Olympic cấp trường là gì ạ?",
+    "output": "Ngoài Giấy khen của Trường thì mỗi giải Nhất, Nhì, Ba của kỳ thi Olympic cấp trường đều sẽ nhận được phần thưởng bằng tiền mặt em nhé. Mức thưởng cụ thể cho từng giải sẽ do trường quy định và công bố vào mỗi năm học, thường dao động từ vài trăm nghìn đến vài triệu đồng."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn hỏi rõ hơn về cách tính điểm trong kỳ thi Olympic cấp trường. Điểm được tính như thi cuối kỳ bình thường hay có gì khác không ạ?",
+    "output": "Cách tính điểm thi Olympic cấp trường không giống hoàn toàn như thi cuối kỳ em nhé. Đề thi Olympic thường được thiết kế với độ khó cao hơn, phân hóa năng lực thí sinh rõ rệt hơn. Cách tính điểm cụ thể cho từng phần thi, trọng số của từng phần sẽ do Bộ môn quy định và công bố rõ trong hướng dẫn thi. Em nên xem kỹ thông báo tổ chức thi của môn học mình quan tâm để nắm được cách tính điểm chính xác."
+  },
+  {
+    "input": "Anh/chị ơi, cho em hỏi cách tính điểm và phân loại giải thưởng trong kỳ thi Olympic cấp trường như thế nào ạ?",
+    "output": "Điểm thi Olympic được chấm theo thang điểm 10 và làm tròn đến một chữ số thập phân em nhé. \n\nVề phân loại giải thưởng thì tổng số giải của mỗi môn sẽ không vượt quá 40% tổng số sinh viên dự thi. Cụ thể giải thưởng sẽ gồm: \n- Giải Nhất: dành cho sinh viên có điểm cao nhất, thuộc top 5% thí sinh. \n- Giải Nhì: dành cho sinh viên có điểm thuộc top 10% tiếp theo. \n- Giải Ba: dành cho sinh viên có điểm thuộc top 15% tiếp theo. \n- Giải Khuyến khích: dành cho sinh viên có điểm thuộc top 10% tiếp theo, đồng thời điểm bài thi phải đạt từ 6.0 trở lên. \n\nTrong một số trường hợp đặc biệt, cách tính điểm và phân loại giải thưởng có thể được điều chỉnh cho phù hợp. Em nên xem kỹ thông báo tổ chức thi của từng năm để nắm rõ thông tin."
+  },
+  {
+    "input": "Em muốn biết danh sách các môn thi Olympic cấp Quốc gia mà trường mình tham gia là gì ạ?",
+    "output": "Trường mình tham gia hầu hết các môn thi Olympic cấp Quốc gia do Bộ GD&ĐT tổ chức hàng năm em nhé. Danh sách cụ thể các môn thi sẽ được thông báo vào đầu mỗi năm học."
+  },
+  {
+    "input": "Sinh viên năm mấy thì được tham gia thi Olympic cấp Quốc gia ạ?",
+    "output": "Sinh viên tất cả các khóa đều có quyền tham gia em nhé, miễn là em đáp ứng đủ các điều kiện của trường và của Bộ GD&ĐT."
+  },
+  {
+    "input": "Quy trình để được tham gia thi Olympic cấp Quốc gia diễn ra như thế nào ạ? ",
+    "output": "Đầu tiên, em cần theo dõi thông báo tuyển sinh của Bộ môn phụ trách môn học mình quan tâm. Sau đó, em tham gia vòng tuyển chọn nội bộ của trường. Nếu vượt qua vòng này, em sẽ được tham gia lớp bồi dưỡng và tiếp tục thi tuyển chọn vào đội tuyển chính thức của trường. Cuối cùng, đội tuyển của trường sẽ đại diện tham dự kỳ thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Ngoài việc được điều chỉnh điểm, sinh viên đạt giải Olympic cấp Quốc gia còn được hưởng những quyền lợi gì khác từ trường không ạ?",
+    "output": "Ngoài điều chỉnh điểm, em còn có thể được nhận học bổng, khen thưởng, được ưu tiên tham gia các chương trình trao đổi sinh viên quốc tế, các dự án nghiên cứu khoa học,... "
+  },
+  {
+    "input": "Thời gian thi Olympic cấp Quốc gia thường diễn ra khi nào ạ?",
+    "output": "Kỳ thi Olympic cấp Quốc gia thường diễn ra vào khoảng tháng 3 đến tháng 4 hàng năm em nhé. "
+  },
+  {
+    "input": "Trường mình có hỗ trợ gì cho sinh viên trong quá trình ôn thi Olympic cấp Quốc gia không ạ?",
+    "output": "Có chứ em. Nhà trường sẽ hỗ trợ kinh phí, tài liệu ôn tập, bố trí giảng viên có kinh nghiệm hướng dẫn, tạo điều kiện tốt nhất cho các em trong quá trình ôn luyện."
+  },
+  {
+    "input": "Ngoài các giảng viên của trường, đội tuyển Olympic cấp Quốc gia có được mời thêm chuyên gia bên ngoài hướng dẫn không ạ?",
+    "output": "Có thể có em nhé. Tùy vào tình hình cụ thể của mỗi môn thi, Bộ môn và Trường có thể mời thêm các chuyên gia, giáo sư đầu ngành trong và ngoài nước tham gia giảng dạy, bồi dưỡng cho đội tuyển."
+  },
+  {
+    "input": "Em muốn tham gia đội tuyển Olympic cấp Quốc gia nhưng không biết bắt đầu từ đâu, anh/chị cho em xin lời khuyên ạ?",
+    "output": "Trước hết, em cần trau dồi kiến thức chuyên môn thật vững chắc. Bên cạnh đó, em hãy chủ động tìm hiểu thông tin về cuộc thi, tham gia các lớp bồi dưỡng của Bộ môn, rèn luyện thêm các kỹ năng làm bài, quản lý thời gian,... và quan trọng nhất là giữ vững tinh thần ham học hỏi, quyết tâm cao độ em nhé."
+  },
+  {
+    "input": "Địa điểm thi Olympic cấp Quốc gia được tổ chức ở đâu ạ?",
+    "output": "Địa điểm thi sẽ thay đổi linh hoạt qua từng năm và được Bộ GD&ĐT quy định trong thông báo tổ chức kỳ thi. Thông thường, các địa điểm thi sẽ được đặt tại các trường đại học lớn trên cả nước."
+  },
+  {
+    "input": "Sau khi kết thúc kỳ thi Olympic cấp Quốc gia, sinh viên có được phúc khảo bài thi không ạ?",
+    "output": "Theo quy chế của Bộ GD&ĐT, kỳ thi Olympic cấp Quốc gia không có phúc khảo em nhé."
+  },
+  {
+    "input": "Nếu em đạt giải Olympic cấp Quốc gia, thông tin này có được công bố công khai không ạ?",
+    "output": "Có em nhé. Danh sách sinh viên đạt giải Olympic cấp Quốc gia sẽ được Bộ GD&ĐT công bố công khai trên website và các phương tiện truyền thông đại chúng."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về điều lệ, quy chế của kỳ thi Olympic cấp Quốc gia thì xem ở đâu ạ?",
+    "output": "Em có thể tìm đọc điều lệ, quy chế của kỳ thi Olympic cấp Quốc gia trên website của Bộ GD&ĐT hoặc liên hệ với Phòng CTSV để được cung cấp tài liệu em nhé."
+  },
+  {
+    "input": "Trong quá trình ôn tập thi Olympic cấp Quốc gia, em có được mượn tài liệu của trường hay không ạ?",
+    "output": "Có em nhé. Em có thể liên hệ với thư viện trường hoặc Bộ môn phụ trách để mượn tài liệu liên quan đến môn thi. Ngoài ra, các thầy cô hướng dẫn cũng có thể cung cấp thêm cho em một số tài liệu tham khảo hữu ích."
+  },
+  {
+    "input": "Kinh nghiệm của các anh chị đi trước cho thấy ôn thi Olympic cấp Quốc gia cần đặc biệt lưu ý điều gì ạ?",
+    "output": "Theo kinh nghiệm của các anh chị đi trước, ngoài việc nắm vững kiến thức chuyên môn, em cần rèn luyện kỹ năng quản lý thời gian, kỹ năng phân tích đề, trình bày bài thi sao cho logic, khoa học. Bên cạnh đó, việc giữ gìn sức khỏe và tinh thần thoải mái trong suốt quá trình ôn luyện cũng rất quan trọng."
+  },
+  {
+    "input": "Việc tham gia thi Olympic cấp Quốc gia có ảnh hưởng gì đến việc học tập trên lớp của em không ạ?",
+    "output": "Việc tham gia thi Olympic có thể yêu cầu em dành nhiều thời gian và công sức hơn cho việc ôn luyện. Tuy nhiên, nếu biết cách sắp xếp thời gian hợp lý, em vẫn có thể đảm bảo việc học tập trên lớp. Hơn nữa, kiến thức và kỹ năng ôn luyện cho kỳ thi Olympic cũng sẽ hỗ trợ rất tốt cho việc học tập của em."
+  },
+  {
+    "input": "Ngoài kỳ thi Olympic do Bộ GD&ĐT tổ chức, còn có cuộc thi Olympic nào khác cho sinh viên ngành [ngành học của em] tham gia không ạ?",
+    "output": "Có thể có em nhé. Hiện nay, có rất nhiều cuộc thi Olympic chuyên ngành do các trường đại học, tổ chức, hiệp hội trong và ngoài nước tổ chức. Em có thể tìm hiểu thêm thông tin từ Bộ môn, các thầy cô hoặc trên internet."
+  },
+  {
+    "input": "Nếu em không may mắn đạt giải Olympic cấp Quốc gia thì có ảnh hưởng gì đến kết quả học tập của em không ạ?",
+    "output": "Không em nhé. Kết quả thi Olympic không ảnh hưởng đến điểm số hay kết quả học tập của em trên lớp. Quan trọng là em đã nỗ lực hết mình, tích lũy thêm kiến thức, kỹ năng và có thêm nhiều trải nghiệm quý báu."
+  },
+  {
+    "input": "Em muốn bày tỏ lời cảm ơn đến thầy cô và nhà trường đã hỗ trợ em trong kỳ thi Olympic cấp Quốc gia thì có thể làm như thế nào ạ?",
+    "output": "Em có thể trực tiếp đến gặp thầy cô để bày tỏ lòng biết ơn, hoặc gửi những lời chúc tốt đẹp đến thầy cô qua tin nhắn, email. Ngoài ra, em cũng có thể viết một bài cảm nhận, chia sẻ về hành trình tham gia Olympic của mình và gửi cho Bộ môn, Phòng CTSV để lan tỏa tinh thần học tập tới các bạn sinh viên khác."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn tìm hiểu về trách nhiệm của sinh viên khi tham gia đội tuyển Olympic cấp Quốc gia. Em cần phải làm gì ạ?",
+    "output": "Khi tham gia đội tuyển Olympic cấp Quốc gia, em cần tuân thủ nghiêm túc nội quy, quy định của trường và của Ban tổ chức kỳ thi. Em cần tham gia đầy đủ các buổi tập huấn, ôn luyện do Bộ môn tổ chức, chủ động trau dồi kiến thức, kỹ năng, giữ gìn sức khỏe và tinh thần tốt nhất để tham gia kỳ thi."
+  },
+  {
+    "input": "Ngoài việc tham gia đầy đủ các buổi ôn luyện thì sinh viên khi tham gia thi Olympic cấp Quốc gia còn trách nhiệm gì nữa không ạ?",
+    "output": "Bên cạnh việc tham gia ôn luyện, em còn có trách nhiệm giữ gìn hình ảnh của bản thân và nhà trường trong suốt quá trình tham gia kỳ thi. Em cần thể hiện tinh thần trung thực, fair-play trong thi đấu, có ý thức giữ gìn vệ sinh môi trường và tuân thủ các quy định của địa điểm thi."
+  },
+  {
+    "input": "Vậy quyền lợi của sinh viên khi tham gia thi Olympic cấp Quốc gia là gì ạ?",
+    "output": "Khi tham gia thi Olympic cấp Quốc gia, em sẽ nhận được sự hỗ trợ tối đa từ nhà trường và Bộ môn về kinh phí, tài liệu, điều kiện ôn luyện. Nếu đạt giải, em sẽ được nhận Giấy khen, phần thưởng, cộng điểm rèn luyện, được xem xét điều chỉnh điểm môn học, ưu tiên xét học bổng,... theo quy định."
+  },
+  {
+    "input": "Ngoài những quyền lợi đã nêu, việc tham gia thi Olympic cấp Quốc gia còn mang lại cho sinh viên những lợi ích gì khác không ạ?",
+    "output": "Chắc chắn rồi em. Tham gia thi Olympic cấp Quốc gia không chỉ là cơ hội để em khẳng định bản thân, tích lũy kiến thức, kỹ năng mà còn là dịp để em mở rộng mối quan hệ, giao lưu học hỏi với các bạn sinh viên đến từ nhiều trường đại học khác trên cả nước."
+  },
+  {
+    "input": "Nếu sinh viên vi phạm quy chế thi Olympic cấp Quốc gia thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Tùy theo mức độ vi phạm, em có thể bị khiển trách, hủy kết quả thi hoặc nhận những hình thức kỷ luật khác theo quy định của Bộ GD&ĐT và của Trường."
+  },
+  {
+    "input": "Sinh viên có thể tự ý bỏ thi Olympic cấp Quốc gia sau khi đã được chọn vào đội tuyển hay không ạ?",
+    "output": "Việc tự ý bỏ thi sẽ ảnh hưởng đến uy tín của bản thân, nhà trường và gây lãng phí nguồn lực. Vì vậy, em cần cân nhắc kỹ lưỡng trước khi quyết định tham gia đội tuyển. Nếu có lý do bất khả kháng, em cần báo cáo kịp thời với Bộ môn và nhà trường để có phương án xử lý phù hợp."
+  },
+  {
+    "input": "Trường có hỗ trợ gì cho sinh viên gặp vấn đề về sức khỏe hoặc tâm lý trong quá trình ôn luyện và thi đấu Olympic cấp Quốc gia không ạ?",
+    "output": "Có em nhé. Trường có phòng y tế và bộ phận tư vấn tâm lý sẵn sàng hỗ trợ sinh viên. Bên cạnh đó, thầy cô trong Bộ môn và cán bộ lớp cũng luôn sẵn sàng lắng nghe và hỗ trợ các em."
+  },
+  {
+    "input": "Sau khi đạt giải Olympic cấp Quốc gia, sinh viên có trách nhiệm gì đối với nhà trường không ạ?",
+    "output": "Sau khi đạt giải, em nên chủ động chia sẻ kinh nghiệm ôn luyện, thi đấu của mình cho các bạn sinh viên khác. Đồng thời, em hãy tiếp tục nỗ lực học tập, rèn luyện để đạt được nhiều thành tích hơn nữa, góp phần xây dựng hình ảnh đẹp cho nhà trường."
+  },
+  {
+    "input": "Em nghe nói sinh viên tham gia thi Olympic cấp Quốc gia sẽ được điều chỉnh điểm môn học. Vậy điều chỉnh như thế nào và áp dụng cho những môn nào ạ?",
+    "output": "Đúng rồi em, có hai trường hợp được điều chỉnh điểm: \n\n1. **Sinh viên được chọn vào đội tuyển dự thi Olympic cấp Quốc gia:** Em sẽ được điều chỉnh điểm cho một hoặc một số môn học **tương ứng** với môn thi Olympic (theo quy định của trường). Cách điều chỉnh điểm cụ thể như sau:\n    - **Điểm quá trình và điểm thi giữa kỳ (nếu có):** được điểm tuyệt đối.\n    - **Điểm thi kết thúc học phần:**\n        + Giải Nhất: được 10.0 điểm. \n        + Giải Nhì: được 9.5 điểm.\n        + Giải Ba: được 9.0 điểm.\n        + Giải Khuyến khích: được 8.5 điểm. \n        + Tham dự kỳ thi nhưng không đạt giải: được 8.0 điểm.\n2. **Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển:** Em sẽ được điểm tuyệt đối cho điểm quá trình và 7.5 điểm cho điểm thi kết thúc học phần của một trong các môn học **tương ứng** với môn thi Olympic.\n\nDanh sách các môn học được chuyển đổi điểm cho từng môn thi Olympic được quy định cụ thể tại Phụ lục 2 của Quy định về thi Olympic các môn học của trường. Em có thể xem chi tiết trên website trường hoặc liên hệ với Bộ môn hoặc Phòng CTSV để được giải đáp."
+  },
+  {
+    "input": "Nếu em được chọn vào đội tuyển Olympic Quốc gia nhưng chưa học môn tương ứng thì có được điều chỉnh điểm không ạ?",
+    "output": "Được em nhé. Trường hợp này em sẽ được bảo lưu quyền điều chỉnh điểm. Sau khi em học môn đó và có kết quả, điểm số sẽ được điều chỉnh theo quy định."
+  },
+  {
+    "input": "Điểm được điều chỉnh có được tính vào điểm trung bình tích lũy (GPA) của em không ạ?",
+    "output": "Có em nhé. Điểm được điều chỉnh sẽ được tính vào điểm trung bình tích lũy (GPA) của em và được ghi nhận trên bảng điểm của em."
+  },
+  {
+    "input": "Vậy điểm được điều chỉnh có được dùng để xét học bổng, khen thưởng không ạ?",
+    "output": "Việc sử dụng điểm được điều chỉnh để xét học bổng, khen thưởng sẽ phụ thuộc vào thời điểm em được điều chỉnh điểm và quy định của từng loại học bổng, khen thưởng. \n\n- Nếu em được điều chỉnh điểm trong học kỳ mà em thi Olympic và đăng ký học lần đầu môn học đó, điểm điều chỉnh sẽ được sử dụng để xét học bổng, khen thưởng. \n- Nếu em được điều chỉnh điểm cho môn học đã học ở học kỳ trước, điểm điều chỉnh sẽ không được sử dụng để xét học bổng, khen thưởng ở các kỳ trước đó. \n- Nếu em được điều chỉnh điểm cho môn học mà em đăng ký học sau khi thi Olympic, điểm điều chỉnh sẽ được sử dụng để xét học bổng, khen thưởng từ học kỳ đó."
+  },
+  {
+    "input": "Sau khi có kết quả thi Olympic cấp Quốc gia, em cần làm gì để được điều chỉnh điểm môn học ạ?",
+    "output": "Sau khi có kết quả thi, em cần làm đơn đề nghị điều chỉnh điểm (theo mẫu quy định) và nộp cho Bộ môn phụ trách môn thi Olympic trong vòng 10 ngày. Bộ môn sẽ tổng hợp và trình lên trường phê duyệt. Sau khi được phê duyệt, điểm của em sẽ được cập nhật trên hệ thống."
+  },
+  {
+    "input": "Nếu em muốn điều chỉnh điểm cho một môn học khác, không phải môn đã ghi trong đơn lúc đầu thì có được không ạ?",
+    "output": "Em nên cố gắng nộp đơn điều chỉnh điểm 1 lần duy nhất và ghi rõ ràng, đầy đủ các môn học muốn điều chỉnh theo đúng quy định. Việc thay đổi sau khi đã nộp đơn sẽ phức tạp hơn và cần liên hệ trực tiếp với Bộ môn và phòng CTSV để được hướng dẫn xử lý."
+  },
+  {
+    "input": "Trường hợp em được chọn vào đội tuyển nhưng vì lý do cá nhân nên không thể tham gia thi Quốc Gia, vậy em có được điều chỉnh điểm không ạ?",
+    "output": "Quy định về điều chỉnh điểm thường áp dụng cho sinh viên chính thức tham gia kỳ thi Olympic cấp Quốc gia. Trường hợp của em khá đặc biệt, em nên liên hệ trực tiếp với Bộ môn và phòng CTSV để được xem xét và tư vấn cụ thể."
+  },
+  {
+    "input": "Em đạt giải Khuyến khích Olympic Quốc gia, nhưng điểm thi môn đó của em ở trường đã là 9.0 rồi. Vậy điểm của em có được điều chỉnh lên 9.5 theo quy định không ạ?",
+    "output": "Trong trường hợp điểm thi thực tế của em đã cao hơn so với mức điểm quy định được điều chỉnh, thì điểm số của em sẽ được giữ nguyên là 9.0. Quy định điều chỉnh điểm nhằm đảm bảo quyền lợi tối đa cho sinh viên, không áp dụng trong trường hợp này em nhé."
+  },
+  {
+    "input": "Em muốn biết thêm về quy trình xét duyệt điều chỉnh điểm môn học cho sinh viên đạt giải Olympic cấp Quốc gia được thực hiện như thế nào?",
+    "output": "Sau khi nhận được đơn đề nghị của em, Bộ môn sẽ xem xét, xác nhận kết quả thi Olympic và thành tích học tập của em. Sau đó, Bộ môn sẽ tổng hợp và gửi báo cáo lên Phòng CTSV. Phòng CTSV sẽ trình Ban Giám hiệu xem xét và ra quyết định cuối cùng. Nếu được phê duyệt, điểm của em sẽ được cập nhật trên hệ thống."
+  },
+  {
+    "input": "Thời gian để nhà trường hoàn thành việc điều chỉnh điểm cho sinh viên đạt giải Olympic cấp Quốc gia là bao lâu ạ?",
+    "output": "Thời gian xử lý hồ sơ và điều chỉnh điểm có thể mất khoảng 4-6 tuần kể từ ngày hết hạn nộp đơn. Trong một số trường hợp đặc biệt, thời gian có thể lâu hơn. Em nên theo dõi thông báo của nhà trường và chủ động liên hệ với Bộ môn hoặc Phòng CTSV để nắm bắt tiến độ."
+  },
+  {
+    "input": "Nếu sau khi xem xét, nhà trường không đồng ý điều chỉnh điểm cho em thì sao ạ?",
+    "output": "Trong trường hợp này, Bộ môn hoặc Phòng CTSV sẽ thông báo lý do cụ thể cho em. Em có quyền nộp đơn giải trình (nếu có) hoặc khiếu nại (nếu cảm thấy quyết định chưa thỏa đáng) theo quy định của nhà trường."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, trường mình có quy định gì về việc sinh viên ở trọ bên ngoài không ạ?",
+    "output": "Em cần nắm rõ một số quy định sau khi ở trọ bên ngoài: \n- Sinh viên ngoại trú là sinh viên không ở trong khu nội trú của nhà trường. \n- Sinh viên ngoại trú phải thực hiện các nghĩa vụ theo quy định của pháp luật và nhà trường như: Chấp hành đầy đủ các quy định về an ninh trật tự, an toàn xã hội, phòng chống ma túy,...; Tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao,...\n- Sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú tại nơi đang sinh sống) phải đăng ký tạm trú với công an xã (phường, thị trấn). \n- Tất cả sinh viên ngoại trú (kể cả sinh viên có hộ khẩu thường trú tại nơi đang sinh sống) phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú của mình trong thời hạn 30 ngày, kể từ ngày nhập học. Khi thay đổi chỗ ở, phải báo lại cho nhà trường trong vòng 20 ngày. "
+  },
+  {
+    "input": "Nếu em ở trọ bên ngoài có cần báo cáo gì với nhà trường không?",
+    "output": "Có em nhé. Tất cả sinh viên ở trọ bên ngoài đều phải báo cáo địa chỉ cho nhà trường (qua lớp trưởng) trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cần báo lại cho lớp trưởng trong vòng 20 ngày."
+  },
+  {
+    "input": "Thủ tục để báo cáo địa chỉ ở trọ với nhà trường như thế nào ạ?",
+    "output": "Em chỉ cần báo với lớp trưởng về địa chỉ nơi ở hiện tại. Lớp trưởng sẽ tổng hợp thông tin của các bạn trong lớp và gửi lên nhà trường theo quy định. "
+  },
+  {
+    "input": "Em có hộ khẩu ở tỉnh khác, vậy em có cần phải đăng ký tạm trú khi ở trọ không?",
+    "output": "Có em nhé. Theo quy định, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) nơi em sinh sống."
+  },
+  {
+    "input": "Nhà trường có kiểm tra nơi ở của sinh viên ngoại trú không ạ?",
+    "output": "Nhà trường sẽ phối hợp với các cơ quan chức năng như công an địa phương để kiểm tra việc chấp hành các quy định về ngoại trú của sinh viên, bao gồm cả việc kiểm tra nơi ở. Việc kiểm tra nhằm đảm bảo an ninh trật tự, an toàn cho sinh viên, đồng thời giúp nhà trường nắm bắt được tình hình sinh viên ngoại trú để có biện pháp hỗ trợ kịp thời."
+  },
+  {
+    "input": "Em là sinh viên năm nhất, trường mình có quy định gì về việc sinh viên ở trọ bên ngoài không ạ?",
+    "output": "Em cần nắm rõ một số quy định sau khi ở trọ bên ngoài: \n- Sinh viên ngoại trú là sinh viên không ở trong khu nội trú của nhà trường. \n- Sinh viên ngoại trú phải thực hiện các nghĩa vụ theo quy định của pháp luật và nhà trường như: Chấp hành đầy đủ các quy định về an ninh trật tự, an toàn xã hội, phòng chống ma túy,...; Tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao,...\n- Sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú tại nơi đang sinh sống) phải đăng ký tạm trú với công an xã (phường, thị trấn). \n- Tất cả sinh viên ngoại trú (kể cả sinh viên có hộ khẩu thường trú tại nơi đang sinh sống) phải báo với nhà trường (qua Lớp trưởng) về địa chỉ ngoại trú của mình trong thời hạn 30 ngày, kể từ ngày nhập học. Khi thay đổi chỗ ở, phải báo lại cho nhà trường trong vòng 20 ngày. "
+  },
+  {
+    "input": "Nếu em ở trọ bên ngoài có cần báo cáo gì với nhà trường không?",
+    "output": "Có em nhé. Tất cả sinh viên ở trọ bên ngoài đều phải báo cáo địa chỉ cho nhà trường (qua lớp trưởng) trong vòng 30 ngày kể từ ngày nhập học. Nếu thay đổi chỗ ở, em cần báo lại cho lớp trưởng trong vòng 20 ngày."
+  },
+  {
+    "input": "Thủ tục để báo cáo địa chỉ ở trọ với nhà trường như thế nào ạ?",
+    "output": "Em chỉ cần báo với lớp trưởng về địa chỉ nơi ở hiện tại. Lớp trưởng sẽ tổng hợp thông tin của các bạn trong lớp và gửi lên nhà trường theo quy định. "
+  },
+  {
+    "input": "Em có hộ khẩu ở tỉnh khác, vậy em có cần phải đăng ký tạm trú khi ở trọ không?",
+    "output": "Có em nhé. Theo quy định, sinh viên ngoại trú (trừ sinh viên có hộ khẩu thường trú và đang cư trú tại nơi có hộ khẩu) phải đăng ký tạm trú với công an xã (phường, thị trấn) nơi em sinh sống."
+  },
+  {
+    "input": "Nhà trường có kiểm tra nơi ở của sinh viên ngoại trú không ạ?",
+    "output": "Nhà trường sẽ phối hợp với các cơ quan chức năng như công an địa phương để kiểm tra việc chấp hành các quy định về ngoại trú của sinh viên, bao gồm cả việc kiểm tra nơi ở. Việc kiểm tra nhằm đảm bảo an ninh trật tự, an toàn cho sinh viên, đồng thời giúp nhà trường nắm bắt được tình hình sinh viên ngoại trú để có biện pháp hỗ trợ kịp thời."
+  },
+  {
+    "input": "Nếu em vi phạm quy định về ngoại trú thì sẽ bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, em có thể bị xử lý kỷ luật theo quy định của trường như: khiển trách, cảnh cáo, đình chỉ học tập 1 năm hoặc buộc thôi học. "
+  },
+  {
+    "input": "Em muốn tìm hiểu kỹ hơn về quy định ngoại trú thì xem ở đâu?",
+    "output": "Em có thể tìm hiểu Quy chế học sinh, sinh viên các trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy ban hành kèm theo thông tư số 27/2009/TT-BGDĐT ngày 19/10/2009 của Bộ trưởng Bộ Giáo dục và Đào tạo hoặc liên hệ với Phòng Công tác Chính trị & Quản lý sinh viên của trường để được giải đáp cụ thể hơn em nhé."
+  },
+  {
+    "input": "Nếu em vi phạm quy định về ngoại trú thì sẽ bị xử lý như thế nào?",
+    "output": "Tùy theo mức độ vi phạm, em có thể bị xử lý kỷ luật theo quy định của trường như: khiển trách, cảnh cáo, đình chỉ học tập 1 năm hoặc buộc thôi học. "
+  },
+  {
+    "input": "Em muốn tìm hiểu kỹ hơn về quy định ngoại trú thì xem ở đâu?",
+    "output": "Em có thể tìm hiểu Quy chế học sinh, sinh viên các trường đại học, cao đẳng, trung cấp chuyên nghiệp hệ chính quy ban hành kèm theo thông tư số 27/2009/TT-BGDĐT ngày 19/10/2009 của Bộ trưởng Bộ Giáo dục và Đào tạo hoặc liên hệ với Phòng Công tác Chính trị & Quản lý sinh viên của trường để được giải đáp cụ thể hơn em nhé."
+  },
+  {
+    "input": "Phòng Công tác Chính trị & Quản lý sinh viên ở đâu vậy ạ?",
+    "output": "Em có thể tra cứu thông tin về địa điểm và liên lạc của Phòng Công tác Chính trị & Quản lý sinh viên trên website của trường hoặc hỏi trực tiếp cán bộ lớp/khoa để được hướng dẫn cụ thể hơn nhé."
   }
 ]
