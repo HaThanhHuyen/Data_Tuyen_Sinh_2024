@@ -1,7 +1,7 @@
 [
     {
-      "input": "Em muốn hỏi về điểm chuẩn của ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
-      "output": "Điểm chuẩn ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00 bạn nhé!"
+      "input": "Em muốn hỏi về điểm chuẩn năm 2024 của ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn năm 2024 ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00 bạn nhé!"
     },
     {
       "input": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là bao nhiêu vậy?",
@@ -12,8 +12,8 @@
       "output": "Ngành Công nghệ thông tin xét tuyển dựa trên các tổ hợp A00, A01, D01, và D07. Bạn có thể lựa chọn tổ hợp phù hợp nhất với mình để đăng ký."
     },
     {
-      "input": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
-      "output": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00. Đây là một ngành học khá hot nên điểm chuẩn cũng tương đối cao."
+      "input": "Điểm chuẩn năm 2024 ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
+      "output": "Điểm chuẩn năm 2024 ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00. Đây là một ngành học khá hot nên điểm chuẩn cũng tương đối cao."
     },
     {
       "input": "Cho em hỏi cách tính điểm xét tuyển như thế nào ạ?",
@@ -3221,5 +3221,1297 @@
   {
     "input": "Em muốn tìm hiểu về lịch sử và truyền thống của trường, trường mình thành lập từ khi nào và đã đạt được những thành tựu gì ạ?", 
     "output": "Trường Đại học Thủy lợi được thành lập năm 1959 và là một trong những trường đại học kỹ thuật hàng đầu Việt Nam. Trường đã đạt được nhiều thành tựu trong đào tạo, nghiên cứu khoa học và hợp tác quốc tế."
-  }
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Xây dựng công trình giao thông năm nay là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Xây dựng công trình giao thông là 18.00 điểm em nhé. Điểm chuẩn chính thức sẽ được trường công bố sau khi kỳ thi tốt nghiệp THPT kết thúc."
+  },
+  {
+    "input": "Ngành Quản lý xây dựng lấy bao nhiêu điểm?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản lý xây dựng là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Ô tô là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Ô tô là 20.00 điểm. Điểm chuẩn chính thức sẽ được trường công bố sau khi kỳ thi tốt nghiệp THPT kết thúc."
+  },
+  {
+    "input": "Em muốn học ngành Luật, điểm chuẩn ngành này là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật là 21.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Ngôn ngữ Trung Quốc là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Trung Quốc là 21.00 điểm."
+  },
+  {
+    "input": "Ngành Kỹ thuật cơ khí lấy bao nhiêu điểm?",
+    "output": "Ngưỡng đảm bảo chất lượng của nhóm ngành Kỹ thuật cơ khí (gồm ngành Kỹ thuật cơ khí và Công nghệ chế tạo máy) là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn chương trình tiên tiến ngành Kỹ thuật tài nguyên nước là bao nhiêu?", 
+    "output": "Ngưỡng đảm bảo chất lượng của chương trình tiên tiến ngành Kỹ thuật tài nguyên nước là 18.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kỹ thuật xây dựng công trình thủy là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng công trình thủy là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật xây dựng dân dụng và công nghiệp là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn của ngành Công nghệ kỹ thuật xây dựng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ kỹ thuật xây dựng là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn hỏi điểm chuẩn của ngành Kỹ thuật tài nguyên nước là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật cấp thoát nước là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cấp thoát nước là 18.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024ngành Xây dựng và quản lý hạ tầng đô thị là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng) là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Tài nguyên nước và môi trường (Thủy văn học) là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài nguyên nước và môi trường (Thủy văn học) là 18.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Công nghệ sinh học là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ sinh học là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Kỹ thuật môi trường là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật môi trường là 18.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật hóa học là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật hóa học là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn của ngành Công nghệ thông tin là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ Thông tin là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Hệ thống thông tin là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Hệ thống thông tin là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật phần mềm là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật phần mềm là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Trí tuệ nhân tạo và khoa học dữ liệu là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Trí tuệ nhân tạo và khoa học dữ liệu là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành An ninh mạng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành An ninh mạng là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kỹ thuật cơ điện tử là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cơ điện tử là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật điện là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện là 20.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kỹ thuật điều khiển và tự động hóa là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điều khiển và tự động hóa là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kỹ thuật điện tử - viễn thông là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện tử - viễn thông là 20.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật Robot và Điều khiển thông minh là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Robot và Điều khiển thông minh là 20.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Kinh tế là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị kinh doanh là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kế toán là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kế toán là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Kinh tế xây dựng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế xây dựng là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Logistics và quản lý chuỗi cung ứng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Logistics và quản lý chuỗi cung ứng là 21.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Quản trị dịch vụ du lịch và lữ hành là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị dịch vụ du lịch và lữ hành là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 của ngành Thương mại điện tử là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Thương mại điện tử là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn ngành Tài chính – Ngân hàng là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài chính – Ngân hàng là 21.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn năm 2024 ngành Kiểm toán là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kiểm toán là 21.00 điểm."
+  },
+  {
+    "input": "Điểm chuẩn năm 2024ngành Kinh tế số là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế số là 21.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm chuẩn ngành Luật kinh tế là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật kinh tế là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn của ngành Ngôn ngữ Anh là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Anh là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn năm 2024 chương trình tiên tiến ngành Kỹ thuật xây dựng là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của chương trình tiên tiến ngành Kỹ thuật xây dựng là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng công trình thủy năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng dân dụng và công nghiệp năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng dân dụng và công nghiệp năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ kỹ thuật xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ kỹ thuật xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật xây dựng công trình giao thông năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật xây dựng công trình giao thông năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản lý xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản lý xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật tài nguyên nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật tài nguyên nước năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật cấp thoát nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật cấp thoát nước năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Xây dựng và quản lý hạ tầng đô thị năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Xây dựng và quản lý hạ tầng đô thị năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Tài nguyên nước và môi trường năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Tài nguyên nước và môi trường năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ sinh học năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ sinh học năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật môi trường năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật môi trường năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật hóa học năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật hóa học năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Công nghệ thông tin năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Công nghệ thông tin năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Hệ thống thông tin năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Hệ thống thông tin năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật phần mềm năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật phần mềm năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Trí tuệ nhân tạo và khoa học dữ liệu năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Trí tuệ nhân tạo và khoa học dữ liệu năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn An ninh mạng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn An ninh mạng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí, Công nghệ chế tạo máy) năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí, Công nghệ chế tạo máy) năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật Ô tô năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật Ô tô năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật cơ điện tử năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật cơ điện tử năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điện năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điện năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điều khiển và tự động hóa năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điều khiển và tự động hóa năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật điện tử - viễn thông năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật điện tử - viễn thông năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kỹ thuật Robot và Điều khiển thông minh năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản trị kinh doanh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản trị kinh doanh năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kế toán năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kế toán năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế xây dựng năm 2024 là 20.00."
+  },
+  {
+    "input": "Điểm chuẩn Logistics và quản lý chuỗi cung ứng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Logistics và quản lý chuỗi cung ứng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Quản trị dịch vụ du lịch và lữ hành năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Quản trị dịch vụ du lịch và lữ hành năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Thương mại điện tử năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Thương mại điện tử năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Tài chính – Ngân hàng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Tài chính – Ngân hàng năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kiểm toán năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kiểm toán năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Kinh tế số năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Kinh tế số năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Luật năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Luật năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Luật kinh tế năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Luật kinh tế năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Ngôn ngữ Anh năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Ngôn ngữ Anh năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Ngôn ngữ Trung Quốc năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Ngôn ngữ Trung Quốc năm 2024 là 21.00."
+  },
+  {
+    "input": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật xây dựng năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật xây dựng năm 2024 là 18.00."
+  },
+  {
+    "input": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 là bao nhiêu?",
+    "output": "Điểm chuẩn Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 là 18.00."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng công trình thủy điểm sàn năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng công trình thủy năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Cho em hỏi ngành Công nghệ thông tin điểm sàn xét tuyển học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ thông tin xét tuyển bằng học bạ năm 2023 là 21.00 điểm."
+  },
+  {
+    "input": "Ngành Kỹ thuật Robot và Điều khiển thông minh điểm nhận hồ sơ năm 2023 là bao nhiêu vậy ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Robot và Điều khiển thông minh năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm sàn của ngành Ngôn ngữ Anh xét tuyển bằng học bạ năm 2023 là bao nhiêu vậy Ad?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Anh xét tuyển bằng học bạ năm 2023 là 20.00 điểm bạn nhé."
+  },
+  {
+    "input": "Em muốn học ngành Luật, điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật môi trường điểm sàn xét tuyển học bạ năm 2023 thế nào ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật môi trường xét tuyển bằng học bạ năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn xét tuyển vào ngành Kỹ thuật điện tử - viễn thông bằng học bạ, điểm sàn năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện tử - viễn thông xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm sàn của ngành Kinh tế năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế năm 2023 là 20.00 điểm." 
+  },
+  {
+    "input": "Ngành Logistics và Quản lý chuỗi cung ứng điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Logistics và Quản lý chuỗi cung ứng xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ của ngành Kỹ thuật xây dựng (chương trình tiên tiến) năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng (chương trình tiên tiến) xét tuyển bằng học bạ năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ của ngành Kỹ thuật xây dựng dân dụng và công nghiệp năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng dân dụng và công nghiệp năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Ngành Công nghệ kỹ thuật xây dựng điểm sàn năm 2023 là bao nhiêu vậy ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ kỹ thuật xây dựng năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ ngành Kỹ thuật xây dựng công trình giao thông năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật xây dựng công trình giao thông xét tuyển bằng học bạ năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Em muốn hỏi điểm sàn của ngành Quản lý xây dựng năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản lý xây dựng năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Ngành Kỹ thuật tài nguyên nước năm 2023 điểm sàn là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật tài nguyên nước năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ ngành Kỹ thuật cấp thoát nước năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cấp thoát nước xét tuyển bằng học bạ năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Xây dựng và quản lý hạ tầng đô thị điểm sàn năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Xây dựng và quản lý hạ tầng đô thị năm 2023 là 18.00 điểm."
+  },
+  {
+    "input": "Em muốn biết điểm sàn xét tuyển học bạ ngành Tài nguyên nước và môi trường năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài nguyên nước và môi trường xét tuyển bằng học bạ năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Công nghệ sinh học năm 2023 điểm sàn là bao nhiêu vậy ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Công nghệ sinh học năm 2023 là 18.00 điểm." 
+  },
+  {
+    "input": "Cho em hỏi điểm sàn xét tuyển học bạ của ngành Kỹ thuật hóa học năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật hóa học xét tuyển bằng học bạ năm 2023 là 18.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Hệ thống thông tin điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Hệ thống thông tin xét tuyển bằng học bạ năm 2023 là 21.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm sàn xét tuyển học bạ ngành Kỹ thuật phần mềm năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật phần mềm xét tuyển bằng học bạ năm 2023 là 21.00 điểm."
+  },
+  {
+    "input": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu điểm sàn năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Trí tuệ nhân tạo và khoa học dữ liệu năm 2023 là 21.00 điểm." 
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ của ngành An ninh mạng năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành An ninh mạng xét tuyển bằng học bạ năm 2023 là 21.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm sàn xét tuyển bằng học bạ ngành Kỹ thuật cơ khí năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cơ khí xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Ngành Kỹ thuật Ô tô điểm sàn năm 2023 là bao nhiêu vậy?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật Ô tô năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm sàn xét tuyển học bạ ngành Kỹ thuật cơ điện tử năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật cơ điện tử xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật điện điểm sàn xét tuyển học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điện xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Cho em hỏi điểm sàn xét tuyển học bạ của ngành Kỹ thuật điều khiển và tự động hóa năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kỹ thuật điều khiển và tự động hóa xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Quản trị kinh doanh điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu vậy?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị kinh doanh xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ ngành Kế toán năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kế toán xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Em muốn hỏi điểm sàn xét tuyển học bạ ngành Kinh tế xây dựng năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế xây dựng xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Quản trị dịch vụ du lịch và lữ hành xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Cho em hỏi điểm sàn xét tuyển học bạ của ngành Thương mại điện tử năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Thương mại điện tử xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Ngành Tài chính – Ngân hàng điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Tài chính - Ngân hàng xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết điểm sàn xét tuyển học bạ ngành Kiểm toán năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kiểm toán xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Ngành Kinh tế số điểm sàn xét tuyển bằng học bạ năm 2023 là bao nhiêu vậy ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Kinh tế số xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Điểm sàn xét tuyển học bạ của ngành Luật kinh tế năm 2023 là bao nhiêu ạ?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Luật kinh tế xét tuyển bằng học bạ năm 2023 là 20.00 điểm."
+  },
+  {
+    "input": "Cho em hỏi điểm sàn xét tuyển bằng học bạ ngành Ngôn ngữ Trung Quốc năm 2023 là bao nhiêu?",
+    "output": "Ngưỡng đảm bảo chất lượng của ngành Ngôn ngữ Trung Quốc xét tuyển bằng học bạ năm 2023 là 20.00 điểm em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng công trình thủy xét tuyển những tổ hợp nào?",
+    "output": "Ngành Kỹ thuật xây dựng công trình thủy xét tuyển tổ hợp A00, A01, D01, D07 em nhé."
+  },
+  {
+    "input": "Cho em hỏi ngành Công nghệ thông tin xét tuyển tổ hợp môn nào ạ?",
+    "output": "Ngành Công nghệ thông tin xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật Robot và Điều khiển thông minh xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Kỹ thuật Robot và Điều khiển thông minh xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Ngôn ngữ Anh là gì vậy?",
+    "output": "Ngành Ngôn ngữ Anh xét tuyển tổ hợp A01, D01, D07 và D08 bạn nhé."
+  },
+  {
+    "input": "Em muốn học ngành Luật, trường mình xét tuyển tổ hợp nào ạ?",
+    "output": "Ngành Luật xét tuyển tổ hợp A00, A01, C00 và D01 em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật môi trường trường mình xét tuyển tổ hợp môn nào ạ?",
+    "output": "Ngành Kỹ thuật môi trường xét tuyển tổ hợp A00, A01, B00 và D01 em nhé."
+  },
+  {
+    "input": "Em muốn xét tuyển vào ngành Kỹ thuật điện tử - viễn thông, trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Kỹ thuật điện tử - viễn thông xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kinh tế là gì ạ?",
+    "output": "Ngành Kinh tế xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Logistics và Quản lý chuỗi cung ứng trường mình xét tuyển tổ hợp nào ạ?",
+    "output": "Ngành Logistics và Quản lý chuỗi cung ứng xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng (chương trình tiên tiến) xét tuyển tổ hợp môn nào ạ?",
+    "output": "Ngành Kỹ thuật xây dựng (chương trình tiên tiến) xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kỹ thuật xây dựng dân dụng và công nghiệp là gì ạ?",
+    "output": "Ngành Kỹ thuật xây dựng dân dụng và công nghiệp xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Ngành Công nghệ kỹ thuật xây dựng xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Công nghệ kỹ thuật xây dựng xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Trường mình xét tuyển ngành Kỹ thuật xây dựng công trình giao thông những tổ hợp nào ạ?",
+    "output": "Ngành Kỹ thuật xây dựng công trình giao thông xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Em muốn hỏi tổ hợp xét tuyển của ngành Quản lý xây dựng là gì ạ?",
+    "output": "Ngành Quản lý xây dựng xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Ngành Kỹ thuật tài nguyên nước trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Kỹ thuật tài nguyên nước xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kỹ thuật cấp thoát nước là gì ạ?",
+    "output": "Ngành Kỹ thuật cấp thoát nước xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Xây dựng và quản lý hạ tầng đô thị trường mình xét tuyển tổ hợp nào vậy ạ?",
+    "output": "Ngành Xây dựng và quản lý hạ tầng đô thị xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi về tổ hợp xét tuyển của ngành Tài nguyên nước và môi trường?",
+    "output": "Ngành Tài nguyên nước và môi trường xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Công nghệ sinh học trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Công nghệ sinh học xét tuyển tổ hợp A00, A02, B00 và D08 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kỹ thuật hóa học là gì vậy ạ?",
+    "output": "Ngành Kỹ thuật hóa học xét tuyển tổ hợp A00, B00, D07 và C02 em nhé."
+  },
+  {
+    "input": "Ngành Hệ thống thông tin xét tuyển tổ hợp môn nào ạ?",
+    "output": "Ngành Hệ thống thông tin xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn biết tổ hợp xét tuyển của ngành Kỹ thuật phần mềm là gì?",
+    "output": "Ngành Kỹ thuật phần mềm xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi về tổ hợp xét tuyển của ngành An ninh mạng?",
+    "output": "Ngành An ninh mạng xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật cơ khí trường mình xét tuyển những tổ hợp nào vậy ạ?",
+    "output": "Ngành Kỹ thuật cơ khí xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kỹ thuật Ô tô là gì ạ?",
+    "output": "Ngành Kỹ thuật Ô tô xét tuyển tổ hợp A00, A01, D01 và D07."
+  },
+  {
+    "input": "Ngành Kỹ thuật cơ điện tử trường mình xét tuyển tổ hợp nào ạ?",
+    "output": "Ngành Kỹ thuật cơ điện tử xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi về tổ hợp xét tuyển của ngành Kỹ thuật điện?",
+    "output": "Ngành Kỹ thuật điện xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kỹ thuật điều khiển và tự động hóa trường mình xét tuyển tổ hợp nào vậy ạ?",
+    "output": "Ngành Kỹ thuật điều khiển và tự động hóa xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Quản trị kinh doanh là gì vậy ạ?",
+    "output": "Ngành Quản trị kinh doanh xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kế toán trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Kế toán xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi tổ hợp xét tuyển của ngành Kinh tế xây dựng là gì ạ?",
+    "output": "Ngành Kinh tế xây dựng xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Quản trị dịch vụ du lịch và lữ hành trường mình xét tuyển tổ hợp nào ạ?",
+    "output": "Ngành Quản trị dịch vụ du lịch và lữ hành xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn biết tổ hợp xét tuyển của ngành Thương mại điện tử là gì?",
+    "output": "Ngành Thương mại điện tử xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Tài chính – Ngân hàng trường mình xét tuyển những tổ hợp nào ạ?",
+    "output": "Ngành Tài chính – Ngân hàng xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Tổ hợp xét tuyển của ngành Kiểm toán là gì vậy ạ?",
+    "output": "Ngành Kiểm toán xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Ngành Kinh tế số trường mình xét tuyển tổ hợp nào vậy ạ?",
+    "output": "Ngành Kinh tế số xét tuyển tổ hợp A00, A01, D01 và D07 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi về tổ hợp xét tuyển của ngành Luật kinh tế?",
+    "output": "Ngành Luật kinh tế xét tuyển tổ hợp A00, A01, C00 và D01 em nhé."
+  },
+  {
+    "input": "Ngành Ngôn ngữ Trung Quốc trường mình xét tuyển tổ hợp nào ạ?",
+    "output": "Ngành Ngôn ngữ Trung Quốc xét tuyển tổ hợp A01, D01, D07 và D04 em nhé."
+  },
+  {
+    "input": "Trường Đại học Thủy lợi ở đâu?",
+    "output": "Trường Đại học Thủy lợi có trụ sở chính tại số 175 Tây Sơn, Quận Đống Đa, Hà Nội em nhé."
+  },
+  {
+    "input": "Em muốn liên hệ với trường để hỏi thông tin tuyển sinh thì liên lạc qua đâu ạ?",
+    "output": "Em có thể liên hệ với trường qua số điện thoại 0243.5631537 hoặc email tuyensinh@tlu.edu.vn nhé."
+  },
+  {
+    "input": "Facebook của trường là gì ạ?",
+    "output": "Em có thể tìm kiếm trường trên Facebook với tên \"daihocthuyloi1959\" nhé."
+  },
+  {
+    "input": "Em muốn xem thông tin tuyển sinh trên website thì truy cập vào đâu ạ?",
+    "output": "Em có thể truy cập website của trường tại địa chỉ http://www.tlu.edu.vn để xem thông tin tuyển sinh nhé."
+  },
+  {
+    "input": "Anh/chị ơi, cho em hỏi cách tính điểm xét tuyển như thế nào ạ?",
+    "output": "Để tính điểm xét tuyển (ĐXT), trường sẽ cộng tổng điểm trung bình 3 môn của 5 học kỳ ( lớp 10, 11 và học kỳ 1 lớp 12), điểm ưu tiên khu vực, đối tượng (nếu có) và điểm cộng xét tuyển (nếu có)."
+  },
+  {
+    "input": "Điểm xét tuyển của ngành Ngôn ngữ Anh được tính như thế nào ạ?",
+    "output": "Điểm xét tuyển ngành Ngôn ngữ Anh được tính khác một chút so với các ngành khác, môn ngoại ngữ sẽ được nhân hệ số 2. Công thức cụ thể như sau: (Điểm môn 1 + Điểm môn 2 + Điểm ngoại ngữ * 2)/4*3 + Điểm ưu tiên + Điểm cộng xét tuyển."
+  },
+  {
+    "input": "Anh/chị ơi, em có giải học sinh giỏi cấp tỉnh, em được cộng bao nhiêu điểm ạ?",
+    "output": "Chúc mừng em! Em sẽ được cộng điểm vào điểm xét tuyển dựa vào giải thưởng của em. Giải Nhất được cộng 3 điểm, Giải Nhì được cộng 2.5 điểm, Giải Ba được cộng 2 điểm, và giải Khuyến khích được cộng 1 điểm."
+  },
+  {
+    "input": "Em là học sinh trường chuyên, em được cộng bao nhiêu điểm vậy ạ?",
+    "output": "Nếu em là học sinh trường chuyên, em sẽ được cộng 1 điểm. Nếu em học lớp chuyên thuộc tổ hợp môn xét tuyển của ngành đăng ký, em sẽ được cộng thêm 1 điểm nữa, tổng cộng là 2 điểm."
+  },
+  {
+    "input": "Em có chứng chỉ IELTS 6.5, em được cộng bao nhiêu điểm ạ?",
+    "output": "Với chứng chỉ IELTS 6.5, em sẽ được cộng 2.0 điểm vào điểm xét tuyển. Chúc mừng em!"
+  },
+  {
+    "input": "Em có giải Nhì kỳ thi khoa học kỹ thuật cấp tỉnh, em được cộng bao nhiêu điểm vậy ạ?",
+    "output": "Em sẽ được cộng 1.5 điểm cho giải Nhì kỳ thi khoa học kỹ thuật cấp tỉnh."
+  },
+  {
+    "input": "Em là học sinh giỏi 3 năm liền, vậy em có được cộng điểm xét tuyển không ạ?",
+    "output": "Có em nhé! Em sẽ được cộng 1 điểm vào điểm xét tuyển khi là học sinh giỏi 3 năm liền."
+  },
+  {
+    "input": "Em vừa đạt giải Nhất học sinh giỏi tỉnh, vừa là học sinh giỏi 3 năm, trường sẽ cộng dồn điểm cho em chứ?",
+    "output": "Chắc chắn rồi em! Trường sẽ cộng dồn tất cả các điểm cộng em đủ điều kiện, trường hợp này em sẽ được cộng 3 điểm cho giải Nhất học sinh giỏi tỉnh và 1 điểm cho danh hiệu học sinh giỏi 3 năm, tổng cộng là 4 điểm."
+  },
+  {
+    "input": "Em có chứng chỉ tiếng Pháp DELF B2, em được cộng bao nhiêu điểm ạ?",
+    "output": "Chứng chỉ DELF B2 tương đương với bậc 4 trong Khung năng lực ngoại ngữ Việt Nam, em sẽ được cộng 2.0 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em có chứng chỉ HSK cấp 5, em được cộng bao nhiêu điểm vậy ạ?",
+    "output": "Em sẽ được cộng 3.0 điểm cho chứng chỉ HSK cấp 5, tương đương bậc 5 trong Khung năng lực ngoại ngữ Việt Nam."
+  },
+  {
+    "input": "Em có bằng IELTS 5.0 thì được cộng bao nhiêu điểm ạ?",
+    "output": "Với chứng chỉ IELTS 5.0, em sẽ được cộng 1.0 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em đạt giải Ba kỳ thi Khoa học kỹ thuật cấp tỉnh, ngành em đăng ký xét tuyển có liên quan đến lĩnh vực của kỳ thi, vậy em có được cộng điểm không?",
+    "output": "Có em nhé, em sẽ được cộng 1.0 điểm vào điểm xét tuyển." 
+  },
+  {
+    "input": "Chứng chỉ tiếng Nhật JLPT N3 của em có được cộng điểm không?",
+    "output": "Có em, chứng chỉ JLPT N3 tương đương bậc 4, em sẽ được cộng 2.0 điểm vào điểm xét tuyển." 
+  },
+  {
+    "input": "Em có chứng chỉ tiếng Hàn TOPIK II level 3, em được cộng bao nhiêu điểm vậy ạ?",
+    "output": "Chứng chỉ TOPIK II level 3 tương đương bậc 3, em sẽ được cộng 1.0 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em có chứng chỉ TOEFL iBT 79, em được cộng bao nhiêu điểm khi xét tuyển ạ?",
+    "output": "Chứng chỉ TOEFL iBT 79 của em tương đương bậc 5, em sẽ được cộng 3.0 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em vừa là học sinh trường chuyên, vừa có chứng chỉ tiếng Anh TOEIC 850, em được cộng bao nhiêu điểm ạ?",
+    "output": "Em sẽ được cộng 1 điểm cho diện học sinh trường chuyên và 2 điểm cho chứng chỉ TOEIC 850 (tương đương bậc 4), tổng cộng là 3 điểm."
+  },
+  {
+    "input": "Em đạt giải Khuyến khích kỳ thi học sinh giỏi cấp tỉnh môn Toán, em được cộng bao nhiêu điểm ạ?",
+    "output": "Em sẽ được cộng 1.0 điểm cho giải Khuyến khích học sinh giỏi cấp tỉnh môn Toán."
+  },
+  {
+    "input": "Em có chứng chỉ tiếng Đức TestDaF bậc 4, em được cộng bao nhiêu điểm khi xét tuyển?",
+    "output": "Chứng chỉ TestDaF bậc 4 tương đương bậc 4, em sẽ được cộng 2.0 điểm vào điểm xét tuyển."
+  },
+  {
+    "input": "Em vừa đạt giải Nhất kỳ thi học sinh giỏi quốc gia, vừa có chứng chỉ IELTS 7.0, em được cộng bao nhiêu điểm?",
+    "output": "Với giải Nhất kỳ thi học sinh giỏi quốc gia, em đủ điều kiện xét tuyển thẳng, không cần cộng điểm. Tuy nhiên, chứng chỉ IELTS 7.0 của em vẫn rất hữu ích cho quá trình học tập tại trường."
+  },
+  {
+    "input": "Em muốn đăng ký ngành Kỹ thuật Xây dựng công trình thủy thì mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật Xây dựng công trình thủy là TLA101 em nhé."
+  },
+  {
+    "input": "Em muốn học ngành Công nghệ thông tin, mã tuyển sinh là gì để em đăng ký ạ?",
+    "output": "Mã tuyển sinh của ngành Công nghệ thông tin là TLA106."
+  },
+  {
+    "input": "Anh chị cho em hỏi mã tuyển sinh của ngành Kỹ thuật Robot và Điều khiển thông minh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật Robot và Điều khiển thông minh là TLA128."
+  },
+  {
+    "input": "Em muốn đăng ký xét tuyển ngành Ngôn ngữ Anh, mã ngành là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Ngôn ngữ Anh là TLA203."
+  },
+  {
+    "input": "Em muốn học ngành Luật, mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Luật là TLA301 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh của ngành Kỹ thuật xây dựng dân dụng và công nghiệp là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng dân dụng và công nghiệp là TLA104."
+  },
+  {
+    "input": "Ngành Công nghệ kỹ thuật xây dựng có mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng là TLA111."
+  },
+  {
+    "input": "Anh/chị ơi, mã tuyển sinh của ngành Kỹ thuật xây dựng công trình giao thông là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng công trình giao thông là TLA113 em nhé."
+  },
+  {
+    "input": "Em muốn biết mã tuyển sinh của ngành Quản lý xây dựng là gì?",
+    "output": "Mã tuyển sinh của ngành Quản lý xây dựng là TLA114."
+  },
+  {
+    "input": "Mã ngành Kỹ thuật tài nguyên nước là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật tài nguyên nước là TLA102."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Kỹ thuật cấp thoát nước là gì với ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật cấp thoát nước là TLA107 em nhé."
+  },
+  {
+    "input": "Ngành Xây dựng và quản lý hạ tầng đô thị mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Xây dựng và quản lý hạ tầng đô thị là TLA110."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Tài nguyên nước và môi trường là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Tài nguyên nước và môi trường là TLA103 em nhé."
+  },
+  {
+    "input": "Ngành Công nghệ sinh học có mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Công nghệ sinh học là TLA119."
+  },
+  {
+    "input": "Anh/chị ơi, mã tuyển sinh của ngành Kỹ thuật hóa học là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật hóa học là TLA118."
+  },
+  {
+    "input": "Mã tuyển sinh của ngành Hệ thống thông tin là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Hệ thống thông tin là TLA116."
+  },
+  {
+    "input": "Em muốn biết mã tuyển sinh của ngành Kỹ thuật phần mềm ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật phần mềm là TLA117."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Trí tuệ nhân tạo và khoa học dữ liệu là gì với ạ?",
+    "output": "Mã tuyển sinh của ngành Trí tuệ nhân tạo và khoa học dữ liệu là TLA126."
+  },
+  {
+    "input": "Mã tuyển sinh của ngành An ninh mạng là gì ạ?",
+    "output": "Mã tuyển sinh của ngành An ninh mạng là TLA127."
+  },
+  {
+    "input": "Ngành Kỹ thuật cơ khí có mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật cơ khí là TLA105."
+  },
+  {
+    "input": "Anh/chị ơi, mã tuyển sinh của ngành Kỹ thuật Ô tô là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật Ô tô là TLA123 em nhé."
+  },
+  {
+    "input": "Em muốn biết mã tuyển sinh của ngành Kỹ thuật cơ điện tử ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật cơ điện tử là TLA120."
+  },
+  {
+    "input": "Mã tuyển sinh của ngành Kỹ thuật điện là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật điện là TLA112."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Kỹ thuật điều khiển và tự động hóa là gì với ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật điều khiển và tự động hóa là TLA121 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh của ngành Quản trị kinh doanh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Quản trị kinh doanh là TLA402."
+  },
+  {
+    "input": "Em muốn biết mã tuyển sinh của ngành Kế toán?",
+    "output": "Mã tuyển sinh của ngành Kế toán là TLA403."
+  },
+  {
+    "input": "Anh/chị ơi, mã tuyển sinh của ngành Kinh tế xây dựng là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kinh tế xây dựng là TLA404 em nhé."
+  },
+  {
+    "input": "Mã ngành Quản trị dịch vụ du lịch và lữ hành là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Quản trị dịch vụ du lịch và lữ hành là TLA406."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Thương mại điện tử là gì?",
+    "output": "Mã tuyển sinh của ngành Thương mại điện tử là TLA405 em nhé."
+  },
+  {
+    "input": "Ngành Tài chính – Ngân hàng có mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Tài chính – Ngân hàng là TLA408."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Kiểm toán là gì với ạ?",
+    "output": "Mã tuyển sinh của ngành Kiểm toán là TLA409 em nhé."
+  },
+  {
+    "input": "Mã ngành Kinh tế số là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kinh tế số là TLA410."
+  },
+  {
+    "input": "Em muốn biết mã tuyển sinh của ngành Luật kinh tế ạ?",
+    "output": "Mã tuyển sinh của ngành Luật kinh tế là TLA302."
+  },
+  {
+    "input": "Ngành Ngôn ngữ Trung Quốc có mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Ngôn ngữ Trung Quốc là TLA204."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Kỹ thuật xây dựng (chương trình tiên tiến) là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng (chương trình tiên tiến) là TLA201 em nhé."
+  },
+  {
+    "input": "Cho em hỏi chỉ tiêu ngành Kỹ thuật xây dựng công trình thủy năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Kỹ thuật xây dựng công trình thủy năm 2024 là 140."
+  },
+  {
+    "input": "Ngành Công nghệ thông tin năm nay tuyển bao nhiêu chỉ tiêu vậy ạ?",
+    "output": "Chỉ tiêu ngành Công nghệ thông tin năm 2024 là 120."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu của ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật Robot và Điều khiển thông minh năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Ngôn ngữ Anh năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Ngôn ngữ Anh năm 2024 là 100."
+  },
+  {
+    "input": "Em muốn học ngành Luật, cho em hỏi chỉ tiêu ngành này năm nay là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Luật năm 2024 là 90."
+  },
+  {
+    "input": "Ngành Kỹ thuật xây dựng dân dụng và công nghiệp năm nay tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kỹ thuật xây dựng dân dụng và công nghiệp năm 2024 có 150 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Công nghệ kỹ thuật xây dựng năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Công nghệ kỹ thuật xây dựng năm nay có 180 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kỹ thuật xây dựng công trình giao thông năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Kỹ thuật xây dựng công trình giao thông năm 2024 là 70."
+  },
+  {
+    "input": "Em muốn biết chỉ tiêu ngành Quản lý xây dựng năm nay là bao nhiêu ạ?",
+    "output": "Ngành Quản lý xây dựng năm nay có 180 chỉ tiêu."
+  },
+  {
+    "input": "Ngành Kỹ thuật tài nguyên nước năm 2024 có bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kỹ thuật tài nguyên nước năm 2024 có 90 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Kỹ thuật cấp thoát nước năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật cấp thoát nước năm nay có 100 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Xây dựng và quản lý hạ tầng đô thị năm 2024 là bao nhiêu vậy ạ?",
+    "output": "Ngành Xây dựng và quản lý hạ tầng đô thị năm 2024 có 100 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn biết chỉ tiêu ngành Tài nguyên nước và môi trường năm nay là bao nhiêu ạ?",
+    "output": "Chỉ tiêu ngành Tài nguyên nước và môi trường năm 2024 là 70."
+  },
+  {
+    "input": "Ngành Công nghệ sinh học năm 2024 có bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Công nghệ sinh học năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Kỹ thuật hóa học năm nay là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật hóa học năm nay có 90 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Hệ thống thông tin năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Hệ thống thông tin năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Kỹ thuật phần mềm năm nay là bao nhiêu?",
+    "output": "Ngành Kỹ thuật phần mềm năm 2024 có 90 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Trí tuệ nhân tạo và khoa học dữ liệu năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu năm nay có 100 chỉ tiêu."
+  },
+  {
+    "input": "Ngành An ninh mạng năm nay tuyển bao nhiêu chỉ tiêu vậy ạ?",
+    "output": "Ngành An ninh mạng năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Kỹ thuật cơ khí năm nay là bao nhiêu?",
+    "output": "Ngành Kỹ thuật cơ khí năm 2024 có 190 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kỹ thuật Ô tô năm 2024 là bao nhiêu vậy ạ?",
+    "output": "Ngành Kỹ thuật Ô tô năm 2024 có 140 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Kỹ thuật cơ điện tử năm nay là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật cơ điện tử năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Ngành Kỹ thuật điện năm 2024 có bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kỹ thuật điện năm 2024 có 120 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kỹ thuật điều khiển và tự động hóa năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Kỹ thuật điện tử - viễn thông năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kỹ thuật điện tử - viễn thông năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Ngành Kinh tế năm nay tuyển bao nhiêu chỉ tiêu vậy ạ?",
+    "output": "Ngành Kinh tế năm 2024 có 120 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Quản trị kinh doanh năm nay là bao nhiêu ạ?",
+    "output": "Ngành Quản trị kinh doanh năm 2024 có 120 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kế toán năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kế toán năm 2024 có 90 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Kinh tế xây dựng năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Kinh tế xây dựng năm nay có 180 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Logistics và quản lý chuỗi cung ứng năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Logistics và quản lý chuỗi cung ứng năm 2024 có 100 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn biết chỉ tiêu ngành Quản trị dịch vụ du lịch và lữ hành năm nay là bao nhiêu ạ?",
+    "output": "Ngành Quản trị dịch vụ du lịch và lữ hành năm 2024 có 150 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Thương mại điện tử năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Thương mại điện tử năm 2024 có 100 chỉ tiêu."
+  },
+  {
+    "input": "Anh chị cho em hỏi chỉ tiêu ngành Tài chính – Ngân hàng năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Tài chính – Ngân hàng năm nay có 100 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Kiểm toán năm 2024 là bao nhiêu vậy ạ?",
+    "output": "Ngành Kiểm toán năm 2024 có 90 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Kinh tế số năm nay là bao nhiêu ạ?",
+    "output": "Ngành Kinh tế số năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Chỉ tiêu ngành Luật kinh tế năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Luật kinh tế năm 2024 có 90 chỉ tiêu."
+  },
+  {
+    "input": "Anh/chị cho em hỏi chỉ tiêu ngành Ngôn ngữ Trung Quốc năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Ngôn ngữ Trung Quốc năm 2024 có 70 chỉ tiêu."
+  },
+  {
+    "input": "Ngành Chương trình tiên tiến ngành Kỹ thuật xây dựng năm nay tuyển bao nhiêu chỉ tiêu vậy ạ?",
+    "output": "Ngành Chương trình tiên tiến ngành Kỹ thuật xây dựng năm 2024 có 30 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu ngành Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm nay là bao nhiêu?",
+    "output": "Ngành Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước năm 2024 có 30 chỉ tiêu."
+  },
+  {
+    "input": "Mã tổ hợp A00 là những môn gì?",
+    "output": "Mã tổ hợp A00 gồm 3 môn: Toán, Vật lý, Hóa học."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp D01 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp D01 gồm 3 môn: Toán, Ngữ văn, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp A01 là những môn gì?",
+    "output": "Tổ hợp A01 gồm 3 môn: Toán, Vật lý, Tiếng Anh."
+  },
+  {
+    "input": "Mã tổ hợp D07 gồm những môn nào?",
+    "output": "Mã tổ hợp D07 gồm 3 môn: Toán, Hóa học, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp A02 là những môn gì?",
+    "output": "Tổ hợp A02 gồm 3 môn: Toán, Vật lý, Sinh học."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp B00 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp B00 gồm 3 môn: Toán, Hóa học, Sinh học."
+  },
+  {
+    "input": "Mã tổ hợp D08 là những môn gì?",
+    "output": "Mã tổ hợp D08 gồm 3 môn: Toán, Sinh học, Tiếng Anh."
+  },
+  {
+    "input": "Tổ hợp C00 là những môn gì?",
+    "output": "Tổ hợp C00 gồm 3 môn: Ngữ văn, Lịch sử, Địa lý."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp C02 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp C02 gồm 3 môn: Toán, Ngữ văn, Hóa học."
+  },
+  {
+    "input": "Mã tổ hợp D04 là những môn gì?",
+    "output": "Mã tổ hợp D04 gồm 3 môn: Toán, Ngữ văn, Tiếng Trung."
+  },
+  {
+    "input": "Tổ hợp D09 là những môn gì?",
+    "output": "Tổ hợp D09 gồm 3 môn: Toán, Tiếng Anh, Lịch sử."
+  },
+  {
+    "input": "Cho em hỏi mã tổ hợp D10 gồm những môn nào ạ?",
+    "output": "Mã tổ hợp D10 gồm 3 môn: Toán, Tiếng Anh, Địa lý."
+  },
+  {
+    "input": "Tổ hợp K00 là gì ạ?",
+    "output": "Tổ hợp K00 dùng để xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy."
+  },
+  {
+    "input": "Em muốn xét tuyển thẳng vào trường, cần những điều kiện gì ạ?",
+    "output": "Để xét tuyển thẳng, em cần đạt giải Nhất, Nhì, hoặc Ba trong kỳ thi học sinh giỏi quốc gia, quốc tế hoặc thi khoa học kỹ thuật quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức. Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển và em đã tốt nghiệp THPT nhé."
+  },
+  {
+    "input": "Em đạt giải Nhì quốc gia môn Toán, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhì quốc gia môn Toán, em có thể xét tuyển thẳng vào tất cả các ngành của trường."
+  },
+  {
+    "input": "Em có giải Nhất Vật lý cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Kỹ thuật Robot và Điều khiển thông minh, có được không ạ?",
+    "output": "Được em nhé. Giải Nhất Vật lý cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Kỹ thuật Robot và Điều khiển thông minh."
+  },
+  {
+    "input": "Em đạt giải Ba quốc gia môn Tiếng Anh, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Ba quốc gia môn Tiếng Anh, em có thể xét tuyển thẳng vào tất cả các ngành của trường."
+  },
+  {
+    "input": "Em có giải Nhì Hóa học cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Công nghệ Sinh học, có được không ạ?",
+    "output": "Được em nhé. Giải Nhì Hóa học cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Công nghệ Sinh học."
+  },
+  {
+    "input": "Em đạt giải Nhất quốc gia môn Sinh học, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhất quốc gia môn Sinh học, em có thể xét tuyển thẳng vào các ngành Kỹ thuật môi trường, Kỹ thuật hóa học và Công nghệ sinh học."
+  },
+  {
+    "input": "Em có giải Ba Tin học cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Hệ thống thông tin, có được không ạ?",
+    "output": "Được em nhé. Giải Ba Tin học cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Hệ thống thông tin."
+  },
+  {
+    "input": "Em đạt giải Khuyến khích quốc gia môn Ngữ văn, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Khuyến khích quốc gia môn Ngữ văn, em có thể xét tuyển thẳng vào các ngành Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật và Luật Kinh tế."
+  },
+  {
+    "input": "Em có giải Nhất Lịch sử cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Luật Kinh tế, có được không ạ?",
+    "output": "Được em nhé. Giải Nhất Lịch sử cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Luật Kinh tế."
+  },
+  {
+    "input": "Em đạt giải Nhì quốc gia môn Địa lý, vậy em có thể xét tuyển thẳng vào ngành nào?",
+    "output": "Với giải Nhì quốc gia môn Địa lý, em có thể xét tuyển thẳng vào các ngành Luật và Luật Kinh tế."
+  },
+  {
+    "input": "Em có giải Ba Tiếng Trung Quốc cấp Quốc gia, em muốn xét tuyển thẳng vào ngành Ngôn ngữ Trung Quốc, có được không ạ?",
+    "output": "Được em nhé. Giải Ba Tiếng Trung Quốc cấp Quốc gia đủ điều kiện xét tuyển thẳng vào ngành Ngôn ngữ Trung Quốc."
+  },
+  {
+    "input": "Cho em hỏi trường mình có xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy không ạ?",
+    "output": "Có em nhé. Trường mình có xét tuyển dựa vào kết quả kỳ thi đánh giá tư duy cho một số ngành."
+  },
+  {
+    "input": "Em muốn xét tuyển bằng kết quả kỳ thi đánh giá tư duy, trường mình nhận hồ sơ những ngành nào ạ?",
+    "output": "Trường mình nhận hồ sơ xét tuyển bằng kết quả kỳ thi đánh giá tư duy cho các ngành: Công nghệ sinh học (TLA119), Kỹ thuật môi trường (TLA109), Kỹ thuật hóa học (TLA118), Công nghệ thông tin (TLA106), Hệ thống thông tin (TLA116), Kỹ thuật phần mềm (TLA117), Trí tuệ nhân tạo và khoa học dữ liệu (TLA126), An ninh mạng (TLA127), Nhóm ngành Kỹ thuật cơ khí (gồm Kỹ thuật cơ khí và Công nghệ chế tạo máy) (TLA105), Kỹ thuật Ô tô (TLA123), Kỹ thuật cơ điện tử (TLA120), Kỹ thuật điện (TLA112), Kỹ thuật điều khiển và tự động hóa (TLA121), Kỹ thuật điện tử - viễn thông (TLA124), Kỹ thuật Robot và Điều khiển thông minh (TLA128), và Ngôn ngữ Anh (TLA203)."
+  },
+  {
+    "input": "Cho em hỏi thời gian đăng ký xét tuyển năm 2024 của trường là khi nào ạ?",
+    "output": "Thời gian đăng ký xét tuyển theo phương thức kết hợp kết quả học tập THPT và các điều kiện ưu tiên là từ 15/04/2024 đến 14/06/2024. Các phương thức còn lại thực hiện theo kế hoạch chung của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "input": "Em muốn đăng ký xét tuyển online thì phải làm như thế nào ạ?",
+    "output": "Em có thể đăng ký xét tuyển trực tuyến trên hệ thống của trường tại địa chỉ http://dkxtdh.tlu.edu.vn/ hoặc trên ứng dụng My TLU. Đối với các phương thức khác, em đăng ký trên cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo nhé."
+  },
+  {
+    "input": "Lệ phí đăng ký xét tuyển năm 2024 là bao nhiêu ạ?",
+    "output": "Lệ phí đăng ký xét tuyển là 50.000 đồng cho một hồ sơ, không phân biệt số lượng nguyện vọng em đăng ký."
+  },
+  {
+    "input": "Em muốn hỏi thêm thông tin về tuyển sinh thì liên hệ với ai ạ?",
+    "output": "Em có thể liên hệ với Phòng Đào tạo của trường, số điện thoại 02435631537 hoặc email tuyensinh@tlu.edu.vn nhé."
+  },
+  {
+    "input": "Phòng đào tạo trường mình ở đâu ạ?",
+    "output": "Phòng Đào tạo nằm ở phòng 134 nhà A4, số 175 Tây Sơn, quận Đống Đa, Hà Nội em nhé."
+  },
+  {
+    "input": "Ngoài số điện thoại và email, em có thể liên hệ với trường qua kênh nào khác không ạ?",
+    "output": "Em có thể xem thêm thông tin trên website của trường tại địa chỉ tlu.edu.vn hoặc fanpage https://www.facebook.com/daihocthuyloi1959."
+  },
+  {
+    "input": "Em muốn xét tuyển bằng kết quả thi tốt nghiệp THPT, trường có xét không ạ?",
+    "output": "Có em nhé. Trường có xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2024."
+  },
+  {
+    "input": "Em có chứng chỉ IELTS, khi xét tuyển bằng kết quả thi tốt nghiệp THPT có được quy đổi điểm không ạ?",
+    "output": "Có, khi xét tuyển bằng kết quả thi tốt nghiệp THPT, em có thể quy đổi chứng chỉ IELTS sang điểm thi môn Tiếng Anh trong tổ hợp xét tuyển theo quy định của trường."
+  },
+  {
+    "input": "Chứng chỉ IELTS 7.0 được quy đổi thành bao nhiêu điểm ạ?",
+    "output": "Chứng chỉ IELTS 7.0 được quy đổi thành 10 điểm em nhé."
+  },
+  {
+    "input": "Em muốn biết thêm thông tin về xét tuyển bằng kết quả thi tốt nghiệp THPT thì xem ở đâu ạ?",
+    "output": "Em có thể theo dõi hướng dẫn của Bộ GD&ĐT và website của trường để cập nhật thông tin mới nhất về xét tuyển bằng kết quả thi tốt nghiệp THPT nhé."
+  },
+  {
+    "input": "Ngoài chứng chỉ IELTS, trường còn quy đổi chứng chỉ nào khác không ạ?",
+    "output": "Trường còn quy đổi điểm cho các chứng chỉ tiếng Anh khác như TOEFL, TOEIC và chứng chỉ tiếng Trung HSK theo quy định."
+  },
+  {
+    "input": "Em muốn biết điểm chuẩn xét tuyển bằng kết quả thi tốt nghiệp THPT thì phải làm sao?",
+    "output": "Điểm chuẩn xét tuyển bằng kết quả thi tốt nghiệp THPT sẽ được trường công bố sau khi có kết quả thi chính thức em nhé. Em nhớ theo dõi website của trường thường xuyên."
+  },
+  {
+    "input": "Em có thể đăng ký xét tuyển bằng kết quả thi tốt nghiệp THPT ở đâu ạ?",
+    "output": "Em đăng ký xét tuyển bằng kết quả thi tốt nghiệp THPT trên cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo nhé."
+  },
+  {
+    "input": "Năm 2024 ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Năm 2024, ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi chỉ tiêu của ngành Quản trị kinh doanh ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu của ngành Quản trị kinh doanh ở phân hiệu miền Nam năm 2024 là 80 em nhé."
+  },
+  {
+    "input": "Ngành Công nghệ thông tin ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Công nghệ thông tin ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam năm 2024 tuyển 20 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Chỉ tiêu của ngành Ngôn ngữ Anh ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Ngôn ngữ Anh ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu."
+  },
+  {
+    "input": "Cho em hỏi ngành Kế toán ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kế toán ở phân hiệu miền Nam năm 2024 tuyển 70 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Năm 2024 ngành Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Năm 2024, Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam tuyển 60 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi chỉ tiêu của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Chỉ tiêu của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam năm 2024 là 40 em nhé."
+  },
+  {
+    "input": "Ngành Quản lý xây dựng ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Quản lý xây dựng ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Chỉ tiêu của ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam năm 2024 là bao nhiêu ạ?",
+    "output": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam năm 2024 tuyển 50 chỉ tiêu."
+  },
+  {
+    "input": "Cho em hỏi ngành Kinh tế xây dựng ở phân hiệu miền Nam năm 2024 tuyển bao nhiêu chỉ tiêu ạ?",
+    "output": "Ngành Kinh tế xây dựng ở phân hiệu miền Nam năm 2024 tuyển 40 chỉ tiêu em nhé."
+  },
+  {
+    "input": "Em muốn hỏi chỉ tiêu của ngành Thương mại điện tử ở phân hiệu miền Nam năm 2024 là bao nhiêu?",
+    "output": "Ngành Thương mại điện tử ở phân hiệu miền Nam năm 2024 tuyển 80 chỉ tiêu."
+  },
+  {
+    "input": "Em muốn học ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam, mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật xây dựng công trình thủy ở phân hiệu miền Nam là TLS101 em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Quản trị kinh doanh ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Quản trị kinh doanh ở phân hiệu miền Nam là TLS402 em nhé."
+  },
+  {
+    "input": "Mã ngành Công nghệ thông tin ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã ngành Công nghệ thông tin ở phân hiệu miền Nam là TLS106 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật tài nguyên nước ở phân hiệu miền Nam là TLS102 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh ngành Ngôn ngữ Anh ở phân hiệu miền Nam là gì vậy ạ?",
+    "output": "Mã tuyển sinh ngành Ngôn ngữ Anh ở phân hiệu miền Nam là TLS203 em nhé."
+  },
+  {
+    "input": "Cho em hỏi mã tuyển sinh của ngành Kế toán ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kế toán ở phân hiệu miền Nam là TLS403 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Logistics và quản lý chuỗi cung ứng ở phân hiệu miền Nam là TLS407."
+  },
+  {
+    "input": "Em muốn học Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam, mã tuyển sinh là gì ạ?",
+    "output": "Mã tuyển sinh của Nhóm ngành Kỹ thuật xây dựng ở phân hiệu miền Nam là TLS104 em nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Công nghệ kỹ thuật xây dựng ở phân hiệu miền Nam là TLS111 em nhé."
+  },
+  {
+    "input": "Mã ngành Quản lý xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã ngành Quản lý xây dựng ở phân hiệu miền Nam là TLS114 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Kỹ thuật cấp thoát nước ở phân hiệu miền Nam là TLS107 em nhé."
+  },
+  {
+    "input": "Mã tuyển sinh ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam là gì vậy ạ?",
+    "output": "Mã tuyển sinh ngành Trí tuệ nhân tạo và khoa học dữ liệu ở phân hiệu miền Nam là TLS126 em nhé."
+  },
+  {
+    "input": "Cho em hỏi mã tuyển sinh của ngành Kinh tế xây dựng ở phân hiệu miền Nam là gì ạ?",
+    "output": "Mã tuyển sinh của ngành Kinh tế xây dựng ở phân hiệu miền Nam là TLS404 em nhé."
+  },
+  {
+    "input": "Em muốn hỏi mã tuyển sinh của ngành Thương mại điện tử ở phân hiệu miền Nam là gì?",
+    "output": "Mã tuyển sinh của ngành Thương mại điện tử ở phân hiệu miền Nam là TLS405."
+  },
+  {
+    "input": "Em muốn hỏi tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là gì?",
+    "output": "Tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là 700."
+  },
   ]
