@@ -4514,4 +4514,239 @@
     "input": "Em muốn hỏi tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là gì?",
     "output": "Tổng chỉ tiêu tuyển sinh ở phân hiệu miền Nam là 700."
   },
+  {
+    "input": "Em chào anh/chị, cho em hỏi ngành Kỹ thuật Xây dựng Công trình Giao thông có khối lượng kiến thức là bao nhiêu tín chỉ ạ?",
+    "output": "Chào em, ngành Kỹ thuật Xây dựng Công trình Giao thông có khối lượng kiến thức là 155 tín chỉ (không bao gồm Giáo dục thể chất và Giáo dục quốc phòng) em nhé."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian đào tạo ngành Kỹ thuật Xây dựng Công trình Giao thông là bao lâu vậy ạ?",
+    "output": "Thời gian đào tạo ngành Kỹ thuật Xây dựng Công trình Giao thông là 4,5 năm em nhé."
+  },
+  {
+    "input": "Chào anh/chị, em muốn hỏi chương trình học của ngành Kỹ thuật Xây dựng Công trình Giao thông được chia thành mấy khối kiến thức vậy ạ?",
+    "output": "Chào em, chương trình học được chia làm hai khối kiến thức chính là Giáo dục Đại cương và Giáo dục Chuyên nghiệp."
+  },
+  {
+    "input": "Anh/chị ơi, khối kiến thức Giáo dục Đại cương bao gồm những môn học nào và chiếm bao nhiêu tín chỉ ạ?",
+    "output": "Khối Giáo dục Đại cương bao gồm các môn về Lý luận chính trị, Kỹ năng, Khoa học tự nhiên và tin học, Tiếng Anh, Giáo dục quốc phòng và Giáo dục thể chất, tổng cộng 43 tín chỉ em nhé, chiếm khoảng 27.7% chương trình."
+  },
+  {
+    "input": "Em muốn tìm hiểu về khối kiến thức Giáo dục Chuyên nghiệp, anh/chị có thể cho em biết rõ hơn được không ạ?",
+    "output": "Được chứ em. Khối này tập trung vào kiến thức chuyên ngành, gồm Kiến thức cơ sở khối ngành, Kiến thức cơ sở ngành, Kiến thức ngành, Kiến thức tự chọn, Thực tập tốt nghiệp và Đồ án tốt nghiệp, tổng cộng 112 tín chỉ, chiếm 72.3% chương trình."
+  },
+  {
+    "input": "Trong chương trình có môn học tự chọn nào liên quan đến thiết kế cầu đường không anh/chị?",
+    "output": "Có em nhé. Em có thể chọn học các môn như: Quy hoạch giao thông vận tải và mạng lưới đường, Khai thác và kiểm định cầu, Kết cấu liên hợp thép - bê tông, Kết cấu bê tông ứng suất trước,... để nâng cao kiến thức về thiết kế cầu đường."
+  },
+  {
+    "input": "Em muốn hỏi về phần thực tập và đồ án tốt nghiệp, anh/chị có thể cho em biết cụ thể hơn được không?",
+    "output": "Phần này gồm Thực tập tốt nghiệp ngành kỹ thuật xây dựng công trình giao thông (8 tín chỉ) và Đồ án tốt nghiệp (7 tín chỉ). Em sẽ được thực tập thực tế tại các công ty, đơn vị liên quan và tự thực hiện đồ án tốt nghiệp dưới sự hướng dẫn của giảng viên."
+  },
+  {
+    "input": "Anh/chị ơi, cho em hỏi điều kiện để tốt nghiệp ngành Kỹ thuật Xây dựng Công trình Giao thông là gì ạ?",
+    "output": "Để tốt nghiệp, em cần hoàn thành đủ 155 tín chỉ theo chương trình, đạt điểm trung bình chung tích lũy từ 2.0 trở lên, có chứng chỉ tiếng Anh đầu ra theo quy định của trường, và hoàn thành nghĩa vụ Giáo dục Quốc phòng - An ninh và Giáo dục Thể chất em nhé."
+  },
+  {
+    "input": "Dạ, vậy chứng chỉ tiếng Anh đầu ra của ngành là gì ạ?",
+    "output": "Hiện tại, trường mình yêu cầu sinh viên đạt trình độ tiếng Anh bậc 3/6 (tương đương B1) theo Khung năng lực ngoại ngữ Việt Nam, áp dụng từ khóa 61 trở đi em nhé."
+  },
+  {
+    "input": "Nếu em không đạt chứng chỉ tiếng Anh đầu ra trước khi tốt nghiệp thì sao ạ?",
+    "output": "Nếu chưa đạt, em có thể nộp bổ sung chứng chỉ sau khi tốt nghiệp. Tuy nhiên, tốt nhất em nên cố gắng hoàn thành trong thời gian học để tránh ảnh hưởng đến việc nhận bằng tốt nghiệp."
+  },
+  {
+    "input": "Ngoài ra còn yêu cầu nào khác về điểm số của các môn học không anh/chị?",
+    "output": "Bên cạnh điểm trung bình chung, trường cũng có quy định về điểm tối thiểu của một số nhóm học phần thuộc ngành. Em có thể tham khảo thêm thông tin chi tiết trong Quyết định 1369/QĐ-ĐHTL ngày 18/8/2015 trên website nhà trường nhé." 
+  }, {
+    "input": "Điểm thi kết thúc học phần có bắt buộc không anh/chị?",
+    "output": "Có em nhé. Điểm thi kết thúc học phần là bắt buộc đối với tất cả các bạn sinh viên và thường chiếm trọng số cao nhất trong điểm học phần, thường là không dưới 50%."
+  },
+  {
+    "input": "Ngoài các bài kiểm tra và thi, có hình thức nào khác để đánh giá không ạ?",
+    "output": "Có em, tùy vào đặc thù của từng môn học, giảng viên có thể đánh giá thêm qua điểm chuyên cần, điểm bài tập về nhà, điểm tiểu luận, điểm thảo luận, hoặc điểm dự án nhóm,... "
+  },
+  {
+    "input": "Anh/chị có thể cho em biết thêm về cách tính điểm tổng kết môn học không ạ?",
+    "output": "Cách tính điểm tổng kết môn học sẽ do giảng viên quyết định và thông báo rõ trong đề cương chi tiết của môn học đó em nhé. Thông thường, điểm sẽ được tính theo một công thức có tính toán trọng số của từng thành phần đánh giá."
+  },{
+    "input": "Anh/chị ơi, cho em hỏi điều kiện để em được tốt nghiệp ngành Kỹ thuật Cơ khí là gì ạ?",
+    "output": "Để tốt nghiệp, em cần đáp ứng đủ các điều kiện sau: không vi phạm kỷ luật, tích lũy đủ 155 tín chỉ, điểm trung bình chung tích lũy từ 2.0 trở lên, đạt chuẩn tiếng Anh đầu ra (trình độ 3/6 khung năng lực ngoại ngữ của Việt Nam), và có chứng chỉ giáo dục quốc phòng và giáo dục thể chất."
+  },
+  {
+    "input": "Em muốn biết thêm về quy định điểm trung bình để tốt nghiệp ạ. Điểm trung bình bao nhiêu là đạt ạ?",
+    "output": "Điểm trung bình chung tích lũy của toàn khóa học của em cần đạt từ 2.00 trở lên theo thang điểm 4 để đủ điều kiện tốt nghiệp em nhé."
+  },
+  {
+    "input": "Ngoài điểm trung bình chung, có yêu cầu nào khác về điểm số của các môn học không ạ?",
+    "output": "Đúng rồi em, ngoài điểm trung bình chung, em cần thỏa mãn yêu cầu về kết quả học tập đối với nhóm học phần thuộc ngành đào tạo chính. Yêu cầu cụ thể được quy định bởi Hiệu trưởng trường mình."
+  },
+  {
+    "input": "Anh/chị có thể cho em biết thêm về yêu cầu chứng chỉ tiếng Anh đầu ra được không ạ?",
+    "output": "Chứng chỉ tiếng Anh đầu ra của ngành mình là trình độ 3/6 theo Khung năng lực ngoại ngữ của Việt Nam, tương đương trình độ B1 theo Khung tham chiếu châu Âu (CEFR)."
+  },
+  {
+    "input": "Nếu em chưa đạt chứng chỉ tiếng Anh đầu ra trước khi tốt nghiệp thì sao ạ?",
+    "output": "Em vẫn có thể nộp bổ sung chứng chỉ sau. Tuy nhiên, em nên cố gắng hoàn thành trong thời gian học để tránh ảnh hưởng đến việc nhận bằng tốt nghiệp."
+  },{
+    "input": "Em chào anh/chị, cho em hỏi chương trình Kỹ thuật Cơ khí của trường mình có bao nhiêu tín chỉ ạ?",
+    "output": "Chào em, chương trình Kỹ thuật Cơ khí có tổng cộng 145 tín chỉ em nhé."
+  },
+  {
+    "input": "Anh/chị ơi, thời gian học của chương trình này là bao lâu vậy ạ?",
+    "output": "Thời gian đào tạo cho chương trình Kỹ thuật Cơ khí là 4,5 năm em ạ."
+  },
+  {
+    "input": "Trong 145 tín chỉ đó, phần Giáo dục Đại cương và Giáo dục Chuyên nghiệp được chia như thế nào ạ?",
+    "output": "Phần Giáo dục Đại cương gồm 42 tín chỉ, còn Giáo dục Chuyên nghiệp gồm 103 tín chỉ em nhé."
+  },
+  {
+    "input": "Vậy em có thể biết thêm về nội dung của phần Giáo dục Chuyên nghiệp được không ạ?",
+    "output": "Phần này bao gồm các môn học chuyên ngành về cơ khí như: cơ học, sức bền vật liệu, nguyên lý máy, kỹ thuật điện, vật liệu kỹ thuật, dung sai lắp ghép, cơ học chất lỏng, kỹ thuật nhiệt,  và các môn học chuyên sâu theo hướng chuyên ngành em chọn."
+  },{
+    "input": "Anh/chị cho em hỏi khối lượng kiến thức của ngành Công nghệ thông tin là bao nhiêu tín chỉ?",
+    "output": "Chương trình đào tạo ngành Công nghệ thông tin của trường mình gồm 140 tín chỉ, không tính tín chỉ Giáo dục thể chất và Giáo dục quốc phòng em nhé."
+  },
+  {
+    "input": "Em muốn biết thời gian đào tạo của ngành Công nghệ thông tin là bao lâu ạ?",
+    "output": "Thời gian đào tạo ngành Công nghệ thông tin là 4 năm em nhé."
+  },
+  {
+    "input": "Em muốn so sánh chương trình đào tạo Công nghệ thông tin của trường mình với các trường khác thì làm thế nào ạ?",
+    "output": "Tiếc là file PDF em cung cấp không có bảng so sánh trực tiếp. Tuy nhiên, em có thể tìm hiểu thêm thông tin trên website của các trường hoặc liên hệ trực tiếp với phòng đào tạo của trường để được hỗ trợ."
+  },
+  {
+    "input": "Ngoài các trường đại học trong nước, chương trình đào tạo Công nghệ thông tin của trường mình có tham khảo chương trình của trường quốc tế nào không ạ?",
+    "output": "Có em, chương trình của trường mình được xây dựng có tham khảo chương trình của một số trường đại học quốc tế uy tín như Đại học Hong Kong và Đại học Michigan (USA)."
+  },
+  {
+    "input": "Trường mình có quy định gì về điều kiện tốt nghiệp ngành Công nghệ thông tin không ạ?",
+    "output": "Để tốt nghiệp, ngoài việc tích lũy đủ 140 tín chỉ và đạt điểm trung bình chung từ 2.0 trở lên, em cần đạt chuẩn tiếng Anh B1, có chứng chỉ giáo dục quốc phòng và giáo dục thể chất, và không vi phạm kỷ luật trong thời gian học."
+  },{
+    "input": "Anh/chị ơi, em muốn biết chương trình học ngành CNTT của trường mình được chia thành những phần nào?",
+    "output": "Chương trình đào tạo ngành CNTT được chia thành 2 phần chính: Giáo dục Đại cương và Giáo dục Chuyên nghiệp em nhé."
+  },
+  {
+    "input": "Vậy phần Giáo dục Đại cương gồm những môn gì ạ?",
+    "output": "Phần Giáo dục Đại cương bao gồm các môn học cơ bản như Lý luận chính trị, Kỹ năng mềm, Toán, Tiếng Anh,... nhằm cung cấp cho em kiến thức nền tảng và kỹ năng cần thiết cho cuộc sống và công việc."
+  },
+  {
+    "input": "Còn phần Giáo dục Chuyên nghiệp thì sao ạ?",
+    "output": "Phần này tập trung vào kiến thức chuyên môn ngành CNTT, được chia thành các khối kiến thức: Cơ sở khối ngành, Cơ sở ngành, Chuyên ngành, Thực tập tốt nghiệp và Học phần Tốt nghiệp. Em sẽ được trang bị đầy đủ kiến thức và kỹ năng về lập trình, mạng máy tính, cơ sở dữ liệu, trí tuệ nhân tạo,... để trở thành một kỹ sư CNTT."
+  },
+  {
+    "input": "Ngành CNTT có nhiều môn học tự chọn vậy, em phải chọn như thế nào ạ?",
+    "output": "Môn học tự chọn cho phép em được tự do lựa chọn những kiến thức chuyên sâu phù hợp với sở thích và định hướng nghề nghiệp. Nhà trường chia môn học tự chọn thành 3 nhóm, mỗi nhóm tập trung vào một số lĩnh vực cụ thể. Em có thể chọn môn học từ bất kỳ nhóm nào, miễn sao đủ số tín chỉ yêu cầu."
+  },
+  {
+    "input": "Em muốn biết thêm về phần Thực tập tốt nghiệp và Học phần Tốt nghiệp. Anh/chị có thể giải thích rõ hơn được không?",
+    "output": "Trong phần Thực tập tốt nghiệp, em sẽ được thực tập tại các công ty, doanh nghiệp CNTT để áp dụng kiến thức đã học vào thực tế. Còn Học phần Tốt nghiệp là phần em sẽ thực hiện một đồ án tốt nghiệp dưới sự hướng dẫn của giảng viên, nhằm tổng hợp kiến thức và kỹ năng đã học trong suốt quá trình đào tạo."
+  }, {
+    "input": "Anh/chị ơi, cho em hỏi ngành Kỹ thuật Tài nguyên Nước có tổng cộng bao nhiêu tín chỉ ạ?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Tài nguyên Nước của trường mình gồm 155 tín chỉ em nhé."
+  },
+  {
+    "input": "Vậy thời gian học của ngành này là bao lâu ạ?",
+    "output": "Thời gian đào tạo cho ngành Kỹ thuật Tài nguyên Nước là 4,5 năm em ạ."
+  },
+  {
+    "input": "Em muốn tìm hiểu thêm về cấu trúc chương trình đào tạo. Anh/chị có thể giới thiệu qua được không?",
+    "output": "Chương trình đào tạo ngành Kỹ thuật Tài nguyên Nước gồm 2 khối kiến thức chính: Giáo dục Đại cương và Giáo dục Chuyên nghiệp.  Phần Giáo dục Đại cương gồm các môn cơ bản về lý luận chính trị, kỹ năng, khoa học tự nhiên và tin học, tiếng Anh. Phần Giáo dục Chuyên nghiệp bao gồm các kiến thức cơ sở khối ngành, kiến thức cơ sở ngành, kiến thức ngành và kiến thức tự chọn, cùng với phần Thực tập tốt nghiệp và Đồ án tốt nghiệp."
+  },
+  {
+    "input": "Ngành Kỹ thuật Tài nguyên Nước có môn tự chọn nào liên quan đến công nghệ thông tin không ạ?",
+    "output": "Có em nhé. Em có thể chọn học môn 'Tin học ứng dụng trong kỹ thuật tài nguyên nước' để trang bị thêm kiến thức về ứng dụng công nghệ thông tin trong ngành."
+  },
+  {
+    "input": "Em cảm ơn anh/chị. Em muốn hỏi thêm về điều kiện tốt nghiệp của ngành này ạ?",
+    "output": "Để tốt nghiệp, em cần tích lũy đủ 155 tín chỉ, đạt điểm trung bình chung từ 2.0 trở lên, có chứng chỉ tiếng Anh bậc 3 (hoặc tương đương), chứng chỉ giáo dục quốc phòng và giáo dục thể chất, và không vi phạm kỷ luật trong quá trình học."
+  }, {
+    "input": "Em muốn hỏi về chương trình đào tạo của trường, em nên liên hệ với phòng ban nào ạ?",
+    "output": "Em có thể liên hệ với Phòng Đào Tạo theo số điện thoại (024) 35631537 hoặc email daotao@tlu.edu.vn để được hỗ trợ về các vấn đề liên quan đến chương trình đào tạo em nhé."
+  },
+  {
+    "input": "Anh/chị ơi, em muốn tìm hiểu về học bổng và các hoạt động hỗ trợ sinh viên thì liên hệ ở đâu ạ?",
+    "output": "Em có thể liên hệ với Phòng Chính trị và Công tác Sinh viên theo số điện thoại (024) 35639577 hoặc email p7@tlu.edu.vn. Ngoài ra, em cũng có thể liên hệ trực tiếp với bộ phận trực tư vấn sinh viên ở phòng 118 - Nhà A1 hoặc tư vấn online qua fanpage của trường: https://www.facebook.com/daihocthuyloi1959/."
+  },
+  {
+    "input": "Em muốn tham gia các hoạt động nghiên cứu khoa học của trường thì phải làm như thế nào ạ?",
+    "output": "Em có thể liên hệ với Phòng Khoa học và Công nghệ theo số điện thoại (024) 38534198, (024) 35641227 hoặc (024) 35641053, hoặc email khcn@tlu.edu.vn để được tư vấn về các hoạt động nghiên cứu khoa học của trường nhé."
+  },
+  {
+    "input": "Anh/chị cho em hỏi thông tin liên lạc của Phòng Hợp tác Quốc tế được không ạ?",
+    "output": "Phòng Hợp tác Quốc tế có địa chỉ tại phòng 103 - Nhà A1, số điện thoại (024) 38533083, fax (024) 35636221 và email ico@tlu.edu.vn em nhé."
+  },
+  {
+    "input": "Em muốn tìm tài liệu học tập, em có thể đến Thư viện của trường vào lúc nào ạ?",
+    "output": "Thư viện của trường mình nằm ở tòa nhà A45. Em có thể liên hệ trước theo số điện thoại (024) 35630971 hoặc email thuvien@tlu.edu.vn để biết thêm thông tin về giờ mở cửa và các dịch vụ của Thư viện em nhé."
+  },
+  {
+    "input": "Em chào anh/chị, cho em hỏi nếu em đi học muộn quá 5 phút thì có được vào lớp không ạ?",
+    "output": "Chào em, theo quy định tại Điều 4 của Nội quy học tập, nếu em đi học muộn quá 5 phút sẽ không được vào lớp em nhé.  Đối với lớp học trực tuyến, nếu giảng viên gọi tên mà em không trả lời cũng sẽ bị coi như vắng mặt."
+  },
+  {
+    "input": "Trong trường hợp em có việc đột xuất phải nghỉ học thì cần làm gì ạ?",
+    "output": "Em cần viết đơn xin phép nghỉ học và nộp cho giảng viên giảng dạy môn học đó. Thời gian nghỉ học này sẽ được tính khi xét điều kiện dự thi kết thúc học phần môn học."
+  },
+  {
+    "input": "Em muốn hỏi về quy định trang phục khi đến trường ạ. Em có được mặc áo phông và quần jeans đến lớp không?",
+    "output": "Trang phục khi đến trường cần lịch sự và gọn gàng em nhé. Mặc dù không có quy định cấm cụ thể về áo phông và quần jeans, nhưng em nên lựa chọn trang phục phù hợp với môi trường học tập."
+  },
+  {
+    "input": "Em có được sử dụng điện thoại trong giờ học không ạ?",
+    "output": "Trong giờ học, em không được sử dụng điện thoại để nghe gọi, nhắn tin. Điện thoại phải để ở chế độ rung và không mở nhạc chờ em nhé."
+  },
+  {
+    "input": "Nếu em vi phạm Nội quy học tập thì sẽ bị xử lý như thế nào ạ?",
+    "output": "Tùy theo mức độ vi phạm, em sẽ bị xử lý kỷ luật theo quy định tại Phụ lục 1 của Nội quy. Hình thức kỷ luật có thể từ khiển trách, cảnh cáo đến đình chỉ học tập 1 năm hoặc buộc thôi học."
+  },
+  {
+    "input": "Em muốn xem chi tiết các hành vi vi phạm và hình thức kỷ luật thì có thể tìm ở đâu ạ?",
+    "output": "Em có thể xem chi tiết tại Phụ lục 1 - 'Một số nội dung vi phạm và hình thức xử lý kỷ luật' trong file Nội quy học tập trên giảng đường em nhé." 
+  },{
+    "input": "Anh/chị ơi, em quên mang sách vở đến lớp thì có bị phạt gì không ạ?",
+    "output": "Theo Điều 4 của Nội quy, em cần có đầy đủ sách vở, tài liệu và dụng cụ học tập cần thiết theo yêu cầu của môn học. Nếu em quên mang, em có thể bị mời ra khỏi lớp và tính vắng mặt buổi học đó."
+  },
+  {
+    "input": "Em muốn hỏi nếu em nhờ bạn điểm danh hộ thì có sao không ạ?",
+    "output": "Hành vi nhờ người khác điểm danh hộ là gian lận trong học tập và bị nghiêm cấm. Tùy theo mức độ, em có thể bị xử lý kỷ luật từ khiển trách đến buộc thôi học theo Quy chế đào tạo của nhà trường."
+  },
+  {
+    "input": "Trong giờ học, em muốn ra ngoài có việc gấp thì cần làm gì ạ?",
+    "output": "Em cần giơ tay xin phép giảng viên giảng dạy trước khi ra vào lớp. Việc ra vào lớp trong giờ học cần được hạn chế để tránh ảnh hưởng đến lớp học."
+  },
+  {
+    "input": "Em muốn hỏi nếu em bị lập biên bản vi phạm Nội quy học tập thì trình tự xử lý như thế nào ạ?",
+    "output": "Sau khi lập biên bản, giảng viên hoặc cán bộ thanh tra sẽ gửi biên bản về phòng Chính trị và Công tác Sinh viên. Phòng này sẽ tiến hành các thủ tục đề nghị kỷ luật và trình Hiệu trưởng ký quyết định kỷ luật."
+  },
+  {
+    "input": "Em có được ăn uống trong lớp học không ạ?",
+    "output": "Theo Điều 5 của Nội quy, em không được mang đồ ăn thức uống vào lớp học để đảm bảo vệ sinh và giữ gìn cảnh quan lớp học."
+  },
+  {
+    "input": "Em muốn góp ý về một số điều khoản trong Nội quy học tập thì liên hệ với ai ạ?",
+    "output": "Em có thể gửi góp ý bằng văn bản đến Ban Giám hiệu trường (thông qua phòng Chính trị và Công tác Sinh viên) để nhà trường xem xét, điều chỉnh."
+  },{
+    "input": "Cho em hỏi nếu em bị ốm và phải nghỉ học nhiều buổi thì có bị cấm thi không ạ?",
+    "output": "Việc em có được thi hay không phụ thuộc vào số buổi nghỉ học của em có vượt quá số buổi quy định cho phép hay không. Nếu nghỉ quá số buổi cho phép (kể cả có đơn xin phép) thì em sẽ không đủ điều kiện dự thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Em nghe nói nếu vi phạm Nội quy học tập nhiều lần thì hình thức kỷ luật sẽ nặng hơn. Điều này có đúng không ạ?",
+    "output": "Đúng vậy em. Theo Phụ lục 1, hình thức kỷ luật sẽ tăng dần theo số lần vi phạm. Ví dụ, nếu em sử dụng điện thoại trong giờ học lần đầu sẽ bị nhắc nhở, nhưng nếu tái phạm sẽ bị yêu cầu ra khỏi lớp và tính vắng mặt."
+  },
+  {
+    "input": "Em muốn biết trường có quy định gì về việc hút thuốc lá trong khuôn viên trường không ạ?",
+    "output": "Theo Điều 5, trường nghiêm cấm việc hút thuốc lá trong giờ học, phòng họp, phòng thí nghiệm và những nơi cấm hút thuốc theo quy định. Em nên chú ý tuân thủ để tránh bị xử lý kỷ luật."
+  },
+  {
+    "input": "Nếu em bị mất đồ trong lớp học thì phải làm gì ạ?",
+    "output": "Em nên báo cáo ngay với giảng viên đang giảng dạy hoặc cán bộ lớp để được hỗ trợ tìm kiếm. Em cũng có thể liên hệ với bộ phận bảo vệ của trường để được giúp đỡ."
+  },
+  {
+    "input": "Em thấy một số bạn vẽ bậy lên bàn ghế trong lớp. Em nên làm gì ạ?",
+    "output": "Em nên nhắc nhở các bạn đó về việc giữ gìn vệ sinh chung và bảo vệ tài sản của nhà trường. Nếu các bạn không nghe, em có thể báo cáo với giảng viên hoặc cán bộ lớp." 
+  },
+  {
+    "input": "Ngoài Nội quy học tập trên giảng đường, em muốn tìm hiểu thêm về các quy định khác của nhà trường thì phải làm thế nào ạ?",
+    "output": "Em có thể truy cập website của trường hoặc liên hệ với phòng Chính trị và Công tác Sinh viên để được cung cấp các văn bản quy định khác của nhà trường."
+  }
   ]
