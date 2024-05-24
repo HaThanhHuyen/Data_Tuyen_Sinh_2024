@@ -5215,5 +5215,2516 @@
   {
     "input": "Phòng Công tác Chính trị & Quản lý sinh viên ở đâu vậy ạ?",
     "output": "Em có thể tra cứu thông tin về địa điểm và liên lạc của Phòng Công tác Chính trị & Quản lý sinh viên trên website của trường hoặc hỏi trực tiếp cán bộ lớp/khoa để được hướng dẫn cụ thể hơn nhé."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Ngoài những nội dung trong quy định, còn có trường hợp nào khác bị kỷ luật không?",
+    "output": "Ngoài những nội dung trong quy định, nếu có những hành vi vi phạm khác chưa được nêu rõ, tùy theo mức độ nghiêm trọng, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Ngoài những nội dung trong quy định, còn có trường hợp nào khác bị kỷ luật không?",
+    "output": "Ngoài những nội dung trong quy định, nếu có những hành vi vi phạm khác chưa được nêu rõ, tùy theo mức độ nghiêm trọng, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Tôi muốn biết thêm về quy trình xét khen thưởng cho tập thể lớp.",
+    "output": "Cuối mỗi năm học, khoa/trung tâm/cơ sở 2 sẽ tổ chức họp xét và đề nghị lên Hội đồng khen thưởng Trường để xem xét. Hồ sơ khen thưởng gồm: biên bản họp, bản đề nghị khen thưởng, và báo cáo thành tích của tập thể lớp."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Ngoài những nội dung trong quy định, còn có trường hợp nào khác bị kỷ luật không?",
+    "output": "Ngoài những nội dung trong quy định, nếu có những hành vi vi phạm khác chưa được nêu rõ, tùy theo mức độ nghiêm trọng, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Tôi muốn biết thêm về quy trình xét khen thưởng cho tập thể lớp.",
+    "output": "Cuối mỗi năm học, khoa/trung tâm/cơ sở 2 sẽ tổ chức họp xét và đề nghị lên Hội đồng khen thưởng Trường để xem xét. Hồ sơ khen thưởng gồm: biên bản họp, bản đề nghị khen thưởng, và báo cáo thành tích của tập thể lớp."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép thi lại các môn học đã học trong thời gian bị đình chỉ không?",
+    "output": "Sinh viên bị đình chỉ học tập không được phép thi lại các môn học đã học trong thời gian bị đình chỉ."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Ngoài những nội dung trong quy định, còn có trường hợp nào khác bị kỷ luật không?",
+    "output": "Ngoài những nội dung trong quy định, nếu có những hành vi vi phạm khác chưa được nêu rõ, tùy theo mức độ nghiêm trọng, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Tôi muốn biết thêm về quy trình xét khen thưởng cho tập thể lớp.",
+    "output": "Cuối mỗi năm học, khoa/trung tâm/cơ sở 2 sẽ tổ chức họp xét và đề nghị lên Hội đồng khen thưởng Trường để xem xét. Hồ sơ khen thưởng gồm: biên bản họp, bản đề nghị khen thưởng, và báo cáo thành tích của tập thể lớp."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép thi lại các môn học đã học trong thời gian bị đình chỉ không?",
+    "output": "Sinh viên bị đình chỉ học tập không được phép thi lại các môn học đã học trong thời gian bị đình chỉ."
+  },
+  {
+    "input": "Việc khen thưởng sinh viên có nhiều đóng góp trong hoạt động phong trào được thực hiện như thế nào?",
+    "output": "Sinh viên có nhiều đóng góp trong hoạt động phong trào sẽ được xét khen thưởng định kỳ cuối năm học hoặc toàn khóa học. Để được xét khen thưởng, sinh viên cần được phân công quản lý lớp, các tổ chức Đoàn, Hội và các tổ chức khác trong nhà trường, có kết quả học tập và rèn luyện đạt yêu cầu."
+  },
+  {
+    "input": "Quy định về xét khen thưởng và kỷ luật sinh viên Đại học Thuỷ lợi có hiệu lực từ năm nào?",
+    "output": "Quy định này có hiệu lực từ năm học 2016 - 2017."
+  },
+  {
+    "input": "Tôi muốn biết những hình thức khen thưởng cho sinh viên?",
+    "output": "Hình thức khen thưởng bao gồm: Biểu dương, tặng Giấy khen kèm theo tiền thưởng hoặc tặng phẩm."
+  },
+  {
+    "input": "Làm sao để được khen thưởng danh hiệu Sinh viên Xuất sắc cuối năm?",
+    "output": "Để đạt danh hiệu Sinh viên Xuất sắc cuối năm, bạn cần đạt kết quả học tập và rèn luyện của hai học kỳ trong năm học xét khen thưởng đạt loại Xuất sắc."
+  },
+  {
+    "input": "Nếu bị khiển trách, bao lâu thì quyết định kỷ luật chấm dứt hiệu lực?",
+    "output": "Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu bạn không tái phạm, quyết định kỷ luật khiển trách sẽ tự động chấm dứt hiệu lực."
+  },
+  {
+    "input": "Tôi muốn biết những hành vi nào sẽ bị kỷ luật đình chỉ học tập?",
+    "output": "Vi phạm nghiêm trọng các hành vi sinh viên không được làm, vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Lớp chúng tôi muốn được khen thưởng Lớp sinh viên Xuất sắc, cần đạt những tiêu chuẩn gì?",
+    "output": "Để đạt danh hiệu Lớp sinh viên Xuất sắc, lớp bạn cần đạt danh hiệu Lớp sinh viên Tiên tiến, có từ 10% sinh viên đạt danh hiệu Sinh viên Giỏi trở lên, và có sinh viên đạt giải Olympic cấp trường hoặc đạt giải nghiên cứu khoa học cấp trường trở lên hoặc có thành tích đặc biệt được Nhà trường khen thưởng."
+  },
+  {
+    "input": "Tôi bị cảnh cáo vì vi phạm nội quy, liệu tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn bị cảnh cáo và tiếp tục vi phạm kỷ luật, bạn có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị buộc thôi học khi nào?",
+    "output": "Sinh viên có thể bị buộc thôi học khi bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật, hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, hoặc vi phạm pháp luật bị xử phạt tù giam."
+  },
+  {
+    "input": "Tôi có thể xem được những nội dung vi phạm và mức xử lý kỷ luật cụ thể ở đâu?",
+    "output": "Bạn có thể tìm thấy nội dung vi phạm và khung xử lý kỷ luật trong Phụ lục 1 kèm theo Quy định về xét khen thưởng và kỷ luật sinh viên."
+  },
+  {
+    "input": "Quy định về khen thưởng và kỷ luật có áp dụng cho cả sinh viên hệ vừa làm vừa học không?",
+    "output": "Có, quy định này áp dụng cho cả sinh viên trình độ đại học, liên thông & cao đẳng hệ chính quy và đại học hệ vừa làm vừa học của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên hệ vừa làm vừa học được xét khen thưởng như thế nào?",
+    "output": "Sinh viên hệ vừa làm vừa học được xét khen thưởng theo các tiêu chuẩn tương tự như sinh viên hệ chính quy, nhưng có thể có những điều chỉnh phù hợp với đặc thù của hệ đào tạo."
+  },
+  {
+    "input": "Nếu tôi bị kỷ luật đình chỉ học tập, tôi có được học lại sau khi hết thời hạn đình chỉ không?",
+    "output": "Khi hết thời hạn đình chỉ, bạn phải xuất trình chứng nhận của địa phương và cơ quan có thẩm quyền để nhà trường xem xét, tiếp nhận vào học tiếp nếu đủ điều kiện."
+  },
+  {
+    "input": "Tôi muốn tìm hiểu thêm về quy định xét khen thưởng và kỷ luật, tôi có thể tìm thông tin ở đâu?",
+    "output": "Bạn có thể tìm thấy đầy đủ thông tin về quy định này trên website của trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Sinh viên vi phạm kỷ luật khiển trách có bị ghi vào hồ sơ không?",
+    "output": "Hình thức kỷ luật của sinh viên được ghi vào hồ sơ quản lý sinh viên."
+  },
+  {
+    "input": "Học phí và bảo hiểm y tế của sinh viên có liên quan gì đến việc xét kỷ luật không?",
+    "output": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng có thể bị xử lý kỷ luật."
+  },
+  {
+    "input": "Tôi có thể kháng cáo quyết định kỷ luật không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Hội đồng khen thưởng và kỷ luật sinh viên họp bao lâu một lần?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên mỗi năm học họp một lần vào cuối năm học. Khi cần thiết, Hội đồng có thể họp các phiên bất thường."
+  },
+  {
+    "input": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” có được tặng cờ khen thưởng của trường không?",
+    "output": "Có, tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” được tặng cờ khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật buộc thôi học thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị kỷ luật buộc thôi học sẽ phải thôi học tại trường và có thể bị xử lý thêm theo quy định của pháp luật nếu vi phạm pháp luật."
+  },
+  {
+    "input": "Tôi muốn biết thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên trường?",
+    "output": "Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên, hoặc truy cập website của trường Đại học Thuỷ lợi để tìm hiểu thêm về các hoạt động của Đoàn Thanh niên và Hội Sinh viên."
+  },
+  {
+    "input": "Sinh viên có thể được hưởng những quyền lợi gì khi đạt danh hiệu khen thưởng?",
+    "output": "Sinh viên đạt danh hiệu khen thưởng sẽ được ghi nhận thành tích, được trao tặng bằng khen, có thể được ưu tiên xét học bổng, và được hưởng những quyền lợi khác theo quy định của nhà trường."
+  },
+  {
+    "input": "Quy định này có thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013 không?",
+    "output": "Có, Quyết định số 1656/QĐ-ĐHTL ngày 10 tháng 8 năm 2016 này thay thế cho Quyết định số 1346/QĐ-ĐHTL ngày 08/8/2013."
+  },
+  {
+    "input": "Tôi có thể nộp hồ sơ xét khen thưởng trực tiếp tại trường không?",
+    "output": "Hồ sơ xét khen thưởng thường được nộp qua khoa, trung tâm, cơ sở 2, sau đó họ sẽ tổng hợp và chuyển đến Hội đồng khen thưởng của trường."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật cảnh cáo thì sao?",
+    "output": "Sinh viên bị kỷ luật cảnh cáo sẽ bị ghi vào hồ sơ và sau 6 tháng nếu không tái phạm sẽ chấm dứt hiệu lực kỷ luật."
+  },
+  {
+    "input": "Nếu tôi vi phạm nội quy nhiều lần nhưng mức độ nhẹ, tôi có bị đình chỉ học tập không?",
+    "output": "Nếu bạn vi phạm nội quy nhiều lần, dù mức độ nhẹ nhưng có tính chất thường xuyên, bạn có thể bị cảnh cáo, và nếu tiếp tục vi phạm có thể bị đình chỉ học tập."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép tham gia các hoạt động của trường không?",
+    "output": "Trong thời gian bị đình chỉ học tập, sinh viên không được phép tham gia các hoạt động của trường."
+  },
+  {
+    "input": "Khen thưởng đối với tập thể lớp sinh viên có gì đặc biệt?",
+    "output": "Tập thể lớp đạt danh hiệu “Lớp sinh viên Xuất sắc tiêu biểu” sẽ được tặng cờ khen thưởng của trường, ngoài Giấy khen của Hiệu trưởng."
+  },
+  {
+    "input": "Ngoài những nội dung trong quy định, còn có trường hợp nào khác bị kỷ luật không?",
+    "output": "Ngoài những nội dung trong quy định, nếu có những hành vi vi phạm khác chưa được nêu rõ, tùy theo mức độ nghiêm trọng, nhà trường sẽ xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+  },
+  {
+    "input": "Tôi muốn biết thêm về quy trình xét khen thưởng cho tập thể lớp.",
+    "output": "Cuối mỗi năm học, khoa/trung tâm/cơ sở 2 sẽ tổ chức họp xét và đề nghị lên Hội đồng khen thưởng Trường để xem xét. Hồ sơ khen thưởng gồm: biên bản họp, bản đề nghị khen thưởng, và báo cáo thành tích của tập thể lớp."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học tập có được phép thi lại các môn học đã học trong thời gian bị đình chỉ không?",
+    "output": "Sinh viên bị đình chỉ học tập không được phép thi lại các môn học đã học trong thời gian bị đình chỉ."
+  },
+  {
+    "input": "Việc khen thưởng sinh viên có nhiều đóng góp trong hoạt động phong trào được thực hiện như thế nào?",
+    "output": "Sinh viên có nhiều đóng góp trong hoạt động phong trào sẽ được xét khen thưởng định kỳ cuối năm học hoặc toàn khóa học. Để được xét khen thưởng, sinh viên cần được phân công quản lý lớp, các tổ chức Đoàn, Hội và các tổ chức khác trong nhà trường, có kết quả học tập và rèn luyện đạt yêu cầu."
+  },
+  {
+    "input": "Sinh viên nào được quyền tham gia biểu quyết trong Hội đồng khen thưởng và kỷ luật?",
+    "output": "Hội đồng khen thưởng và kỷ luật sinh viên gồm: Chủ tịch, Thường trực, và các thành viên. Các thành viên gồm: Trưởng các khoa, đại diện lãnh đạo các phòng, ban có liên quan; Bí thư Đoàn TNCS Hồ Chí Minh, Chủ tịch Hội sinh viên trường.  Các Trợ lý các khoa, Giáo viên chủ nhiệm, Ban cán sự các lớp được tham gia phát biểu ý kiến, đề xuất mức khen thưởng, kỷ luật nhưng không được quyền biểu quyết."
+  },
+  {
+    "input": "Sinh viên bị kỷ luật có được quyền kháng cáo không?",
+    "output": "Quy định này không đề cập đến việc kháng cáo quyết định kỷ luật. Bạn có thể liên hệ với phòng Công tác chính trị & Quản lý sinh viên để được giải đáp thêm."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic môn học cấp Trường?",
+    "output": "Vào đầu năm học, Nhà trường sẽ thông báo các môn học tổ chức thi Olympic cấp Trường. Bạn cần liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Làm sao để được vào đội tuyển thi Olympic môn học cấp Quốc gia?",
+    "output": "Bạn cần tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách. Sau đó, Bộ môn sẽ tuyển chọn và đề cử những sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Có những môn học nào được điều chỉnh điểm khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Bạn có thể xem danh sách các môn học được điều chỉnh điểm tại Phụ lục 2 của Quy định về thi Olympic các môn học."
+  },
+  {
+    "input": "Mình muốn tìm hiểu thêm về thi Olympic môn học, mình có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với Phòng Chính trị và Công tác sinh viên hoặc Bộ môn phụ trách môn học bạn muốn tham gia thi Olympic."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic môn học cấp Trường?",
+    "output": "Vào đầu năm học, Nhà trường sẽ thông báo các môn học tổ chức thi Olympic cấp Trường. Bạn cần liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Làm sao để được vào đội tuyển thi Olympic môn học cấp Quốc gia?",
+    "output": "Bạn cần tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách. Sau đó, Bộ môn sẽ tuyển chọn và đề cử những sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Có những môn học nào được điều chỉnh điểm khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Bạn có thể xem danh sách các môn học được điều chỉnh điểm tại Phụ lục 2 của Quy định về thi Olympic các môn học."
+  },
+  {
+    "input": "Mình muốn tìm hiểu thêm về thi Olympic môn học, mình có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với Phòng Chính trị và Công tác sinh viên hoặc Bộ môn phụ trách môn học bạn muốn tham gia thi Olympic."
+  },
+  {
+    "input": "Làm sao để biết được thông tin về kỳ thi Olympic môn học cấp Quốc gia?",
+    "output": "Thông tin về kỳ thi Olympic môn học cấp Quốc gia sẽ được thông báo trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Bạn có thể thường xuyên cập nhật thông tin để biết rõ thời gian, nội dung và điều kiện tham gia thi."
+  },
+  {
+    "input": "Nộp đơn đăng ký thi Olympic môn học cấp Quốc gia như thế nào?",
+    "output": "Bạn cần liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký. Đơn đăng ký thường bao gồm thông tin cá nhân, thành tích học tập, nguyện vọng dự thi, v.v."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic môn học cấp Trường?",
+    "output": "Vào đầu năm học, Nhà trường sẽ thông báo các môn học tổ chức thi Olympic cấp Trường. Bạn cần liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Làm sao để được vào đội tuyển thi Olympic môn học cấp Quốc gia?",
+    "output": "Bạn cần tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách. Sau đó, Bộ môn sẽ tuyển chọn và đề cử những sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Có những môn học nào được điều chỉnh điểm khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Bạn có thể xem danh sách các môn học được điều chỉnh điểm tại Phụ lục 2 của Quy định về thi Olympic các môn học."
+  },
+  {
+    "input": "Mình muốn tìm hiểu thêm về thi Olympic môn học, mình có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với Phòng Chính trị và Công tác sinh viên hoặc Bộ môn phụ trách môn học bạn muốn tham gia thi Olympic."
+  },
+  {
+    "input": "Làm sao để biết được thông tin về kỳ thi Olympic môn học cấp Quốc gia?",
+    "output": "Thông tin về kỳ thi Olympic môn học cấp Quốc gia sẽ được thông báo trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Bạn có thể thường xuyên cập nhật thông tin để biết rõ thời gian, nội dung và điều kiện tham gia thi."
+  },
+  {
+    "input": "Nộp đơn đăng ký thi Olympic môn học cấp Quốc gia như thế nào?",
+    "output": "Bạn cần liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký. Đơn đăng ký thường bao gồm thông tin cá nhân, thành tích học tập, nguyện vọng dự thi, v.v."
+  },
+  {
+    "input": "Kế hoạch bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia được lập như thế nào?",
+    "output": "Vào đầu năm học, các Bộ môn sẽ lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia (phụ lục 4) và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Kế hoạch bồi dưỡng sẽ bao gồm nội dung, số tiết bồi dưỡng, giảng viên phụ trách và thời gian giảng dạy."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia được hỗ trợ gì về tài chính?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao. Trường Đại học Thủy Lợi sẽ hỗ trợ kinh phí cho sinh viên tham gia thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic môn học cấp Trường?",
+    "output": "Vào đầu năm học, Nhà trường sẽ thông báo các môn học tổ chức thi Olympic cấp Trường. Bạn cần liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Làm sao để được vào đội tuyển thi Olympic môn học cấp Quốc gia?",
+    "output": "Bạn cần tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách. Sau đó, Bộ môn sẽ tuyển chọn và đề cử những sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Có những môn học nào được điều chỉnh điểm khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Bạn có thể xem danh sách các môn học được điều chỉnh điểm tại Phụ lục 2 của Quy định về thi Olympic các môn học."
+  },
+  {
+    "input": "Mình muốn tìm hiểu thêm về thi Olympic môn học, mình có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với Phòng Chính trị và Công tác sinh viên hoặc Bộ môn phụ trách môn học bạn muốn tham gia thi Olympic."
+  },
+  {
+    "input": "Làm sao để biết được thông tin về kỳ thi Olympic môn học cấp Quốc gia?",
+    "output": "Thông tin về kỳ thi Olympic môn học cấp Quốc gia sẽ được thông báo trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Bạn có thể thường xuyên cập nhật thông tin để biết rõ thời gian, nội dung và điều kiện tham gia thi."
+  },
+  {
+    "input": "Nộp đơn đăng ký thi Olympic môn học cấp Quốc gia như thế nào?",
+    "output": "Bạn cần liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký. Đơn đăng ký thường bao gồm thông tin cá nhân, thành tích học tập, nguyện vọng dự thi, v.v."
+  },
+  {
+    "input": "Kế hoạch bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia được lập như thế nào?",
+    "output": "Vào đầu năm học, các Bộ môn sẽ lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia (phụ lục 4) và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Kế hoạch bồi dưỡng sẽ bao gồm nội dung, số tiết bồi dưỡng, giảng viên phụ trách và thời gian giảng dạy."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia được hỗ trợ gì về tài chính?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao. Trường Đại học Thủy Lợi sẽ hỗ trợ kinh phí cho sinh viên tham gia thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Nếu mình muốn tham gia thi Olympic môn học cấp Trường, mình cần làm gì?",
+    "output": "Bạn cần theo dõi thông báo của nhà trường về các môn học sẽ tổ chức thi Olympic cấp trường, thời gian và hình thức thi. Sau đó, bạn liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Mình muốn tham gia thi Olympic môn học cấp Quốc gia, mình cần làm gì?",
+    "output": "Bạn cần theo dõi thông tin về kỳ thi Olympic môn học cấp Quốc gia trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Sau đó, bạn liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký và tham gia các buổi bồi dưỡng."
+  },
+  {
+    "input": "Cho mình hỏi quy định về thi Olympic các môn học của trường Đại học Thủy Lợi?",
+    "output": "Quy định về thi Olympic các môn học của trường Đại học Thủy Lợi được ban hành kèm theo Quyết định số 1089/QĐ-ĐHTL ngày 10 tháng 5 năm 2023 của Hiệu trưởng Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Thi Olympic môn học có mục đích gì?",
+    "output": "Thi Olympic các môn học trong sinh viên nhằm động viên, khuyến khích người học phát huy năng lực sáng tạo trong giải quyết những vấn đề thực tiễn có liên quan đến môn học; góp phần thúc đẩy việc cải tiến, nâng cao chất lượng học tập; phát hiện, tuyển chọn và bồi dưỡng người học có năng khiếu về môn học để thực hiện mục tiêu đào tạo nguồn nhân lực chất lượng cao cho đất nước."
+  },
+  {
+    "input": "Ai có thể tham gia thi Olympic môn học?",
+    "output": "Quy định này áp dụng đối với cán bộ, giảng viên và sinh viên đang học đại học tại Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Môn học nào được tổ chức thi Olympic cấp Trường?",
+    "output": "Tất cả các môn học trong trường đều có thể tổ chức thi Olympic cấp trường (theo đề xuất của Bộ môn và được Ban Giám hiệu phê duyệt) và tổ chức trước khi thi Olympic cấp Quốc gia (nếu có)."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Trường?",
+    "output": "Sinh viên có ý thức tốt trong học tập và rèn luyện, không vi phạm kỷ luật trong kỳ đăng ký dự thi Olympic môn học; có nguyện vọng dự thi và đăng ký dự thi theo kế hoạch của Nhà trường."
+  },
+  {
+    "input": "Thi Olympic môn học cấp Trường như thế nào?",
+    "output": "Vào đầu năm học, Nhà trường thông báo các môn học sẽ tổ chức thi, thời gian và hình thức thi. Các Bộ môn có tổ chức thi phối hợp với Phòng Chính trị và Công tác sinh viên tiến hành cho sinh viên đăng ký thi và tuyển chọn danh sách sinh viên đăng ký dự thi đảm bảo điều kiện để đạt kết quả tốt. Các Bộ môn tiến hành ra đề thi, tổ chức thi và chấm thi cho sinh viên như quy định về thi kết thúc học phần môn học. Đề thi phải đảm bảo đánh giá được chất lượng sinh viên ở trình độ kiến thức chuyên sâu, thể hiện được tư duy và năng lực sáng tạo của sinh viên. Phòng Chính trị và Công tác sinh viên phối hợp với các Bộ môn lên điểm, đề xuất giải cho sinh viên và trình Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên tham gia thi Olympic cấp Trường được gì?",
+    "output": "Sinh viên tham gia thi Olympic cấp Trường được tặng Giấy khen và phần thưởng của Hiệu trưởng; được cộng điểm rèn luyện theo quy định; được điều chỉnh điểm quá trình 01 môn học tương ứng với môn thi Olympic tương ứng tại phụ lục 1 (đối với các môn Khoa học Mác – Lênin và Tư tưởng Hồ Chí Minh, Tiếng Anh, Tin học văn phòng) hoặc tương ứng tại phụ lục 2 (đối với các môn thi khác) như sau: Giải Nhất: được 10.0 (mười) điểm quá trình; Giải Nhì và giải Ba: được 9.5 (chín phẩy năm) điểm quá trình; Giải Khuyến khích: được 9.0 (chín) điểm quá trình."
+  },
+  {
+    "input": "Điều kiện gì để tham gia thi Olympic môn học cấp Quốc gia?",
+    "output": "Sinh viên tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách; được Bộ môn tuyển chọn, đề cử tham gia thi Olympic cấp Quốc gia và được Ban Giám hiệu phê duyệt."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia có trách nhiệm gì?",
+    "output": "Sinh viên có trách nhiệm tuân thủ nghiêm túc các quy định của Trường và của giáo viên phụ trách đội thi; có mặt tại địa điểm thi đúng ngày, giờ quy định; phải thực hiện nghiêm túc các quy định của Ban Tổ chức cuộc thi."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được gì?",
+    "output": "Sinh viên đạt giải trong kỳ thi Olympic cấp Quốc gia được tặng Giấy khen và phần thưởng của Hiệu trưởng; cộng điểm rèn luyện theo quy định; được điều chỉnh điểm môn học theo quy định tại Điều 10 của Quy định này."
+  },
+  {
+    "input": "Sinh viên được chọn vào đội tuyển đi dự thi Olympic cấp Quốc gia được điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên được lựa chọn điều chỉnh điểm các môn học tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2) như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 (mười) điểm; Điểm thi kết thúc học phần được công nhận như sau: Giải Nhất: được 10.0 (mười) điểm; Giải Nhì: được 9.5 (chín phẩy năm) điểm; Giải Ba: được 9.0 (chín) điểm; Giải Khuyến khích: được 8.5 (tám phẩy năm) điểm; Được chọn vào đội tuyển và có tham dự kỳ thi Olympic cấp Quốc gia nhưng không đạt giải: được 8.0 (tám) điểm."
+  },
+  {
+    "input": "Sinh viên chưa học môn học tương ứng với môn dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên được bảo lưu quyền điều chỉnh điểm môn học. Sau khi sinh viên học các môn tương ứng với môn dự thi Olympic cấp Quốc gia (theo phụ lục 2), sẽ được điều chỉnh điểm theo khoản a, mục 1.1 của Điều này."
+  },
+  {
+    "input": "Sinh viên có thành tích tốt trong quá trình ôn luyện nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia thì sao?",
+    "output": "Sinh viên có thành tích tốt trong quá trình ôn luyện cùng đội tuyển (có đề nghị của giáo viên hướng dẫn và được Trưởng Bộ môn đồng ý) nhưng không được chọn vào đội tuyển dự thi Olympic cấp Quốc gia sẽ được 10.0 (mười) điểm quá trình và được 7.5 (bảy phảy năm) điểm thi kết thúc học phần môn học của một trong những học phần tương ứng với môn thi cấp Quốc gia tại phụ lục 2."
+  },
+  {
+    "input": "Điểm điều chỉnh được sử dụng như thế nào?",
+    "output": "Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ mà sinh viên thi Olympic môn học và đăng ký học lần đầu môn học đó: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện. Đối với những môn học mà sinh viên đề nghị điều chỉnh nhưng đã học tại các học kỳ trước khi thi Olympic môn học: điểm điều chỉnh không được điều chỉnh để xét tính học bổng, khen thưởng và đánh giá rèn luyện ở các kỳ trước. Đối với những môn học mà sinh viên đề nghị điều chỉnh tại học kỳ sau khi sinh viên thi Olympic môn học và đăng ký học lần đầu: điểm điều chỉnh được sử dụng để xét tính học bổng, khen thưởng và đánh giá rèn luyện tại học kỳ."
+  },
+  {
+    "input": "Quy trình thực hiện việc điều chỉnh điểm môn học như thế nào?",
+    "output": "Sinh viên làm đơn đề nghị điều chỉnh điểm môn học (phụ lục 3) ngay sau khi có kết quả thi 10 ngày và nộp Bộ môn phụ trách môn thi Olympic. Riêng đối với sinh viên thuộc đối tượng tại điểm b khoản 1.1 mục 1 Điều này: sinh viên nộp đơn đề nghị điều chỉnh điểm môn học chậm nhất 10 ngày sau khi kết thúc môn học tương ứng với môn thi Olympic; Bộ môn tổng hợp đơn của sinh viên và có ý kiến xác nhận, nộp báo cáo Nhà trường (qua phòng Chính trị và Công tác sinh viên) sau 10 ngày (kể từ khi sinh viên nộp đơn); Phòng Chính trị và Công tác sinh viên kiểm tra, tổng hợp và trình Ban Giám hiệu danh sách sinh viên đề nghị điều chỉnh điểm môn học trong vòng 10 ngày (kể từ khi nhận kết quả tổng hợp từ Bộ môn); Sau khi có Quyết định điều chỉnh điểm môn học cho sinh viên đã được Ban Giám hiệu phê duyệt, phòng Chính trị và Công tác sinh viên thông báo đến sinh viên, Bộ môn và Phòng khảo thí & Đảm bảo chất lượng để nhập điểm cho sinh viên."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có nhiệm vụ gì?",
+    "output": "Giảng viên được Bộ môn bố trí giảng dạy Olympic môn học thực hiện theo đúng lịch trình giảng dạy và yêu cầu của Bộ môn; Từng buổi lên lớp, giảng viên yêu cầu đại diện sinh viên ghi “Sổ theo dõi học tập” và giảng viên ký xác nhận. Kết thúc giảng dạy theo kế hoạch được duyệt, giảng viên giảng dạy nộp “Sổ theo dõi học tập” cùng Giấy đề nghị thanh toán (phụ lục 5) về phòng Chính trị và Công tác sinh viên để làm cơ sở thanh toán."
+  },
+  {
+    "input": "Giảng viên giảng dạy Olympic môn học có quyền lợi gì?",
+    "output": "Giảng viên được tính khối lượng giảng dạy bồi dưỡng thi Olympic là khối lượng vượt giờ và các giảng viên tham gia giảng dạy được thanh toán theo Quy chế chi tiêu nội bộ của trường với số giờ giảng dạy thực tế trên cơ sở đề cương môn học đã được Hiệu trưởng phê duyệt. Trong trường hợp không thanh toán trực tiếp, bộ môn có thể đề nghị tính vào giờ giảng của năm học với hệ số quy đổi theo quy định của Trường; Được khen thưởng theo quy định của Trường khi đội tuyển đạt từ giải Ba đồng đội trở lên hoặc có ít nhất 50% số sinh viên dự thi đạt từ giải Ba trở lên; Được xem xét tính thành tích thay thế sáng kiến theo quy định của Trường."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic môn học cấp Trường?",
+    "output": "Vào đầu năm học, Nhà trường sẽ thông báo các môn học tổ chức thi Olympic cấp Trường. Bạn cần liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Làm sao để được vào đội tuyển thi Olympic môn học cấp Quốc gia?",
+    "output": "Bạn cần tham gia học tập đầy đủ và đạt yêu cầu theo quy định chương trình bồi dưỡng của môn học dự thi do Bộ môn phụ trách. Sau đó, Bộ môn sẽ tuyển chọn và đề cử những sinh viên đủ tiêu chuẩn tham gia đội tuyển chính thức dự thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Có những môn học nào được điều chỉnh điểm khi tham gia thi Olympic cấp Quốc gia?",
+    "output": "Bạn có thể xem danh sách các môn học được điều chỉnh điểm tại Phụ lục 2 của Quy định về thi Olympic các môn học."
+  },
+  {
+    "input": "Mình muốn tìm hiểu thêm về thi Olympic môn học, mình có thể liên hệ với ai?",
+    "output": "Bạn có thể liên hệ với Phòng Chính trị và Công tác sinh viên hoặc Bộ môn phụ trách môn học bạn muốn tham gia thi Olympic."
+  },
+  {
+    "input": "Làm sao để biết được thông tin về kỳ thi Olympic môn học cấp Quốc gia?",
+    "output": "Thông tin về kỳ thi Olympic môn học cấp Quốc gia sẽ được thông báo trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Bạn có thể thường xuyên cập nhật thông tin để biết rõ thời gian, nội dung và điều kiện tham gia thi."
+  },
+  {
+    "input": "Nộp đơn đăng ký thi Olympic môn học cấp Quốc gia như thế nào?",
+    "output": "Bạn cần liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký. Đơn đăng ký thường bao gồm thông tin cá nhân, thành tích học tập, nguyện vọng dự thi, v.v."
+  },
+  {
+    "input": "Kế hoạch bồi dưỡng sinh viên dự thi Olympic cấp Quốc gia được lập như thế nào?",
+    "output": "Vào đầu năm học, các Bộ môn sẽ lập kế hoạch thi, kế hoạch bồi dưỡng sinh viên thi Olympic cấp Quốc gia (phụ lục 4) và trình Hiệu trưởng phê duyệt (thông qua phòng Chính trị và Công tác sinh viên). Kế hoạch bồi dưỡng sẽ bao gồm nội dung, số tiết bồi dưỡng, giảng viên phụ trách và thời gian giảng dạy."
+  },
+  {
+    "input": "Sinh viên thi Olympic cấp Quốc gia được hỗ trợ gì về tài chính?",
+    "output": "Cán bộ phụ trách đội tuyển hoặc cán bộ phụ trách toàn đoàn (nếu có nhiều môn thi) chịu trách nhiệm trình Hiệu trưởng về kinh phí, phương tiện và các vấn đề liên quan đảm bảo cho đoàn thi an toàn và đạt kết quả cao. Trường Đại học Thủy Lợi sẽ hỗ trợ kinh phí cho sinh viên tham gia thi Olympic cấp Quốc gia."
+  },
+  {
+    "input": "Nếu mình muốn tham gia thi Olympic môn học cấp Trường, mình cần làm gì?",
+    "output": "Bạn cần theo dõi thông báo của nhà trường về các môn học sẽ tổ chức thi Olympic cấp trường, thời gian và hình thức thi. Sau đó, bạn liên hệ với Phòng Chính trị và Công tác sinh viên để được hướng dẫn đăng ký thi."
+  },
+  {
+    "input": "Mình muốn tham gia thi Olympic môn học cấp Quốc gia, mình cần làm gì?",
+    "output": "Bạn cần theo dõi thông tin về kỳ thi Olympic môn học cấp Quốc gia trên website của Bộ Giáo dục và Đào tạo hoặc website của Trường Đại học Thủy Lợi. Sau đó, bạn liên hệ với Bộ môn phụ trách môn học dự thi để được hướng dẫn nộp đơn đăng ký và tham gia các buổi bồi dưỡng."
+  },
+  {
+    "input": "Tham gia thi Olympic cấp Trường, mình được gì?",
+    "output": "Bạn sẽ được tặng Giấy khen và phần thưởng của Hiệu trưởng, cộng điểm rèn luyện theo quy định, và được điều chỉnh điểm quá trình của một môn học tương ứng với môn thi Olympic. Điểm điều chỉnh tùy theo giải thưởng đạt được, cụ thể: Giải Nhất được 10 điểm, Giải Nhì và Ba được 9.5 điểm, Giải Khuyến khích được 9 điểm."
+  },
+  {
+    "input": "Em muốn biết cách tính điểm thi Olympic môn học cấp trường như thế nào?",
+    "output": "Điểm thi Olympic môn học được chấm theo thang điểm 10 và được làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Làm sao để đạt được giải Nhất trong thi Olympic môn học cấp trường?",
+    "output": "Để đạt được giải Nhất, bạn cần có điểm thi cao nhất thuộc top 5% của tất cả các thí sinh tham gia thi."
+  },
+  {
+    "input": "Em muốn biết tiêu chí để phân loại giải thưởng thi Olympic môn học như thế nào?",
+    "output": "Tổng số giải thưởng của mỗi môn không được vượt quá 40% số sinh viên dự thi. Các giải thưởng được phân loại dựa trên thứ hạng điểm thi: Giải Nhất cho top 5%, Giải Nhì cho top 10% tiếp theo, Giải Ba cho top 15% tiếp theo và Giải Khuyến khích cho top 10% tiếp theo với điểm thi từ 6.0 trở lên."
+  },
+  {
+    "input": "Em được giải Ba trong thi Olympic môn học cấp trường thì em được cộng điểm rèn luyện như thế nào?",
+    "output": "Bạn sẽ được cộng 9.5 điểm rèn luyện theo quy định."
+  },
+  {
+    "input": "Em tham gia thi Olympic môn Tiếng Anh vòng chung kết, em có thể được điều chỉnh điểm môn học như thế nào?",
+    "output": "Bạn có thể được điều chỉnh điểm môn học tương ứng tại phụ lục 1 như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có): được 10.0 điểm. Điểm thi kết thúc học phần sẽ được công nhận theo thứ hạng giải thưởng: Giải Nhất 10.0 điểm, Giải Nhì 9.5 điểm, Giải Ba 9.0 điểm, Giải Khuyến khích 8.5 điểm."
+  },
+  {
+    "input": "Em được giải Nhất trong thi Olympic môn học cấp trường, em được điều chỉnh điểm quá trình như thế nào?",
+    "output": "Bạn sẽ được 10.0 điểm quá trình cho môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Em muốn biết quyền lợi của sinh viên đạt giải trong thi Olympic môn học cấp trường?",
+    "output": "Sinh viên đạt giải sẽ được tặng Giấy khen và phần thưởng của Hiệu trưởng, cộng điểm rèn luyện theo quy định và được điều chỉnh điểm quá trình môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Em muốn biết điểm thi Olympic môn học được tính như thế nào?",
+    "output": "Điểm thi được chấm theo thang điểm 10 và được làm tròn đến một chữ số thập phân."
+  },
+  {
+    "input": "Em được giải Khuyến khích trong thi Olympic môn học, điểm thi của em phải đạt bao nhiêu?",
+    "output": "Để đạt giải Khuyến khích, điểm thi của bạn phải đạt ít nhất 6.0 điểm trở lên."
+  },
+  {
+    "input": "Điều kiện để được cộng điểm rèn luyện khi tham gia thi Olympic là gì?",
+    "output": "Để được cộng điểm rèn luyện, bạn cần đạt giải trong thi Olympic môn học cấp Trường."
+  },
+  {
+    "input": "Ngoài cộng điểm rèn luyện, sinh viên đạt giải trong thi Olympic còn được hưởng lợi ích gì?",
+    "output": "Ngoài cộng điểm rèn luyện, sinh viên đạt giải sẽ được tặng Giấy khen và phần thưởng của Hiệu trưởng, và được điều chỉnh điểm quá trình môn học tương ứng với môn thi Olympic."
+  },
+  {
+    "input": "Mình đang học môn Toán và đã đạt giải Nhì Olympic Toán cấp Quốc gia. Điểm thi môn Toán của mình sẽ được điều chỉnh như thế nào?",
+    "output": "Bạn sẽ được điều chỉnh điểm môn Toán như sau: Điểm quá trình và điểm thi giữa kỳ (nếu có) được 10.0 điểm, và điểm thi kết thúc học phần được công nhận là 9.5 điểm."
+  },
+  {
+    "input": "Mình đã học môn Lý nhưng chưa tham gia thi Olympic cấp Quốc gia. Điểm môn Lý của mình có được điều chỉnh không?",
+    "output": "Bạn sẽ được bảo lưu quyền điều chỉnh điểm môn Lý. Sau khi bạn học môn Lý và tham gia thi Olympic cấp Quốc gia, điểm môn Lý sẽ được điều chỉnh theo kết quả thi của bạn."
+  },
+  {
+    "input": "Mình muốn thi Olympic Hóa nhưng chưa học môn Hóa.  Mình có thể điều chỉnh điểm môn Hóa sau khi học và thi Olympic không?",
+    "output": "Bạn có thể điều chỉnh điểm môn Hóa sau khi học môn Hóa và tham gia thi Olympic cấp Quốc gia. Điểm môn Hóa sẽ được điều chỉnh theo kết quả thi của bạn."
+  },
+  {
+    "input": "Mình đã tham gia thi Olympic Vật lý nhưng không đạt giải. Điểm môn Vật lý của mình sẽ được điều chỉnh như thế nào?",
+    "output": "Điểm môn Vật lý của bạn sẽ được điều chỉnh lên 8.0 điểm."
+  },
+  {
+    "input": "Mình đang học môn Anh và dự định thi Olympic Tiếng Anh. Liệu điểm thi Olympic của mình có được điều chỉnh vào điểm môn Anh?",
+    "output": "Điểm thi Olympic Tiếng Anh của bạn sẽ được điều chỉnh vào điểm môn Anh theo quy định cho sinh viên đã và đang học môn tương ứng với môn dự thi Olympic."
+  },
+  {
+    "input": "Mình đang học môn Tin học và muốn thi Olympic Tin học cấp Quốc gia. Điểm thi Olympic của mình sẽ được điều chỉnh như thế nào?",
+    "output": "Điểm thi Olympic Tin học của bạn sẽ được điều chỉnh vào điểm môn Tin học theo quy định cho sinh viên đã và đang học môn tương ứng với môn dự thi Olympic. Điểm thi của bạn sẽ được điều chỉnh theo từng giải thưởng cụ thể: Giải Nhất - 10 điểm, Giải Nhì - 9.5 điểm, Giải Ba - 9 điểm, Giải Khuyến khích - 8.5 điểm."
+  },
+  {
+    "input": "Mình đã học môn Toán nhưng chưa thi Olympic. Liệu điểm môn Toán của mình có được điều chỉnh sau khi thi Olympic?",
+    "output": "Bạn sẽ được bảo lưu quyền điều chỉnh điểm môn Toán. Sau khi bạn học môn Toán và tham gia thi Olympic cấp Quốc gia, điểm môn Toán sẽ được điều chỉnh theo kết quả thi của bạn. Ví dụ, nếu bạn đạt giải Nhất, điểm môn Toán của bạn sẽ được điều chỉnh lên 10.0 điểm."
+  },
+  {
+    "input": "Mình muốn thi Olympic Sinh học nhưng chưa học môn Sinh học. Vậy mình có được điều chỉnh điểm môn Sinh học sau khi học và thi Olympic không?",
+    "output": "Bạn có thể điều chỉnh điểm môn Sinh học sau khi học môn Sinh học và tham gia thi Olympic cấp Quốc gia. Điểm môn Sinh học sẽ được điều chỉnh theo kết quả thi của bạn. Nếu bạn đạt giải Ba, điểm môn Sinh học của bạn sẽ được điều chỉnh lên 9.0 điểm."
+  },
+  {
+    "input": "Mình đã thi Olympic Toán và đạt giải Khuyến khích. Điểm môn Toán của mình được điều chỉnh như thế nào?",
+    "output": "Điểm môn Toán của bạn sẽ được điều chỉnh lên 8.5 điểm."
+  },
+  {
+    "input": "Mình muốn thi Olympic Vật lý và muốn biết điểm sẽ được điều chỉnh như thế nào nếu mình đạt giải Nhất, Nhì, Ba hoặc Khuyến khích?",
+    "output": "Nếu bạn đạt giải Nhất, điểm môn Vật lý của bạn sẽ được điều chỉnh lên 10.0 điểm. Nếu bạn đạt giải Nhì, điểm môn Vật lý của bạn sẽ được điều chỉnh lên 9.5 điểm. Nếu bạn đạt giải Ba, điểm môn Vật lý của bạn sẽ được điều chỉnh lên 9.0 điểm. Nếu bạn đạt giải Khuyến khích, điểm môn Vật lý của bạn sẽ được điều chỉnh lên 8.5 điểm."
+  },
+  {
+    "input": "Kỳ thi Olympic Toán học cấp trường năm học 2022-2023 diễn ra khi nào?",
+    "output": "Kỳ thi dự kiến diễn ra vào tuần cuối tháng 11 năm 2022."
+  },
+  {
+    "input": "Nội dung thi Olympic Toán học cấp trường gồm những gì?",
+    "output": "Nội dung thi bao gồm các phần: Hàm số, Tích phân, Phương trình, hệ phương trình, Đa thức, dãy số, giải tích tổ hợp, và bài toán áp dụng thực tế, suy luận logic."
+  },
+  {
+    "input": "Làm sao để đăng ký thi Olympic Toán học cấp trường?",
+    "output": "Bạn có thể đăng ký trực tiếp với giáo viên đang giảng dạy lớp nếu bạn là sinh viên K62, K63 hoặc K64. Còn đối với các lớp khác, bạn có thể đăng ký trực tuyến trên Google Form: https://forms.gle/qSFRj584xXVoP52L6"
+  },
+  {
+    "input": "Hạn đăng ký thi Olympic Toán học cấp trường là khi nào?",
+    "output": "Hạn đăng ký là từ ngày 2/11/2022 đến ngày 12/11/2022."
+  },
+  {
+    "input": "Sinh viên K64 có được tham gia thi Olympic Toán học cấp trường không?",
+    "output": "Chỉ những sinh viên K64 có điểm Toán xét tuyển vào Trường Đại học Thủy Lợi từ 8,0 trở lên mới được tham gia thi."
+  },
+  {
+    "input": "Khen thưởng cho sinh viên đạt giải trong kỳ thi Olympic Toán học cấp trường như thế nào?",
+    "output": "Sinh viên đạt giải sẽ được cộng điểm quá trình môn Toán, nhận giải thưởng của trường và có cơ hội được chọn vào đội tuyển dự thi Olympic Toán học Toàn quốc."
+  },
+  {
+    "input": "Sinh viên đạt giải trong kỳ thi Olympic Toán học Toàn quốc được thưởng gì?",
+    "output": "Sinh viên đạt giải Ba trở lên được thưởng 2 điểm 10, Giải khuyến khích được 2 điểm 9, còn lại được 2 điểm 8 (chọn trong các môn Toán đã hoặc đang học)."
+  },
+  {
+    "input": "Tôi muốn xem đề thi Olympic Toán học cấp trường các năm trước?",
+    "output": "Bạn có thể tham khảo đề thi Olympic Toán học cấp trường năm 2017, 2018, 2019, 2020 trong phần tiếp theo của tài liệu này."
+  },
+  {
+    "input": "Tham gia thi Olympic Toán học cấp trường có được cộng điểm quá trình môn Toán không?",
+    "output": "Có, nếu bạn tham gia thi và không bị điểm liệt, bạn sẽ được cộng 1 điểm quá trình môn Toán."
+  },
+  {
+    "input": "Cộng bao nhiêu điểm quá trình môn Toán nếu đạt giải khuyến khích trong Olympic Toán học cấp trường?",
+    "output": "Bạn sẽ được cộng 2 điểm quá trình môn Toán nếu đạt giải khuyến khích."
+  },
+  {
+    "input": "Nếu đạt giải Nhất, Nhì, Ba trong Olympic Toán học cấp trường thì cộng bao nhiêu điểm quá trình môn Toán?",
+    "output": "Bạn sẽ được cộng 3 điểm quá trình môn Toán nếu đạt giải Nhất, Nhì, Ba."
+  },
+  {
+    "input": "Cộng điểm quá trình môn Toán cho những học kỳ nào?",
+    "output": "Cộng điểm quá trình cho các sinh viên môn Toán đang và sẽ học trong Học kỳ 1 và 2 năm học 2022-2023."
+  },
+  {
+    "input": "Mình là sinh viên dân tộc thiểu số, có được miễn giảm học phí không?",
+    "output": "Sinh viên người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo theo quy định của Thủ tướng Chính phủ thì được miễn học phí. Ngoài ra, sinh viên người dân tộc thiểu số (không phải là người dân tộc thiểu số rất ít người) ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo theo quy định của cơ quan có thẩm quyền thì được giảm 70% học phí."
+  },
+  {
+    "input": "Mình là sinh viên dân tộc thiểu số rất ít người, mình có được hưởng trợ cấp gì không?",
+    "output": "Sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thuỷ lợi thì được hưởng hỗ trợ học tập. Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng. Thời gian được hưởng hỗ trợ: 12 tháng/năm cho sinh viên có thời gian học đủ 9 tháng/năm trở lên."
+  },
+  {
+    "input": "Sinh viên mồ côi có được hưởng trợ cấp gì không?",
+    "output": "Sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa thì được hưởng trợ cấp xã hội với mức 100.000đ/tháng. Để được hưởng trợ cấp, bạn cần nộp đơn đề nghị và các giấy tờ chứng minh theo quy định."
+  },
+  {
+    "input": "Sinh viên nghèo vượt khó có được hưởng hỗ trợ gì không?",
+    "output": "Sinh viên có gia đình thuộc diện hộ nghèo, đồng thời có Điểm trung bình chung học kỳ đạt loại Khá trở lên và rèn luyện đạt từ loại Tốt trở lên, không bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét trợ cấp thì được hưởng trợ cấp xã hội với mức 100.000đ/tháng."
+  },
+  {
+    "input": "Học phí của chương trình tiên tiến có cao hơn chương trình truyền thống không?",
+    "output": "Học phí của chương trình tiên tiến có thể cao hơn chương trình truyền thống. Mức học phí cụ thể bạn có thể xem chi tiết trên website của trường hoặc liên hệ với phòng Tài chính - Kế toán của trường."
+  },
+  {
+    "input": "Làm sao để được hưởng miễn giảm học phí?",
+    "output": "Bạn cần nộp đơn đề nghị miễn giảm học phí và các giấy tờ chứng minh theo quy định. Các giấy tờ cần thiết sẽ phụ thuộc vào đối tượng miễn giảm của bạn. Bạn có thể liên hệ với phòng Chính trị và Công tác sinh viên để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Học phí của học kỳ hè tính như thế nào?",
+    "output": "Học phí của học kỳ hè được thu vào tuần học thứ hai của mỗi kỳ học. Mức học phí được xác định căn cứ theo số học phần mà sinh viên đăng ký học trong mỗi kỳ và bằng tổng số tín chỉ quy định cho các học phần đó nhân với mức tiền học phí của 1 tín chỉ. Riêng với sinh viên học theo chương trình tiên tiến, học phí xác định theo quy định riêng của chương trình."
+  },
+  {
+    "input": "Sinh viên bị đình chỉ học có được hưởng trợ cấp xã hội không?",
+    "output": "Sinh viên bị đình chỉ học thì không được hưởng trợ cấp xã hội trong thời gian bị đình chỉ. Khi sinh viên được nhập học lại sau khi hết thời hạn kỷ luật, Nhà trường sẽ tiếp tục cấp trợ cấp xã hội cho sinh viên."
+  },
+  {
+    "input": "Làm sao để biết mình có được hưởng trợ cấp xã hội không?",
+    "output": "Bạn có thể liên hệ với phòng Chính trị và Công tác sinh viên để được tư vấn và hướng dẫn cụ thể về các đối tượng được hưởng trợ cấp xã hội. Bạn cần chuẩn bị đầy đủ hồ sơ theo quy định để được xem xét."
+  },
+  {
+    "input": "Làm sao để được miễn giảm học phí khi học tại Phân hiệu Thuỷ Lợi?",
+    "output": "Bạn có thể được miễn giảm học phí nếu thuộc một trong các đối tượng được quy định tại Điều 6 của Quy chế học phí. Vui lòng xem chi tiết thông tin và hồ sơ cần thiết tại website của Trường hoặc liên hệ với Phòng Tuyển sinh để được hướng dẫn."
+  },
+  {
+    "input": "Mình là con của người có công với cách mạng, mình có được miễn giảm học phí không?",
+    "output": "Bạn có thể được miễn giảm 100% học phí nếu thuộc diện con của người có công với cách mạng. Bạn cần chuẩn bị đầy đủ hồ sơ theo quy định, bao gồm Đơn đề nghị miễn giảm học phí, bản sao Giấy khai sinh, Giấy xác nhận của cơ quan quản lý đối tượng người có công và bản sao thẻ Thương bệnh binh của bố/mẹ (nếu có)."
+  },
+  {
+    "input": "Mình bị khuyết tật, mình có được miễn giảm học phí không?",
+    "output": "Bạn có thể được miễn giảm 100% học phí nếu là sinh viên bị khuyết tật. Bạn cần chuẩn bị hồ sơ bao gồm Đơn đề nghị miễn giảm học phí và Giấy xác nhận khuyết tật của UBND cấp xã cấp hoặc Quyết định trợ cấp xã hội của UBND cấp huyện."
+  },
+  {
+    "input": "Mình là người dân tộc thiểu số, mình có được miễn giảm học phí không?",
+    "output": "Bạn có thể được miễn giảm học phí nếu thuộc diện người dân tộc thiểu số. Cụ thể, nếu bạn thuộc hộ nghèo/hộ cận nghèo hoặc là người dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế – xã hội khó khăn hoặc đặc biệt khó khăn, bạn sẽ được miễn giảm 100% học phí. Nếu bạn là người dân tộc thiểu số ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo, bạn sẽ được miễn giảm 70% học phí. Bạn cần chuẩn bị hồ sơ theo quy định của Trường."
+  },
+  {
+    "input": "Mình là sinh viên hệ cử tuyển, mình có được miễn giảm học phí không?",
+    "output": "Sinh viên hệ cử tuyển sẽ được miễn giảm 100% học phí theo Hợp đồng cử tuyển đã ký kết giữa Tỉnh và Trường. Bạn không cần phải nộp hồ sơ miễn giảm học phí."
+  },
+  {
+    "input": "Mình muốn biết thêm về hồ sơ miễn giảm học phí, mình phải làm sao?",
+    "output": "Bạn có thể xem chi tiết thông tin về hồ sơ miễn giảm học phí tại website của Trường hoặc liên hệ với Phòng Tuyển sinh để được hướng dẫn."
+  },
+  {
+    "input": "Mình là con của cán bộ, công chức bị tai nạn lao động, mình có được miễn giảm học phí không?",
+    "output": "Bạn có thể được miễn giảm 50% học phí nếu là con của cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. Bạn cần chuẩn bị hồ sơ bao gồm Đơn đề nghị miễn giảm học phí, bản sao Giấy khai sinh và bản sao Sổ hưởng trợ cấp hàng tháng của cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp do tổ chức bảo hiểm xã hội cấp."
+  },
+  {
+    "input": "Hồ sơ miễn giảm học phí gồm những gì?",
+    "output": "Hồ sơ miễn giảm học phí bao gồm Đơn đề nghị miễn giảm học phí (theo mẫu 1) và các giấy tờ liên quan tùy theo đối tượng. Vui lòng xem chi tiết thông tin tại website của Trường hoặc liên hệ với Phòng Tuyển sinh để được hướng dẫn cụ thể."
+  },
+  {
+    "input": "Mình nộp hồ sơ miễn giảm học phí ở đâu?",
+    "output": "Bạn có thể nộp hồ sơ miễn giảm học phí tại Phòng Tuyển sinh của Trường Đại học Thuỷ Lợi."
+  },
+  {
+    "input": "Thời hạn nộp hồ sơ miễn giảm học phí là bao lâu?",
+    "output": "Thời hạn nộp hồ sơ miễn giảm học phí sẽ được thông báo cụ thể trên website của Trường. Bạn nên liên hệ với Phòng Tuyển sinh để biết chính xác thời hạn."
+  },
+  {
+    "input": "Học phí của trường Đại học Thuỷ lợi được tính như thế nào?",
+    "output":"Học phí của trường được xác định cho từng năm học và căn cứ vào khung học phí quy định của Thủ tướng Chính phủ. Học phí được thông báo công khai trước mỗi năm học." 
+  },
+  {
+    "input": "Mức học phí của trường Đại học Thuỷ lợi được xác định như thế nào?",
+    "output": "Học phí được xác định căn cứ theo số học phần mà sinh viên đăng ký học trong mỗi kỳ và bằng tổng số tín chỉ quy định cho các học phần đó nhân với mức tiền học phí của 1 tín chỉ."
+  },
+  {
+    "input": "Học phí của trường Đại học Thuỷ lợi được thông báo khi nào?",
+    "output": "Học phí được thông báo công khai trước mỗi năm học."
+  },
+  {
+    "input": "Học phí của trường Đại học Thuỷ lợi có quy định về việc đóng học phí không đúng hạn?",
+    "output": "Có, trường có quy định về việc đóng học phí không đúng hạn."
+  },
+  {
+    "input": "Nếu em đóng học phí trễ hạn thì trường Đại học Thuỷ lợi sẽ xử lý như thế nào?",
+    "output": "Nếu em đóng học phí trễ hạn, em sẽ bị khóa tài khoản đăng ký học hoặc không được bảo vệ Học phần tốt nghiệp."
+  },
+  {
+    "input": "Ai được miễn học phí ở trường Đại học Thuỷ lợi?",
+    "output": "Sinh viên thuộc đối tượng theo quy định tại Pháp lệnh Ưu đãi người có công với cách mạng, sinh viên bị khuyết tật, sinh viên (tuổi không quá 22) không có nguồn nuôi dưỡng thuộc đối tượng hưởng trợ cấp xã hội hàng tháng, sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo, sinh viên người dân tộc thiểu số rất ít người, sinh viên hệ cử tuyển."
+  },
+  {
+    "input": "Điều kiện để được miễn giảm học phí ở trường Đại học Thuỷ lợi là gì?",
+    "output": "Điều kiện để được miễn giảm học phí được quy định cụ thể tại Quyết định số 1563/QĐ-ĐHTL ngày 25/10/2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Em thuộc đối tượng được miễn giảm học phí, em cần nộp những giấy tờ gì?",
+    "output": "Tùy thuộc vào đối tượng miễn giảm học phí mà em thuộc, em cần nộp những giấy tờ cụ thể được quy định trong Quyết định số 1563/QĐ-ĐHTL ngày 25/10/2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Sinh viên học theo chương trình tiên tiến và sinh viên liên thông cao đẳng lên đại học được hưởng chính sách miễn giảm học phí như thế nào?",
+    "output": "Đối với sinh viên thuộc diện miễn 100% học phí, sinh viên được miễn 100% học phí bằng mức học phí quy định của chương trình truyền thống và phải đóng phần chênh lệch học phí. Đối với sinh viên thuộc diện giảm học phí, sinh viên được giảm học phí bằng 70% hoặc 50% mức học phí quy định của chương trình truyền thống và phải đóng phần chênh lệch học phí."
+  },
+  {
+    "input": "Sinh viên học cùng lúc hai ngành đào tạo được hưởng chế độ miễn giảm học phí như thế nào?",
+    "output": "Sinh viên chỉ được hưởng chế độ ưu đãi về miễn giảm học phí tại ngành đào tạo thứ nhất."
+  },
+  {
+    "input": "Ai được hỗ trợ chi phí học tập ở trường Đại học Thuỷ lợi?",
+    "output": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo theo quy định của Nhà nước đang học đại học chính quy tại Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Mức hỗ trợ chi phí học tập ở trường Đại học Thuỷ lợi là bao nhiêu?",
+    "output":     "Mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên."
+  },
+  
+  {
+    "input": "Em muốn được hỗ trợ chi phí học tập, em cần nộp những giấy tờ gì?", 
+    "output": "Em cần nộp Đơn đề nghị hỗ trợ chi phí học tập, bản sao Giấy khai sinh, bản sao Giấy chứng nhận hộ nghèo/ hộ cận nghèo."
+  },
+  {
+    "input": "Ai được hỗ trợ học tập ở trường Đại học Thuỷ lợi?",
+    "output": "Sinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) đang học đại học tại Trường Đại học Thuỷ lợi."
+  },
+  {
+    "input": "Mức hỗ trợ học tập ở trường Đại học Thuỷ lợi là bao nhiêu?",
+    "output": "Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng."
+  },
+  {
+    "input": "Em muốn được hỗ trợ học tập, em cần nộp những giấy tờ gì?",
+    "output": "Em cần nộp Đơn đề nghị hỗ trợ học tập, bản sao Giấy khai sinh hoặc Bản sao Sổ hộ khẩu gia đình."
+  },
+  {
+    "input":"Ai được hưởng trợ cấp xã hội ở trường Đại học Thuỷ lợi?" ,
+    "output": "Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học chính quy tại trường Đại học Thuỷ lợi thuộc một trong các đối tượng: sinh viên là người dân tộc ít người ở vùng cao, sinh viên là người mồ côi cả cha lẫn mẹ không nơi nương tựa, sinh viên là người tàn tật, sinh viên có hoàn cảnh đặc biệt khó khăn về kinh tế, vượt khó học tập."
+  },
+  {
+    "input": "Hồ sơ và mức hưởng trợ cấp xã hội ở trường Đại học Thuỷ lợi như thế nào?",
+    "output":     "Hồ sơ và mức hưởng trợ cấp xã hội được quy định cụ thể tại Quyết định số 1563/QĐ-ĐHTL ngày 25/10/2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  
+  {
+    "input":  "Em muốn được hưởng trợ cấp xã hội, em cần nộp những giấy tờ gì?",
+    "output": "Tùy thuộc vào đối tượng trợ cấp xã hội mà em thuộc, em cần nộp những giấy tờ cụ thể được quy định trong Quyết định số 1563/QĐ-ĐHTL ngày 25/10/2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input":  "Điều kiện để được hưởng trợ cấp xã hội đối với sinh viên nghèo vượt khó học tập là gì?",
+    "output": "Điều kiện để được hưởng trợ cấp xã hội đối với sinh viên nghèo vượt khó học tập được quy định cụ thể tại Quyết định số 1563/QĐ-ĐHTL ngày 25/10/2021 của Hiệu trưởng Trường Đại học Thủy lợi."
+  },
+  {
+    "input": "Học phí của ngành công nghệ thông tin ở Đại học Thủy lợi là bao nhiêu?",
+    "output": "Học phí của ngành Công nghệ thông tin ở Đại học Thủy lợi là 420.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí ngành kinh tế là bao nhiêu?",
+    "output": "Học phí của ngành Kinh tế là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Mức học phí của ngành xây dựng là bao nhiêu?",
+    "output": "Học phí của ngành Xây dựng là 350.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành quản trị kinh doanh là bao nhiêu?",
+    "output": "Học phí của ngành Quản trị kinh doanh là 600.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Mức học phí của ngành kỹ thuật môi trường là bao nhiêu?",
+    "output": "Học phí của ngành Kỹ thuật môi trường là 675.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Ngành công nghệ thông tin học phí bao nhiêu?",
+    "output": "Học phí của ngành Công nghệ thông tin là 420.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành tài chính ngân hàng là bao nhiêu?",
+    "output": "Học phí của ngành Tài chính ngân hàng là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành quản lý đất đai là bao nhiêu?",
+    "output": "Học phí của ngành Quản lý đất đai là 345.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành thủy lợi và công trình thủy lợi là bao nhiêu?",
+    "output": "Học phí của ngành Thủy lợi và Công trình thủy lợi là 420.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành môi trường là bao nhiêu?",
+    "output": "Học phí của ngành Môi trường là 310.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành ngôn ngữ Anh là bao nhiêu?",
+    "output": "Học phí của ngành Ngôn ngữ Anh là 580.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành khoa học máy tính là bao nhiêu?",
+    "output": "Học phí của ngành Khoa học máy tính là 420.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành quản lý xây dựng là bao nhiêu?",
+    "output": "Học phí của ngành Quản lý xây dựng là 375.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành  khoa học máy tính  là bao nhiêu?",
+    "output": "Học phí của ngành Khoa học máy tính là 420.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành nông nghiệp là bao nhiêu?",
+    "output": "Học phí của ngành Nông nghiệp là 385.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành công nghệ sinh học là bao nhiêu?",
+    "output": "Học phí của ngành Công nghệ sinh học là 480.000 đồng/tín chỉ."
+  },
+  {
+    "input": "Học phí của ngành  nghiên cứu sinh  là bao nhiêu?",
+    "output": "Học phí của ngành nghiên cứu sinh  tùy thuộc vào chuyên ngành và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí của ngành  cao học là bao nhiêu?",
+    "output": "Học phí của ngành cao học  tùy thuộc vào chuyên ngành và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí của chương trình đào tạo tiến sĩ là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo tiến sĩ  tùy thuộc vào chuyên ngành và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí của  chương trình đào tạo thạc sĩ là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo thạc sĩ  tùy thuộc vào chuyên ngành và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí của chương trình  bồi dưỡng trình độ  là bao nhiêu?",
+    "output": "Học phí của chương trình bồi dưỡng trình độ  tùy thuộc vào chương trình và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí của chương trình  đào tạo quốc tế  là bao nhiêu?",
+    "output": "Học phí của chương trình đào tạo quốc tế  tùy thuộc vào chương trình và hình thức đào tạo. Bạn có thể liên hệ trực tiếp với Khoa/Viện để biết thêm thông tin chi tiết."
+  },
+  {
+    "input": "Học phí ngành Kỹ thuật Xây dựng của Đại học Thủy lợi ở TPHCM là bao nhiêu?",
+    "output": "Học phí cho ngành Kỹ thuật Xây dựng ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí ngành Công nghệ thông tin của phân hiệu TPHCM là bao nhiêu?",
+    "output": "Học phí ngành Công nghệ thông tin của phân hiệu TPHCM năm học 2022-2023 là 11,895 triệu đồng/năm cho khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Năm nay học phí có tăng không?",
+    "output": "Năm học 2023-2024, học phí dự kiến sẽ tăng từ 10-12%.  Dự kiến học phí cho các ngành sẽ dao động từ 11,1 triệu đồng đến 15 triệu đồng/năm."
+  },
+  {
+    "input": "Học phí ngành Kế toán là bao nhiêu?",
+    "output": "Học phí ngành Kế toán ở Phân hiệu TPHCM của Đại học Thủy lợi là 9,855 triệu đồng/năm cho các khóa 62, 63, 64 và 10,22 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Ngành Kỹ thuật Xây dựng học bao nhiêu tín chỉ?",
+    "output": "Ngành Kỹ thuật Xây dựng học 155 tín chỉ cho toàn bộ chương trình đào tạo."
+  },
+  {
+    "input": "Ngành Công nghệ thông tin học bao nhiêu tín chỉ?",
+    "output": "Ngành Công nghệ thông tin học 140 tín chỉ cho toàn bộ chương trình đào tạo."
+  },
+  {
+    "input": "Ngành Kế toán học bao nhiêu tín chỉ?",
+    "output": "Ngành Kế toán học 130 tín chỉ cho toàn bộ chương trình đào tạo."
+  },
+  {
+    "input": "Học phí của ngành Kỹ thuật Tài nguyên nước là bao nhiêu?",
+    "output": "Học phí ngành Kỹ thuật Tài nguyên nước ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành Quản lý xây dựng là bao nhiêu?",
+    "output": "Học phí ngành Quản lý xây dựng ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành Kỹ thuật Cấp thoát nước là bao nhiêu?",
+    "output": "Học phí ngành Kỹ thuật Cấp thoát nước ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành Logistics là bao nhiêu?",
+    "output": "Học phí ngành Logistics ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 9,855 triệu đồng/năm cho các khóa 62, 63, 64 và 10,22 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành Thương mại điện tử là bao nhiêu?",
+    "output": "Học phí ngành Thương mại điện tử ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 9,855 triệu đồng/năm cho các khóa 62, 63, 64 và 10,22 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành KTXD Công trình Giao thông là bao nhiêu?",
+    "output": "Học phí ngành KTXD Công trình Giao thông ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành KTXD Công trình thủy là bao nhiêu?",
+    "output": "Học phí ngành KTXD Công trình thủy ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 11,78 triệu đồng/năm cho các khóa 62, 63, 64 và 11,986 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Học phí của ngành Quản trị kinh doanh là bao nhiêu?",
+    "output": "Học phí ngành Quản trị kinh doanh ở Phân hiệu TPHCM của Đại học Thủy lợi năm học 2022-2023 là khoảng 9,855 triệu đồng/năm cho các khóa 62, 63, 64 và 10,22 triệu đồng/năm cho các khóa trước đó."
+  },
+  {
+    "input": "Số tín chỉ học của các ngành thuộc khối ngành kỹ thuật là bao nhiêu?",
+    "output": "Các ngành thuộc khối kỹ thuật học 155 tín chỉ cho toàn bộ chương trình đào tạo."
+  },
+  {
+    "input": "Số tín chỉ học của ngành Công nghệ thông tin là bao nhiêu?",
+    "output": "Ngành Công nghệ thông tin học 140 tín chỉ cho toàn bộ chương trình đào tạo."
+  },
+  {
+    "input": "Số tín chỉ học của các ngành thuộc khối ngành kinh tế là bao nhiêu?",
+    "output": "Các ngành thuộc khối ngành kinh tế học 130 tín chỉ cho toàn bộ chương trình đào tạo."
   }
+
 ]
