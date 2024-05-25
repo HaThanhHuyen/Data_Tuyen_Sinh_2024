@@ -20,6 +20,118 @@
     "output": "Em có thể đăng ký học các môn GDTC chuyên sâu ngay từ kỳ học đầu tiên của năm nhất."
   },
   {
+    "input": "ĐRL(qđi) trong công thức tính điểm rèn luyện quy đổi là gì?",
+    "output": "ĐRL(qđi) là điểm rèn luyện quy đổi của học kỳ thứ i."
+  },
+  {
+    "input": "Kết quả đánh giá rèn luyện của sinh viên được lưu ở đâu?",
+    "output": "Kết quả đánh giá rèn luyện từng học kỳ, năm học của từng sinh viên được lưu trong hồ sơ quản lý sinh viên của Trường."
+  },
+  {
+    "input": "Kết quả đánh giá rèn luyện được dùng để làm gì?",
+    "output": "Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng - kỷ luật, xét thôi học, ngừng học."
+  },
+  {
+    "input": "Kết quả đánh giá rèn luyện toàn khóa học được ghi ở đâu?",
+    "output": "Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm kết quả học tập và lưu trong hồ sơ từng học kỳ và toàn khóa của từng sinh viên khi tốt nghiệp ra trường."
+  },
+  {
+    "input": "Nếu sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo."
+  },
+  {
+    "input": "Nếu sinh viên bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị xử lý ra sao?",
+    "output": "Sinh viên bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học."
+  },
+  {
+    "input": "Sinh viên có quyền gì nếu không đồng ý với kết quả đánh giá rèn luyện?",
+    "output": "Sinh viên có quyền khiếu nại về việc đánh giá kết quả rèn luyện."
+  },
+  {
+    "input": "Sinh viên gửi đơn khiếu nại về kết quả đánh giá rèn luyện đến đâu?",
+    "output": "Sinh viên gửi đơn khiếu nại đến Nhà trường (qua Phòng Công tác chính trị và Quản lý sinh viên)."
+  },
+  {
+    "input": "Nhà trường có trách nhiệm gì khi nhận được đơn khiếu nại của sinh viên?",
+    "output": "Nhà trường có trách nhiệm giải quyết, trả lời cho sinh viên."
+  },
+  {
+    "input": "Cho mình hỏi trường mình có bao nhiêu loại học bổng?",
+    "output": "Nhà trường có 3 mức học bổng là Khá, Giỏi và Xuất sắc nhé!"
+  },
+  {
+    "input": "Học bổng Khá có giá trị như thế nào?",
+    "output": "Học bổng loại Khá có giá trị bằng 100% mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+  },
+  {
+    "input": "Học bổng Giỏi có giá trị như thế nào?",
+    "output": "Học bổng mức Giỏi có giá trị bằng 110% (một trăm mười phần trăm) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ." 
+  },
+  {
+    "input": "Học bổng Xuất sắc có giá trị như thế nào?",
+    "output": "Học bổng loại Xuất sắc có giá trị bằng 120% (một trăm hai mươi phần tram) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+  },
+  {
+    "input": "Ai được xét cấp học bổng?",
+    "output": " Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học, liên thông cao đẳng lên đại học hình thức chính quy tại trường Đại học Thủy lợi sẽ được xét cấp học bổng em nhé!"
+  },
+  {
+    "input": "Làm sao để được học bổng Khá?",
+    "output": "Học bổng mức Khá sẽ dành cho sinh viên có điểm trung bình học tập và điểm rèn luyện đều đạt loại khá trở lên trong kỳ xét học bổng KKHT nhé!"
+  },
+  {
+    "input": "Nếu điểm trung bình học tập đạt loại Khá thì có được học bổng không?",
+    "output": "Ngoài điểm trung bình học tập đạt loại Khá thì em sẽ cần điểm rèn luyện cũng đạt loại Khá trở lên để có thể đủ điều kiện xét học bổng mức Khá nha!"
+  },
+  {
+    "input": "Làm sao để đạt được học bổng Giỏi?",
+    "output": "Nếu muốn đạt học bổng mức Giỏi, em sẽ cần điểm trung bình học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại Tốt trở lên trong kì xét học bổng nhé!"
+  },
+  {
+    "input": "Kì này em có điểm trung bình học tập loại giỏi thì có được học bổng loại Giỏi không?",
+    "output": "Ngoài điểm trung bình học tập loại Giỏi thì em sẽ cần cả điểm rèn luyện đạt mức Tốt trở lên để có thể đủ điều kiện xét học bổng loại Giỏi nhé!"
+  },
+  {
+    "input": "Kì này em có điểm rèn luyện đạt loại yếu thì có còn được xét học bổng không?",
+    "output": "Em cần ít nhất điểm rèn luyện đạt mức Khá trở lên để có thể được xét học bổng mức Khá nha!"
+  },
+  {
+    "input": "Cho mình hỏi kì này em đạt 40 điểm rèn luyện thì có được xét học bổng không?",
+    "output": "40 điểm rèn luyện tương đương với loại Yếu, em cần điểm rèn luyện ít nhất đạt mức Khá mới được xét học bổng nhé!"
+  },
+  {
+    "input": "Điều kiện để được xét học bổng Xuất sắc là gì?",
+    "output": "Để được xét học bổng mức Xuất sắc, em cần điểm rèn luyện và điểm trung bình học tập đều đạt loại Xuất sắc trong kì xét học bổng nha!"
+  },
+  {
+    "input": "Kết quả học tập và rèn luyện của kỳ nào được sử dụng để xét, cấp học bổng KKHT?",
+    "output": "Kết quả học tập và rèn luyện của học kỳ liền trước được sử dụng để xét, cấp học bổng KKHT."
+  },
+  {
+    "input": "Điểm xét học bổng KKHT được tính như thế nào?",
+    "output": "Điểm xét học bổng KKHT được tính theo thang điểm 4 và làm tròn đến 2 chữ số sau dấu phẩy theo công thức: Điểm xét học bổng KKHT = Điểm trung bình học tập + (Điểm rèn luyện: 100)."
+  },
+  {
+    "input": "Điểm trung bình học tập để xét học bổng KKHT được tính như thế nào?",
+    "output": "Điểm trung bình học tập để xét học bổng KKHT tính theo kết quả tổng kết học phần các môn học lần đầu sinh viên đăng ký học trong học kỳ (gồm kỳ chính, kỳ hè và kỳ song song tổ chức trong kỳ chính đó; không bao gồm các môn học: Giáo dục thể chất, Giáo dục quốc phòng, chương trình đào tạo thứ 2 và các môn học được bảo lưu)."
+  },
+  {
+    "input": "Điều kiện về số tín chỉ để được xét học bổng KKHT là gì?",
+    "output": "Kết quả tổng kết học phần các môn học lần đầu không có điểm F; số tín chỉ môn học lần đầu đăng ký học & thi trong kỳ phải tối thiểu 15 tín chỉ; hoặc bằng số tín chỉ tối đa mở cho ngành đó ở mỗi học kỳ (gồm kỳ chính, kỳ hè và kỳ song song mở trong kỳ chính đó) nếu số tín chỉ tối đa mở cho ngành học đó trong học kỳ nhỏ hơn 15 tín chỉ (riêng học kỳ cuối sẽ tính với số tín chỉ của Học phần tốt nghiệp)." 
+  },
+  {
+    "input": "Những sinh viên có số tín chỉ môn học lần đầu học và thi ít hơn số tín chỉ quy định ở kỳ xét học bổng KKHT thì sao?",
+    "output": "Với những sinh viên có số tín chỉ môn học lần đầu học và thi ít hơn số tín chỉ quy định ở kỳ xét học bổng KKHT (do đã học vượt một số môn ở kỳ trước) nếu có số tín chỉ tích lũy đến thời điểm xét ít nhất bằng số tín chỉ quy định theo chương trình đào tạo chuẩn cũng sẽ được xét học bổng KKHT."
+  },
+  {
+    "input": "Điểm rèn luyện trong kỳ tính học bổng KKHT được xác định như thế nào?",
+    "output": "Điểm rèn luyện trong kỳ tính học bổng KKHT xác định theo quy định hiện hành của Bộ Giáo dục và Đào tạo về đánh giá kết quả rèn luyện."
+  },
+  {
+    "input": "Học bổng KKHT được sắp xếp như thế nào?",
+    "output": "Học bổng KKHT được sắp xếp theo ba danh sách với ba mức thứ tự (Xuất sắc, Giỏi, Khá) được quy định tại Điều 3 của Quy định này. Trong mỗi mức, danh sách sinh viên được sắp xếp thứ tự từ cao xuống thấp (theo điểm xét học bổng KKHT và số tín chỉ tính học bổng KKHT)."
+  },
+  {
     "input": "Em muốn đăng ký học các môn GDTC chuyên sâu thì phải làm như thế nào ạ?",
     "output": "Em có thể đăng ký tự nguyện với bộ môn GDTC, thông qua giảng viên dạy môn học GDTC."
   },
@@ -36,7 +148,7 @@
     "output": "Khi đánh giá ý thức tham gia học tập của sinh viên, nhà trường sẽ xem xét các tiêu chí sau: Ý thức và thái độ trong học tập, ý thức và thái độ tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, hoạt động nghiên cứu khoa học, ý thức và thái độ tham gia các kỳ thi, cuộc thi, tinh thần vượt khó, phấn đấu vươn lên trong học tập và kết quả học tập." 
   },
   {
-"input": "Điểm rèn luyện của sinh viên được đánh giá như thế nào ạ?",
+    "input": "Điểm rèn luyện của sinh viên được đánh giá như thế nào ạ?",
     "output": "Điểm rèn luyện của sinh viên được đánh giá bằng thang điểm 100. Đánh giá bao gồm các mức điểm đạt được trên các mặt như ý thức tham gia học tập, ý thức chấp hành nội quy, ý thức tham gia các hoạt động chính trị, xã hội, văn nghệ, thể thao, ý thức công dân, và kết quả tham gia các hoạt động cán bộ lớp, các đoàn thể, tổ chức khác trong trường."
   },
   {
@@ -406,5 +518,1732 @@
   {
     "input": "Thầy cô cho em hỏi tiêu chuẩn để xét cấp học bổng loại Khá là gì ạ?",
     "output": "Để đạt học bổng loại Khá, sinh viên cần có điểm trung bình học tập và điểm rèn luyện đều đạt loại khá trở lên trong kỳ xét học bổng KKHT."
-  }	
+  },
+  {
+    "input": "Xin chào, cho em hỏi phòng thi trực tuyến được thiết lập như thế nào ạ?",
+    "output": "Phòng thi trực tuyến là phòng thi được Phòng đào tạo thiết lập trên phần mềm giảng dạy trực tuyến của Trường ĐH Thủy lợi để tổ chức thi kết thúc học phần cho sinh viên (học viên)."
+  },
+  {
+    "input": "Xin chào, cho em hỏi máy chủ được sử dụng cho mục đích gì trong quá trình thi trực tuyến ạ?",
+    "output": "Máy chủ là máy tính được sử dụng để lưu ngân hàng câu hỏi thi, phần mềm trộn đề thi, chấm thi với hình thức trắc nghiệm."
+  },
+  {
+    "input": "Xin chào, cho em hỏi điều gì phải được mô tả trong đề cương chi tiết của học phần liên quan đến hình thức thi trực tuyến ạ?",
+    "output": "Hình thức thi trực tuyến phải được mô tả trong đề cương chi tiết học phần."
+  },
+  {
+    "input": "Xin chào, cho em hỏi khi nào hình thức thi trực tuyến được áp dụng và ai đề xuất việc này ạ?",
+    "output": "Hình thức thi trực tuyến được áp dụng cho các học phần giảng dạy theo hình thức trực tuyến và được bộ môn quản lý học phần đề xuất với nhà trường."
+  },
+  {
+    "input": "Xin chào, cho em hỏi những yếu tố kỹ thuật nào cần được đảm bảo để tổ chức kỳ thi trực tuyến thành công ạ?",
+    "output": "Các yếu tố kỹ thuật như phần mềm, đường truyển phải đáp ứng tốt cho kỳ thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi trách nhiệm chính của Trưởng bộ môn quản lý học phần trong việc tổ chức thi là gì ạ?",
+    "output": "Trưởng bộ môn quản lý học phần chịu trách nhiệm trong việc chỉ đạo hướng dẫn giảng viên của bộ môn rà soát, điều chỉnh hình thức và nội dung thi đúng thời gian và quy định của Nhà trường; phân công giảng viên tham gia công tác coi thi và chấm thi."
+  },
+  {
+    "input": "Bạn có thể giải thích học phần là gì?",
+    "output": "Học phần là khối lượng kiến thức tương đối trọn vẹn, giúp sinh viên tích lũy kiến thức hiệu quả. Mỗi học phần thường có từ 2 đến 4 tín chỉ, được giảng dạy trong một học kỳ. Kiến thức được thiết kế theo từng năm học, có thể được kết cấu riêng biệt hoặc kết hợp với các học phần khác. Mỗi học phần sẽ có mã số riêng do trường quy định."
+  },
+  {
+    "input": "Tín chỉ là gì? Nó có ý nghĩa gì?",
+    "output": "Tín chỉ là đơn vị đo lường khối lượng học tập và mức độ tích lũy kiến thức của sinh viên."
+  },
+  {
+    "input": "Có những loại học phần nào?",
+    "output": "Có các loại học phần sau: học phần bắt buộc, học phần tự chọn, học phần thay thế tương đương, học phần tiên quyết, học phần học trước, học phần song hành và học phần cấp chứng chỉ."
+  },
+  {
+    "input": "Học phần bắt buộc là gì? Tại sao nó quan trọng?",
+    "output": "Học phần bắt buộc là những học phần chứa đựng kiến thức cốt lõi của chương trình học, sinh viên phải hoàn thành để đảm bảo kiến thức nền tảng."
+  },
+  {
+    "input": "Học phần tự chọn có gì khác biệt so với học phần bắt buộc?",
+    "output": "Học phần tự chọn là những học phần bổ sung, cho phép sinh viên lựa chọn theo hướng dẫn của trường để chuyên sâu kiến thức hoặc phát triển kỹ năng theo sở thích."
+  },
+  {
+    "input": "Học phần tự chọn bắt buộc theo chuyên ngành là gì?",
+    "output": "Học phần tự chọn bắt buộc theo chuyên ngành là những học phần chuyên sâu, giúp sinh viên nâng cao kiến thức chuyên môn, phù hợp với hướng phát triển nghề nghiệp."
+  },
+  {
+    "input": "Học phần chọn tự do là gì?",
+    "output": "Học phần chọn tự do cho phép sinh viên tự do lựa chọn học phần để bổ sung kiến thức hoặc kỹ năng ngoài chuyên ngành."
+  },
+  {
+    "input": "Học phần thay thế tương đương là gì?",
+    "output": "Học phần thay thế tương đương là những học phần thay thế cho các học phần cũ, không còn được giảng dạy nữa."
+  },
+  {
+    "input": "Học phần tiên quyết là gì? Nó ảnh hưởng đến việc học tập như thế nào?",
+    "output": "Học phần tiên quyết là học phần cần hoàn thành trước khi đăng ký học các học phần tiếp theo, đảm bảo kiến thức nền tảng để tiếp thu kiến thức mới một cách hiệu quả."
+  },
+  {
+    "input": "Học phần học trước là gì? Nó khác gì với học phần tiên quyết?",
+    "output": "Học phần học trước là học phần được đăng ký học trước, để tạo nền tảng cho các học phần tiếp theo. Nó khác với học phần tiên quyết ở chỗ không bắt buộc phải hoàn thành trước khi đăng ký học phần tiếp theo."
+  },
+  {
+    "input": "Học phần song hành có gì đặc biệt?",
+    "output": "Học phần song hành là học phần được đăng ký cùng lúc với các học phần khác, giúp sinh viên học tập đồng bộ, hiệu quả hơn."
+  },
+  {
+    "input": "Học phần cấp chứng chỉ khác gì với các học phần thông thường?",
+    "output": "Học phần cấp chứng chỉ là học phần không tính tín chỉ tích lũy, nhưng giúp sinh viên nhận được chứng chỉ chuyên môn sau khi hoàn thành khóa học."
+  },
+  {
+    "input": "Xin chào, cho em hỏi công tác nào Phòng Khảo thí và ĐBCL phải đảm bảo trong quá trình tổ chức thi ạ?",
+    "output": "Phòng Khảo thí và ĐBCL phải đảm bảo tính bảo mật của ngân hàng câu hỏi thi và ngân hàng đề thi, phối hợp cùng bộ môn quản lý học phần trong việc bổ sung, hiệu chỉnh ngân hàng câu hỏi thi và ngân hàng đề thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi nhiệm vụ chính của Phòng Đào tạo trong việc tổ chức thi là gì ạ?",
+    "output": "Phòng Đào tạo phối hợp cùng các bộ môn xây dựng kế hoạch thi chi tiết cho phù hợp với tình hình thực tế và đặc thù của từng học phần."
+  },
+  {
+    "input": "Xin chào, cho em hỏi Trung tâm tin học có trách nhiệm gì trong quá trình tổ chức thi ạ?",
+    "output": "Trung tâm tin học thường xuyên kiểm tra, đảm bảo về mặt hạ tầng kỹ thuật phục vụ công tác thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi nhiệm vụ của Bộ phận thanh tra-Phòng hành chính-tổng hợp trong công tác tổ chức thi là gì ạ?",
+    "output": "Bộ phận thanh tra-Phòng hành chính-tổng hợp thực hiện công tác kiểm tra, thanh tra trong công tác tổ chức thi và quá trình thi, cũng như tham gia giám sát quá trình xử lý khiếu nại của sinh viên/học viên về kết quả thi."
+  },
+  {
+    "input": "Cho em hỏi, nội dung gì cần được ghi rõ trong đề cương học phần liên quan đến hình thức thi trực tuyến?",
+    "output": "Hình thức thi trực tuyến phải được mô tả chi tiết trong đề cương học phần đó em nhé!"
+  },
+  {
+    "input": "Cho em hỏi,Khi nào thì hình thức thi trực tuyến được áp dụng và ai là người đưa ra quyết định?",
+    "output": "Hình thức thi trực tuyến sẽ được áp dụng cho các học phần giảng dạy trực tuyến. Quyết định này sẽ do bộ môn quản lý học phần đề xuất với nhà trường."
+  },
+  {
+    "input": "Cho em hỏi,Để tổ chức kỳ thi trực tuyến thành công, cần đảm bảo những yếu tố kỹ thuật nào?",
+    "output": "Để kỳ thi trực tuyến diễn ra suôn sẻ, cần phải đảm bảo các yếu tố kỹ thuật như phần mềm và đường truyền mạng phải hoạt động ổn định."
+  },
+  {
+    "input": "Cho em hỏi,Trưởng bộ môn quản lý học phần có nhiệm vụ gì trong việc tổ chức thi?",
+    "output": "Trưởng bộ môn quản lý học phần có trách nhiệm chỉ đạo giảng viên của bộ môn rà soát, điều chỉnh hình thức và nội dung thi đúng thời gian và quy định của Nhà trường. Ngoài ra, họ còn phân công giảng viên tham gia công tác coi thi và chấm thi."
+  },
+  {
+    "input": "Cho em hỏi,Phòng Khảo thí và ĐBCL cần đảm bảo công tác gì trong quá trình tổ chức thi?",
+    "output": "Phòng Khảo thí và ĐBCL có trách nhiệm bảo mật ngân hàng câu hỏi thi và ngân hàng đề thi. Họ cũng sẽ phối hợp với bộ môn quản lý học phần trong việc bổ sung, hiệu chỉnh ngân hàng câu hỏi thi và ngân hàng đề thi."
+  },
+  {
+    "input": "Cho em hỏi,Nhiệm vụ chính của Phòng Đào tạo trong việc tổ chức thi là gì?",
+    "output": "Phòng Đào tạo sẽ phối hợp cùng các bộ môn xây dựng kế hoạch thi chi tiết, phù hợp với tình hình thực tế và đặc thù của từng học phần."
+  },
+  {
+    "input": "Cho em hỏi,Trung tâm tin học có vai trò gì trong công tác tổ chức thi?",
+    "output": "Trung tâm tin học thường xuyên kiểm tra và đảm bảo hạ tầng kỹ thuật phục vụ công tác thi."
+  },
+  {
+    "input": "Cho em hỏi,Bộ phận thanh tra-Phòng hành chính-tổng hợp có nhiệm vụ gì trong công tác tổ chức thi?",
+    "output": "Bộ phận thanh tra-Phòng hành chính-tổng hợp sẽ thực hiện công tác kiểm tra, thanh tra trong công tác tổ chức thi và quá trình thi. Ngoài ra, họ cũng tham gia giám sát quá trình xử lý khiếu nại của sinh viên/học viên về kết quả thi."
+  },
+  {
+    "input": "Cho em hỏi,Trách nhiệm của Trưởng bộ môn trong việc chuẩn bị đề thi trực tuyến là gì?",
+    "output": "Trưởng bộ môn phải tổ chức cho đơn vị xây dựng đề thi phù hợp với hình thức thi trực tuyến đã đăng ký, đảm bảo số lượng đề thi đủ để hạn chế việc nhiều sinh viên trùng lặp đề thi. Các đề thi cần thống nhất với cấu trúc đề thi của học phần tương ứng và phù hợp với nội dung giảng dạy trực tuyến, thường được xây dựng theo hướng đề mở."
+  },
+  {
+    "input": "Cho em hỏi,Điều gì được yêu cầu đối với việc biên soạn đề thi tự luận?",
+    "output": "Đề thi tự luận phải được xây dựng cùng với đáp án đi kèm theo quy định của nhà trường."
+  },
+  {
+    "input": "Cho em hỏi,Quy trình nào được áp dụng cho việc xây dựng đề thi trắc nghiệm trực tuyến?",
+    "output": "Đề thi trắc nghiệm trực tuyến được bộ môn chủ động xây dựng theo quy định hoặc được Phòng Khảo thí và ĐBCL trộn từ ngân hàng câu hỏi thi có sẵn theo cấu trúc đề thi mà Bộ môn đã đề xuất và có sự kiểm tra lại của Trưởng bộ môn."
+  },
+  {
+    "input": "Cho em hỏi,Khi nào Bộ môn nên nộp đề thi và đáp án về Phòng khảo thí và ĐBCL?",
+    "output": "Bộ môn nên nộp đề thi và đáp án (bản in) về Phòng khảo thí và ĐBCL trước thời điểm thi 1 tuần để phục vụ công tác chuẩn bị đề thi, lưu trữ và phục vụ công tác thanh kiểm tra khi cần thiết."
+  },
+  {
+    "input": "Cho em hỏi,Đối với các đơn vị xa trường, việc biên soạn câu hỏi thi phải thực hiện như thế nào?",
+    "output": "Đối với các đơn vị xa trường như Phân hiệu, Viện miền Trung, việc biên soạn câu hỏi thi phải phối hợp với các Khoa, Bộ môn chuyên ngành để có sự thống nhất trong quản lý hành chính và chuyên môn, tuân theo trình tự triển khai tương tự như trên."
+  },
+  {
+    "input": "Cho em hỏi,Phòng Đào tạo phối hợp với các Bộ môn để thực hiện những công việc gì liên quan đến tổ chức thi trực tuyến?",
+    "output": "Phòng Đào tạo phối hợp cùng các Bộ môn lập danh sách thi, sắp xếp thời gian và số lượng sinh viên/học viên trong mỗi phòng thi phù hợp. Danh sách này sau khi hoàn thành sẽ được gửi cho Phòng Khảo thí và ĐBCL để phục vụ công tác chuẩn bị đề thi và cho Bộ môn nếu cần thiết."
+  },
+  {
+    "input": "Cho em hỏi,Trước khi kết thúc học phần, Thủ trưởng bộ môn phải thực hiện công việc gì đối với danh sách cán bộ coi thi?",
+    "output": "Thủ trưởng bộ môn phải gửi danh sách cán bộ coi thi của mỗi ca thi về cho Phòng Khảo thí và ĐBCL tối thiểu 3 ngày trước khi thi kết thúc học phần, thông qua email."
+  },
+  {
+    "input": "Cho em hỏi,Trước giờ thi, Phòng Khảo thí và ĐBCL phải thực hiện công việc gì đối với kho đề thi của mỗi phòng thi trực tuyến?",
+    "output": "Trước mỗi ca thi, Phòng Khảo thí và ĐBCL kiểm tra các kho đề của mỗi phòng thi trực tuyến để đảm bảo đề thi sẵn sàng trước giờ thi."
+  },
+  {
+    "input": "Cho em hỏi,Trước thời điểm thi, cán bộ coi thi nhận thông tin từ đâu và phải chuẩn bị như thế nào?",
+    "output": "Trước giờ thi từ 30 phút đến 45 phút, cán bộ coi thi nhận đề thi và danh sách phòng thi từ Phòng Khảo thí và ĐBCL thông qua email và có CC cho Thủ trưởng bộ môn để chuẩn bị ca thi. Trong trường hợp cần thiết, đề thi có thể được gửi cho Thủ trưởng bộ môn sớm hơn đối với các học phần đặc thù."
+  },
+  {
+    "input": "Cho em hỏi,Theo quy định chung, mỗi phòng thi phải có ít nhất bao nhiêu CBCT?",
+    "output": "Mỗi phòng thi phải có ít nhất 2 CBCT."
+  },
+  {
+    "input": "Cho em hỏi,Khi CBCT bận đột xuất trong quá trình coi thi, họ phải thực hiện điều gì?",
+    "output": "CBCT bận đột xuất phải báo cáo kịp thời cho Trưởng/Phó bộ môn để cử người thay thế."
+  },
+  {
+    "input": "Cho em hỏi,Trước giờ thi, CBCT phải thực hiện công việc gì trong phòng thi?",
+    "output": "CBCT phải đăng nhập trước giờ thi tối thiểu 15 phút để kiểm tra phòng thi trực tuyến, danh sách thi, đường truyền, camera, mic và phổ biến quy chế thi."
+  },
+  {
+    "input": "Cho em hỏi,CBCT cần cung cấp thông tin gì cho sinh viên/học viên trong phòng thi?",
+    "output": "CBCT cần cung cấp số điện thoại để sinh viên/học viên có thể báo cáo sự cố gặp phải trong quá trình thi kịp thời."
+  },
+  {
+    "input": "Khi hết giờ làm bài thi tự luận, CBCT phải thực hiện các thao tác gì?",
+    "output": "CBCT yêu cầu sinh viên ngừng làm bài, chụp ảnh phòng thi và yêu cầu sinh viên sao lưu bài thi, sau đó gửi bài thi trong thời gian tối đa 10 phút."
+  },
+  {
+    "input": "CBCT phải thực hiện các nhiệm vụ gì sau khi kết thúc giờ làm bài thi?",
+    "output": "CBCT 1 quan sát phòng thi, CBCT 2 kiểm tra danh sách bài thi đã nhận được và ghi vào danh sách thi các trường hợp gặp sự cố."
+  },
+  {
+    "input": "Ai là thành phần chính của cán bộ giám sát phòng thi?",
+    "output": "Cán bộ giám sát phòng thi bao gồm cán bộ của bộ phận Thanh tra, Phòng Hành chính-Tổng hợp và một số đơn vị được Hiệu trưởng giao nhiệm vụ giám sát."
+  },
+  {
+    "input": "Công việc chính của cán bộ giám sát phòng thi là gì?",
+    "output": "Cán bộ giám sát phòng thi giám sát việc thực hiện quy định về tổ chức kỳ thi kết thúc học phần của CBCT và sinh viên/học viên; kiểm tra và nhắc nhở CBCT và sinh viên thực hiện đúng quy định."
+  },
+  {
+    "input": "Có bao nhiêu đơn vị được giao nhiệm vụ giám sát phòng thi theo đoạn văn?",
+    "output": "Ngoài cán bộ của bộ phận Thanh tra và Phòng Hành chính-Tổng hợp, một số đơn vị khác cũng được Hiệu trưởng giao nhiệm vụ giám sát phòng thi."
+  },
+  {
+    "input": "Đối với việc giám sát, cán bộ phải kiểm tra và nhắc nhở ai?",
+    "output": "Cán bộ giám sát phòng thi kiểm tra và nhắc nhở cả CBCT và sinh viên/học viên thực hiện đúng quy định."
+  },
+  {
+    "input": "Cán bộ giám sát phòng thi có trách nhiệm gì đối với tổ chức kỳ thi?",
+    "output": "Cán bộ giám sát phòng thi có trách nhiệm giám sát việc thực hiện quy định về tổ chức kỳ thi kết thúc học phần của CBCT và sinh viên/học viên."
+  },
+  {
+    "input": "Sinh viên cần chuẩn bị những gì để tham gia thi kết thúc học phần trực tuyến?",
+    "output": "Sinh viên cần chuẩn bị máy tính hoặc điện thoại thông minh có kết nối internet, cài đặt phần mềm cần thiết theo yêu cầu của bộ môn, micro, camera, và thẻ học viên/sinh viên/CCCD/CMND."
+  },
+  {
+    "input": "Điều gì sẽ xảy ra nếu sinh viên đăng nhập trễ vào phòng thi trực tuyến?",
+    "output": "Nếu sinh viên đăng nhập chậm quá 15 phút sau thời gian bắt đầu làm bài thi, họ sẽ bị coi là bỏ thi và sẽ nhận điểm 0."
+  },
+  {
+    "input": "Sinh viên phải đảm bảo điều gì về không gian làm bài thi trực tuyến?",
+    "output": "Sinh viên phải đảm bảo không gian làm bài yên tĩnh, gọn gàng, không có người xung quanh, và ánh sáng phù hợp để camera ghi hình rõ nét. Họ cũng phải điều chỉnh camera sao cho nó quét được toàn bộ khu vực làm bài."
+  },
+  {
+    "input": "Nghiêm cấm hành vi gì trong quá trình làm bài thi trực tuyến?",
+    "output": "Nghiêm cấm mọi hành vi gian lận, bao gồm việc xem bài của sinh viên khác, trao đổi ý kiến, và trao đổi tài liệu. Sinh viên cũng phải giữ gìn trật tự và im lặng trong phòng thi."
+  },
+  {
+    "input": "Sinh viên cần thực hiện những bước gì sau khi hết giờ làm bài thi tự luận trực tuyến?",
+    "output": "Sau khi hết giờ, sinh viên phải dừng làm bài, ghi chữ \"hết bài\", ký tên, và gạch chéo các phần trắng trên giấy thi. Trong vòng 10 phút sau đó, họ phải lưu bài thi theo hướng dẫn của CBCT."
+  },
+  {
+    "input": "Sinh viên cần chú ý điều gì khi chụp ảnh để lưu bài thi tự luận?",
+    "output": "Sinh viên cần để thẻ sinh viên hoặc CMT, CCCD ở hai vị trí: bên cạnh thông tin cá nhân ở đầu bài và bên cạnh chữ ký cuối bài. Họ cũng cần ghi số thứ tự tờ giấy thi ở góc trên cùng, bên phải của bài thi."
+  },
+  {
+    "input": "Nếu sinh viên/học viên không đủ điều kiện để tham gia thi trực tuyến, họ phải làm gì?",
+    "output": "Nếu không đủ điều kiện tham gia thi trực tuyến, sinh viên/học viên phải làm đơn hoãn thi và gửi đến Phòng Khảo thí và ĐBCL trước ít nhất 02 ngày để được bố trí thi vào thời gian phù hợp."
+  },
+  {
+    "input": "Sau khi làm bài thi tự luận trực tuyến, sinh viên/học viên cần thực hiện bước gì tiếp theo?",
+    "output": "Sau khi làm bài, sinh viên/học viên cần lưu bài thi theo hướng dẫn của CBCT. File lưu bài thi phải đảm bảo chất lượng, rõ và có thể đọc được để tránh mất điểm khi chấm thi."
+  },
+  {
+    "input": "Sinh viên/học viên gặp sự cố gì trong quá trình thi cần báo ngay cho ai và thông qua phương tiện gì?",
+    "output": "Khi gặp sự cố như không thể đăng nhập vào phòng thi, bị sự cố máy tính hoặc mất kết nối internet, sinh viên/học viên phải báo ngay cho CBCT thông qua số điện thoại đã được cung cấp. Họ cũng cần chụp ảnh lại sự cố để gửi về cho CBCT."
+  },
+  {
+    "input": "Sinh viên/học viên gặp sự cố trong quá trình thi, thời gian khắc phục dưới 15 phút, quyết định tiếp theo do ai đưa ra và dựa trên điều gì?",
+    "output": "Quyết định tiếp theo do CBCT đưa ra, dựa trên đặc thù của học phần. Nếu thời gian khắc phục dưới 15 phút, CBCT có thể quyết định cho sinh viên/học viên tiếp tục làm bài hoặc chuyển sang ca thi dự phòng."
+  },
+  {
+    "input": "Trường hợp sự cố không thể khắc phục trong vòng 15 phút, sinh viên/học viên phải thực hiện hành động gì?",
+    "output": "Nếu sự cố không thể khắc phục trong vòng 15 phút, sinh viên/học viên phải chuyển sang ca thi dự phòng hoặc tham gia kiểm tra vấn đáp do CBCT tổ chức ngay cuối ca thi để có kết quả tương đương."
+  },
+  {
+    "input": "Sự cố trong quá trình thi cần được ghi nhận ở đâu và như thế nào?",
+    "output": "Tất cả các sự cố cần được ghi rõ vào biên bản phòng thi để ghi nhận thông tin chi tiết về sự cố và các biện pháp xử lý."
+  },
+  {
+    "input": "Ai quyết định liệu sinh viên/học viên có tiếp tục làm bài thi sau khi gặp sự cố không thể khắc phục trong vòng 15 phút?",
+    "output": "Quyết định này do CBCT đưa ra dựa trên đặc thù của học phần và tình hình cụ thể của sự cố."
+  },
+  {
+    "input": "Tại sao sinh viên/học viên cần chụp ảnh lại sự cố khi gặp vấn đề trong quá trình thi?",
+    "output": "Việc chụp ảnh lại sự cố giúp sinh viên/học viên có bằng chứng cụ thể để cung cấp cho CBCT và làm rõ vấn đề họ gặp phải."
+  },
+  {
+    "input": "Sinh viên/học viên khi có khiếu nại về điểm thi phải làm gì để gửi đơn?",
+    "output": "Sinh viên/học viên cần làm đơn gửi về Phòng Khảo thí và ĐBCL theo lịch phúc tra mà phòng công bố để khiếu nại và thắc mắc về điểm thi từng giai đoạn."
+  },
+  {
+    "input": "Ai là đơn vị chịu trách nhiệm xử lý khiếu nại và thắc mắc về điểm thi từ sinh viên/học viên?",
+    "output": "Bộ môn là đơn vị chịu trách nhiệm báo cáo kết quả giải quyết khiếu nại và thắc mắc về điểm thi với bộ phận thanh tra, Phòng Hành chính-Tổng hợp, Phòng Khảo thí và ĐBCL để cập nhật kết quả khiếu nại điểm cho sinh viên/học viên."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên có thể biết kết quả giải quyết khiếu nại về điểm thi của mình?",
+    "output": "Sinh viên/học viên có thể biết kết quả giải quyết khiếu nại về điểm thi của mình sau khi bộ môn báo cáo kết quả cho các đơn vị liên quan và cập nhật kết quả khiếu nại điểm cho sinh viên/học viên."
+  },
+  {
+    "input": "Lịch phúc tra khiếu nại điểm thi được công bố ở đâu?",
+    "output": "Lịch phúc tra khiếu nại điểm thi được công bố bởi Phòng Khảo thí và ĐBCL để sinh viên/học viên biết và gửi đơn khiếu nại theo đúng thời gian quy định."
+  },
+  {
+    "input": "Cán bộ, giảng viên vi phạm quy định trong kỳ thi kết thúc học phần sẽ bị xử lý kỷ luật như thế nào?",
+    "output": "Tuỳ theo mức độ vi phạm, cán bộ, giảng viên sẽ bị xử lý kỷ luật bao gồm khiển trách, cảnh cáo, hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật."
+  },
+  {
+    "input": "Các hành vi nào của cán bộ, giảng viên trong kỳ thi có thể bị khiển trách?",
+    "output": "Các hành vi bao gồm ra đề thi không phù hợp, không đảm bảo điều kiện dự thi cho sinh viên, để cho sinh viên sử dụng phương tiện ghi âm, điện thoại di động trong phòng thi, hoặc chấm thi sai sót."
+  },
+  {
+    "input": "Khi nào cán bộ, giảng viên có thể bị cảnh cáo?",
+    "output": "Cán bộ, giảng viên có thể bị cảnh cáo khi ra đề thi sai hoặc trực tiếp giải bài và hướng dẫn sinh viên trong quá trình thi."
+  },
+  {
+    "input": "Hình thức xử lý nào áp dụng cho cán bộ, giảng viên vi phạm nghiêm trọng trong kỳ thi?",
+    "output": "Hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật có thể áp dụng cho những vi phạm nghiêm trọng như làm lộ đề thi, sửa bài làm của sinh viên."
+  },
+  {
+    "input": "Ai quyết định về hình thức xử lý kỷ luật đối với cán bộ, giảng viên vi phạm quy định trong kỳ thi?",
+    "output": "Quyết định về hình thức xử lý kỷ luật được Hiệu trưởng quyết định dựa trên biên bản do cán bộ thanh tra hoặc đoàn kiểm tra lập theo quy định về thanh tra các kỳ thi."
+  },
+  {
+    "input": "Biện pháp nào được áp dụng nếu cán bộ, giảng viên vi phạm quy định không được phát hiện trong khi làm nhiệm vụ mà sau đó được phát hiện?",
+    "output": "Tuỳ theo mức độ vi phạm, các biện pháp xử lý kỷ luật sẽ được áp dụng tương ứng với hành vi vi phạm của cán bộ, giảng viên."
+  },
+  {
+    "input": "Các hành vi nào của cán bộ, giảng viên trong kỳ thi có thể dẫn đến việc buộc thôi việc hoặc đề nghị truy tố trước pháp luật?",
+    "output": "Các hành vi nghiêm trọng như làm lộ đề thi, đưa đề thi ra ngoài hoặc đưa bài giải từ ngoài vào phòng thi, hoặc sửa bài làm của sinh viên có thể dẫn đến buộc thôi việc hoặc đề nghị truy tố trước pháp luật."
+  },
+  {
+    "input": "Sinh viên/học viên không đủ điều kiện dự thi nhưng không làm đơn hoãn thi sẽ đối mặt với hình phạt gì?",
+    "output": "Sinh viên/học viên không đủ điều kiện dự thi mà không làm đơn hoãn thi sẽ không được vào thi và nhận điểm Không (điểm 0.0) cho bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên có thể được hoãn thi vì lý do chính đáng?",
+    "output": "Sinh viên/học viên có thể được hoãn thi vì lý do chính đáng như ốm đau, cách ly y tế, hoặc có hoàn cảnh đặc biệt. Để được hoãn thi, sinh viên/học viên phải làm đơn xin và nộp về Phòng Khảo thí và ĐBCL trước buổi thi, và cần có giấy tờ xác minh."
+  },
+  {
+    "input": "Hình phạt nào sẽ áp dụng cho sinh viên/học viên vi phạm khiếu nại thi như trao đổi bài với bạn?",
+    "output": "Đối với hành vi vi phạm như trao đổi bài với bạn, sinh viên/học viên sẽ bị khiển trách và bị trừ 25% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Hình phạt nào sẽ áp dụng nếu sinh viên/học viên vi phạm quy định khi dự thi môn học đã bị cảnh cáo trước đó?",
+    "output": "Nếu sinh viên/học viên vi phạm khi đã bị cảnh cáo trước đó, họ sẽ bị cảnh cáo lại và bị trừ 50% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên sẽ bị đình chỉ thi?",
+    "output": "Sinh viên/học viên sẽ bị đình chỉ thi nếu vi phạm nghiêm trọng như vi phạm khi đã bị cảnh cáo trước đó, sử dụng điện thoại di động trong quá trình thi, hoặc chuyển đề thi ra ngoài hoặc nhận bài giải từ ngoài."
+  },
+  {
+    "input": "Ai quyết định về hình phạt kỷ luật cho sinh viên/học viên vi phạm quy định khi dự thi?",
+    "output": "Quyết định về hình phạt kỷ luật cho sinh viên/học viên vi phạm khi dự thi được CBCT lập biên bản và ghi rõ trong biên bản cùng với mức độ vi phạm và hình phạt đề nghị."
+  },
+  {
+    "input": "Nếu cán bộ, giảng viên vi phạm nghiêm trọng trong kỳ thi thì xử lý như thế nào?",
+    "output": "Hạ bậc lương, hạ ngạch, cách chức, chuyển công tác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật có thể áp dụng cho những vi phạm nghiêm trọng như làm lộ đề thi, sửa bài làm của sinh viên."
+  },
+  {
+    "input": "Ai quyết định hình thức xử lý kỷ luật đối với cán bộ, giảng viên vi phạm?",
+    "output": "Quyết định về hình thức xử lý kỷ luật do Hiệu trưởng quyết định dựa trên biên bản do cán bộ thanh tra hoặc đoàn kiểm tra lập theo quy định về thanh tra các kỳ thi."
+  },
+  {
+    "input": "Nếu cán bộ, giảng viên vi phạm quy định nhưng không bị phát hiện trong lúc làm nhiệm vụ thì sao?",
+    "output": "Tuỳ theo mức độ vi phạm, các biện pháp xử lý kỷ luật sẽ được áp dụng tương ứng với hành vi vi phạm của cán bộ, giảng viên."
+  },
+  {
+    "input": "Hành vi nào của cán bộ, giảng viên có thể dẫn đến việc bị buộc thôi việc hoặc truy tố?",
+    "output": "Các hành vi nghiêm trọng như làm lộ đề thi, đưa đề thi ra ngoài hoặc đưa bài giải từ ngoài vào phòng thi, hoặc sửa bài làm của sinh viên có thể dẫn đến buộc thôi việc hoặc đề nghị truy tố trước pháp luật."
+  },
+  {
+    "input": "Sinh viên không đủ điều kiện dự thi nhưng không xin hoãn thi thì sẽ bị xử lý như thế nào?",
+    "output": "Sinh viên/học viên không đủ điều kiện dự thi mà không làm đơn hoãn thi sẽ không được vào thi và nhận điểm Không (điểm 0.0) cho bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào thì sinh viên được hoãn thi?",
+    "output": "Sinh viên/học viên có thể được hoãn thi vì lý do chính đáng như ốm đau, cách ly y tế, hoặc có hoàn cảnh đặc biệt. Để được hoãn thi, sinh viên/học viên phải làm đơn xin và nộp về Phòng Khảo thí và ĐBCL trước buổi thi, và cần có giấy tờ xác minh."
+  },
+  {
+    "input": "Sinh viên vi phạm khi thi như trao đổi bài với bạn thì sẽ bị xử lý thế nào?",
+    "output": "Đối với hành vi vi phạm như trao đổi bài với bạn, sinh viên/học viên sẽ bị khiển trách và bị trừ 25% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Nếu sinh viên vi phạm quy định khi thi sau khi đã bị cảnh cáo thì sẽ bị xử lý như thế nào?",
+    "output": "Nếu sinh viên/học viên vi phạm khi đã bị cảnh cáo trước đó, họ sẽ bị cảnh cáo lại và bị trừ 50% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào thì sinh viên bị đình chỉ thi?",
+    "output": "Sinh viên/học viên sẽ bị đình chỉ thi nếu vi phạm nghiêm trọng như vi phạm khi đã bị cảnh cáo trước đó, sử dụng điện thoại di động trong quá trình thi, hoặc chuyển đề thi ra ngoài hoặc nhận bài giải từ ngoài."
+  },
+  {
+    "input": "Ai quyết định về hình phạt kỷ luật cho sinh viên vi phạm trong khi thi?",
+    "output": "Quyết định về hình phạt kỷ luật cho sinh viên/học viên vi phạm khi dự thi được CBCT lập biên bản và ghi rõ trong biên bản cùng với mức độ vi phạm và hình phạt đề nghị."
+  },
+  {
+    "input": "Xử lý kỷ luật đối với sinh viên vi phạm quy định khi thi được thực hiện như thế nào?",
+    "output": "Việc xử lý kỷ luật của sinh viên/học viên vi phạm quy định khi dự thi phải được công bố cho sinh viên biết và lập biên bản có sự xác nhận của hai CBCT và dưới sự chứng kiến của các sinh viên có mặt trong phòng thi trực tuyến. Biên bản này sau đó được nộp cho các phòng quản lý và xử lý tương ứng."
+  },
+  {
+    "input": "Vậy những ai sẽ áp dụng những quy định trong văn bản này?",
+    "output": "Các đơn vị và cá nhân có liên quan đến quá trình tổ chức thi trực tuyến của Trường đại học Thủy lợi sẽ áp dụng những quy định trong văn bản này."
+  },
+  {
+    "input": "Những kỳ thi nào được áp dụng quy định trong văn bản này?",
+    "output": "Quy định trong văn bản này áp dụng cho kỳ thi kết thúc đối với các học phần triển khai giảng dạy theo hình thức trực tuyến và bộ môn đề xuất thi theo hình thức trực tuyến."
+  },
+  {
+    "input": "Phòng thi trực tuyến là gì?",
+    "output": "Phòng thi trực tuyến là nơi được thiết lập trên phần mềm giảng dạy trực tuyến của Trường Đại học Thủy lợi để tổ chức thi kết thúc học phần cho sinh viên (học viên)."
+  },
+  {
+    "input": "Cách xử lý kỷ luật của sinh viên/học viên vi phạm quy định khi dự thi phải được thực hiện như thế nào?",
+    "output": "Việc xử lý kỷ luật của sinh viên/học viên vi phạm quy định khi dự thi phải được công bố cho sinh viên biết và lập biên bản có sự xác nhận của hai CBCT và dưới sự chứng kiến của các sinh viên có mặt trong phòng thi trực tuyến. Biên bản này sau đó được nộp cho các phòng quản lý và xử lý tương ứng."
+  },
+  {
+    "input": "Xin chào, cho em hỏi phòng thi trực tuyến được thiết lập như thế nào ạ?",
+    "output": "Phòng thi trực tuyến là phòng thi được Phòng đào tạo thiết lập trên phần mềm giảng dạy trực tuyến của Trường ĐH Thủy lợi để tổ chức thi kết thúc học phần cho sinh viên (học viên)."
+  },
+  {
+    "input": "Xin chào, cho em hỏi máy chủ được sử dụng cho mục đích gì trong quá trình thi trực tuyến ạ?",
+    "output": "Máy chủ là máy tính được sử dụng để lưu ngân hàng câu hỏi thi, phần mềm trộn đề thi, chấm thi với hình thức trắc nghiệm."
+  },
+  {
+    "input": "Xin chào, cho em hỏi điều gì phải được mô tả trong đề cương chi tiết của học phần liên quan đến hình thức thi trực tuyến ạ?",
+    "output": "Hình thức thi trực tuyến phải được mô tả trong đề cương chi tiết học phần."
+  },
+  {
+    "input": "Xin chào, cho em hỏi khi nào hình thức thi trực tuyến được áp dụng và ai đề xuất việc này ạ?",
+    "output": "Hình thức thi trực tuyến được áp dụng cho các học phần giảng dạy theo hình thức trực tuyến và được bộ môn quản lý học phần đề xuất với nhà trường."
+  },
+  {
+    "input": "Xin chào, cho em hỏi những yếu tố kỹ thuật nào cần được đảm bảo để tổ chức kỳ thi trực tuyến thành công ạ?",
+    "output": "Các yếu tố kỹ thuật như phần mềm, đường truyển phải đáp ứng tốt cho kỳ thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi trách nhiệm chính của Trưởng bộ môn quản lý học phần trong việc tổ chức thi là gì ạ?",
+    "output": "Trưởng bộ môn quản lý học phần chịu trách nhiệm trong việc chỉ đạo hướng dẫn giảng viên của bộ môn rà soát, điều chỉnh hình thức và nội dung thi đúng thời gian và quy định của Nhà trường; phân công giảng viên tham gia công tác coi thi và chấm thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi công tác nào Phòng Khảo thí và ĐBCL phải đảm bảo trong quá trình tổ chức thi ạ?",
+    "output": "Phòng Khảo thí và ĐBCL phải đảm bảo tính bảo mật của ngân hàng câu hỏi thi và ngân hàng đề thi, phối hợp cùng bộ môn quản lý học phần trong việc bổ sung, hiệu chỉnh ngân hàng câu hỏi thi và ngân hàng đề thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi nhiệm vụ chính của Phòng Đào tạo trong việc tổ chức thi là gì ạ?",
+    "output": "Phòng Đào tạo phối hợp cùng các bộ môn xây dựng kế hoạch thi chi tiết cho phù hợp với tình hình thực tế và đặc thù của từng học phần."
+  },
+  {
+    "input": "Xin chào, cho em hỏi Trung tâm tin học có trách nhiệm gì trong quá trình tổ chức thi ạ?",
+    "output": "Trung tâm tin học thường xuyên kiểm tra, đảm bảo về mặt hạ tầng kỹ thuật phục vụ công tác thi."
+  },
+  {
+    "input": "Xin chào, cho em hỏi nhiệm vụ của Bộ phận thanh tra-Phòng hành chính-tổng hợp trong công tác tổ chức thi là gì ạ?",
+    "output": "Bộ phận thanh tra-Phòng hành chính-tổng hợp thực hiện công tác kiểm tra, thanh tra trong công tác tổ chức thi và quá trình thi, cũng như tham gia giám sát quá trình xử lý khiếu nại của sinh viên/học viên về kết quả thi."
+  },
+  {
+    "input": "Cho em hỏi, nội dung gì cần được ghi rõ trong đề cương học phần liên quan đến hình thức thi trực tuyến?",
+    "output": "Hình thức thi trực tuyến phải được mô tả chi tiết trong đề cương học phần đó em nhé!"
+  },
+  {
+    "input": "Cho em hỏi,Khi nào thì hình thức thi trực tuyến được áp dụng và ai là người đưa ra quyết định?",
+    "output": "Hình thức thi trực tuyến sẽ được áp dụng cho các học phần giảng dạy trực tuyến. Quyết định này sẽ do bộ môn quản lý học phần đề xuất với nhà trường."
+  },
+  {
+    "input": "Cho em hỏi,Để tổ chức kỳ thi trực tuyến thành công, cần đảm bảo những yếu tố kỹ thuật nào?",
+    "output": "Để kỳ thi trực tuyến diễn ra suôn sẻ, cần phải đảm bảo các yếu tố kỹ thuật như phần mềm và đường truyền mạng phải hoạt động ổn định."
+  },
+  {
+    "input": "Cho em hỏi,Trưởng bộ môn quản lý học phần có nhiệm vụ gì trong việc tổ chức thi?",
+    "output": "Trưởng bộ môn quản lý học phần có trách nhiệm chỉ đạo giảng viên của bộ môn rà soát, điều chỉnh hình thức và nội dung thi đúng thời gian và quy định của Nhà trường. Ngoài ra, họ còn phân công giảng viên tham gia công tác coi thi và chấm thi."
+  },
+  {
+    "input": "Cho em hỏi,Phòng Khảo thí và ĐBCL cần đảm bảo công tác gì trong quá trình tổ chức thi?",
+    "output": "Phòng Khảo thí và ĐBCL có trách nhiệm bảo mật ngân hàng câu hỏi thi và ngân hàng đề thi. Họ cũng sẽ phối hợp với bộ môn quản lý học phần trong việc bổ sung, hiệu chỉnh ngân hàng câu hỏi thi và ngân hàng đề thi."
+  },
+  {
+    "input": "Cho em hỏi,Nhiệm vụ chính của Phòng Đào tạo trong việc tổ chức thi là gì?",
+    "output": "Phòng Đào tạo sẽ phối hợp cùng các bộ môn xây dựng kế hoạch thi chi tiết, phù hợp với tình hình thực tế và đặc thù của từng học phần."
+  },
+  {
+    "input": "Cho em hỏi,Trung tâm tin học có vai trò gì trong công tác tổ chức thi?",
+    "output": "Trung tâm tin học thường xuyên kiểm tra và đảm bảo hạ tầng kỹ thuật phục vụ công tác thi."
+  },
+  {
+    "input": "Cho em hỏi,Bộ phận thanh tra-Phòng hành chính-tổng hợp có nhiệm vụ gì trong công tác tổ chức thi?",
+    "output": "Bộ phận thanh tra-Phòng hành chính-tổng hợp sẽ thực hiện công tác kiểm tra, thanh tra trong công tác tổ chức thi và quá trình thi. Ngoài ra, họ cũng tham gia giám sát quá trình xử lý khiếu nại của sinh viên/học viên về kết quả thi."
+  },
+  {
+    "input": "Cho em hỏi,Trách nhiệm của Trưởng bộ môn trong việc chuẩn bị đề thi trực tuyến là gì?",
+    "output": "Trưởng bộ môn phải tổ chức cho đơn vị xây dựng đề thi phù hợp với hình thức thi trực tuyến đã đăng ký, đảm bảo số lượng đề thi đủ để hạn chế việc nhiều sinh viên trùng lặp đề thi. Các đề thi cần thống nhất với cấu trúc đề thi của học phần tương ứng và phù hợp với nội dung giảng dạy trực tuyến, thường được xây dựng theo hướng đề mở."
+  },
+  {
+    "input": "Cho em hỏi,Điều gì được yêu cầu đối với việc biên soạn đề thi tự luận?",
+    "output": "Đề thi tự luận phải được xây dựng cùng với đáp án đi kèm theo quy định của nhà trường."
+  },
+  {
+    "input": "Cho em hỏi,Quy trình nào được áp dụng cho việc xây dựng đề thi trắc nghiệm trực tuyến?",
+    "output": "Đề thi trắc nghiệm trực tuyến được bộ môn chủ động xây dựng theo quy định hoặc được Phòng Khảo thí và ĐBCL trộn từ ngân hàng câu hỏi thi có sẵn theo cấu trúc đề thi mà Bộ môn đã đề xuất và có sự kiểm tra lại của Trưởng bộ môn."
+  },
+  {
+    "input": "Cho em hỏi,Khi nào Bộ môn nên nộp đề thi và đáp án về Phòng khảo thí và ĐBCL?",
+    "output": "Bộ môn nên nộp đề thi và đáp án (bản in) về Phòng khảo thí và ĐBCL trước thời điểm thi 1 tuần để phục vụ công tác chuẩn bị đề thi, lưu trữ và phục vụ công tác thanh kiểm tra khi cần thiết."
+  },
+  {
+    "input": "Cho em hỏi,Đối với các đơn vị xa trường, việc biên soạn câu hỏi thi phải thực hiện như thế nào?",
+    "output": "Đối với các đơn vị xa trường như Phân hiệu, Viện miền Trung, việc biên soạn câu hỏi thi phải phối hợp với các Khoa, Bộ môn chuyên ngành để có sự thống nhất trong quản lý hành chính và chuyên môn, tuân theo trình tự triển khai tương tự như trên."
+  },
+  {
+    "input": "Cho em hỏi,Phòng Đào tạo phối hợp với các Bộ môn để thực hiện những công việc gì liên quan đến tổ chức thi trực tuyến?",
+    "output": "Phòng Đào tạo phối hợp cùng các Bộ môn lập danh sách thi, sắp xếp thời gian và số lượng sinh viên/học viên trong mỗi phòng thi phù hợp. Danh sách này sau khi hoàn thành sẽ được gửi cho Phòng Khảo thí và ĐBCL để phục vụ công tác chuẩn bị đề thi và cho Bộ môn nếu cần thiết."
+  },
+  {
+    "input": "Cho em hỏi,Trước khi kết thúc học phần, Thủ trưởng bộ môn phải thực hiện công việc gì đối với danh sách cán bộ coi thi?",
+    "output": "Thủ trưởng bộ môn phải gửi danh sách cán bộ coi thi của mỗi ca thi về cho Phòng Khảo thí và ĐBCL tối thiểu 3 ngày trước khi thi kết thúc học phần, thông qua email."
+  },
+  {
+    "input": "Cho em hỏi,Trước giờ thi, Phòng Khảo thí và ĐBCL phải thực hiện công việc gì đối với kho đề thi của mỗi phòng thi trực tuyến?",
+    "output": "Trước mỗi ca thi, Phòng Khảo thí và ĐBCL kiểm tra các kho đề của mỗi phòng thi trực tuyến để đảm bảo đề thi sẵn sàng trước giờ thi."
+  },
+  {
+    "input": "Cho em hỏi,Trước thời điểm thi, cán bộ coi thi nhận thông tin từ đâu và phải chuẩn bị như thế nào?",
+    "output": "Trước giờ thi từ 30 phút đến 45 phút, cán bộ coi thi nhận đề thi và danh sách phòng thi từ Phòng Khảo thí và ĐBCL thông qua email và có CC cho Thủ trưởng bộ môn để chuẩn bị ca thi. Trong trường hợp cần thiết, đề thi có thể được gửi cho Thủ trưởng bộ môn sớm hơn đối với các học phần đặc thù."
+  },
+  {
+    "input": "Cho em hỏi,Theo quy định chung, mỗi phòng thi phải có ít nhất bao nhiêu CBCT?",
+    "output": "Mỗi phòng thi phải có ít nhất 2 CBCT."
+  },
+  {
+    "input": "Cho em hỏi,Khi CBCT bận đột xuất trong quá trình coi thi, họ phải thực hiện điều gì?",
+    "output": "CBCT bận đột xuất phải báo cáo kịp thời cho Trưởng/Phó bộ môn để cử người thay thế."
+  },
+  {
+    "input": "Cho em hỏi,Trước giờ thi, CBCT phải thực hiện công việc gì trong phòng thi?",
+    "output": "CBCT phải đăng nhập trước giờ thi tối thiểu 15 phút để kiểm tra phòng thi trực tuyến, danh sách thi, đường truyền, camera, mic và phổ biến quy chế thi."
+  },
+  {
+    "input": "Cho em hỏi,CBCT cần cung cấp thông tin gì cho sinh viên/học viên trong phòng thi?",
+    "output": "CBCT cần cung cấp số điện thoại để sinh viên/học viên có thể báo cáo sự cố gặp phải trong quá trình thi kịp thời."
+  },
+  {
+    "input": "Khi hết giờ làm bài thi tự luận, CBCT phải thực hiện các thao tác gì?",
+    "output": "CBCT yêu cầu sinh viên ngừng làm bài, chụp ảnh phòng thi và yêu cầu sinh viên sao lưu bài thi, sau đó gửi bài thi trong thời gian tối đa 10 phút."
+  },
+  {
+    "input": "CBCT phải thực hiện các nhiệm vụ gì sau khi kết thúc giờ làm bài thi?",
+    "output": "CBCT 1 quan sát phòng thi, CBCT 2 kiểm tra danh sách bài thi đã nhận được và ghi vào danh sách thi các trường hợp gặp sự cố."
+  },
+  {
+    "input": "Ai là thành phần chính của cán bộ giám sát phòng thi?",
+    "output": "Cán bộ giám sát phòng thi bao gồm cán bộ của bộ phận Thanh tra, Phòng Hành chính-Tổng hợp và một số đơn vị được Hiệu trưởng giao nhiệm vụ giám sát."
+  },
+  {
+    "input": "Công việc chính của cán bộ giám sát phòng thi là gì?",
+    "output": "Cán bộ giám sát phòng thi giám sát việc thực hiện quy định về tổ chức kỳ thi kết thúc học phần của CBCT và sinh viên/học viên; kiểm tra và nhắc nhở CBCT và sinh viên thực hiện đúng quy định."
+  },
+  {
+    "input": "Có bao nhiêu đơn vị được giao nhiệm vụ giám sát phòng thi theo đoạn văn?",
+    "output": "Ngoài cán bộ của bộ phận Thanh tra và Phòng Hành chính-Tổng hợp, một số đơn vị khác cũng được Hiệu trưởng giao nhiệm vụ giám sát phòng thi."
+  },
+  {
+    "input": "Đối với việc giám sát, cán bộ phải kiểm tra và nhắc nhở ai?",
+    "output": "Cán bộ giám sát phòng thi kiểm tra và nhắc nhở cả CBCT và sinh viên/học viên thực hiện đúng quy định."
+  },
+  {
+    "input": "Cán bộ giám sát phòng thi có trách nhiệm gì đối với tổ chức kỳ thi?",
+    "output": "Cán bộ giám sát phòng thi có trách nhiệm giám sát việc thực hiện quy định về tổ chức kỳ thi kết thúc học phần của CBCT và sinh viên/học viên."
+  },
+  {
+    "input": "Sinh viên cần chuẩn bị những gì để tham gia thi kết thúc học phần trực tuyến?",
+    "output": "Sinh viên cần chuẩn bị máy tính hoặc điện thoại thông minh có kết nối internet, cài đặt phần mềm cần thiết theo yêu cầu của bộ môn, micro, camera, và thẻ học viên/sinh viên/CCCD/CMND."
+  },
+  {
+    "input": "Điều gì sẽ xảy ra nếu sinh viên đăng nhập trễ vào phòng thi trực tuyến?",
+    "output": "Nếu sinh viên đăng nhập chậm quá 15 phút sau thời gian bắt đầu làm bài thi, họ sẽ bị coi là bỏ thi và sẽ nhận điểm 0."
+  },
+  {
+    "input": "Sinh viên phải đảm bảo điều gì về không gian làm bài thi trực tuyến?",
+    "output": "Sinh viên phải đảm bảo không gian làm bài yên tĩnh, gọn gàng, không có người xung quanh, và ánh sáng phù hợp để camera ghi hình rõ nét. Họ cũng phải điều chỉnh camera sao cho nó quét được toàn bộ khu vực làm bài."
+  },
+  {
+    "input": "Nghiêm cấm hành vi gì trong quá trình làm bài thi trực tuyến?",
+    "output": "Nghiêm cấm mọi hành vi gian lận, bao gồm việc xem bài của sinh viên khác, trao đổi ý kiến, và trao đổi tài liệu. Sinh viên cũng phải giữ gìn trật tự và im lặng trong phòng thi."
+  },
+  {
+    "input": "Sinh viên cần thực hiện những bước gì sau khi hết giờ làm bài thi tự luận trực tuyến?",
+    "output": "Sau khi hết giờ, sinh viên phải dừng làm bài, ghi chữ \"hết bài\", ký tên, và gạch chéo các phần trắng trên giấy thi. Trong vòng 10 phút sau đó, họ phải lưu bài thi theo hướng dẫn của CBCT."
+  },
+  {
+    "input": "Sinh viên cần chú ý điều gì khi chụp ảnh để lưu bài thi tự luận?",
+    "output": "Sinh viên cần để thẻ sinh viên hoặc CMT, CCCD ở hai vị trí: bên cạnh thông tin cá nhân ở đầu bài và bên cạnh chữ ký cuối bài. Họ cũng cần ghi số thứ tự tờ giấy thi ở góc trên cùng, bên phải của bài thi."
+  },
+  {
+    "input": "Nếu sinh viên/học viên không đủ điều kiện để tham gia thi trực tuyến, họ phải làm gì?",
+    "output": "Nếu không đủ điều kiện tham gia thi trực tuyến, sinh viên/học viên phải làm đơn hoãn thi và gửi đến Phòng Khảo thí và ĐBCL trước ít nhất 02 ngày để được bố trí thi vào thời gian phù hợp."
+  },
+  {
+    "input": "Sau khi làm bài thi tự luận trực tuyến, sinh viên/học viên cần thực hiện bước gì tiếp theo?",
+    "output": "Sau khi làm bài, sinh viên/học viên cần lưu bài thi theo hướng dẫn của CBCT. File lưu bài thi phải đảm bảo chất lượng, rõ và có thể đọc được để tránh mất điểm khi chấm thi."
+  },
+  {
+    "input": "Sinh viên/học viên gặp sự cố gì trong quá trình thi cần báo ngay cho ai và thông qua phương tiện gì?",
+    "output": "Khi gặp sự cố như không thể đăng nhập vào phòng thi, bị sự cố máy tính hoặc mất kết nối internet, sinh viên/học viên phải báo ngay cho CBCT thông qua số điện thoại đã được cung cấp. Họ cũng cần chụp ảnh lại sự cố để gửi về cho CBCT."
+  },
+  {
+    "input": "Sinh viên/học viên gặp sự cố trong quá trình thi, thời gian khắc phục dưới 15 phút, quyết định tiếp theo do ai đưa ra và dựa trên điều gì?",
+    "output": "Quyết định tiếp theo do CBCT đưa ra, dựa trên đặc thù của học phần. Nếu thời gian khắc phục dưới 15 phút, CBCT có thể quyết định cho sinh viên/học viên tiếp tục làm bài hoặc chuyển sang ca thi dự phòng."
+  },
+  {
+    "input": "Trường hợp sự cố không thể khắc phục trong vòng 15 phút, sinh viên/học viên phải thực hiện hành động gì?",
+    "output": "Nếu sự cố không thể khắc phục trong vòng 15 phút, sinh viên/học viên phải chuyển sang ca thi dự phòng hoặc tham gia kiểm tra vấn đáp do CBCT tổ chức ngay cuối ca thi để có kết quả tương đương."
+  },
+  {
+    "input": "Sự cố trong quá trình thi cần được ghi nhận ở đâu và như thế nào?",
+    "output": "Tất cả các sự cố cần được ghi rõ vào biên bản phòng thi để ghi nhận thông tin chi tiết về sự cố và các biện pháp xử lý."
+  },
+  {
+    "input": "Ai quyết định liệu sinh viên/học viên có tiếp tục làm bài thi sau khi gặp sự cố không thể khắc phục trong vòng 15 phút?",
+    "output": "Quyết định này do CBCT đưa ra dựa trên đặc thù của học phần và tình hình cụ thể của sự cố."
+  },
+  {
+    "input": "Tại sao sinh viên/học viên cần chụp ảnh lại sự cố khi gặp vấn đề trong quá trình thi?",
+    "output": "Việc chụp ảnh lại sự cố giúp sinh viên/học viên có bằng chứng cụ thể để cung cấp cho CBCT và làm rõ vấn đề họ gặp phải."
+  },
+  {
+    "input": "Sinh viên/học viên khi có khiếu nại về điểm thi phải làm gì để gửi đơn?",
+    "output": "Sinh viên/học viên cần làm đơn gửi về Phòng Khảo thí và ĐBCL theo lịch phúc tra mà phòng công bố để khiếu nại và thắc mắc về điểm thi từng giai đoạn."
+  },
+  {
+    "input": "Ai là đơn vị chịu trách nhiệm xử lý khiếu nại và thắc mắc về điểm thi từ sinh viên/học viên?",
+    "output": "Bộ môn là đơn vị chịu trách nhiệm báo cáo kết quả giải quyết khiếu nại và thắc mắc về điểm thi với bộ phận thanh tra, Phòng Hành chính-Tổng hợp, Phòng Khảo thí và ĐBCL để cập nhật kết quả khiếu nại điểm cho sinh viên/học viên."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên có thể biết kết quả giải quyết khiếu nại về điểm thi của mình?",
+    "output": "Sinh viên/học viên có thể biết kết quả giải quyết khiếu nại về điểm thi của mình sau khi bộ môn báo cáo kết quả cho các đơn vị liên quan và cập nhật kết quả khiếu nại điểm cho sinh viên/học viên."
+  },
+  {
+    "input": "Lịch phúc tra khiếu nại điểm thi được công bố ở đâu?",
+    "output": "Lịch phúc tra khiếu nại điểm thi được công bố bởi Phòng Khảo thí và ĐBCL để sinh viên/học viên biết và gửi đơn khiếu nại theo đúng thời gian quy định."
+  },
+  {
+    "input": "Cán bộ, giảng viên vi phạm quy định trong kỳ thi kết thúc học phần sẽ bị xử lý kỷ luật như thế nào?",
+    "output": "Tuỳ theo mức độ vi phạm, cán bộ, giảng viên sẽ bị xử lý kỷ luật bao gồm khiển trách, cảnh cáo, hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật."
+  },
+  {
+    "input": "Các hành vi nào của cán bộ, giảng viên trong kỳ thi có thể bị khiển trách?",
+    "output": "Các hành vi bao gồm ra đề thi không phù hợp, không đảm bảo điều kiện dự thi cho sinh viên, để cho sinh viên sử dụng phương tiện ghi âm, điện thoại di động trong phòng thi, hoặc chấm thi sai sót."
+  },
+  {
+    "input": "Khi nào cán bộ, giảng viên có thể bị cảnh cáo?",
+    "output": "Cán bộ, giảng viên có thể bị cảnh cáo khi ra đề thi sai hoặc trực tiếp giải bài và hướng dẫn sinh viên trong quá trình thi."
+  },
+  {
+    "input": "Hình thức xử lý nào áp dụng cho cán bộ, giảng viên vi phạm nghiêm trọng trong kỳ thi?",
+    "output": "Hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật có thể áp dụng cho những vi phạm nghiêm trọng như làm lộ đề thi, sửa bài làm của sinh viên."
+  },
+  {
+    "input": "Ai quyết định về hình thức xử lý kỷ luật đối với cán bộ, giảng viên vi phạm quy định trong kỳ thi?",
+    "output": "Quyết định về hình thức xử lý kỷ luật được Hiệu trưởng quyết định dựa trên biên bản do cán bộ thanh tra hoặc đoàn kiểm tra lập theo quy định về thanh tra các kỳ thi."
+  },
+  {
+    "input": "Biện pháp nào được áp dụng nếu cán bộ, giảng viên vi phạm quy định không được phát hiện trong khi làm nhiệm vụ mà sau đó được phát hiện?",
+    "output": "Tuỳ theo mức độ vi phạm, các biện pháp xử lý kỷ luật sẽ được áp dụng tương ứng với hành vi vi phạm của cán bộ, giảng viên."
+  },
+  {
+    "input": "Các hành vi nào của cán bộ, giảng viên trong kỳ thi có thể dẫn đến việc buộc thôi việc hoặc đề nghị truy tố trước pháp luật?",
+    "output": "Các hành vi nghiêm trọng như làm lộ đề thi, đưa đề thi ra ngoài hoặc đưa bài giải từ ngoài vào phòng thi, hoặc sửa bài làm của sinh viên có thể dẫn đến buộc thôi việc hoặc đề nghị truy tố trước pháp luật."
+  },
+  {
+    "input": "Sinh viên/học viên không đủ điều kiện dự thi nhưng không làm đơn hoãn thi sẽ đối mặt với hình phạt gì?",
+    "output": "Sinh viên/học viên không đủ điều kiện dự thi mà không làm đơn hoãn thi sẽ không được vào thi và nhận điểm Không (điểm 0.0) cho bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên có thể được hoãn thi vì lý do chính đáng?",
+    "output": "Sinh viên/học viên có thể được hoãn thi vì lý do chính đáng như ốm đau, cách ly y tế, hoặc có hoàn cảnh đặc biệt. Để được hoãn thi, sinh viên/học viên phải làm đơn xin và nộp về Phòng Khảo thí và ĐBCL trước buổi thi, và cần có giấy tờ xác minh."
+  },
+  {
+    "input": "Hình phạt nào sẽ áp dụng cho sinh viên/học viên vi phạm khiếu nại thi như trao đổi bài với bạn?",
+    "output": "Đối với hành vi vi phạm như trao đổi bài với bạn, sinh viên/học viên sẽ bị khiển trách và bị trừ 25% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Hình phạt nào sẽ áp dụng nếu sinh viên/học viên vi phạm quy định khi dự thi môn học đã bị cảnh cáo trước đó?",
+    "output": "Nếu sinh viên/học viên vi phạm khi đã bị cảnh cáo trước đó, họ sẽ bị cảnh cáo lại và bị trừ 50% số điểm của bài thi kết thúc học phần môn học đó."
+  },
+  {
+    "input": "Khi nào sinh viên/học viên sẽ bị đình chỉ thi?",
+    "output": "Sinh viên/học viên sẽ bị đình chỉ thi nếu vi phạm nghiêm trọng như vi phạm khi đã bị cảnh cáo trước đó, sử dụng điện thoại di động trong quá trình thi, hoặc chuyển đề thi ra ngoài hoặc nhận bài giải từ ngoài."
+  },
+  {
+    "input": "Ai quyết định về hình phạt kỷ luật cho sinh viên/học viên vi phạm quy định khi dự thi?",
+    "output": "Quyết định về hình phạt kỷ luật cho sinh viên/học viên vi phạm khi dự thi được CBCT lập biên bản và ghi rõ trong biên bản cùng với mức độ vi phạm và hình phạt đề nghị."
+  },
+  {
+    "input": "Cách xử lý kỷ luật của sinh viên/học viên vi phạm quy định khi dự thi phải được thực hiện như thế nào?",
+    "output": "Việc xử lý kỷ luật của sinh viên/học viên vi phạm quy định khi dự thi phải được công bố cho sinh viên biết và lập biên bản có sự xác nhận của hai CBCT và dưới sự chứng kiến của các sinh viên có mặt trong phòng thi trực tuyến. Biên bản này sau đó được nộp cho các phòng quản lý và xử lý tương ứng."
+  },
+  {
+    "input": "Vậy ai sẽ áp dụng những quy định trong văn bản này?",
+    "output": "Các đơn vị và cá nhân có liên quan đến quá trình tổ chức thi trực tuyến của Trường đại học Thủy lợi sẽ áp dụng những quy định trong văn bản này."
+  },
+  {
+    "input": "Mình muốn biết những kỳ thi nào được áp dụng quy định trong văn bản này?",
+    "output": "Quy định trong văn bản này áp dụng cho kỳ thi kết thúc đối với các học phần triển khai giảng dạy theo hình thức trực tuyến và bộ môn đề xuất thi theo hình thức trực tuyến."
+  },
+  {
+    "input": "Phòng thi trực tuyến là gì vậy?",
+    "output": "Phòng thi trực tuyến là nơi được thiết lập trên phần mềm giảng dạy trực tuyến của Trường Đại học Thủy lợi để tổ chức thi kết thúc học phần cho sinh viên (học viên)."
+  },
+  {
+    "input": "Máy chủ đóng vai trò gì trong quá trình thi?",
+    "output": "Máy chủ đóng vai trò lưu trữ ngân hàng câu hỏi thi, phần mềm trộn đề thi và chấm thi với hình thức trắc nghiệm."
+  },
+  {
+    "input": "Vậy máy trạm là gì?",
+    "output": "Máy trạm là máy tính được sinh viên (học viên) sử dụng để nhận đề thi, làm bài thi và nộp bài thi."
+  },
+  {
+    "input": "Đơn vị quản lý học phần có trách nhiệm gì?",
+    "output": "Đơn vị quản lý học phần, tức là bộ môn, có trách nhiệm quản lý học phần."
+  },
+  {
+    "input": "Bạn có thể giải thích thêm về cấu trúc đề thi được không?",
+    "output": "Cấu trúc đề thi là văn bản hướng dẫn thời gian thi, số lượng câu hỏi và phần kiến thức trong một đề thi. Bộ môn quản lý học phần sẽ xây dựng và đề xuất cấu trúc đề thi."
+  },
+  {
+    "input": "Cho mình hỏi thêm về đề thi trong ngữ cảnh này?",
+    "output": "Đề thi là tập hợp các câu hỏi trong ngân hàng câu hỏi thi. Đề thi được tạo ra bởi máy tính và phần mềm trộn hoặc được xây dựng bởi bộ môn trên cơ sở cấu trúc đề thi."
+  },
+  {
+    "input": "Ngân hàng câu hỏi thi là gì?",
+    "output": "Ngân hàng câu hỏi thi là tập hợp toàn bộ câu hỏi và đáp án phục vụ cho việc làm đề thi."
+  },
+  {
+    "input": "Bạn có thể cho mình biết thêm về sự cố trong quá trình thi?",
+    "output": "Sự cố trong quá trình thi là những sự việc không mong muốn xảy ra như mất điện, lỗi kỹ thuật từ sinh viên (học viên), máy chủ ngừng hoạt động, hoặc các sự việc khách quan khác làm ảnh hưởng đến bài thi của sinh viên (học viên)."
+  },
+  {
+    "input": "Vậy ai là cán bộ coi thi?",
+    "output": "Cán bộ coi thi là người được giao nhiệm vụ coi thi trực tuyến."
+  },
+  {
+    "input": "Bạn có thể cho mình biết nguyên tắc nào đảm bảo yếu tố bình đẳng, dân chủ trong quá trình đánh giá?",
+    "output": "Nguyên tắc đảm bảo yếu tố bình đẳng, dân chủ trong quá trình đánh giá kết quả rèn luyện của sinh viên là tôn trọng chủ quyền làm chủ của người được đánh giá."
+  },
+  {
+    "input": "Vậy những đơn vị nào được phối hợp trong quá trình đánh giá kết quả rèn luyện của sinh viên?",
+    "output": "Trong quá trình đánh giá kết quả rèn luyện của sinh viên, các đơn vị có liên quan trong nhà trường được phối hợp đồng bộ, chặt chẽ tham gia công tác đánh giá."
+  },
+  {
+    "input": "Bạn có thể giải thích thêm về việc đánh giá kết quả rèn luyện của sinh viên được thực hiện như thế nào trong quá trình học tập tại Trường?",
+    "output": "Việc đánh giá kết quả rèn luyện của sinh viên là việc làm thường xuyên trong suốt quá trình học tập tại Trường, theo nguyên tắc được quy định."
+  },
+  {
+    "input": "Cho mình hỏi, việc đánh giá kết quả rèn luyện của sinh viên dựa trên những yếu tố nào?",
+    "output": "Đánh giá kết quả rèn luyện của sinh viên dựa trên ý thức và thái độ của từng sinh viên trong các mặt như ý thức tham gia học tập, ý thức chấp hành nội quy, ý thức tham gia các hoạt động xã hội, văn hóa, thể thao, ý thức công dân và thành tích trong công tác cán bộ lớp và các tổ chức khác trong trường."
+  },
+  {
+    "input": "Bạn có thể cho mình biết thêm về việc đánh giá ý thức tham gia học tập?",
+    "output": "Ý thức tham gia học tập được đánh giá dựa trên sự nỗ lực, sự chăm chỉ, và kết quả học tập của sinh viên."
+  },
+  {
+    "input": "Quy mô thang điểm đánh giá kết quả rèn luyện là gì?",
+    "output": "Thang điểm đánh giá kết quả rèn luyện là thang điểm 100."
+  },
+  {
+    "input": "Bạn có thể cho mình biết ý thức tham gia các hoạt động xã hội được đánh giá bằng những tiêu chí nào?",
+    "output": "Ý thức tham gia các hoạt động xã hội được đánh giá bằng mức độ tham gia và đóng góp vào các hoạt động văn hoá, văn nghệ, thể thao, phòng chống tội phạm và các tệ nạn xã hội."
+  },
+  {
+    "input": "Làm thế nào để đạt được điểm cao trong đánh giá kết quả rèn luyện?",
+    "output": "Để đạt được điểm cao, sinh viên cần thể hiện ý thức tốt và tham gia tích cực trong các hoạt động học tập và xã hội, cũng như có thành tích đặc biệt trong công tác cán bộ lớp và các tổ chức khác trong trường."
+  },
+  {
+    "input": "Vậy ý thức công dân trong quan hệ cộng đồng được đánh giá dựa trên những gì?",
+    "output": "Ý thức công dân trong quan hệ cộng đồng được đánh giá dựa trên sự tôn trọng, trách nhiệm và sự hợp tác tích cực của sinh viên trong các hoạt động xã hội và cộng đồng."
+  },
+  {
+    "input": "Cho mình hỏi, các tiêu chí nào được sử dụng để xác định điểm đánh giá về ý thức tham gia học tập?",
+    "output": "Các tiêu chí bao gồm: \n- Ý thức và thái độ trong học tập, \n- Ý thức và thái độ tham gia các câu lạc bộ học thuật và các hoạt động học thuật, \n- Ý thức và thái độ tham gia các kỳ thi, cuộc thi, \n- Tinh thần vượt khó, phấn đấu vươn lên trong học tập, \n- Kết quả học tập."
+  },
+  {
+    "input": "Vậy nếu mình chấp hành đầy đủ các quy định học tập trên giảng đường thì mình có thể đạt được bao nhiêu điểm?",
+    "output": "Sinh viên có thể đạt được 2 điểm nếu họ chấp hành đầy đủ các quy định học tập trên giảng đường."
+  },
+  {
+    "input": "Mình muốn hỏi nếu mình tham gia thi Olympic các môn học và nghiên cứu khoa học cấp khoa thì mình có thể nhận được bao nhiêu điểm?",
+    "output": "Sinh viên có thể nhận được 2 điểm nếu họ tham gia thi Olympic các môn học và nghiên cứu khoa học cấp khoa, và 1 điểm nếu họ đạt giải."
+  },
+  {
+    "input": "Cho mình hỏi, điểm số tương ứng với việc tham gia và đạt giải trong thi Olympic cấp trường là bao nhiêu?",
+    "output": "Sinh viên có thể nhận được 2 điểm nếu tham gia và 3 điểm nếu đạt giải ở cấp trường."
+  },
+  {
+    "input": "Bạn có thể cho mình biết điểm số tương ứng với việc tham gia và đạt giải trong thi Olympic cấp trên trường?",
+    "output": "Sinh viên có thể đạt được 3 điểm nếu tham gia và 5 điểm nếu đạt giải ở cấp trên trường."
+  },
+  {
+    "input": "Cho em hỏi nếu em bị lập biên bản khiển trách thì sẽ bị trừ bao nhiêu điểm rèn luyện ạ?",
+    "output": "Nếu bị lập biên bản khiển trách em sẽ bị trừ 1 điểm rèn luyện nhé!"
+  },
+  {
+    "input": "Vậy nếu em bị lập biên bản cảnh cáo thì sẽ bị trừ bao nhiêu điểm rèn luyện ạ?",
+    "output": "Nếu bị lập biên bản cảnh cáo em sẽ bị trừ 2 điểm rèn luyện nhé!"
+  },
+  {
+    "input": "Em bị lập biên bản đình chỉ thi thì sẽ mất bao nhiêu điểm rèn luyện ạ?",
+    "output": "Nếu bị lập biên bản đình chỉ thi em sẽ bị trừ 3 điểm rèn luyện nhé!"
+  },
+  {
+    "input": "Bạn có thể cho mình biết nếu mình đạt học lực Giỏi trong học kì thì được bao nhiêu điểm rèn luyện?",
+    "output": "Nếu em được học lực Giỏi hoặc Xuất sắc, em sẽ được 8 điểm rèn luyện nhé!"
+  },
+  {
+    "input": "Vậy nếu mình đạt học lực Khá trong học kì thì sẽ được cộng bao nhiêu điểm rèn luyện ạ?",
+    "output": "Nếu em đạt học lực Khá trong học kì thì sẽ được cộng 5 điểm vào điểm rèn luyện nhé!"
+  },
+  {
+    "input": "Cho mình hỏi nếu mình chỉ được học lực Trung bình hoặc TBK trong học kì thì có được cộng điểm rèn luyện không ạ?",
+    "output": "Em sẽ được cộng 3 điểm vào điểm rèn luyện nếu đạt học lực Trung bình hoặc TBK nhé!"
+  },
+  {
+    "input": "Học lực dưới trung bình thì có được điểm rèn luyện không ạ?",
+    "output": "Nếu em có học lực dưới trung bình thì sẽ được 0 điểm trong mục chấm kết quả học tập nhé!"
+  },
+  {
+    "input": "Cho mình hỏi, nếu điểm học tập kì này của mình cao hơn kì trước thì có được cộng điểm rèn luyện không ạ?",
+    "output": "Có. Em sẽ được cộng 2 điểm rèn luyện nếu có sự tiến bộ trong điểm số kì này so với kì trước."
+  },
+    {
+      "input": "Các tiêu chí nào được sử dụng để xác định điểm đánh giá về ý thức tham gia học tập?",
+      "output": "Các tiêu chí bao gồm:\n- Ý thức và thái độ trong học tập,\n- Ý thức và thái độ tham gia các câu lạc bộ học thuật và các hoạt động học thuật,\n- Ý thức và thái độ tham gia các kỳ thi, cuộc thi,\n- Tinh thần vượt khó, phấn đấu vươn lên trong học tập,\n- Kết quả học tập."
+    },
+    {
+      "input": "Sinh viên có thể đạt được bao nhiêu điểm nếu họ chấp hành đầy đủ các quy định học tập trên giảng đường?",
+      "output": "Sinh viên có thể đạt được 2 điểm nếu họ chấp hành đầy đủ các quy định học tập trên giảng đường."
+    },
+    {
+      "input": "Sinh viên có thể nhận được bao nhiêu điểm nếu họ tham gia thi Olympic các môn học và nghiên cứu khoa học cấp khoa?",
+      "output": "Sinh viên có thể nhận được 2 điểm nếu họ tham gia thi Olympic các môn học và nghiên cứu khoa học cấp khoa, và 1 điểm nếu họ đạt giải."
+    },
+    {
+      "input": "Điểm số tương ứng với việc tham gia và đạt giải trong thi Olympic cấp trường là bao nhiêu?",
+      "output": "Sinh viên có thể nhận được 2 điểm nếu tham gia và 3 điểm nếu đạt giải ở cấp trường."
+    },
+    {
+      "input": "Điểm số tương ứng với việc tham gia và đạt giải trong thi Olympic cấp trên trường là bao nhiêu?",
+      "output": "Sinh viên có thể đạt được 3 điểm nếu tham gia và 5 điểm nếu đạt giải ở cấp trên trường."
+    },
+    {
+      "input": "Cho em hỏi nếu em bị lập biên bản khiển trách thì sẽ bị trừ bao nhiêu điểm rèn luyện ạ?",
+      "output": "Nếu bị lập biên bản khiển trách em sẽ bị trừ 1 điểm rèn luyện nhé!"
+    },
+    {
+      "input": "Cho em hỏi nếu em bị lập biên bản cảnh cáo thì sẽ bị trừ bao nhiêu điểm rèn luyện ạ?",
+      "output": "Nếu bị lập biên bản cảnh cáo em sẽ bị trừ 2 điểm rèn luyện nhé!"
+    },
+    {
+      "input": "Em bị lập biên bản đình chỉ thi thì sẽ mất bao nhiêu điểm rèn luyện ạ?",
+      "output": "Nếu bị lập biên bản đình chỉ thi em sẽ bị trừ 3 điểm rèn luyện nhé!"
+    },
+    {
+      "input": "Nếu em đạt học lực Giỏi trong học kì thì được bao nhiêu điểm rèn luyện ạ?",
+      "output": "Nếu em được học lực Giỏi hoặc Xuất sắc, em sẽ được 8 điểm rèn luyện nhé!"
+    },
+    {
+      "input": "Nếu em đạt học lực Khá trong học kì thì sẽ được cộng bao nhiêu điểm rèn luyện ạ?",
+      "output": "Nếu em đạt học lực Khá trong học kì thì sẽ được cộng 5 điểm vào điểm rèn luyện nhé!"
+    },
+    {
+      "input": "Nếu em chỉ được học lực Trung bình hoặc TBK trong học kì thì có được cộng điểm rèn luyện không ạ?",
+      "output": "Em sẽ được cộng 3 điểm vào điểm rèn luyện nếu đạt học lực Trung bình hoặc TBK nhé!"
+    },
+    {
+      "input": "Học lực dưới trung bình thì có được điểm rèn luyện không ạ?",
+      "output": "Nếu em có học lực dưới trung bình thì sẽ được 0 điểm trong mục chấm kết quả học tập nhé!"
+    },
+    {
+      "input": "Nếu điểm học tập kì này của em cao hơn kì trước thì có được cộng điểm rèn luyện không ạ?",
+      "output": "Có. Em sẽ được cộng 2 điểm rèn luyện nếu có sự tiến bộ trong điểm số kì này so với kì trước."
+    },
+    {
+      "input": "Sinh viên được bao nhiêu điểm nếu chấp hành tốt các nội quy, quy chế và các quy định được thực hiện trong nhà trường?",
+      "output": "Sinh viên sẽ được 5 điểm."
+    },
+    {
+      "input": "Sinh viên sẽ bị trừ bao nhiêu điểm nếu vắng buổi sinh hoạt lớp hàng tháng với lí do không chính đáng?",
+      "output": "Sinh viên sẽ bị trừ 2 điểm/ lần vắng."
+    },
+    {
+      "input": "Sinh viên có thể đạt được tối đa bao nhiêu điểm nếu tham gia đầy đủ các buổi sinh hoạt lớp hàng tháng?",
+      "output": "Sinh viên sẽ được cộng 10 điểm."
+    },
+    {
+      "input": "Sinh viên sẽ bị đánh giá bao nhiêu điểm nếu vi phạm quy định về đóng học phí?",
+      "output": "Sinh viên sẽ được 0 điểm."
+    },
+    {
+      "input": "Sinh viên sẽ bị đánh giá bao nhiêu điểm nếu vi phạm 1 trong các quy định về nội, ngoại trú; nội quy thư viện, nếp sống văn hóa học đường?",
+      "output": "Sinh viên sẽ được 0 điểm."
+    },
+    {
+      "input": "Sinh viên có thể đạt được tối đa bao nhiêu điểm trong khung đánh giá về ý thức chấp hành nội quy?",
+      "output": "Sinh viên tối đa có thể đạt 25 điểm cho mục này."
+    },
+    {
+      "input": "Nếu sinh viên vi phạm các quy định, điểm tối đa có thể đạt được sẽ giảm đi bao nhiêu điểm?",
+      "output": "Tùy vào loại và mức độ vi phạm, điểm tối đa có thể giảm đi từ 5 điểm đến 25 điểm."
+    },
+    {
+      "input": "Các tiêu chí nào được sử dụng để đánh giá ý thức và kết quả tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao, phòng chống tội phạm và các tệ nạn xã hội?",
+      "output": "Có 3 tiêu chí chính:\n* Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hoá, văn nghệ, thể thao;\n* Ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội;\n* Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội."
+    },
+    {
+      "input": "Tiêu chí \"Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hoá, văn nghệ, thể thao\" đánh giá yếu tố nào?",
+      "output": "Tiêu chí này đánh giá thái độ tích cực, chủ động, trách nhiệm và kết quả đạt được của cá nhân khi tham gia các hoạt động rèn luyện như: tham gia các buổi sinh hoạt chính trị, các cuộc thi văn nghệ, thể thao, các hoạt động văn hóa..."
+    },
+    {
+      "input": "Chào anh/chị, cho em hỏi có những tiêu chí nào để đánh giá hoạt động của sinh viên vậy ạ?",
+      "output": "Chào em, có ba tiêu chí chính để đánh giá hoạt động của sinh viên. Đó là: ý thức và hiệu quả tham gia hoạt động rèn luyện về chính trị, xã hội, văn hoá, văn nghệ, thể thao; ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội; và tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội."
+    },
+    {
+      "input": "Anh/chị ơi, nếu em tham gia trực tiếp tổ chức hoạt động thì được cộng bao nhiêu điểm rèn luyện vậy ạ?",
+      "output": "Nếu em tham gia trực tiếp hoặc tham gia tổ chức hoạt động sẽ được cộng 6 điểm rèn luyện em nhé."
+    },
+    {
+      "input": "Dạ cho em hỏi nếu em chỉ tham gia cổ vũ hoạt động thì có được tính điểm không ạ?",
+      "output": "Có em nhé, trường hợp em tham gia hỗ trợ, cổ vũ hoạt động sẽ được tính 3 điểm rèn luyện."
+    },
+    {
+      "input": "Nếu em bận việc riêng không tham gia hoạt động khi được phân công thì có bị trừ điểm không ạ?",
+      "output": "Nếu em không tham gia hoặc từ chối tham gia hoạt động khi được phân công sẽ bị đánh giá 0 điểm em nhé."
+    },
+    {
+      "input": "Anh/chị cho em hỏi về điểm đánh giá đối với hoạt động công tác xã hội được tính như thế nào ạ?",
+      "output": "Đối với hoạt động công tác xã hội, nếu lớp em hoàn thành chỉ tiêu được giao thì mỗi sinh viên trong lớp đều được cộng 6 điểm. Trường hợp lớp không hoàn thành chỉ tiêu thì chỉ những bạn trực tiếp tham gia mới được cộng 6 điểm."
+    },
+    {
+      "input": "Cho em hỏi tham gia hoạt động phòng chống ma túy và tệ nạn xã hội có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em nhé! Tham gia hoạt động phòng chống ma túy và tệ nạn xã hội sẽ được cộng 6 điểm rèn luyện."
+    },
+    {
+      "input": "Em là thành viên đội tuyển dự thi hoạt động thể thao cấp trường, vậy có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em nhé, em sẽ được cộng 2 điểm rèn luyện vì là thành viên đội tuyển dự thi cấp trường."
+    },
+    {
+      "input": "Ngoài tham gia các hoạt động, còn cách nào khác để được cộng điểm rèn luyện không anh/chị?",
+      "output": "Ngoài việc tham gia các hoạt động, em còn có thể được cộng 2 điểm rèn luyện nếu được Nhà trường khen thưởng."
+    },
+    {
+      "input": "Em muốn hỏi về việc tham gia hiến máu nhân đạo. Nếu lớp em đạt chỉ tiêu hiến máu thì mỗi sinh viên được cộng bao nhiêu điểm ạ?",
+      "output": "Nếu lớp em đạt chỉ tiêu hiến máu được giao, mỗi sinh viên trong lớp, bao gồm cả em, sẽ được cộng 6 điểm rèn luyện."
+    },
+    {
+      "input": "Vậy nếu chỉ có một mình em tham gia hiến máu nhân đạo thì sao ạ? Em có được cộng điểm không?",
+      "output": "Trường hợp chỉ mình em tham gia hiến máu nhân đạo, em vẫn sẽ được cộng 6 điểm rèn luyện."
+    },
+    {
+      "input": "Em muốn biết là tham gia các hoạt động tình nguyện như giúp đỡ người nghèo có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em nhé! Tham gia các hoạt động tình nguyện như giúp đỡ người nghèo sẽ được cộng 6 điểm rèn luyện."
+    },
+    {
+      "input": "Nếu em tham gia cả hoạt động tình nguyện và hiến máu nhân đạo thì có được cộng tổng cộng 12 điểm không ạ?",
+      "output": "Mặc dù em tham gia cả hai hoạt động rất tốt, nhưng mức điểm tối đa cho hạng mục này chỉ là 6 điểm em nhé."
+    },
+    {
+      "input": "Chào anh/chị, cho em hỏi phần đánh giá về ý thức công dân được chấm theo những tiêu chí nào ạ?",
+      "output": "Chào em, phần đánh giá ý thức công dân sẽ dựa trên 3 tiêu chí: Ý thức chấp hành và tham gia tuyên truyền chủ trương của Đảng, chính sách, pháp luật của Nhà nước; Ý thức tham gia hoạt động xã hội có thành tích; Tinh thần chia sẻ, giúp đỡ người khó khăn."
+    },
+    {
+      "input": "Anh/chị cho em hỏi, mục đánh giá ý thức công dân tối đa được bao nhiêu điểm ạ?",
+      "output": "Mục đánh giá ý thức công dân có thang điểm tối đa là 25 điểm em nhé."
+    },
+    {
+      "input": "Nếu em tích cực tuyên truyền và tự giác chấp hành chủ trương của Đảng, chính sách, pháp luật của Nhà nước thì được cộng bao nhiêu điểm rèn luyện ạ?",
+      "output": "Rất tốt em nhé! Em sẽ được cộng 10 điểm rèn luyện cho tiêu chí này."
+    },
+    {
+      "input": "Anh/chị ơi, nếu em tham gia hoạt động xã hội và nhận được khen thưởng cấp khoa thì được cộng bao nhiêu điểm ạ?",
+      "output": "Chúc mừng em! Em sẽ được cộng 3 điểm rèn luyện nếu nhận được khen thưởng cấp khoa."
+    },
+    {
+      "input": "Em muốn hỏi là nếu được khen thưởng cấp trường cho hoạt động xã hội thì em được cộng mấy điểm rèn luyện ạ?",
+      "output": "Giỏi quá em! Em sẽ được cộng 4 điểm rèn luyện nếu nhận khen thưởng cấp trường."
+    },
+    {
+      "input": "Anh/chị cho em hỏi thêm, nếu em có thành tích trong hoạt động xã hội và được khen thưởng trên cấp trường thì có được cộng điểm không ạ?",
+      "output": "Tuyệt vời em nhé! Thành tích của em sẽ được ghi nhận và cộng 5 điểm rèn luyện."
+    },
+    {
+      "input": "Dạ, em muốn hỏi là nếu bản thân thường xuyên giúp đỡ những người có hoàn cảnh khó khăn thì có được tính điểm rèn luyện không ạ?",
+      "output": "Việc làm của em rất đáng được tuyên dương! Em sẽ được cộng 10 điểm rèn luyện cho tinh thần này."
+    },
+    {
+      "input": "Cho em hỏi nếu em luôn chấp hành tốt pháp luật thì có được cộng điểm rèn luyện gì không ạ?",
+      "output": "Việc tuân thủ pháp luật là trách nhiệm của mỗi công dân. Em sẽ được cộng 10 điểm rèn luyện cho tiêu chí này."
+    },
+    {
+      "input": "Anh/chị ơi, việc đánh giá ý thức và kết quả tham gia công tác của sinh viên dựa trên những tiêu chí nào vậy ạ?",
+      "output": "Có 4 tiêu chí chính em nhé: Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc; Kỹ năng tổ chức, quản lý; Mức độ hỗ trợ và tham gia hoạt động chung; Thành tích đặc biệt trong học tập và rèn luyện."
+    },
+    {
+      "input": "Vậy tiêu chí nào dùng để đánh giá phẩm chất, năng lực của sinh viên khi được giao nhiệm vụ vậy ạ?",
+      "output": "Tiêu chí đầu tiên em nhé, tức là sẽ đánh giá dựa trên ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của em khi được phân công nhiệm vụ trong lớp, các tổ chức Đảng, Đoàn, Hội,... trong trường."
+    },
+    {
+      "input": "Để được đánh giá cao ở tiêu chí kỹ năng tổ chức, quản lý thì em cần thể hiện như thế nào ạ?",
+      "output": "Em cần thể hiện tốt khả năng tổ chức, quản lý lớp học hoặc trong các tổ chức Đảng, Đoàn, Hội,... mà em tham gia."
+    },
+    {
+      "input": "Có tiêu chí nào khuyến khích sinh viên tham gia hoạt động tập thể không anh/chị?",
+      "output": "Có em nhé, đó là tiêu chí \"Hỗ trợ và tham gia tích cực vào các hoạt động chung của lớp, tập thể, khoa và Trường\"."
+    },
+    {
+      "input": "Ngoài thành tích học tập, sinh viên còn có thể được đánh giá cao dựa vào thành tích nào khác không ạ?",
+      "output": "Ngoài ra, em còn có thể được đánh giá cao dựa vào thành tích đặc biệt đạt được trong quá trình rèn luyện."
+    },
+    {
+      "input": "Anh/chị cho em hỏi, mục đánh giá ý thức và kết quả tham gia công tác của sinh viên có khung điểm tối đa là bao nhiêu ạ?",
+      "output": "Khung điểm tối đa cho mục này là 10 điểm em nhé."
+    },
+    {
+      "input": "Nếu em đạt được nhiều tiêu chí tốt trong mục đánh giá ý thức tham gia công tác thì có được cộng thêm điểm không ạ?",
+      "output": "Mặc dù em đạt nhiều tiêu chí tốt, nhưng tổng điểm cho mục này tối đa vẫn là 10 điểm em nhé."
+    },
+    {
+      "input": "Em là lớp trưởng, vậy em có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em nhé, nếu em là lớp trưởng, em sẽ được cộng từ 0 đến 10 điểm rèn luyện tùy vào mức độ hoàn thành nhiệm vụ."
+    },
+    {
+      "input": "Vậy làm thế nào để lớp trưởng được cộng 10 điểm rèn luyện ạ?",
+      "output": "Để được cộng 10 điểm, em cần hoàn thành xuất sắc nhiệm vụ của lớp trưởng được giao."
+    },
+    {
+      "input": "Nếu em đã hoàn thành tốt nhiệm vụ lớp trưởng thì được cộng bao nhiêu điểm ạ?",
+      "output": "Nếu đã hoàn thành tốt nhiệm vụ lớp trưởng, em sẽ được cộng 8 điểm rèn luyện."
+    },
+    {
+      "input": "Nếu lớp trưởng không hoàn thành nhiệm vụ thì có bị trừ điểm rèn luyện không ạ?",
+      "output": "Nếu lớp trưởng không hoàn thành nhiệm vụ, em sẽ không được cộng điểm rèn luyện cho mục này."
+    },
+    {
+      "input": "Em làm Trưởng phòng Ký túc xá thì có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em, tương tự như lớp trưởng, Trưởng phòng Ký túc xá cũng sẽ được cộng từ 0 đến 10 điểm tùy theo mức độ hoàn thành nhiệm vụ."
+    },
+    {
+      "input": "Vậy làm sao để Trưởng phòng Ký túc xá được cộng 10 điểm rèn luyện ạ?",
+      "output": "Em cần hoàn thành xuất sắc các nhiệm vụ được giao trong vai trò Trưởng phòng Ký túc xá."
+    },
+    {
+      "input": "Nếu em hoàn thành tốt nhiệm vụ Trưởng phòng Ký túc xá thì được cộng bao nhiêu điểm ạ?",
+      "output": "Nếu hoàn thành tốt nhiệm vụ, em sẽ được cộng 8 điểm rèn luyện."
+    },
+    {
+      "input": "Trường hợp Trưởng phòng Ký túc xá không hoàn thành nhiệm vụ thì có bị trừ điểm rèn luyện không ạ?",
+      "output": "Tương tự như lớp trưởng, nếu không hoàn thành nhiệm vụ, em sẽ không được cộng điểm rèn luyện cho mục này."
+    },
+    {
+      "input": "Anh/chị ơi, nếu em tham gia tổ chức các chương trình, hoạt động cho trường thì có được cộng điểm rèn luyện không ạ?",
+      "output": "Có em, em sẽ được cộng 10 điểm rèn luyện cho hạng mục này."
+    },
+    {
+      "input": "Tham gia các hoạt động chung của lớp thì có được tính điểm rèn luyện không anh/chị?",
+      "output": "Có em, em cũng sẽ được cộng 10 điểm rèn luyện khi tham gia các hoạt động chung của lớp."
+    },
+    {
+      "input": "Hoạt động của khoa thì sao ạ? Em tham gia có được cộng điểm không?",
+      "output": "Tương tự, em tham gia hoạt động của khoa cũng sẽ được cộng 10 điểm rèn luyện."
+    },
+    {
+      "input": "Nếu em được kết nạp vào Đảng thì có được cộng điểm rèn luyện không anh/chị?",
+      "output": "Chúc mừng em! Em sẽ được cộng 10 điểm rèn luyện khi được kết nạp vào Đảng."
+    },
+    {
+      "input": "Em có tham gia lớp bồi dưỡng nâng cao nhận thức về Đảng và đạt yêu cầu, vậy có được cộng điểm không ạ?",
+      "output": "Có em, em sẽ được cộng 5 điểm rèn luyện cho hoạt động này."
+    },
+    {
+      "input": "Anh/chị cho em hỏi, nếu đạt thành tích cao trong kỳ thi Olympic thì được cộng bao nhiêu điểm rèn luyện ạ?",
+      "output": "Chúc mừng em, em sẽ được cộng 10 điểm rèn luyện cho thành tích đáng tự hào này."
+    },
+      {
+        "input": "Anh/chị ơi, việc đánh giá ý thức và kết quả tham gia công tác của sinh viên dựa trên những tiêu chí nào vậy ạ?",
+        "output": "Có 4 tiêu chí chính em nhé: Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc; Kỹ năng tổ chức, quản lý; Mức độ hỗ trợ và tham gia hoạt động chung; Thành tích đặc biệt trong học tập và rèn luyện."
+      },
+      {
+        "input": "Vậy tiêu chí nào dùng để đánh giá phẩm chất, năng lực của sinh viên khi được giao nhiệm vụ vậy ạ?",
+        "output": "Tiêu chí đầu tiên em nhé, tức là sẽ đánh giá dựa trên ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của em khi được phân công nhiệm vụ trong lớp, các tổ chức Đảng, Đoàn, Hội,... trong trường."
+      },
+      {
+        "input": "Để được đánh giá cao ở tiêu chí kỹ năng tổ chức, quản lý thì em cần thể hiện như thế nào ạ?",
+        "output": "Em cần thể hiện tốt khả năng tổ chức, quản lý lớp học hoặc trong các tổ chức Đảng, Đoàn, Hội,... mà em tham gia."
+      },
+      {
+        "input": "Có tiêu chí nào khuyến khích sinh viên tham gia hoạt động tập thể không anh/chị?",
+        "output": "Có em nhé, đó là tiêu chí \"Hỗ trợ và tham gia tích cực vào các hoạt động chung của lớp, tập thể, khoa và Trường\"."
+      },
+      {
+        "input": "Ngoài thành tích học tập, sinh viên còn có thể được đánh giá cao dựa vào thành tích nào khác không ạ?",
+        "output": "Ngoài ra, em còn có thể được đánh giá cao dựa vào thành tích đặc biệt đạt được trong quá trình rèn luyện."
+      },
+      {
+        "input": "Anh/chị cho em hỏi, mục đánh giá ý thức và kết quả tham gia công tác của sinh viên có khung điểm tối đa là bao nhiêu ạ?",
+        "output": "Khung điểm tối đa cho mục này là 10 điểm em nhé."
+      },
+      {
+        "input": "Nếu em đạt được nhiều tiêu chí tốt trong mục đánh giá ý thức tham gia công tác thì có được cộng thêm điểm không ạ?",
+        "output": "Mặc dù em đạt nhiều tiêu chí tốt, nhưng tổng điểm cho mục này tối đa vẫn là 10 điểm em nhé."
+      },
+      {
+        "input": "Em là lớp trưởng, vậy em có được cộng điểm rèn luyện không ạ?",
+        "output": "Có em nhé, nếu em là lớp trưởng, em sẽ được cộng từ 0 đến 10 điểm rèn luyện tùy vào mức độ hoàn thành nhiệm vụ."
+      },
+      {
+        "input": "Vậy làm thế nào để lớp trưởng được cộng 10 điểm rèn luyện ạ?",
+        "output": "Để được cộng 10 điểm, em cần hoàn thành xuất sắc nhiệm vụ của lớp trưởng được giao."
+      },
+      {
+        "input": "Nếu em đã hoàn thành tốt nhiệm vụ lớp trưởng thì được cộng bao nhiêu điểm ạ?",
+        "output": "Nếu đã hoàn thành tốt nhiệm vụ lớp trưởng, em sẽ được cộng 8 điểm rèn luyện."
+      },
+      {
+        "input": "Nếu lớp trưởng không hoàn thành nhiệm vụ thì có bị trừ điểm rèn luyện không ạ?",
+        "output": "Nếu lớp trưởng không hoàn thành nhiệm vụ, em sẽ không được cộng điểm rèn luyện cho mục này."
+      },
+      {
+        "input": "Em làm Trưởng phòng Ký túc xá thì có được cộng điểm rèn luyện không ạ?",
+        "output": "Có em, tương tự như lớp trưởng, Trưởng phòng Ký túc xá cũng sẽ được cộng từ 0 đến 10 điểm tùy theo mức độ hoàn thành nhiệm vụ."
+      },
+      {
+        "input": "Vậy làm sao để Trưởng phòng Ký túc xá được cộng 10 điểm rèn luyện ạ?",
+        "output": "Em cần hoàn thành xuất sắc các nhiệm vụ được giao trong vai trò Trưởng phòng Ký túc xá."
+      },
+      {
+        "input": "Nếu em hoàn thành tốt nhiệm vụ Trưởng phòng Ký túc xá thì được cộng bao nhiêu điểm ạ?",
+        "output": "Nếu hoàn thành tốt nhiệm vụ, em sẽ được cộng 8 điểm rèn luyện."
+      },
+      {
+        "input": "Trường hợp Trưởng phòng Ký túc xá không hoàn thành nhiệm vụ thì có bị trừ điểm rèn luyện không ạ?",
+        "output": "Tương tự như lớp trưởng, nếu không hoàn thành nhiệm vụ, em sẽ không được cộng điểm rèn luyện cho mục này."
+      },
+      {
+        "input": "Anh/chị ơi, nếu em tham gia tổ chức các chương trình, hoạt động cho trường thì có được cộng điểm rèn luyện không ạ?",
+        "output": "Có em, em sẽ được cộng 10 điểm rèn luyện cho hạng mục này."
+      },
+      {
+        "input": "Tham gia các hoạt động chung của lớp thì có được tính điểm rèn luyện không anh/chị?",
+        "output": "Có em, em cũng sẽ được cộng 10 điểm rèn luyện khi tham gia các hoạt động chung của lớp."
+      },
+      {
+        "input": "Hoạt động của khoa thì sao ạ? Em tham gia có được cộng điểm không?",
+        "output": "Tương tự, em tham gia hoạt động của khoa cũng sẽ được cộng 10 điểm rèn luyện."
+      },
+      {
+        "input": "Nếu em được kết nạp vào Đảng thì có được cộng điểm rèn luyện không anh/chị?",
+        "output": "Chúc mừng em! Em sẽ được cộng 10 điểm rèn luyện khi được kết nạp vào Đảng."
+      },
+      {
+        "input": "Em có tham gia lớp bồi dưỡng nâng cao nhận thức về Đảng và đạt yêu cầu, vậy có được cộng điểm không ạ?",
+        "output": "Có em, em sẽ được cộng 5 điểm rèn luyện cho hoạt động này."
+      },
+      {
+        "input": "Anh/chị cho em hỏi, nếu đạt thành tích cao trong kỳ thi Olympic thì được cộng bao nhiêu điểm rèn luyện ạ?",
+        "output": "Chúc mừng em, em sẽ được cộng 10 điểm rèn luyện cho thành tích đáng tự hào này."
+      },
+      {
+        "input": "Kết quả rèn luyện nào được xếp vào loại xuất sắc?",
+        "output": "Kết quả rèn luyện từ 90 đến 100 điểm được xếp vào loại xuất sắc."
+      },
+      {
+        "input": "Điểm số nào thuộc loại tốt?",
+        "output": "Điểm số từ 80 đến dưới 90 điểm thuộc loại tốt."
+      },
+      {
+        "input": "Học sinh đạt 75 điểm sẽ được xếp vào loại nào?",
+        "output": "Học sinh đạt 75 điểm sẽ được xếp vào loại khá."
+      },
+      {
+        "input": "Kết quả rèn luyện nào được xếp vào loại trung bình?",
+        "output": "Kết quả rèn luyện từ 50 đến dưới 65 điểm được xếp vào loại trung bình."
+      },
+      {
+        "input": "Học sinh đạt 45 điểm sẽ được xếp vào loại nào?",
+        "output": "Học sinh đạt 45 điểm sẽ được xếp vào loại yếu."
+      },
+      {
+        "input": "Kết quả rèn luyện nào được xếp vào loại kém?",
+        "output": "Kết quả rèn luyện dưới 35 điểm được xếp vào loại kém."
+      },
+      {
+        "input": "Em có tổng điểm rèn luyện là 85 thì được xếp loại gì ạ?",
+        "output": "Kết quả rèn luyện 85 điểm em sẽ được xếp loại tốt nhé."
+      },
+      {
+        "input": "Em chấm điểm rèn luyện được 90 điểm thì sẽ được xếp loại gì ạ?",
+        "output": "Em sẽ được xếp loại xuất sắc nếu như được 90 điểm rèn luyện nhé."
+      },
+      {
+        "input": "Em chỉ được 40 điểm rèn luyện thì sẽ xếp loại gì ạ?",
+        "output": "Với 40 điểm rèn luyện em sẽ chỉ được xếp loại yếu thôi nhé."
+      },
+      {
+        "input": "Cho em hỏi điểm rèn luyện bao nhiêu thì sẽ bị xếp loại kém ạ?",
+        "output": "Kết quả rèn luyện dưới 35 điểm được xếp vào loại kém em nhé."
+      },
+      {
+        "input": "Nếu em được 80 điểm rèn luyện thì có được xếp loại tốt không ạ?",
+        "output": "Có nhé! Điểm rèn luyện từ 80 đến dưới 90 em sẽ được xếp hạng tốt."
+      },
+      {
+        "input": "Nếu em được 75 điểm rèn luyện thì có được xếp loại tốt không nhé?",
+        "output": "Không nha. Em cần ít nhất 80 điểm rèn luyện để có thể được xếp loại tốt nhé."
+      },
+      {
+        "input": "Em có điểm rèn luyện là 60 thì được xếp loại gì ạ?",
+        "output": "Với 60 điểm rèn luyện thì em sẽ được xếp loại trung bình nhé!"
+      },
+      {
+        "input": "Việc đánh giá kết quả rèn luyện của sinh viên diễn ra như thế nào?",
+        "output": "Việc đánh giá kết quả rèn luyện của sinh viên được tiến hành định kỳ theo từng học kỳ, năm học và toàn khóa học."
+      },
+      {
+        "input": "Ai phụ trách đánh giá kết quả rèn luyện của sinh viên học đồng thời hai chương trình đào tạo trong các kỳ chỉ học chương trình thứ hai?",
+        "output": "Lớp sinh viên và khoa phụ trách chương trình thứ hai sẽ phụ trách đánh giá kết quả rèn luyện trong các kỳ sinh viên chỉ học các môn học chương trình thứ hai."
+      },
+      {
+        "input": "Điểm rèn luyện toàn khóa học chương trình thứ hai được tính như thế nào?",
+        "output": "Điểm rèn luyện toàn khóa học chương trình thứ hai được tính bằng trung bình chung của điểm rèn luyện các học kỳ trong toàn khoá học, bao gồm cả thời gian học chương trình thứ nhất và thời gian học chương trình thứ hai."
+      },
+      {
+        "input": "Sinh viên tốt nghiệp chậm so với quy định của khoá học có được tiếp tục đánh giá kết quả rèn luyện không?",
+        "output": "Có, sinh viên tốt nghiệp chậm so với quy định của khoá học sẽ tiếp tục được đánh giá kết quả rèn luyện trong thời gian đang hoàn thành bổ sung chương trình học và tốt nghiệp."
+      },
+      {
+        "input": "Kết quả rèn luyện của sinh viên nghỉ học tạm thời được xử lý như thế nào?",
+        "output": "Sinh viên nghỉ học tạm thời được bảo lưu kết quả rèn luyện và sẽ được đánh giá kết quả rèn luyện khi tiếp tục trở lại học tập theo quy định."
+      },
+      {
+        "input": "Sinh viên khuyết tật, tàn tật, mồ côi hoặc có hoàn cảnh gia đình khó khăn có được ưu tiên trong đánh giá kết quả rèn luyện không?",
+        "output": "Có, đối với những hoạt động rèn luyện không có khả năng tham gia hoặc đáp ứng yêu cầu chung, sinh viên khuyết tật, tàn tật, mồ côi hoặc có hoàn cảnh gia đình khó khăn được ưu tiên, động viên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện qua sự nỗ lực và tiến bộ của sinh viên tuỳ thuộc vào đối tượng và hoàn cảnh cụ thể."
+      },
+      {
+        "input": "Kết quả rèn luyện của sinh viên chuyển trường được xử lý như thế nào?",
+        "output": "Sinh viên chuyển trường được bảo lưu kết quả rèn luyện của trường cũ khi học tại trường mới và tiếp tục được đánh giá kết quả rèn luyện ở các học kỳ tiếp theo."
+      },
+      {
+        "input": "Nếu sinh viên không nộp bản tự đánh giá kết quả rèn luyện trong học kỳ thì sẽ bị xử lý như thế nào?",
+        "output": "Học kỳ đó sinh viên sẽ nhận điểm rèn luyện là 0 điểm (Không điểm) và xếp loại rèn luyện Kém."
+      },
+      {
+        "input": "Sinh viên có nộp bản tự đánh giá nhưng không tham dự buổi họp đánh giá rèn luyện của lớp sẽ bị xử lý như thế nào?",
+        "output": "Kết quả đánh giá của sinh viên sẽ bị hạ một bậc so với kết quả đánh giá ban đầu."
+      },
+      {
+        "input": "Sinh viên bị kỷ luật mức khiển trách thì kết quả rèn luyện cao nhất có thể đạt được là gì?",
+        "output": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá."
+      },
+      {
+        "input": "Sinh viên bị kỷ luật mức cảnh cáo thì kết quả rèn luyện cao nhất có thể đạt được là gì?",
+        "output": "Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình."
+      },
+      {
+        "input": "Sinh viên bị đình chỉ học tập thì việc đánh giá kết quả rèn luyện sẽ như thế nào?",
+        "output": "Sinh viên bị đình chỉ học tập không được đánh giá rèn luyện trong thời gian bị đình chỉ."
+      },
+      {
+        "input": "Sinh viên bị buộc thôi học thì việc đánh giá kết quả rèn luyện sẽ như thế nào?",
+        "output": "Sinh viên bị buộc thôi học không được đánh giá kết quả rèn luyện."
+      },
+      {
+        "input": "Quy trình đánh giá kết quả rèn luyện của sinh viên gồm những bước nào?",
+        "output": "Quy trình đánh giá kết quả rèn luyện của sinh viên gồm 5 bước: tự đánh giá, họp lớp, đánh giá cấp khoa, đánh giá cấp trường và công bố kết quả."
+      },
+      {
+        "input": "Sinh viên tự đánh giá kết quả rèn luyện như thế nào?",
+        "output": "Cuối mỗi học kỳ, sinh viên tự đánh giá kết quả rèn luyện theo mức điểm chi tiết do trường quy định và nộp cho Ban cán sự lớp."
+      },
+      {
+        "input": "Sinh viên chưa được tốt nghiệp theo đúng khóa học, đang học trả nợ các môn học thì nộp bản tự đánh giá kết quả rèn luyện cho ai?",
+        "output": "Sinh viên chưa được tốt nghiệp theo đúng khóa học, đang học trả nợ các môn học thì nộp bản tự đánh giá kết quả rèn luyện cho Trợ lý khoa."
+      },
+      {
+        "input": "Sinh viên đã tốt nghiệp chương trình đào tạo thứ nhất, đang tiếp tục theo học chương trình đào tạo thứ hai thì nộp bản tự đánh giá kết quả rèn luyện cho ai?",
+        "output": "Sinh viên đã tốt nghiệp chương trình đào tạo thứ nhất, đang tiếp tục theo học chương trình đào tạo thứ hai thì nộp bản tự đánh giá kết quả rèn luyện cho Ban cán sự lớp mà mình đang theo học chương trình thứ hai."
+      },
+      {
+        "input": "Giáo viên chủ nhiệm có vai trò gì trong quy trình đánh giá kết quả rèn luyện?",
+        "output": "Giáo viên chủ nhiệm tổ chức họp lớp để xem xét và thông qua mức điểm rèn luyện của từng sinh viên trong lớp, phải được quá nửa ý kiến đồng ý của tập thể đơn vị lớp và phải có biên bản kèm theo."
+      },
+      {
+        "input": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp khoa có vai trò gì?",
+        "output": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp khoa tổ chức họp xét, đánh giá kết quả rèn luyện của từng sinh viên và trình Hội đồng đánh giá kết quả rèn luyện cấp trường xem xét."
+      },
+      {
+        "input": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp trường có vai trò gì?",
+        "output": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp trường họp xét, đánh giá kết quả rèn luyện của sinh viên trong toàn trường, trình Hiệu trưởng xem xét và công nhận kết quả rèn luyện của sinh viên."
+      },
+      {
+        "input": "Kết quả đánh giá, phân loại rèn luyện của sinh viên được công bố như thế nào?",
+        "output": "Kết quả đánh giá, phân loại rèn luyện của sinh viên được công bố công khai và thông báo cho sinh viên biết sau khi Hiệu trưởng ký Quyết định công nhận kết quả rèn luyện của sinh viên."
+      },
+      {
+        "input": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Trường có vai trò gì?",
+        "output": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Trường là cơ quan tư vấn giúp Hiệu trưởng xem xét, công nhận kết quả rèn luyện của từng sinh viên và chịu sự chỉ đạo trực tiếp của Hiệu trưởng."
+      },
+      {
+        "input": "Thành phần của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Trường gồm những ai?",
+        "output": "Thành phần Hội đồng cấp trường gồm: Chủ tịch Hội đồng (Phó Hiệu trưởng phụ trách công tác sinh viên), Thường trực Hội đồng (Trưởng Phòng Công tác chính trị và Quản lý sinh viên) và các uỷ viên (Đại diện Lãnh đạo các khoa, phòng có liên quan, Đoàn Thanh niên và Hội Sinh viên cấp trường)."
+      },
+      {
+        "input": "Nhiệm vụ của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Trường là gì?",
+        "output": "Nhiệm vụ của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp trường là: căn cứ vào các quy định hiện hành, trên cơ sở đề nghị của các Hội đồng đánh giá kết quả rèn luyện cấp khoa, tiến hành xem xét, đánh giá kết quả rèn luyện của từng sinh viên, đề nghị Hiệu trưởng công nhận."
+      },
+      {
+        "input": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Khoa có vai trò gì?",
+        "output": "Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Khoa có nhiệm vụ giúp Trưởng khoa xem xét, đánh giá kết quả rèn luyện của từng sinh viên."
+      },
+      {
+        "input": "Thành phần của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Khoa gồm những ai?",
+        "output": "Thành phần Hội đồng cấp Khoa gồm: Chủ tịch Hội đồng (Trưởng khoa hoặc Phó Trưởng khoa được Trưởng khoa uỷ quyền), Thường trực Hội đồng (Trợ lý Trưởng khoa theo dõi công tác sinh viên) và các uỷ viên (Giáo viên chủ nhiệm kiêm cố vấn học tập các lớp, đại diện Liên chi Đoàn Thanh niên cấp khoa)."
+      },
+      {
+        "input": "Nhiệm vụ của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Khoa là gì?",
+        "output": "Nhiệm vụ của Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp Khoa là: căn cứ đề nghị của tập thể lớp sinh viên, giúp Trưởng khoa đánh giá chính xác, công bằng, công khai và dân chủ kết quả rèn luyện của từng sinh viên trong khoa."
+      },
+      {
+        "input": "Điểm rèn luyện của học kỳ được tính như thế nào?",
+        "output": "Điểm rèn luyện của học kỳ là tổng điểm đạt được của 5 nội dung đánh giá quy định tại điều 4, điều 5, điều 6, điều 7 và điều 8; trong đó điểm thành phần và điểm tổng của các nội dung đánh giá được làm tròn đến 0,5 và không vượt quá điểm quy định."
+      },
+      {
+        "input": "Điểm rèn luyện của năm học được tính như thế nào?",
+        "output": "Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học kỳ của năm học đó. Nếu năm học sinh viên học chưa đủ một năm học (như sinh viên ngừng học, sinh viên năm cuối) thì kỳ sinh viên theo học được tính tròn thành 1 năm học."
+      },
+      {
+        "input": "Điểm rèn luyện toàn khoá được tính như thế nào?",
+        "output": "Điểm rèn luyện toàn khoá là trung bình cộng của điểm rèn luyện các học kỳ sinh viên theo học trong toàn khoá học."
+      },
+      {
+        "input": "Điểm rèn luyện quy đổi được tính như thế nào?",
+        "output": "Điểm rèn luyện quy đổi được tính từng học kỳ theo công thức: ĐRL(qđi) = r(i)/100 và làm tròn đến 2 chữ số thập phân."
+      },
+      {
+        "input": "Trong công thức tính điểm rèn luyện quy đổi, r(i) là gì?",
+        "output": "r(i) là điểm rèn luyện của học kì thứ i."
+      },
+      {
+        "input": "Trong công thức tính điểm rèn luyện quy đổi, ĐRL(qđi) là gì?",
+        "output": "ĐRL(qđi) là điểm rèn luyện quy đổi của học kì thứ i."
+      },
+      {
+        "input": "Kết quả đánh giá rèn luyện của sinh viên được lưu trữ ở đâu?",
+        "output": "Kết quả đánh giá rèn luyện từng học kỳ, năm học của từng sinh viên được lưu trong hồ sơ quản lý sinh viên của Trường."
+      },
+      {
+        "input": "Kết quả đánh giá rèn luyện được sử dụng trong những trường hợp nào?",
+        "output": "Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng - kỷ luật, xét thôi học, ngừng học."
+      },
+      {
+        "input": "Kết quả đánh giá rèn luyện toàn khoá học được ghi ở đâu?",
+        "output": "Kết quả đánh giá rèn luyện toàn khoá học được ghi chung vào bảng điểm kết quả học tập và lưu trong hồ sơ từng học kỳ và toàn khóa của từng sinh viên khi tốt nghiệp ra trường."
+      },
+      {
+        "input": "Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì sẽ bị xử lý như thế nào?",
+        "output": "Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo."
+      },
+      {
+        "input": "Sinh viên bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị xử lý như thế nào?",
+        "output": "Sinh viên bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học."
+      },
+      {
+        "input": "Sinh viên có quyền gì khi không đồng ý với kết quả đánh giá rèn luyện?",
+        "output": "Sinh viên có quyền khiếu nại về việc đánh giá kết quả rèn luyện."
+      },
+      {
+        "input": "Sinh viên gửi đơn khiếu nại về việc đánh giá kết quả rèn luyện đến đâu?",
+        "output": "Sinh viên gửi đơn khiếu nại đến Nhà trường (qua Phòng Công tác chính trị và Quản lý sinh viên)."
+      },
+      {
+        "input": "Nhà trường có trách nhiệm gì khi nhận được đơn khiếu nại của sinh viên?",
+        "output": "Nhà trường có trách nhiệm giải quyết, trả lời cho sinh viên."
+      },
+      {
+        "input": "Cho em hỏi học bổng trường mình có mấy mức ạ?",
+        "output": "Nhà trường có 3 mức học bổng là Khá, Giỏi và Xuất sắc nhé!"
+      },
+      {
+        "input": "Giá trị của học bổng khá là bao nhiêu ạ?",
+        "output": "Học bổng loại Khá có giá trị bằng 100% mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+      },
+      {
+        "input": "Học bổng mức giỏi có giá trị thế nào ạ?",
+        "output": "Học bổng mức Giỏi có giá trị bằng 110% (một trăm mười phần trăm) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ." 
+      },
+      {
+        "input": "Học bổng loại Xuất sắc có giá trị như thế nào ạ?",
+        "output": "Học bổng loại Xuất sắc có giá trị bằng 120% (một trăm hai mươi phần tram) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+      },
+      {
+        "input": "Cho em hỏi ai sẽ được xét cấp học bổng ạ?",
+        "output": " Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học, liên thông cao đẳng lên đại học hình thức chính quy tại trường Đại học Thủy lợi sẽ được xét cấp học bổng em nhé!"
+      },
+      {
+        "input": "Cho em hỏi làm thế nào để được học bổng mức Khá ạ?",
+        "output": "Học bổng mức Khá sẽ dành cho sinh viên có điểm trung bình học tập và điểm rèn luyện đều đạt loại khá trở lên trong kỳ xét học bổng KKHT nhé!"
+      },
+      {
+        "input": "Nếu em có điểm trung bình học tập đạt loại Khá thì có được học bổng không ạ?",
+        "output": "Ngoài điểm trung bình học tập đạt loại Khá thì em sẽ cần điểm rèn luyện cũng đạt loại Khá trở lên để có thể đủ điều kiện xét học bổng mức Khá nha!"
+      },
+      {
+        "input": "Cho em hỏi làm thế nào để đạt được học bổng mức Giỏi thế ạ?",
+        "output": "Nếu muốn đạt học bổng mức Giỏi, em sẽ cần điểm trung bình học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại Tốt trở lên trong kì xét học bổng nhé!"
+      },
+      {
+        "input": "Kì này em có điểm trung bình học tập loại giỏi thì có được học bổng loại Giỏi không ạ?",
+        "output": "Ngoài điểm trung bình học tập loại Giỏi thì em sẽ cần cả điểm rèn luyện đạt mức Tốt trở lên để có thể đủ điều kiện xét học bổng loại Giỏi nhé"
+      },
+      {
+        "input": "Kì này em có điểm rèn luyện đạt loại yếu thì có còn được xét học bổng không ạ?",
+        "output": "Em cần ít nhất điểm rèn luyện đạt mức Khá trở lên để có thể được xét học bổng mức Khá nha!"
+      },
+      {
+        "input": "Cho em hỏi kì này em đạt 40 điểm rèn luyện thì có được xét học bổng không ạ?",
+        "output": "40 điểm rèn luyện tương đương với loại Yếu, em cần điểm rèn luyện ít nhất đạt mức Khá mới được xét học bổng nhé!"
+      },
+      {
+        "input": "Cho em hỏi điều kiện để được xét học bổng mức Xuất sắc là gì thế ạ?",
+        "output": "Để được xét học bổng mức Xuất sắc, em cần điểm rèn luyện và điểm trung bình học tập đều đạt loại Xuất sắc trong kì xét học bổng nha!"
+      },
+      {
+        "input": "Kết quả học tập và rèn luyện của kỳ nào được sử dụng để xét, cấp học bổng KKHT?",
+        "output": "Kết quả học tập và rèn luyện của học kỳ liền trước được sử dụng để xét, cấp học bổng KKHT."
+      },
+      {
+        "input": "Điểm xét học bổng KKHT được tính như thế nào?",
+        "output": "Điểm xét học bổng KKHT được tính theo thang điểm 4 và làm tròn đến 2 chữ số sau dấu phẩy theo công thức: Điểm xét học bổng KKHT = Điểm trung bình học tập + (Điểm rèn luyện: 100)."
+      },
+      {
+        "input": "Điểm trung bình học tập để xét học bổng KKHT được tính như thế nào?",
+        "output": "Điểm trung bình học tập để xét học bổng KKHT tính theo kết quả tổng kết học phần các môn học lần đầu sinh viên đăng ký học trong học kỳ (gồm kỳ chính, kỳ hè và kỳ song song tổ chức trong kỳ chính đó; không bao gồm các môn học: Giáo dục thể chất, Giáo dục quốc phòng, chương trình đào tạo thứ 2 và các môn học được bảo lưu)."
+      },
+      {
+        "input": "Điều kiện về số tín chỉ để được xét học bổng KKHT là gì?",
+        "output": "Kết quả tổng kết học phần các môn học lần đầu không có điểm F; số tín chỉ môn học lần đầu đăng ký học & thi trong kỳ phải tối thiểu 15 tín chỉ; hoặc bằng số tín chỉ tối đa mở cho ngành đó ở mỗi học kỳ (gồm kỳ chính, kỳ hè và kỳ song song mở trong kỳ chính đó) nếu số tín chỉ tối đa mở cho ngành học đó trong học kỳ nhỏ hơn 15 tín chỉ (riêng học kỳ cuối sẽ tính với số tín chỉ của Học phần tốt nghiệp)." 
+      },
+      {
+        "input": "Những sinh viên có số tín chỉ môn học lần đầu học và thi ít hơn số tín chỉ quy định ở kỳ xét học bổng KKHT thì sao?",
+        "output": "Với những sinh viên có số tín chỉ môn học lần đầu học và thi ít hơn số tín chỉ quy định ở kỳ xét học bổng KKHT (do đã học vượt một số môn ở kỳ trước) nếu có số tín chỉ tích lũy đến thời điểm xét ít nhất bằng số tín chỉ quy định theo chương trình đào tạo chuẩn cũng sẽ được xét học bổng KKHT."
+      },
+      {
+        "input": "Điểm rèn luyện trong kỳ tính học bổng KKHT được xác định như thế nào?",
+        "output": "Điểm rèn luyện trong kỳ tính học bổng KKHT xác định theo quy định hiện hành của Bộ Giáo dục và Đào tạo về đánh giá kết quả rèn luyện."
+      },
+      {
+        "input": "Học bổng KKHT được sắp xếp như thế nào?",
+        "output": "Học bổng KKHT được sắp xếp theo ba danh sách với ba mức thứ tự (Xuất sắc, Giỏi, Khá) được quy định tại Điều 3 của Quy định này. Trong mỗi mức, danh sách sinh viên được sắp xếp thứ tự từ cao xuống thấp (theo điểm xét học bổng KKHT và số tín chỉ tính học bổng KKHT)." 
+      },
+      {
+        "input": "Học bổng KKHT được cấp cho sinh viên như thế nào?",
+        "output": "Học bổng KKHT sẽ được cấp cho sinh viên theo thứ tự danh sách Xuất sắc, Giỏi, Khá cho đến khi hết quỹ học bổng được phân bổ."
+      },
+      {
+        "input": "Sinh viên nào không được xét cấp học bổng KKHT?",
+        "output": "Không xét cấp học bổng đối với sinh viên thuộc một trong các trường hợp sau: a) Chịu hình thức kỷ luật từ mức khiển trách trở lên trong kỳ xét cấp học bổng; b) Học quá thời gian thiết kế của chương trình đào tạo chuẩn."
+      },
+      {
+        "input": "Nếu em không hoàn thành chương trình học đúng hạn thì có còn được xét học bổnh không ạ?",
+        "output": "Nếu em học quá thời gian thiết kế của chương trình đào tạo chuẩn thì em sẽ không đủ điều kiện để xét học bổng nữa nhé!"
+      },
+      {
+        "input": "Nếu em đang bị Khiển trách kì này thì em có được xét học bổng không ạ?",
+        "output": "Nếu em đang bị Khiển trách thì kì này em sẽ không đủ điều kiện để xét học bổng nữa nhé!"
+      },
+      {
+        "input": "Hội đồng xét cấp học bổng KKHT được thành lập như thế nào?",
+        "output": "Hội đồng xét cấp học bổng KKHT được thành lập theo quyết định của Hiệu trưởng."
+      },
+      {
+        "input": "Hội đồng xét cấp học bổng KKHT có nhiệm vụ gì?",
+        "output": "Hội đồng xét cấp học bổng KKHT có nhiệm vụ giúp Hiệu trưởng thực hiện xét, cấp học bổng căn cứ quy định tại các điều, khoản của Quy định nhà trường."
+      },
+      {
+        "input": "Chủ tịch Hội đồng xét cấp học bổng KKHT là ai?",
+        "output": "Chủ tịch Hội đồng là một thành viên của Ban Giám hiệu."
+      },
+      {
+        "input": "Ủy viên thường trực của Hội đồng xét cấp học bổng KKHT là ai?",
+        "output": "Ủy viên thường trực là Trưởng phòng Công tác Sinh viên."
+      },
+      {
+        "input": "Các ủy viên của Hội đồng xét cấp học bổng KKHT gồm những ai?",
+        "output": "Các ủy viên của Hội đồng gồm đại diện các đơn vị: Phòng Đào tạo, Phòng Tài chính - Kế toán và một số ủy viên khác từ các đơn vị thuộc Trường có liên quan."
+      },
+      {
+        "input": "Ai có trách nhiệm tổng hợp kết quả học tập, rèn luyện của sinh viên để xét cấp học bổng KKHT?",
+        "output": "Cuối mỗi học kỳ, phòng Chính trị và Công tác sinh viên tổng hợp kết quả học tập, rèn luyện của sinh viên."
+      },
+      {
+        "input": "Phòng Chính trị và Công tác sinh viên công bố danh sách sinh viên đủ điều kiện xét cấp học bổng KKHT như thế nào?",
+        "output": "Phòng Chính trị và Công tác sinh viên công bố danh sách sinh viên đủ điều kiện xét cấp học bổng KKHT sau khi có kết quả thi học kỳ và kết quả rèn luyện."
+      },
+      {
+        "input": "Các Khoa, Trung tâm có vai trò gì trong quy trình xét cấp học bổng KKHT?",
+        "output": "Các Khoa, Trung tâm họp, đề xuất danh sách sinh viên đủ điều kiện cấp học bổng KKHT (trên cơ sở danh sách sinh viên đủ điều kiện xét cấp học bổng KKHT và quỹ học bổng được phân bổ) và gửi về Hội đồng xét, cấp học bổng KKHT."
+      },
+      {
+        "input": "Hội đồng xét, cấp học bổng KKHT có vai trò gì trong quy trình xét cấp học bổng KKHT?",
+        "output": "Hội đồng xét, cấp học bổng KKHT họp và quyết định danh sách sinh viên được cấp học bổng KKHT trong kỳ." 
+      },
+      {
+        "input": "Nhà trường công bố danh sách sinh viên được cấp học bổng KKHT như thế nào?",
+        "output": "Nhà trường công bố tới toàn thể sinh viên trong trường danh sách sinh viên được cấp học bổng KKHT trong kỳ."
+      },
+      {
+        "input": "Học bổng KKHT được chuyển cho sinh viên như thế nào?",
+        "output": "Học bổng KKHT sẽ được chuyển vào tài khoản của sinh viên."
+      },
+      {
+        "input": "Phân hiệu Miền Nam triển khai xét, cấp học bổng KKHT như thế nào?",
+        "output": "Phân hiệu Miền Nam chủ động triển khai xét, cấp học bổng KKHT trên cơ sở tuân thủ theo đúng Quy định của nhà trường."
+      },
+      {
+        "input": "Mức học bổng chính sách là bao nhiêu?",
+        "output": "Mức học bổng chính sách 01 tháng (một tháng) bằng 80% (tám mươi phần trăm) mức lương cơ sở."
+      },
+      {
+        "input": "Sinh viên được hưởng học bổng chính sách bao nhiêu lần trong cả quá trình học?",
+        "output": "Đối tượng quy định tại Điều 5 chỉ được hưởng chế độ học bổng chính sách một lần trong cả quá trình học."
+      },
+      {
+        "input": "Nếu sinh viên thuộc đối tượng được hưởng nhiều chính sách cùng lúc thì như thế nào?",
+        "output": "Trường hợp sinh viên thuộc đối tượng được hưởng nhiều chính sách cùng lúc thì chỉ được hưởng một chính sách cao nhất hoặc học đồng thời nhiều ngành, nhiều cơ sở giáo dục thì chỉ được hưởng chính sách ở một ngành tại một cơ sở giáo dục."
+      },
+      {
+        "input": "Nếu sinh viên là đối tượng được hưởng chính sách theo quy định nhưng thuộc đối tượng được hưởng chính sách trợ cấp ưu đãi, trợ cấp xã hội, học bổng KKHT thì sao?",
+        "output": "Sinh viên là đối tượng được hưởng chính sách theo quy định nhưng thuộc đối tượng được hưởng chính sách trợ cấp ưu đãi, trợ cấp xã hội, học bổng KKHT thì vẫn được hưởng các chính sách này theo quy định."
+      },
+      {
+        "input": "Sinh viên bị kỷ luật buộc thôi học hoặc bị đình chỉ học tập thì sao?",
+        "output": "Sinh viên bị kỷ luật buộc thôi học hoặc bị đình chỉ học tập thì không được hưởng các chính sách quy định kể từ thời điểm quyết định kỷ luật có hiệu lực hoặc trong thời gian bị đình chỉ."
+      },
+      {
+        "input": "Học bổng chính sách được cấp trong bao lâu?",
+        "output": "Học bổng chính sách được cấp đủ 12 tháng/năm, số năm học được hưởng chính sách không được vượt quá số năm hoặc số học kỳ tối đa để hoàn thành chương trình đào tạo tương ứng với các ngành học theo quy định. Riêng đối với năm học cuối được hưởng theo số tháng thực học."
+      },
+      {
+        "input": "Học bổng chính sách có được áp dụng cho sinh viên học văn bằng hai, đào tạo theo địa chỉ, hình thức đào tạo từ xa, liên kết đào tạo và vừa làm vừa học không?",
+        "output": "Không áp dụng học bổng chính sách đối với sinh viên học văn bằng hai, đào tạo theo địa chỉ, hình thức đào tạo từ xa, liên kết đào tạo và vừa làm vừa học."
+      },
+      {
+        "input": "Học bổng chính sách được chuyển cho sinh viên theo chế độ cử tuyển như thế nào?",
+        "output": "Học bổng chính sách được chuyển vào tài khoản của sinh viên."
+      },
+      {
+        "input": "Sinh viên theo chế độ cử tuyển được cấp học bổng chính sách bao nhiêu lần trong năm?",
+        "output": "Học bổng chính sách được cấp hai lần trong năm, mỗi lần cấp 6 tháng."
+      },
+      {
+        "input": "Thời gian cấp học bổng chính sách cho sinh viên theo chế độ cử tuyển là khi nào?",
+        "output": "Lần thứ nhất cấp vào tháng 10 hàng năm (sau 10 ngày kể từ khi có kết quả xét học vụ của học kỳ 2 liền trước); Lần thứ hai cấp vào tháng 3 hàng năm (sau 10 ngày kể từ khi có kết quả xét học vụ của học kỳ 1 liền trước). Riêng đối với sinh viên mới nhập học, lần cấp thứ nhất của khóa học sẽ cấp vào tháng 3 của năm liền sau."
+      },
+      {
+        "input": "Sinh viên theo chế độ cử tuyển tự thôi học hoặc bị kỷ luật buộc thôi học thì phải làm gì?",
+        "output": "Sinh viên theo chế độ cử tuyển tự thôi học hoặc bị kỷ luật buộc thôi học thì phải bồi hoàn toàn bộ số tiền học bổng đã nhận cho cơ quan cấp học bổng, trừ các trường hợp tự thôi học do bất khả kháng."
+      },
+      {
+        "input": "Nếu em đã nhận học bổng mà muốn thôi học thì có được giữ học bổng không ạ?",
+        "output": "Nếu em đã nhận học bổng mà quyết định thôi học thì em sẽ phải bồi hoàn toàn bộ số tiền học bổng đã nhận cho cơ quan cấp học bổng nhé"
+      },
+      {
+        "input": "Cho em hỏi nếu em thôi học do trường hợp bất khả kháng thì có phải bồi thường tiền học bổng đã nhận không ạ?",
+        "output": "Trong trường hợp phải thôi học do trường hợp bất khả kháng thì em sẽ không phải hoàn số tiền học bổng đã nhận nha "
+      },
+      {
+        "input": "Cho em hỏi em đã nhận học bổng nhưng bị buộc thôi học thì có phải hoàn tiền học bổng không ạ?",
+        "output": "Nếu em bị kỉ luật buộc thôi học khi đã nhận học bổng thì em sẽ phải hoàn lại số tiền học bổng đã nhận nha!"
+      },
+      {
+        "input": "Cho em hỏi điều kiện về số tín chỉ để em được xét học bổng KKHT là gì?",
+        "output": "Kết quả tổng kết học phần các môn học lần đầu không có điểm F; số tín chỉ môn học lần đầu đăng ký học & thi trong kỳ phải tối thiểu 15 tín chỉ; hoặc bằng số tín chỉ tối đa mở cho ngành đó ở mỗi học kỳ (gồm kỳ chính, kỳ hè và kỳ song song mở trong kỳ chính đó) nếu số tín chỉ tối đa mở cho ngành học đó trong học kỳ nhỏ hơn 15 tín chỉ (riêng học kỳ cuối sẽ tính với số tín chỉ của Học phần tốt nghiệp)."
+      },
+      {
+        "input": "Cho em hỏi nếu em thi trực tuyến thì phải chuẩn bị những gì để đủ điều kiện thi ạ?",
+        "output": "Sinh viên phải đảm bảo không gian làm bài yên tĩnh, gọn gàng, không có người xung quanh, và ánh sáng phù hợp để camera ghi hình rõ nét. Họ cũng phải điều chỉnh camera sao cho nó quét được toàn bộ khu vực làm bài."
+      },
+      {
+        "input": "Nếu em có nộp bản tự đánh giá nhưng không tham dự buổi họp đánh giá rèn luyện của lớp thì có làm sao không ạ?",
+        "output": "Kết quả đánh giá của sinh viên sẽ bị hạ một bậc so với kết quả đánh giá ban đầu nhé."
+      },
+      {
+        "input": "Bạn có thể giải thích tại sao sinh viên cần chụp ảnh lại sự cố khi gặp vấn đề trong quá trình thi?",
+        "output": "Chụp ảnh lại sự cố giúp sinh viên có bằng chứng cụ thể để trình bày với ban giám hiệu và giải thích rõ vấn đề họ gặp phải."
+      },
+      {
+        "input": "Nếu sinh viên có khiếu nại về điểm thi thì cần làm gì để gửi đơn?",
+        "output": "Sinh viên cần viết đơn gửi về Phòng Khảo thí và ĐBCL theo lịch phúc tra được công bố để nêu lên những thắc mắc và khiếu nại về điểm thi của mình."
+      },
+      {
+        "input": "Ai là người chịu trách nhiệm giải quyết khiếu nại và thắc mắc về điểm thi từ phía sinh viên?",
+        "output": "Bộ môn là đơn vị chịu trách nhiệm báo cáo kết quả giải quyết khiếu nại và thắc mắc về điểm thi cho bộ phận thanh tra, Phòng Hành chính-Tổng hợp, Phòng Khảo thí và ĐBCL để cập nhật thông tin về kết quả khiếu nại cho sinh viên/học viên."
+      },
+      {
+        "input": "Sinh viên sẽ biết kết quả giải quyết khiếu nại về điểm thi của mình khi nào?",
+        "output": "Sinh viên sẽ biết kết quả giải quyết khiếu nại sau khi bộ môn báo cáo kết quả cho các đơn vị liên quan và cập nhật thông tin cho sinh viên."
+      },
+      {
+        "input": "Lịch phúc tra khiếu nại điểm thi được thông báo ở đâu?",
+        "output": "Lịch phúc tra khiếu nại điểm thi được Phòng Khảo thí và ĐBCL công bố để sinh viên nắm rõ thời gian và gửi đơn khiếu nại đúng quy định."
+      },
+      {
+        "input": "Cán bộ, giảng viên vi phạm quy định trong kỳ thi kết thúc học phần sẽ phải đối mặt với những hình thức kỷ luật nào?",
+        "output": "Tuỳ thuộc vào mức độ vi phạm, cán bộ, giảng viên sẽ bị xử lý kỷ luật, có thể là khiển trách, cảnh cáo, hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật."
+      },
+      {
+        "input": "Cán bộ, giảng viên có thể bị khiển trách trong trường hợp nào?",
+        "output": "Các hành vi có thể khiến cán bộ, giảng viên bị khiển trách bao gồm ra đề thi không phù hợp, không đảm bảo điều kiện dự thi cho sinh viên, để cho sinh viên sử dụng thiết bị ghi âm, điện thoại di động trong phòng thi, hoặc chấm thi sai sót."
+      },
+      {
+        "input": "Cán bộ, giảng viên sẽ bị cảnh cáo trong trường hợp nào?",
+        "output": "Cán bộ, giảng viên có thể bị cảnh cáo khi ra đề thi sai hoặc trực tiếp giải bài và hướng dẫn sinh viên trong quá trình thi."
+      },
+      {
+        "input": "Em muốn hỏi trường mình có bao nhiêu loại học bổng?",
+        "output": "Trường mình có 3 mức học bổng là Khá, Giỏi và Xuất sắc nha!"
+      },
+      {
+        "input": "Học bổng Khá có giá trị như thế nào ạ?",
+        "output": "Học bổng loại Khá có giá trị bằng 100% mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+      },
+      {
+        "input": "Học bổng Giỏi có giá trị như nào vậy ạ?",
+        "output": "Học bổng mức Giỏi có giá trị bằng 110% (một trăm mười phần trăm) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ."
+      },
+      {
+        "input": "Học bổng Xuất sắc có giá trị ra sao?",
+        "output": "Học bổng loại Xuất sắc có giá trị bằng 120% (một trăm hai mươi phần tram) mức học phí tín chỉ đại học nhân với số tín chỉ tính học bổng của học kỳ nhé!"
+      },
+      {
+        "input": "Ai có thể được xét cấp học bổng vậy?",
+        "output": "Sinh viên đang theo học trong thời gian thiết kế cho chương trình đào tạo của ngành đào tạo thứ nhất ở bậc đại học, liên thông cao đẳng lên đại học hình thức chính quy tại trường Đại học Thủy lợi sẽ được xét cấp học bổng em nhé!"
+      },
+      {
+        "input": "Làm sao để em có thể nhận được học bổng Khá?",
+        "output": "Học bổng mức Khá sẽ dành cho sinh viên có điểm trung bình học tập và điểm rèn luyện đều đạt loại khá trở lên trong kỳ xét học bổng KKHT nhé!"
+      },
+      {
+        "input": "Nếu em có điểm trung bình học tập loại Khá thì có được học bổng không?",
+        "output": "Ngoài điểm trung bình học tập đạt loại Khá thì em sẽ cần điểm rèn luyện cũng đạt loại Khá trở lên để có thể đủ điều kiện xét học bổng mức Khá nha!"
+      },
+      {
+        "input": "Để đạt được học bổng Giỏi thì em cần làm gì ạ?",
+        "output": "Nếu muốn đạt học bổng mức Giỏi, em sẽ cần điểm trung bình học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại Tốt trở lên trong kì xét học bổng nhé!"
+      },
+      {
+        "input": "Tại sao sinh viên/học viên cần chụp ảnh lại sự cố khi gặp vấn đề trong quá trình thi?",
+        "output": "Chụp ảnh sự cố giúp sinh viên/học viên có bằng chứng rõ ràng để trình bày với ban giám hiệu và làm rõ vấn đề họ gặp phải."
+      },
+      {
+        "input": "Sinh viên/học viên cần làm gì khi có khiếu nại về điểm thi?",
+        "output": "Sinh viên/học viên cần viết đơn gửi về Phòng Khảo thí và ĐBCL theo lịch phúc tra được công bố để nêu lên những thắc mắc và khiếu nại về điểm thi."
+      },
+      {
+        "input": "Ai là người chịu trách nhiệm giải quyết khiếu nại và thắc mắc về điểm thi từ phía sinh viên/học viên?",
+        "output": "Bộ môn là đơn vị chịu trách nhiệm báo cáo kết quả giải quyết khiếu nại và thắc mắc về điểm thi cho bộ phận thanh tra, Phòng Hành chính-Tổng hợp, Phòng Khảo thí và ĐBCL để cập nhật thông tin về kết quả khiếu nại cho sinh viên/học viên."
+      },
+      {
+        "input": "Khi nào sinh viên/học viên sẽ biết kết quả giải quyết khiếu nại về điểm thi?",
+        "output": "Sinh viên/học viên sẽ biết kết quả giải quyết khiếu nại sau khi bộ môn báo cáo kết quả cho các đơn vị liên quan và cập nhật thông tin cho sinh viên/học viên."
+      },
+      {
+        "input": "Lịch phúc tra khiếu nại điểm thi được công bố ở đâu?",
+        "output": "Lịch phúc tra khiếu nại điểm thi được Phòng Khảo thí và ĐBCL công bố để sinh viên/học viên nắm rõ thời gian và gửi đơn khiếu nại đúng quy định."
+      },
+      {
+        "input": "Cán bộ, giảng viên vi phạm quy định trong kỳ thi sẽ bị xử lý như thế nào?",
+        "output": "Tuỳ thuộc vào mức độ vi phạm, cán bộ, giảng viên sẽ bị xử lý kỷ luật, có thể là khiển trách, cảnh cáo, hạ bậc lương, hạ ngạch, cách chức, chuyển làm công tác khác, buộc thôi việc, hoặc đề nghị truy tố trước pháp luật."
+      },
+      {
+        "input": "Cán bộ, giảng viên có thể bị khiển trách trong trường hợp nào?",
+        "output": "Các hành vi có thể khiến cán bộ, giảng viên bị khiển trách bao gồm ra đề thi không phù hợp, không đảm bảo điều kiện dự thi cho sinh viên, để cho sinh viên sử dụng thiết bị ghi âm, điện thoại di động trong phòng thi, hoặc chấm thi sai sót."
+      },
+      {
+        "input": "Cán bộ, giảng viên sẽ bị cảnh cáo trong trường hợp nào?",
+        "output": "Cán bộ, giảng viên có thể bị cảnh cáo khi ra đề thi sai hoặc trực tiếp giải bài và hướng dẫn sinh viên trong quá trình thi."
+      },
+      {
+        "input": "Cho em hỏi em có được học khiêu vũ trên trường không ạ?",
+        "output": "Có nhé! Em có thể đăng kí môn Khiêu vũ thể thao nếu em ưa thích khiêu vũ nha!"
+      },
+      {
+        "input": "Cho em hỏi GDTC có môn Golf không ạ?",
+        "output": "GDTC của nhà trường hiện tại đã có môn Golf em nhé, môn đã được bổ sung từ năm 2021-2022"
+      },
+      {
+        "input": "Cho em hỏi tập gym có tính vào GDTC không ạ?",
+        "output": "Có. Nếu em ưa thích tập gym có thể đăng kí môn thể hình của GDTC"
+      },
+      {
+        "input": "Em nghe anh chị khoá trước bảo bắt buộc phải biết bơi mới hoàn thành GDTC đúng không ạ?",
+        "output": "Nếu em không biết bơi thì hoàn toàn có thể chọn sang học phần GDTC khác nha, môn bơi đã được điều chỉnh từ môn bắt buộc thành môn tự chọn"
+      },
+      {
+        "input": "Cho em hỏi học bơi trường mình có khó qua môn không ạ?",
+        "output": "Nếu như em chăm chỉ luyện tập thì hoàn toàn có thể qua môn nhé, kĩ năng bơi là 1 kĩ năng quan trọng của cuộc sống nên nếu em chưa biết bơi thì hoàn toàn có thể lựa chọn bộ môn này nha"
+      },
+      {
+        "input": "Em rất thích cầu lông không biết trường mình có môn học cầu lông không ạ?",
+        "output": "GDTC của nhà trường có môn cầu lông nha, nếu đam mê em có thể đăng kí môn cầu lông"
+      },
+      {
+        "input": "Thể lực của em không tốt thì nên chọn môn GDTC nào ạ?",
+        "output": "Em hoàn toàn có thể đăng kí môn Cờ vua thay cho 1 môn GDTC vận động nha"
+      },
+      {
+        "input": "Cho em hỏi em cần học tổng cộng là bao nhiêu môn GDTC ạ?",
+        "output": "Bạn sẽ cần tích luỹ tối thiểu 5 tín chỉ cho chương trình môn học GDTC nhé"
+      },
+      {
+        "input": "Làm thế nào để đăng kí được học phần GDTC chuyên sâu ạ?",
+        "output": "Em sẽ cần đáp ứng được các yêu cầu về thể lực, thể hình, kỹ năng của môn GDTC chuyên sâu tuyển chọn.Tại học kỳ đầu tiên năm thứ nhất, em có thể đăng ký tự nguyện với Bộ môn GDTC (qua giảng viên giảng dạy môn học GDTC)."
+      },
+      {
+        "input": "Cho em hỏi điều kiện để được miễn học GDTC các môn liên quan đến vận động là gì ạ?",
+        "output": "Em sẽ được miễn học GDTC nếu em bị khuyết tật, dị tật bẩm sinh, bị các bệnh tim mạch, không có khả năng vận động với khối lượng và cường độ vận động lớn."
+      },
+      {
+        "input": "Nếu em được miễn học các môn GDTC vận động thì sẽ không cần hoàn thành chương trình GDTC nữa đúng không ạ?",
+        "output": "Em vẫn sẽ cần hoàn thành chương trình GDTC nhé nhưng em sẽ học các nội dung của môn học phù hợp với sức khỏe và thể chất của bản thân hoặc học môn học không liên quan đến vận động; đồng thời việc kiểm tra, đánh giá các môn học sẽ được vận dụng phù hợp."
+      },
+      {
+        "input": "Cho em hỏi làm thế nào để làm thủ tục xin miễn học tất cả các môn GDTC ạ?",
+        "output": "Em cần nộp tại Phòng Đào tạo: đơn xin miễn học các môn học GDTC, bảng điểm các môn học GDTC và bản photo công chứng Chứng chỉ GDTC (nếu có) tại đầu khoá học nhé."
+      },
+      {
+        "input": "Cho em hỏi thủ tục xin miễn học các môn GDTC liên quan đến vận động bao gồm những gì ạ?",
+        "output": "Thủ tục xin miễn học các môn GDTC liên quan đến vận động sẽ cần đơn (có ý kiến của Y tế trường) và Giấy chứng nhận về khuyết tật, dị tật bẩm sinh hoặc Hồ sơ bệnh án của Bệnh viện cấp tỉnh, thành phố và tương đương tại Phòng Đào tạo để xem xét. "
+      },
+      {
+        "input": "Cho em hỏi điều kiện để được miễn tất cả các môn học GDTC là gì ạ?",
+        "output": "Sinh viên đã tốt nghiệp trình độ đại học tại cơ sở giáo dục đại học khác hoặc sinh viên tốt nghiệp hệ cao đẳng đã được cấp chứng chỉ GDTC hệ đại học chính quy khi tiếp tục học liên thông lên đại học tại Trường Đại học Thủy lợi: được  miễn học các môn học GDTC và công nhận hoàn thành chương trình môn học GDTC nhé."
+      },
+      {
+        "input": "Thủ tục xin miễn tất cả các môn học GDTC cần chuẩn bị những gì ạ?",
+        "output": "Đầu khóa học, sinh viên nộp tại Phòng Đào tạo: đơn xin miễn học các môn học GDTC, bảng điểm các môn học GDTC và bản photo công chứng Chứng chỉ GDTC (nếu có)."
+      },
+      {
+        "input": "Em bị phát hiện thi hộ thì sẽ bị kỉ luật như thế nào ạ?",
+        "output": "Đối với trường hợp thi hộ hoặc nhờ người khác thi hộ, hình thức kỉ luật sẽ là đình chỉ học 1 năm đối với lần đầu"
+      },
+      {
+        "input": "Nếu bị phát hiện thi hộ lần thứ 2 thì em sẽ bị kỉ luật như thế nào ạ?",
+        "output": "Đối với các trường hợp thi hộ hoặc nhờ người khác thi hộ, hình thức sẽ là Đình chỉ học đối với lần thứ 2 vi phạm"
+      },
+      {
+        "input": "Em chụp đề gửi cho người ngoài nhờ giải hộ thì hình thức kỉ luật sẽ là gì ạ?",
+        "output": "Hình thức kỉ luật đối với hành vi chụp đề gửi ra ngoài sẽ là mức Cảnh Cáo, và sẽ bị trừ 50% số điểm thi của bài thi kết thúc học phần môn học đó, vì vậy hãy ôn tập thật tốt để có kết quả thi tốt nhé! "
+      }
+    
+  
+  
 ]
