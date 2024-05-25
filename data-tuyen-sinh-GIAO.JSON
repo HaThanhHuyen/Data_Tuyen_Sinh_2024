@@ -3106,7 +3106,7 @@
     },
     {
         "input": "Em muốn tham quan trường Đại học Thủy lợi, anh/chị có thể cho em biết thông tin về địa chỉ và thời gian tham quan được không ạ?",
-        "output": "Trường Đại học Thủy lợi có hai cơ sở: Cơ sở 1 tại 175 Tây Sơn, Đống Đa, Hà Nội và Cơ sở 2 tại  Liêm Tuyền, Phúc Thọ, Hà Nội. Em có thể tham quan trường vào các ngày trong tuần, giờ hành chính.  Em nên liên hệ trước với phòng Công tác Sinh viên để được hướng dẫn cụ thể."
+        "output": "Trường Đại học Thủy lợi có cơ sở tại 175 Tây Sơn, Đống Đa, Hà Nội. Em có thể tham quan trường vào các ngày trong tuần, giờ hành chính.  Em nên liên hệ trước với phòng Công tác Sinh viên để được hướng dẫn cụ thể."
     },
     {
         "input": "Em muốn biết thêm về các câu lạc bộ, đội nhóm dành cho sinh viên chương trình tiên tiến, anh/chị có thể giới thiệu cho em một số câu lạc bộ tiêu biểu được không ạ?",
@@ -3151,5 +3151,74 @@
     {
         "input": "Ngoài những thông tin anh/chị đã chia sẻ, em còn muốn tìm hiểu thêm về chương trình tiên tiến, em có thể liên hệ với ai?",
         "output": "Em có thể liên hệ trực tiếp với Ban Tuyển sinh, phòng Đào tạo, Trung tâm Đào tạo Quốc tế của trường Đại học Thủy lợi qua số điện thoại hoặc email được công bố trên website của trường.  Chúc em sớm trở thành sinh viên của trường!"
+    },
+    {
+        "input": "Chào anh/chị, em muốn hỏi về điều kiện tiếng Anh để được xét vào chương trình tiên tiến của trường?",
+        "output": "Chào em! Để xét vào chương trình tiên tiến, em cần đạt IELTS 5.5 hoặc tương đương. Em có chứng chỉ tiếng Anh nào chưa?"
+    },
+    {
+        "input": "Em có IELTS 5.0, vậy em có được xét vào chương trình tiên tiến không?",
+        "output": "Em đạt IELTS 5.0, em sẽ được miễn một số học phần tiếng Anh ở năm thứ nhất và được xét chuyển vào năm thứ hai của chương trình tiên tiến."
+    },
+    {
+        "input": "Em chưa có chứng chỉ tiếng Anh, vậy em phải làm gì để được học chương trình tiên tiến?",
+        "output": "Em sẽ được xếp lớp học tiếng Anh ở năm thứ nhất dựa trên kết quả môn tiếng Anh của kì thi Trung học phổ thông."
+    },
+    {
+        "input": "Em học chương trình tiên tiến, vậy em phải đạt trình độ tiếng Anh như thế nào?",
+        "output": "Kết thúc năm thứ nhất em phải đạt IELTS 4.5, kết thúc năm thứ hai phải đạt IELTS 5.5 hoặc tương đương."
+    },
+    {
+        "input": "Nếu em không đạt yêu cầu về trình độ tiếng Anh thì sao?",
+        "output": "Em sẽ bị cảnh báo kết quả học tập và có thể bị loại khỏi chương trình tiên tiến."
+    },
+    {
+        "input": "Em muốn biết thêm về chương trình tiên tiến, em có thể liên hệ với ai?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế để được hỗ trợ."
+    },
+    {
+        "input": "Chào anh/chị, em muốn hỏi về điều kiện tiếng Anh để được xét vào chương trình tiên tiến của trường?",
+        "output": "Chào em! Để xét vào chương trình tiên tiến, em cần đạt IELTS 5.5 hoặc tương đương. Em có chứng chỉ tiếng Anh nào chưa?"
+    },
+    {
+        "input": "Em có IELTS 5.0, vậy em có được xét vào chương trình tiên tiến không?",
+        "output": "Em đạt IELTS 5.0, em sẽ được miễn một số học phần tiếng Anh ở năm thứ nhất và được xét chuyển vào năm thứ hai của chương trình tiên tiến."
+    },
+    {
+        "input": "Em chưa có chứng chỉ tiếng Anh, vậy em phải làm gì để được học chương trình tiên tiến?",
+        "output": "Em sẽ được xếp lớp học tiếng Anh ở năm thứ nhất dựa trên kết quả môn tiếng Anh của kì thi Trung học phổ thông."
+    },
+    {
+        "input": "Em học chương trình tiên tiến, vậy em phải đạt trình độ tiếng Anh như thế nào?",
+        "output": "Kết thúc năm thứ nhất em phải đạt IELTS 4.5, kết thúc năm thứ hai phải đạt IELTS 5.5 hoặc tương đương."
+    },
+    {
+        "input": "Nếu em không đạt yêu cầu về trình độ tiếng Anh thì sao?",
+        "output": "Em sẽ bị cảnh báo kết quả học tập và có thể bị loại khỏi chương trình tiên tiến."
+    },
+    {
+        "input": "Em muốn biết thêm về chương trình tiên tiến, em có thể liên hệ với ai?",
+        "output": "Em có thể liên hệ với Phòng Đào tạo hoặc Trung tâm Đào tạo quốc tế để được hỗ trợ."
+    },
+    {
+        "input": "Chương trình tiên tiến có gì khác so với chương trình đào tạo thông thường?",
+        "output": "Chương trình tiên tiến có nội dung đào tạo nâng cao hơn, với giáo trình tiếng Anh và phương pháp giảng dạy tiên tiến."
+    },
+    {
+        "input": "Em muốn tìm hiểu thêm về nội dung đào tạo của chương trình tiên tiến, em có thể xem ở đâu?",
+        "output": "Em có thể xem thông tin trên website của trường hoặc liên hệ với Phòng Đào tạo để được tư vấn."
+    },
+    {
+        "input": "Em muốn biết có những ngành nào đào tạo theo chương trình tiên tiến?",
+        "output": "Em có thể xem danh sách các ngành đào tạo theo chương trình tiên tiến trên website của trường."
+    },
+    {
+        "input": "Học phí của chương trình tiên tiến có khác so với chương trình đào tạo thông thường không?",
+        "output": "Học phí của chương trình tiên tiến có thể cao hơn so với chương trình đào tạo thông thường."
+    },
+    {
+        "input": "Trường có tổ chức thi chứng chỉ tiếng Anh quốc tế không ạ?",
+        "output": "Hiện tại, trường có tổ chức thi chứng chỉ Tiếng Anh quốc tế nha. Em có thể tham khảo thông tin chi tiết trên website của trường hoặc liên hệ với phòng Đào tạo để được giải đáp thêm."
     }
+      
   ]
